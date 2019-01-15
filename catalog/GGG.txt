@@ -1,0 +1,87 @@
+GGG 201A—Advanced Genetic Analysis (5) Lecture/Discussion—5 hours. Prerequisite(s): BIS 101; STA 100; Or the equivalent, graduate standing. Fundamentals of genetic analysis and chromosome structure using model organisms including mutation, transmission, complementation, suppression, and enhancement as well as epigenetic phenomena at the whole organism and molecular levels. Effective: 2002 Fall Quarter.
+
+GGG 201B—Genomics (5) Discussion—2 hours; Lecture—3 hours. Prerequisite(s): GGG 201A; GGG 201C; Or equivalents that provide a basic understanding of genetics and molecular biology. Class limited to 40 students; priority to Genetics Graduate Group students. Prokaryotic and eukaryotic genomes. Experimental strategies and analytical challenges of modern genomics research and the theory and mechanics of data analysis. Structural, functional, and comparative genomics. Related issues in bioinformatics. Effective: 2004 Spring Quarter.
+
+GGG 201C—Molecular Genetic Mechanisms in Disease (4) Lecture/Discussion—4 hours. Prerequisite(s): BIS 101; Or the equivalent. Pass One restricted to graduate students in genetics, microbiology or biochemistry and molecular biology graduate groups. Exploration of how basic mechanisms of molecular biology contribute to health and disease. Diseases related to animals, plants, and microbes will highlight fundamental concepts in the assembly, function and regulation of DNA, RNA, and protein. Effective: 2012 Fall Quarter.
+
+GGG 201D—Quantitative and Population Genetics (5) Lecture—5 hours. Prerequisite(s): GGG 201A; or Consent of Instructor. Basic concepts of quantitative and population genetics including gene and genotypic frequencies, multiple factor hypothesis, phenotypic and genotypic values, heritability, selection, genetic variation, the detection of quantitative trait loci and evolution in populations. Experimental and analytical methods. Effective: 2002 Fall Quarter.
+
+GGG 205—Molecular Genetics Laboratory (5) Laboratory—15 hours. Prerequisite(s): BIS 101 (can be concurrent); Or the equivalent, enrolled in Genetics Graduate Group. Students will conduct experiments in molecular genetics laboratories. Individual research problems will emphasize experimental design, experience with methodologies, and data interpretation. May be repeated up to three times for credit. May be repeated up to 3 time(s). (S/U grading only.) Effective: 1997 Winter Quarter.
+
+GGG 210—Horizontal Gene Transfer (3) Lecture/Discussion—3 hours. Prerequisite(s): Background in basic microbiology and genetics required; introductory course in molecular biology, biotechnology and microbial and animal/plant genetics recommended. Transfer of genes between unrelated organisms in nature. Dissemination of foreign DNA from genetically engineered organisms, including plants and animals. Mechanisms by which genes are transferred horizontally, and between kingdoms. Effective: 1999 Fall Quarter.
+
+GGG 211—Concepts in Human Genetics and Genomics (3) Lecture/Discussion—3 hours. Prerequisite(s): GGG 201A; Or equivalent; GGG 201B and GGG 201C or equivalent are recommended. Pass One restricted to graduate students enrolled in the Human Genetics Focus Group; Pass Two restricted to graduate students enrolled in Genetics Graduate Group; after that, open enrollment for graduate students up to 12 students, then undergraduates. Human genomic organization; genetic structure of populations; positional cloning, application of linkage, association, and haplotypes; quantitative trait loci analyses; integrative genetic studies of gene expression; DNA repair mechanisms in genetic disease; mutation analyses; epigenetics; mitochondrial disease; gene manipulation and therapy. Effective: 2004 Winter Quarter.
+
+GGG 220—Genomics and Biotechnology of Plant Improvement (3) Lecture—3 hours. Prerequisite(s): BIS 101; Or equivalent. Integration of modern biotechnology and classical plant breeding including the impact of structural, comparative and functional genomics on gene discovery, characterization and exploitation. Also covers molecular markers, plant transformation, hybrid production, disease resistance, and novel output traits. (Pland Sciences 220.) Effective: 2002 Winter Quarter.
+
+GGG 225—Gene and Cellular Therapies (3) Lecture/Discussion—3 hours. Gene therapy from basic concepts to clinical applications. Topics include the human genome and genetic variation, genetic diseases, methods to manipulate gene expression, viral and non-viral delivery vectors, history and progress of gene therapy, case studies, and ethical issues. (Pharmacology & Toxicology 225.) Effective: 2017 Winter Quarter.
+
+GGG 250—Functional Genomics: From Bench to Bedside (3) Lecture/Discussion—3 hours. Prerequisite(s): GGG 201C; MCB 214; Or equivalent. Functional genomics (how genetic variation and epigenomics affect gene expression), with an emphasis on clinical relevance and applications. Topics include genetic variation and human disease, cancer therapeutics, and biomarker discovery. (Pharmacology & Toxicology 250.) Effective: 2015 Spring
+
+GGG 290—Seminar in Evolutionary, Developmental and Population Genetics (1) Seminar—1 hour. Topics of current interest in evolutionary, population, and developmental genetics. May be repeated for credit. (S/U grading only.) Effective: 2014 Fall Quarter.
+
+GGG 290A—Graduate Student Conference in Genetics (1) Conference—1 hour. Restricted to Genetics Graduate Group students. Student-given seminars on topics in genetics, with critiques by instructor and peers. May be repeated for credit. (S/U grading only.) Effective: 2012 Fall Quarter.
+
+GGG 291—Seminar in History of Genetics (2) Seminar—2 hours. Prerequisite(s): BIS 101 The development of modern genetic theories beginning with Mendel. Effective: 1997 Winter Quarter.
+
+GGG 292—Seminar in Genomics and Epigenomics (1) Seminar—1 hour. Topics of current interest in genomics and epigenomics. May be repeated for credit. (S/U grading only.) Effective: 2014 Winter Quarter.
+
+GGG 293—Seminar in Animal Genetics (1-3) Seminar—1-3 hours. Prerequisite(s): GGG 201A; or Consent of Instructor. Emphasis on recent advances in the field of animal genetics, ranging from quantitative genetics to molecular biology as it relates to animals. Effective: 1997 Winter Quarter.
+
+GGG 294—Seminar in Human Genetics (2) Seminar—2 hours. Prerequisite(s): GGG 201A; and Consent of Instructor. Topics of current interest in human genetics and genomics. May be repeated up to 5 time(s) topic differs. Effective: 2004 Fall
+
+GGG 295—Seminar in Molecular Genetics (1-3) Seminar—1-3 hours. Prerequisite(s): GGG 201A; or Consent of Instructor. Topics of current interest related to the structure, modification and expression of genes. Effective: 1997 Winter
+
+GGG 296—Scientific Professionalism and Integrity (2) Lecture—1 hour; Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Review of basic skills required of contemporary scientists. Topics include scientific conduct, manuscript preparation, grant writing, seminar presentations, and time management. Emphasis on responsibilities of scientists to factually and thoughtfully communicate results. (P/NP grading only.) Effective: 2017 Spring Quarter.
+
+GGG 297—Seminar in Plant Genetics (1-3) Seminar—1-3 hours. Prerequisite(s): GGG 201A; or Consent of Instructor. Current topics in plant genetics will be examined in student-conducted seminars and discussion format. The integration of molecular, organismal and population genetics to address questions in plant biology will be emphasized. Effective: 1997 Winter Quarter.
+
+GGG 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study of selected topics in genetics. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+GGG 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+GGG 300—Methods in Teaching Genetics (1-3) Lecture/Discussion; Variable. Prerequisite(s): Consent of Instructor. Graduate standing. Practical experience in the methods and problems of teaching genetics. Includes analysis of texts and supporting material, discussion of teaching techniques, preparing for and conducting discussion or laboratory sections, formulating examinations under supervision of instructor. May be repeated up to 3 time(s) or 9 units if teaching in different genetics related course. (S/U grading only.) Effective:
+
+GGG 201A—Advanced Genetic Analysis (5) Lecture/Discussion—5 hours. Prerequisite(s): BIS 101; STA 100; Or the equivalent, graduate standing. Fundamentals of genetic analysis and chromosome structure using model organisms including mutation, transmission, complementation, suppression, and enhancement as well as epigenetic phenomena at the whole organism and molecular levels. Effective: 2002 Fall Quarter.
+
+GGG 201B—Genomics (5) Discussion—2 hours; Lecture—3 hours. Prerequisite(s): GGG 201A; GGG 201C; Or equivalents that provide a basic understanding of genetics and molecular biology. Class limited to 40 students; priority to Genetics Graduate Group students. Prokaryotic and eukaryotic genomes. Experimental strategies and analytical challenges of modern genomics research and the theory and mechanics of data analysis. Structural, functional, and comparative genomics. Related issues in bioinformatics. Effective: 2004 Spring Quarter.
+
+GGG 201C—Molecular Genetic Mechanisms in Disease (4) Lecture/Discussion—4 hours. Prerequisite(s): BIS 101; Or the equivalent. Pass One restricted to graduate students in genetics, microbiology or biochemistry and molecular biology graduate groups. Exploration of how basic mechanisms of molecular biology contribute to health and disease. Diseases related to animals, plants, and microbes will highlight fundamental concepts in the assembly, function and regulation of DNA, RNA, and protein. Effective: 2012 Fall Quarter.
+
+GGG 201D—Quantitative and Population Genetics (5) Lecture—5 hours. Prerequisite(s): GGG 201A; or Consent of Instructor. Basic concepts of quantitative and population genetics including gene and genotypic frequencies, multiple factor hypothesis, phenotypic and genotypic values, heritability, selection, genetic variation, the detection of quantitative trait loci and evolution in populations. Experimental and analytical methods. Effective: 2002 Fall Quarter.
+
+GGG 205—Molecular Genetics Laboratory (5) Laboratory—15 hours. Prerequisite(s): BIS 101 (can be concurrent); Or the equivalent, enrolled in Genetics Graduate Group. Students will conduct experiments in molecular genetics laboratories. Individual research problems will emphasize experimental design, experience with methodologies, and data interpretation. May be repeated up to three times for credit. May be repeated up to 3 time(s). (S/U grading only.) Effective: 1997 Winter Quarter.
+
+GGG 210—Horizontal Gene Transfer (3) Lecture/Discussion—3 hours. Prerequisite(s): Background in basic microbiology and genetics required; introductory course in molecular biology, biotechnology and microbial and animal/plant genetics recommended. Transfer of genes between unrelated organisms in nature. Dissemination of foreign DNA from genetically engineered organisms, including plants and animals. Mechanisms by which genes are transferred horizontally, and between kingdoms. Effective: 1999 Fall Quarter.
+
+GGG 211—Concepts in Human Genetics and Genomics (3) Lecture/Discussion—3 hours. Prerequisite(s): GGG 201A; Or equivalent; GGG 201B and GGG 201C or equivalent are recommended. Pass One restricted to graduate students enrolled in the Human Genetics Focus Group; Pass Two restricted to graduate students enrolled in Genetics Graduate Group; after that, open enrollment for graduate students up to 12 students, then undergraduates. Human genomic organization; genetic structure of populations; positional cloning, application of linkage, association, and haplotypes; quantitative trait loci analyses; integrative genetic studies of gene expression; DNA repair mechanisms in genetic disease; mutation analyses; epigenetics; mitochondrial disease; gene manipulation and therapy. Effective: 2004 Winter Quarter.
+
+GGG 220—Genomics and Biotechnology of Plant Improvement (3) Lecture—3 hours. Prerequisite(s): BIS 101; Or equivalent. Integration of modern biotechnology and classical plant breeding including the impact of structural, comparative and functional genomics on gene discovery, characterization and exploitation. Also covers molecular markers, plant transformation, hybrid production, disease resistance, and novel output traits. (Pland Sciences 220.) Effective: 2002 Winter Quarter.
+
+GGG 225—Gene and Cellular Therapies (3) Lecture/Discussion—3 hours. Gene therapy from basic concepts to clinical applications. Topics include the human genome and genetic variation, genetic diseases, methods to manipulate gene expression, viral and non-viral delivery vectors, history and progress of gene therapy, case studies, and ethical issues. (Pharmacology & Toxicology 225.) Effective: 2017 Winter Quarter.
+
+GGG 250—Functional Genomics: From Bench to Bedside (3) Lecture/Discussion—3 hours. Prerequisite(s): GGG 201C; MCB 214; Or equivalent. Functional genomics (how genetic variation and epigenomics affect gene expression), with an emphasis on clinical relevance and applications. Topics include genetic variation and human disease, cancer therapeutics, and biomarker discovery. (Pharmacology & Toxicology 250.) Effective: 2015 Spring
+
+GGG 290—Seminar in Evolutionary, Developmental and Population Genetics (1) Seminar—1 hour. Topics of current interest in evolutionary, population, and developmental genetics. May be repeated for credit. (S/U grading only.) Effective: 2014 Fall Quarter.
+
+GGG 290A—Graduate Student Conference in Genetics (1) Conference—1 hour. Restricted to Genetics Graduate Group students. Student-given seminars on topics in genetics, with critiques by instructor and peers. May be repeated for credit. (S/U grading only.) Effective: 2012 Fall Quarter.
+
+GGG 291—Seminar in History of Genetics (2) Seminar—2 hours. Prerequisite(s): BIS 101 The development of modern genetic theories beginning with Mendel. Effective: 1997 Winter Quarter.
+
+GGG 292—Seminar in Genomics and Epigenomics (1) Seminar—1 hour. Topics of current interest in genomics and epigenomics. May be repeated for credit. (S/U grading only.) Effective: 2014 Winter Quarter.
+
+GGG 293—Seminar in Animal Genetics (1-3) Seminar—1-3 hours. Prerequisite(s): GGG 201A; or Consent of Instructor. Emphasis on recent advances in the field of animal genetics, ranging from quantitative genetics to molecular biology as it relates to animals. Effective: 1997 Winter Quarter.
+
+GGG 294—Seminar in Human Genetics (2) Seminar—2 hours. Prerequisite(s): GGG 201A; and Consent of Instructor. Topics of current interest in human genetics and genomics. May be repeated up to 5 time(s) topic differs. Effective: 2004 Fall
+
+GGG 295—Seminar in Molecular Genetics (1-3) Seminar—1-3 hours. Prerequisite(s): GGG 201A; or Consent of Instructor. Topics of current interest related to the structure, modification and expression of genes. Effective: 1997 Winter
+
+GGG 296—Scientific Professionalism and Integrity (2) Lecture—1 hour; Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Review of basic skills required of contemporary scientists. Topics include scientific conduct, manuscript preparation, grant writing, seminar presentations, and time management. Emphasis on responsibilities of scientists to factually and thoughtfully communicate results. (P/NP grading only.) Effective: 2017 Spring Quarter.
+
+GGG 297—Seminar in Plant Genetics (1-3) Seminar—1-3 hours. Prerequisite(s): GGG 201A; or Consent of Instructor. Current topics in plant genetics will be examined in student-conducted seminars and discussion format. The integration of molecular, organismal and population genetics to address questions in plant biology will be emphasized. Effective: 1997 Winter Quarter.
+
+GGG 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study of selected topics in genetics. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+GGG 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+GGG 300—Methods in Teaching Genetics (1-3) Lecture/Discussion; Variable. Prerequisite(s): Consent of Instructor. Graduate standing. Practical experience in the methods and problems of teaching genetics. Includes analysis of texts and supporting material, discussion of teaching techniques, preparing for and conducting discussion or laboratory sections, formulating examinations under supervision of instructor. May be repeated up to 3 time(s) or 9 units if teaching in different genetics related course. (S/U grading only.) Effective:

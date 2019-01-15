@@ -1,0 +1,55 @@
+BPH 200A—Current Techniques in Biophysics (3) Lecture—3 hours. Prerequisite(s): BIS 102; CHE 110A; Or equivalents. Current Technqiues in Biophysics. Topics in 200A include mathematical methods, modeling, mass spectrometry, stochastic process, scanning probe microscopy, electron microscopy, fluorescence, membrane diffusion/mechanics, and single particle tracking. (S/U grading only.) Effective: 2009 Winter
+
+BPH 200B—Current Techniques in Biophysics (3) Lecture—3 hours. Prerequisite(s): CHE 110A; BIS 102; Or equivalent of BIS 102. Current Techniques in Biophysics. Topics include protein folding, membrane structure and dynamics, Raman spectroscopy, fluorescence resonance energy transfer, time resolved fluorescence, quantum dot, fluorescence imaging,esr, high resolution nmr, and in vivo nmr. (S/U grading only.) Effective:
+
+BPH 200LA—Biophysics Laboratory (3) Laboratory—18 hours. Prerequisite(s): BPH 200 (can be concurrent) One five-week laboratory assignment in the research laboratory of a Biophysics Graduate Group faculty member. Individual research problems with emphasis on methodological/procedural experience and experimental design. May be repeated up to 4 time(s). Effective: 1997 Winter Quarter.
+
+BPH 200LB—Biophysics Laboratory (6) Laboratory. Prerequisite(s): BPH 200 (can be concurrent) Two fiveweek laboratory assignments in the research laboratories of Biophysics Graduate Group faculty members. Individual research problems with emphasis on methodological/procedural experience and experimental design. May be repeated up to 2 time(s). Effective: 1997 Winter Quarter.
+
+BPH 231—Biological Nuclear Magnetic Resonance (3) Lecture—3 hours. Prerequisite(s): MCB 221A; or Consent of Instructor. Or the equivalent. Principles and applications of magnetic resonance in biomedicine. Fundamental concepts and the biophysical basis for magnetic resonance applications in areas of tissue characterization/imaging, metabolic regulation, and cellular bioenergetics. (BCM 231.) Effective: 1997 Winter Quarter.
+
+BPH 241—Membrane Biology (3) Lecture—3 hours. Prerequisite(s): BIS 102; BIS 103; BIS 104; or Consent of Instructor. Advanced topics on membrane biochemistry and biophysics. Relationship of the unique properties of biomembranes to their roles in cell biology and physiology. Effective: 2017 Winter Quarter.
+
+BPH 255—Nanoscale Imaging for Molecular Medicine (3) Lecture/Discussion—3 hours. Prerequisite(s): BIM 202 highly recommended; graduate standing. Current and emerging technologies to visualize biological structures and processes at size scales = 100 nanometers – and their application towards the advancement of molecular medicine. Technologies include superresolution optical microscopy electron microscopy and tomography. Emphasis on quantitative imaging. (BIM 255.) Effective: 2017 Spring Quarter.
+
+BPH 271—Optical Methods in Biophysics (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): BIS 102; EAD 108B; CHE 110A; Or equivalents. Principal optical techniques used to study biological structures and their related functions. Specific optical techniques useful in the studies of protein-nucleic acid, proteinmembrane and protein-protein interactions. Biomedical applications of optical techniques. Effective: 2017 Spring Quarter.
+
+BPH 288—Living Matter: Physical Biology of the Cell (3) Lecture—3 hours. Open to any student possessing general background in any disciplines of physical or biological sciences and engineering. Introduction to the origin, maintenance, and regulation of the dynamic architecture of the cell, including cellular modes of organization, dynamics and energy dissipation, molecular transport, motility, regulation, and adaptability. (BIM 288 and EMS 288.) Effective: 2017 Winter
+
+BPH 290—Biophysics Seminar (1) Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Presentation of current research by experts in biophysics. May be repeated for credit. (S/U grading only.) Effective: 2004 Winter Quarter.
+
+BPH 290C—Research Conference in Biophysics (1) Discussion—1 hour. Prerequisite(s): BPH 299 (can be concurrent); Graduate standing in Biophysics and/or consent of instructor. Presentation and discussion of faculty and graduate-student research in biophysics. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+BPH 293—Introduction to Research Topics (1) Seminar—1 hour. Presentation of current research activities of the Biophysics Graduate Group faculty. Facilitation of students in developing their research interest, and promoting collegial interactions. May be repeated up to 1 time(s) if topics differ. (S/U grading only.) Effective: 2003
+
+BPH 298—Group Study (1-5) Variable—1-5 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+BPH 299—Research (1-12) Variable—3-36 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+BPH 200A—Current Techniques in Biophysics (3) Lecture—3 hours. Prerequisite(s): BIS 102; CHE 110A; Or equivalents. Current Technqiues in Biophysics. Topics in 200A include mathematical methods, modeling, mass spectrometry, stochastic process, scanning probe microscopy, electron microscopy, fluorescence, membrane diffusion/mechanics, and single particle tracking. (S/U grading only.) Effective: 2009 Winter
+
+BPH 200B—Current Techniques in Biophysics (3) Lecture—3 hours. Prerequisite(s): CHE 110A; BIS 102; Or equivalent of BIS 102. Current Techniques in Biophysics. Topics include protein folding, membrane structure and dynamics, Raman spectroscopy, fluorescence resonance energy transfer, time resolved fluorescence, quantum dot, fluorescence imaging,esr, high resolution nmr, and in vivo nmr. (S/U grading only.) Effective:
+
+BPH 200LA—Biophysics Laboratory (3) Laboratory—18 hours. Prerequisite(s): BPH 200 (can be concurrent) One five-week laboratory assignment in the research laboratory of a Biophysics Graduate Group faculty member. Individual research problems with emphasis on methodological/procedural experience and experimental design. May be repeated up to 4 time(s). Effective: 1997 Winter Quarter.
+
+BPH 200LB—Biophysics Laboratory (6) Laboratory. Prerequisite(s): BPH 200 (can be concurrent) Two fiveweek laboratory assignments in the research laboratories of Biophysics Graduate Group faculty members. Individual research problems with emphasis on methodological/procedural experience and experimental design. May be repeated up to 2 time(s). Effective: 1997 Winter Quarter.
+
+BPH 231—Biological Nuclear Magnetic Resonance (3) Lecture—3 hours. Prerequisite(s): MCB 221A; or Consent of Instructor. Or the equivalent. Principles and applications of magnetic resonance in biomedicine. Fundamental concepts and the biophysical basis for magnetic resonance applications in areas of tissue characterization/imaging, metabolic regulation, and cellular bioenergetics. (BCM 231.) Effective: 1997 Winter Quarter.
+
+BPH 241—Membrane Biology (3) Lecture—3 hours. Prerequisite(s): BIS 102; BIS 103; BIS 104; or Consent of Instructor. Advanced topics on membrane biochemistry and biophysics. Relationship of the unique properties of biomembranes to their roles in cell biology and physiology. Effective: 2017 Winter Quarter.
+
+BPH 255—Nanoscale Imaging for Molecular Medicine (3) Lecture/Discussion—3 hours. Prerequisite(s): BIM 202 highly recommended; graduate standing. Current and emerging technologies to visualize biological structures and processes at size scales = 100 nanometers – and their application towards the advancement of molecular medicine. Technologies include superresolution optical microscopy electron microscopy and tomography. Emphasis on quantitative imaging. (BIM 255.) Effective: 2017 Spring Quarter.
+
+BPH 271—Optical Methods in Biophysics (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): BIS 102; EAD 108B; CHE 110A; Or equivalents. Principal optical techniques used to study biological structures and their related functions. Specific optical techniques useful in the studies of protein-nucleic acid, proteinmembrane and protein-protein interactions. Biomedical applications of optical techniques. Effective: 2017 Spring Quarter.
+
+BPH 288—Living Matter: Physical Biology of the Cell (3) Lecture—3 hours. Open to any student possessing general background in any disciplines of physical or biological sciences and engineering. Introduction to the origin, maintenance, and regulation of the dynamic architecture of the cell, including cellular modes of organization, dynamics and energy dissipation, molecular transport, motility, regulation, and adaptability. (BIM 288 and EMS 288.) Effective: 2017 Winter
+
+BPH 290—Biophysics Seminar (1) Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Presentation of current research by experts in biophysics. May be repeated for credit. (S/U grading only.) Effective: 2004 Winter Quarter.
+
+BPH 290C—Research Conference in Biophysics (1) Discussion—1 hour. Prerequisite(s): BPH 299 (can be concurrent); Graduate standing in Biophysics and/or consent of instructor. Presentation and discussion of faculty and graduate-student research in biophysics. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+BPH 293—Introduction to Research Topics (1) Seminar—1 hour. Presentation of current research activities of the Biophysics Graduate Group faculty. Facilitation of students in developing their research interest, and promoting collegial interactions. May be repeated up to 1 time(s) if topics differ. (S/U grading only.) Effective: 2003
+
+BPH 298—Group Study (1-5) Variable—1-5 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+BPH 299—Research (1-12) Variable—3-36 hours. (S/U grading only.) Effective: 1997 Winter Quarter.

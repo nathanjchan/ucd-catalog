@@ -1,0 +1,281 @@
+TCS 001—Introduction to Technocultural Studies (4) Extensive Writing; Lecture—3 hours. Contemporary developments in the fine and performing arts, media arts, digital arts, and literature as they relate to technological and scientific practices. GE credit: AH, VL, WE. Effective: 2012 Fall Quarter.
+
+TCS 005—Media Archaeology (4) Lecture/Discussion—3 hours; Term Paper. Evolution of media technologies and practices beginning in the 19th Century as they relate to contemporary digital arts practices. Special focus on the reconstruction of the social and artistic possibilities of lost and obsolete media technologies. GE credit: AH, SE, VL, WE. Effective: 2012 Fall Quarter.
+
+TCS 007A—Technocultural Workshop; Digital Imaging (1) Seminar—1 hour. Workshops in technocultural digital skills; Digital Imaging. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 007B—Technocultural Workshop; Digital Video (1) Seminar—1 hour. Workshops in technocultural digital skills; Digital Video. GE credit: VL. Effective:
+
+TCS 007C—Technocultural Workshop; Digital Sound (1) Seminar—1 hour. Workshops in technocultural digital skills; Digital Sound. GE credit: VL. Effective:
+
+TCS 007D—Technocultural Workshop; Web Design (1) Seminar—1 hour. Workshops in technocultural digital skills; Web Design. GE credit: VL. Effective:
+
+TCS 007E—Technocultural Workshop; Topics in Digital Production (1) Seminar—1 hour. Workshops in technocultural digital skills; Topics in Digital Production. May be repeated for credit. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 100—Experimental Digital Cinema I (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): CTS 020 or ART 012 or TCS 007B; TCS 170B; or equivalent with consent of instructor. Class size limited to 20 students. Experimental approaches to the making of film and video in the age of digital technologies. Builds upon foundation provided by course 20. Instruction in technical, conceptual, creative, and critical skills for taking a project from idea to fruition. GE credit: AH, OL, VL. Effective: 2017 Spring
+
+TCS 101—Experimental Digital Cinema II (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 100 Continuation of course 100 with further exploration of digital cinema creation. Additional topics include new modes of distribution, streaming, installation and exhibition. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 103—Interactivity and Animation (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Fundamentals of creating interactive screenbased work. Theories of interactivity, linear versus non-linear structures and audience involvement and participation. Use of digital production tools to produce class projects. GE credit: VL. Effective:
+
+TCS 104—Documentary Production (4) Lecture/Discussion—3 hours; Project (Term Project). Prerequisite(s): TCS 007B; TCS 155; Or equivalent proficiency to TCS 007B. Traditional and new forms of documentary, with focus on technocultural issues. Skills and strategies for producing work in various media. Progression through all stages of production, from conception through post-production to critique. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 110—Object-Oriented Programming for Artists (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 001 Introduction to objectoriented programming for artists. Focus on understanding the metaphors and potential of objectoriented programming for sound, video, performance, and interactive installations. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 111—Community Media Production (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Use of video and new media tools to address social issues among neighborhood and community groups. Students will use basic video, sound, and lighting techniques as they work with local groups in a group video project. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 112—New Radio Features and Documentary (4) Laboratory—3 hours; Lecture/Discussion—3 hours. New feature and documentary production for radio and other audiophonic media, including audio streaming websites and installation. Emphasis on new and experimental approaches to audio production for broadcast on community radio and in international arts programming. Effective: 2012 Fall Quarter.
+
+TCS 113—Community Networks (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Impact and implications of computer-based networks in community, civic, and social life. Subjects may include community-access computer sites, neighborhood wireless networks, the digital divide, open-source software, and citizen action. Effective: 2012 Fall Quarter.
+
+TCS 115—Electronics for Artists (4) Laboratory—3 hours; Lecture—3 hours. Creative application of electronic technology relevant to media and fine arts involving both electronic principles and hands-on application. Effective: 2012
+
+TCS 120—History of Sound in the Arts (4) Lecture—3 hours; Term Paper. Prerequisite(s): TCS 001 A survey of the use of sound, voice, noise, and modes of listening in the modernist, avante-garde, and experimental arts, from the late 19th Century to the present. Focus on audiophonic and audiovisual technologies. Effective: 2012 Fall
+
+TCS 121—Introduction to Electronic Sound (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Introduction to the use of electronic sound within the arts. Techniques and aesthetics of experimental contemporary practices. Creation of original sound works. Effective: 2018 Winter Quarter.
+
+TCS 122—Intermediate Sonic Arts (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 121; TCS 170C Techniques of recording, editing, mixing, and synthesis to combine voice, field recordings, and electronic signals. Incorporating live, recorded, and found sounds to create multidimensional stories. Presentation of live performances, audio recordings, and sound installations. Effective: 2012 Fall
+
+TCS 123—Sight and Soundtrack (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 007C; TCS 170C The use of sound to articulate, lend mood or subconciously underscore visual, environmental or performative situations, combining music, voice, sound effects and other noises to create sound designs that enhance, alter or support action and movement. Effective: 2012 Fall Quarter.
+
+TCS 125—Advanced Sound: Performance and Improvisation (4) Practice—3 hours; Workshop—3 hours. Prerequisite(s): TCS 121; TCS 122; or Consent of Instructor. Culmination of TCS sound courses. Class will focus on performance and improvisation, culminating in a final public performance. Students will be expected to do extensive reading and rehearsal outside of class time. Effective: 2012 Fall Quarter.
+
+TCS 130—Fundamentals of 3D Computer Graphics (4) Laboratory—3 hours; Lecture—3 hours. A foundation course that teaches students the theory of three dimensional computer graphics, including modeling, rendering and animation. Development of practical skills through the use of professional software to create computer graphics Effective:
+
+TCS 131—Character Animation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): TCS 130; or Consent of Instructor. The art of character animation in three dimensional computer animation. Movement theory, principles of animation, animation timing. Development of technical and practical skills. Effective: 2012 Fall
+
+TCS 150—Introduction to Theories of the Technoculture (4) Extensive Writing; Lecture/Discussion—3 hours. Major cultural theories of technology with emphasis on media, communications, and the arts. Changing relationships between technologies, humans, and culture. Focus on the evolution of modern technologies and their reception within popular and applied contexts. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 151—Topics in Virtuality (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): TCS 001 Social, political, economic, and aesthetic factors in virtual reality. Artificial environments, telepresence, and simulated experience. Focus on contemporary artists' work and writing. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 152—New Trends in Technocultural Arts (4) Lecture/Discussion—3 hours; Term Paper. Current work at the intersection of the arts, culture, science, and technology including biological and medical sciences, computer science and communications, and artificial intelligence and digital media. GE credit: VL. Effective: 2012 Fall
+
+TCS 153—Concepts of Innovative Soundtracks (4) Lecture/Discussion—3 hours; Term Paper. Innovative and unconventional soundtracks in cinema, media arts, and fine arts. Introduction to basic analytical skills for understanding sound-image relationships. Effective: 2012 Fall Quarter.
+
+TCS 154—Outsider Machines (4) Lecture/Discussion—3 hours; Term Paper. Invention, adaptation and use of technologies outside the mainstream, commonsense, and the possible. Topics include machines as metaphor and embodied thought, eccentric customizing and and fictional technologies. GE credit: VL. Effective:
+
+TCS 155—Introduction to Documentary Studies (4) Lecture/Discussion—3 hours; Term Paper. Recent evolution of the documentary. The personal essay film; found-footage/appropriation work; non-linear, multi-media forms; spoken word; storytelling; oral history recordings; and other examples of documentary expression. GE credit: ACGH, AH, DD, VL. Effective: 2012 Fall Quarter.
+
+TCS 158—Technology and the Modern American Body (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): TCS 001; (AMS 001A or AMS 005) The history and analysis of the relationships between human bodies and technologies in modern society. Dominant and eccentric examples of how human bodies and technologies influence one another and reveal underlying cultural assumptions. (American Studies 158.) GE credit: ACGH, AH, WE. Effective: 2012 Fall Quarter.
+
+TCS 159—Media Subcultures (4) Lecture/Discussion—3 hours; Term Paper. Relationships between subcultural groups and media technologies. Media as the cohesive and persuasive force of subcultural activities. List-servs, websites, free radio, fan 'zines, and hip-hop culture. GE credit: ACGH, VL. Effective: 2012 Fall
+
+TCS 160—Ghosts of the Machine: How Technology Rewires our Senses (4) Extensive Writing/Discussion—1 hour; Lecture—3 hours. Historical, aesthetic and critical approaches to how information technologies produced ghost effects or a sense of terror in response to new media like the photograph, gramophone, film, typewriter, computer, Turing Machine. Focus on technological media transforms sense perception. (Science and Technology Studies 160.) GE credit: ACGH, AH, SS, VL, WE. Effective: 2013 Fall Quarter.
+
+TCS 170A—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007A; Or equivalent. Workshop in advanced technocultural digital skills: Digital Imaging. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170B—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007B; Or equivalent. Workshop in advanced technocultural digital skills: Digital Video. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170C—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007C Workshop in advanced technocultural digital skills: Digital Sound. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170D—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007D Workshop in advanced technocultural digital skills: Web Design. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170E—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Workshop in advanced technocultural digital skills: Topics in Digital Production. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 175—Small Scale Film Production (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Lecture and intensive workshop teaching small-scale film production. Appointments as a(n) director, director of photography, actor, writer, lighting designer, sound designer and other critical positions are used to produce and submit a short film to a film festival. May be repeated up to 2 time(s). (Dramatic Art 175.) Effective: 2012 Fall Quarter.
+
+TCS 190—Research Methods in Technocultural Studies (4) Lecture/Discussion—3 hours; Project (Term Project). Introduction to basic research methods for Technocultural Studies: electronic and archived images, sounds and data, satellite downlinking, radiowave scanning, and oral histories. GE credit: VL, WE. Effective: 2012 Fall Quarter.
+
+TCS 191—Writing Across Media (4) Extensive Writing; Lecture/Discussion—3 hours. Introduction to experimental approaches to writing for different media and artistic practices. How written texts relate to the images, sounds, and performances in digital and media production. GE credit: WE. Effective: 2012 Fall Quarter.
+
+TCS 192—Internship (1-4) Review all entries Internship—3-12 hours. Supervised internship on or off campus in area relevant to Technocultural Studies. May be repeated up to 2 time(s). (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+TCS 192—Internship (1-4) Review all entries Discontinued Internship—3-12 hours. Supervised internship on or off campus in area relevant to Technocultural Studies. May be repeated up to 2 time(s). (P/NP grading only.) Effective: 2018 Fall Quarter.
+
+TCS 197T—Tutoring in Technocultural Studies (1-5) Tutorial—3-15 hours. Prerequisite(s): Consent of Instructor. Undergraduates assist the instructor by tutoring students in one of the department's regularly scheduled courses. May be repeated up to 8 unit(s). (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+TCS 198—Directed Group Study (1-5) Review all entries Variable—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2012
+
+TCS 198—Directed Group Study (1-5) Review all entries Discontinued Variable—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2018
+
+TCS 199—Special study for advanced undergraduates (1-5) Review all entries Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Guided study with faculty member in independent scholarly activity. May be repeated up to 8 unit(s). (P/NP grading only.) Effective:
+
+TCS 199—Special study for advanced undergraduates (1-5) Review all entries Discontinued Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Guided study with faculty member in independent scholarly activity. May be repeated up to 8 unit(s). (P/NP grading only.) Effective:
+
+TCS 001—Introduction to Technocultural Studies (4) Extensive Writing; Lecture—3 hours. Contemporary developments in the fine and performing arts, media arts, digital arts, and literature as they relate to technological and scientific practices. GE credit: AH, VL, WE. Effective: 2012 Fall Quarter.
+
+TCS 005—Media Archaeology (4) Lecture/Discussion—3 hours; Term Paper. Evolution of media technologies and practices beginning in the 19th Century as they relate to contemporary digital arts practices. Special focus on the reconstruction of the social and artistic possibilities of lost and obsolete media technologies. GE credit: AH, SE, VL, WE. Effective: 2012 Fall Quarter.
+
+TCS 007A—Technocultural Workshop; Digital Imaging (1) Seminar—1 hour. Workshops in technocultural digital skills; Digital Imaging. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 007B—Technocultural Workshop; Digital Video (1) Seminar—1 hour. Workshops in technocultural digital skills; Digital Video. GE credit: VL. Effective:
+
+TCS 007C—Technocultural Workshop; Digital Sound (1) Seminar—1 hour. Workshops in technocultural digital skills; Digital Sound. GE credit: VL. Effective:
+
+TCS 007D—Technocultural Workshop; Web Design (1) Seminar—1 hour. Workshops in technocultural digital skills; Web Design. GE credit: VL. Effective:
+
+TCS 007E—Technocultural Workshop; Topics in Digital Production (1) Seminar—1 hour. Workshops in technocultural digital skills; Topics in Digital Production. May be repeated for credit. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 100—Experimental Digital Cinema I (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): CTS 020 or ART 012 or TCS 007B; TCS 170B; or equivalent with consent of instructor. Class size limited to 20 students. Experimental approaches to the making of film and video in the age of digital technologies. Builds upon foundation provided by course 20. Instruction in technical, conceptual, creative, and critical skills for taking a project from idea to fruition. GE credit: AH, OL, VL. Effective: 2017 Spring
+
+TCS 101—Experimental Digital Cinema II (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 100 Continuation of course 100 with further exploration of digital cinema creation. Additional topics include new modes of distribution, streaming, installation and exhibition. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 103—Interactivity and Animation (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Fundamentals of creating interactive screenbased work. Theories of interactivity, linear versus non-linear structures and audience involvement and participation. Use of digital production tools to produce class projects. GE credit: VL. Effective:
+
+TCS 104—Documentary Production (4) Lecture/Discussion—3 hours; Project (Term Project). Prerequisite(s): TCS 007B; TCS 155; Or equivalent proficiency to TCS 007B. Traditional and new forms of documentary, with focus on technocultural issues. Skills and strategies for producing work in various media. Progression through all stages of production, from conception through post-production to critique. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 110—Object-Oriented Programming for Artists (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 001 Introduction to objectoriented programming for artists. Focus on understanding the metaphors and potential of objectoriented programming for sound, video, performance, and interactive installations. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 111—Community Media Production (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Use of video and new media tools to address social issues among neighborhood and community groups. Students will use basic video, sound, and lighting techniques as they work with local groups in a group video project. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 112—New Radio Features and Documentary (4) Laboratory—3 hours; Lecture/Discussion—3 hours. New feature and documentary production for radio and other audiophonic media, including audio streaming websites and installation. Emphasis on new and experimental approaches to audio production for broadcast on community radio and in international arts programming. Effective: 2012 Fall Quarter.
+
+TCS 113—Community Networks (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Impact and implications of computer-based networks in community, civic, and social life. Subjects may include community-access computer sites, neighborhood wireless networks, the digital divide, open-source software, and citizen action. Effective: 2012 Fall Quarter.
+
+TCS 115—Electronics for Artists (4) Laboratory—3 hours; Lecture—3 hours. Creative application of electronic technology relevant to media and fine arts involving both electronic principles and hands-on application. Effective: 2012
+
+TCS 120—History of Sound in the Arts (4) Lecture—3 hours; Term Paper. Prerequisite(s): TCS 001 A survey of the use of sound, voice, noise, and modes of listening in the modernist, avante-garde, and experimental arts, from the late 19th Century to the present. Focus on audiophonic and audiovisual technologies. Effective: 2012 Fall
+
+TCS 121—Introduction to Electronic Sound (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Introduction to the use of electronic sound within the arts. Techniques and aesthetics of experimental contemporary practices. Creation of original sound works. Effective: 2018 Winter Quarter.
+
+TCS 122—Intermediate Sonic Arts (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 121; TCS 170C Techniques of recording, editing, mixing, and synthesis to combine voice, field recordings, and electronic signals. Incorporating live, recorded, and found sounds to create multidimensional stories. Presentation of live performances, audio recordings, and sound installations. Effective: 2012 Fall
+
+TCS 123—Sight and Soundtrack (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 007C; TCS 170C The use of sound to articulate, lend mood or subconciously underscore visual, environmental or performative situations, combining music, voice, sound effects and other noises to create sound designs that enhance, alter or support action and movement. Effective: 2012 Fall Quarter.
+
+TCS 125—Advanced Sound: Performance and Improvisation (4) Practice—3 hours; Workshop—3 hours. Prerequisite(s): TCS 121; TCS 122; or Consent of Instructor. Culmination of TCS sound courses. Class will focus on performance and improvisation, culminating in a final public performance. Students will be expected to do extensive reading and rehearsal outside of class time. Effective: 2012 Fall Quarter.
+
+TCS 130—Fundamentals of 3D Computer Graphics (4) Laboratory—3 hours; Lecture—3 hours. A foundation course that teaches students the theory of three dimensional computer graphics, including modeling, rendering and animation. Development of practical skills through the use of professional software to create computer graphics Effective:
+
+TCS 131—Character Animation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): TCS 130; or Consent of Instructor. The art of character animation in three dimensional computer animation. Movement theory, principles of animation, animation timing. Development of technical and practical skills. Effective: 2012 Fall
+
+TCS 150—Introduction to Theories of the Technoculture (4) Extensive Writing; Lecture/Discussion—3 hours. Major cultural theories of technology with emphasis on media, communications, and the arts. Changing relationships between technologies, humans, and culture. Focus on the evolution of modern technologies and their reception within popular and applied contexts. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 151—Topics in Virtuality (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): TCS 001 Social, political, economic, and aesthetic factors in virtual reality. Artificial environments, telepresence, and simulated experience. Focus on contemporary artists' work and writing. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 152—New Trends in Technocultural Arts (4) Lecture/Discussion—3 hours; Term Paper. Current work at the intersection of the arts, culture, science, and technology including biological and medical sciences, computer science and communications, and artificial intelligence and digital media. GE credit: VL. Effective: 2012 Fall
+
+TCS 153—Concepts of Innovative Soundtracks (4) Lecture/Discussion—3 hours; Term Paper. Innovative and unconventional soundtracks in cinema, media arts, and fine arts. Introduction to basic analytical skills for understanding sound-image relationships. Effective: 2012 Fall Quarter.
+
+TCS 154—Outsider Machines (4) Lecture/Discussion—3 hours; Term Paper. Invention, adaptation and use of technologies outside the mainstream, commonsense, and the possible. Topics include machines as metaphor and embodied thought, eccentric customizing and and fictional technologies. GE credit: VL. Effective:
+
+TCS 155—Introduction to Documentary Studies (4) Lecture/Discussion—3 hours; Term Paper. Recent evolution of the documentary. The personal essay film; found-footage/appropriation work; non-linear, multi-media forms; spoken word; storytelling; oral history recordings; and other examples of documentary expression. GE credit: ACGH, AH, DD, VL. Effective: 2012 Fall Quarter.
+
+TCS 158—Technology and the Modern American Body (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): TCS 001; (AMS 001A or AMS 005) The history and analysis of the relationships between human bodies and technologies in modern society. Dominant and eccentric examples of how human bodies and technologies influence one another and reveal underlying cultural assumptions. (American Studies 158.) GE credit: ACGH, AH, WE. Effective: 2012 Fall Quarter.
+
+TCS 159—Media Subcultures (4) Lecture/Discussion—3 hours; Term Paper. Relationships between subcultural groups and media technologies. Media as the cohesive and persuasive force of subcultural activities. List-servs, websites, free radio, fan 'zines, and hip-hop culture. GE credit: ACGH, VL. Effective: 2012 Fall
+
+TCS 160—Ghosts of the Machine: How Technology Rewires our Senses (4) Extensive Writing/Discussion—1 hour; Lecture—3 hours. Historical, aesthetic and critical approaches to how information technologies produced ghost effects or a sense of terror in response to new media like the photograph, gramophone, film, typewriter, computer, Turing Machine. Focus on technological media transforms sense perception. (Science and Technology Studies 160.) GE credit: ACGH, AH, SS, VL, WE. Effective: 2013 Fall Quarter.
+
+TCS 170A—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007A; Or equivalent. Workshop in advanced technocultural digital skills: Digital Imaging. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170B—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007B; Or equivalent. Workshop in advanced technocultural digital skills: Digital Video. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170C—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007C Workshop in advanced technocultural digital skills: Digital Sound. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170D—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007D Workshop in advanced technocultural digital skills: Web Design. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170E—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Workshop in advanced technocultural digital skills: Topics in Digital Production. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 175—Small Scale Film Production (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Lecture and intensive workshop teaching small-scale film production. Appointments as a(n) director, director of photography, actor, writer, lighting designer, sound designer and other critical positions are used to produce and submit a short film to a film festival. May be repeated up to 2 time(s). (Dramatic Art 175.) Effective: 2012 Fall Quarter.
+
+TCS 190—Research Methods in Technocultural Studies (4) Lecture/Discussion—3 hours; Project (Term Project). Introduction to basic research methods for Technocultural Studies: electronic and archived images, sounds and data, satellite downlinking, radiowave scanning, and oral histories. GE credit: VL, WE. Effective: 2012 Fall Quarter.
+
+TCS 191—Writing Across Media (4) Extensive Writing; Lecture/Discussion—3 hours. Introduction to experimental approaches to writing for different media and artistic practices. How written texts relate to the images, sounds, and performances in digital and media production. GE credit: WE. Effective: 2012 Fall Quarter.
+
+TCS 192—Internship (1-4) Review all entries Internship—3-12 hours. Supervised internship on or off campus in area relevant to Technocultural Studies. May be repeated up to 2 time(s). (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+TCS 192—Internship (1-4) Review all entries Discontinued Internship—3-12 hours. Supervised internship on or off campus in area relevant to Technocultural Studies. May be repeated up to 2 time(s). (P/NP grading only.) Effective: 2018 Fall Quarter.
+
+TCS 197T—Tutoring in Technocultural Studies (1-5) Tutorial—3-15 hours. Prerequisite(s): Consent of Instructor. Undergraduates assist the instructor by tutoring students in one of the department's regularly scheduled courses. May be repeated up to 8 unit(s). (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+TCS 198—Directed Group Study (1-5) Review all entries Variable—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2012
+
+TCS 198—Directed Group Study (1-5) Review all entries Discontinued Variable—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2018
+
+TCS 199—Special study for advanced undergraduates (1-5) Review all entries Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Guided study with faculty member in independent scholarly activity. May be repeated up to 8 unit(s). (P/NP grading only.) Effective:
+
+TCS 199—Special study for advanced undergraduates (1-5) Review all entries Discontinued Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Guided study with faculty member in independent scholarly activity. May be repeated up to 8 unit(s). (P/NP grading only.) Effective:
+
+TCS 001—Introduction to Technocultural Studies (4) Extensive Writing; Lecture—3 hours. Contemporary developments in the fine and performing arts, media arts, digital arts, and literature as they relate to technological and scientific practices. GE credit: AH, VL, WE. Effective: 2012 Fall Quarter.
+
+TCS 005—Media Archaeology (4) Lecture/Discussion—3 hours; Term Paper. Evolution of media technologies and practices beginning in the 19th Century as they relate to contemporary digital arts practices. Special focus on the reconstruction of the social and artistic possibilities of lost and obsolete media technologies. GE credit: AH, SE, VL, WE. Effective: 2012 Fall Quarter.
+
+TCS 007A—Technocultural Workshop; Digital Imaging (1) Seminar—1 hour. Workshops in technocultural digital skills; Digital Imaging. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 007B—Technocultural Workshop; Digital Video (1) Seminar—1 hour. Workshops in technocultural digital skills; Digital Video. GE credit: VL. Effective:
+
+TCS 007C—Technocultural Workshop; Digital Sound (1) Seminar—1 hour. Workshops in technocultural digital skills; Digital Sound. GE credit: VL. Effective:
+
+TCS 007D—Technocultural Workshop; Web Design (1) Seminar—1 hour. Workshops in technocultural digital skills; Web Design. GE credit: VL. Effective:
+
+TCS 007E—Technocultural Workshop; Topics in Digital Production (1) Seminar—1 hour. Workshops in technocultural digital skills; Topics in Digital Production. May be repeated for credit. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 100—Experimental Digital Cinema I (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): CTS 020 or ART 012 or TCS 007B; TCS 170B; or equivalent with consent of instructor. Class size limited to 20 students. Experimental approaches to the making of film and video in the age of digital technologies. Builds upon foundation provided by course 20. Instruction in technical, conceptual, creative, and critical skills for taking a project from idea to fruition. GE credit: AH, OL, VL. Effective: 2017 Spring
+
+TCS 101—Experimental Digital Cinema II (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 100 Continuation of course 100 with further exploration of digital cinema creation. Additional topics include new modes of distribution, streaming, installation and exhibition. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 103—Interactivity and Animation (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Fundamentals of creating interactive screenbased work. Theories of interactivity, linear versus non-linear structures and audience involvement and participation. Use of digital production tools to produce class projects. GE credit: VL. Effective:
+
+TCS 104—Documentary Production (4) Lecture/Discussion—3 hours; Project (Term Project). Prerequisite(s): TCS 007B; TCS 155; Or equivalent proficiency to TCS 007B. Traditional and new forms of documentary, with focus on technocultural issues. Skills and strategies for producing work in various media. Progression through all stages of production, from conception through post-production to critique. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 110—Object-Oriented Programming for Artists (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 001 Introduction to objectoriented programming for artists. Focus on understanding the metaphors and potential of objectoriented programming for sound, video, performance, and interactive installations. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 111—Community Media Production (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Use of video and new media tools to address social issues among neighborhood and community groups. Students will use basic video, sound, and lighting techniques as they work with local groups in a group video project. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 112—New Radio Features and Documentary (4) Laboratory—3 hours; Lecture/Discussion—3 hours. New feature and documentary production for radio and other audiophonic media, including audio streaming websites and installation. Emphasis on new and experimental approaches to audio production for broadcast on community radio and in international arts programming. Effective: 2012 Fall Quarter.
+
+TCS 113—Community Networks (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Impact and implications of computer-based networks in community, civic, and social life. Subjects may include community-access computer sites, neighborhood wireless networks, the digital divide, open-source software, and citizen action. Effective: 2012 Fall Quarter.
+
+TCS 115—Electronics for Artists (4) Laboratory—3 hours; Lecture—3 hours. Creative application of electronic technology relevant to media and fine arts involving both electronic principles and hands-on application. Effective: 2012
+
+TCS 120—History of Sound in the Arts (4) Lecture—3 hours; Term Paper. Prerequisite(s): TCS 001 A survey of the use of sound, voice, noise, and modes of listening in the modernist, avante-garde, and experimental arts, from the late 19th Century to the present. Focus on audiophonic and audiovisual technologies. Effective: 2012 Fall
+
+TCS 121—Introduction to Electronic Sound (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Introduction to the use of electronic sound within the arts. Techniques and aesthetics of experimental contemporary practices. Creation of original sound works. Effective: 2018 Winter Quarter.
+
+TCS 122—Intermediate Sonic Arts (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 121; TCS 170C Techniques of recording, editing, mixing, and synthesis to combine voice, field recordings, and electronic signals. Incorporating live, recorded, and found sounds to create multidimensional stories. Presentation of live performances, audio recordings, and sound installations. Effective: 2012 Fall
+
+TCS 123—Sight and Soundtrack (4) Laboratory—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): TCS 007C; TCS 170C The use of sound to articulate, lend mood or subconciously underscore visual, environmental or performative situations, combining music, voice, sound effects and other noises to create sound designs that enhance, alter or support action and movement. Effective: 2012 Fall Quarter.
+
+TCS 125—Advanced Sound: Performance and Improvisation (4) Practice—3 hours; Workshop—3 hours. Prerequisite(s): TCS 121; TCS 122; or Consent of Instructor. Culmination of TCS sound courses. Class will focus on performance and improvisation, culminating in a final public performance. Students will be expected to do extensive reading and rehearsal outside of class time. Effective: 2012 Fall Quarter.
+
+TCS 130—Fundamentals of 3D Computer Graphics (4) Laboratory—3 hours; Lecture—3 hours. A foundation course that teaches students the theory of three dimensional computer graphics, including modeling, rendering and animation. Development of practical skills through the use of professional software to create computer graphics Effective:
+
+TCS 131—Character Animation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): TCS 130; or Consent of Instructor. The art of character animation in three dimensional computer animation. Movement theory, principles of animation, animation timing. Development of technical and practical skills. Effective: 2012 Fall
+
+TCS 150—Introduction to Theories of the Technoculture (4) Extensive Writing; Lecture/Discussion—3 hours. Major cultural theories of technology with emphasis on media, communications, and the arts. Changing relationships between technologies, humans, and culture. Focus on the evolution of modern technologies and their reception within popular and applied contexts. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 151—Topics in Virtuality (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): TCS 001 Social, political, economic, and aesthetic factors in virtual reality. Artificial environments, telepresence, and simulated experience. Focus on contemporary artists' work and writing. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 152—New Trends in Technocultural Arts (4) Lecture/Discussion—3 hours; Term Paper. Current work at the intersection of the arts, culture, science, and technology including biological and medical sciences, computer science and communications, and artificial intelligence and digital media. GE credit: VL. Effective: 2012 Fall
+
+TCS 153—Concepts of Innovative Soundtracks (4) Lecture/Discussion—3 hours; Term Paper. Innovative and unconventional soundtracks in cinema, media arts, and fine arts. Introduction to basic analytical skills for understanding sound-image relationships. Effective: 2012 Fall Quarter.
+
+TCS 154—Outsider Machines (4) Lecture/Discussion—3 hours; Term Paper. Invention, adaptation and use of technologies outside the mainstream, commonsense, and the possible. Topics include machines as metaphor and embodied thought, eccentric customizing and and fictional technologies. GE credit: VL. Effective:
+
+TCS 155—Introduction to Documentary Studies (4) Lecture/Discussion—3 hours; Term Paper. Recent evolution of the documentary. The personal essay film; found-footage/appropriation work; non-linear, multi-media forms; spoken word; storytelling; oral history recordings; and other examples of documentary expression. GE credit: ACGH, AH, DD, VL. Effective: 2012 Fall Quarter.
+
+TCS 158—Technology and the Modern American Body (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): TCS 001; (AMS 001A or AMS 005) The history and analysis of the relationships between human bodies and technologies in modern society. Dominant and eccentric examples of how human bodies and technologies influence one another and reveal underlying cultural assumptions. (American Studies 158.) GE credit: ACGH, AH, WE. Effective: 2012 Fall Quarter.
+
+TCS 159—Media Subcultures (4) Lecture/Discussion—3 hours; Term Paper. Relationships between subcultural groups and media technologies. Media as the cohesive and persuasive force of subcultural activities. List-servs, websites, free radio, fan 'zines, and hip-hop culture. GE credit: ACGH, VL. Effective: 2012 Fall
+
+TCS 160—Ghosts of the Machine: How Technology Rewires our Senses (4) Extensive Writing/Discussion—1 hour; Lecture—3 hours. Historical, aesthetic and critical approaches to how information technologies produced ghost effects or a sense of terror in response to new media like the photograph, gramophone, film, typewriter, computer, Turing Machine. Focus on technological media transforms sense perception. (Science and Technology Studies 160.) GE credit: ACGH, AH, SS, VL, WE. Effective: 2013 Fall Quarter.
+
+TCS 170A—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007A; Or equivalent. Workshop in advanced technocultural digital skills: Digital Imaging. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170B—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007B; Or equivalent. Workshop in advanced technocultural digital skills: Digital Video. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170C—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007C Workshop in advanced technocultural digital skills: Digital Sound. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170D—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): TCS 007D Workshop in advanced technocultural digital skills: Web Design. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 170E—Advanced Technocultural Workshop (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Workshop in advanced technocultural digital skills: Topics in Digital Production. GE credit: VL. Effective: 2012 Fall Quarter.
+
+TCS 175—Small Scale Film Production (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Lecture and intensive workshop teaching small-scale film production. Appointments as a(n) director, director of photography, actor, writer, lighting designer, sound designer and other critical positions are used to produce and submit a short film to a film festival. May be repeated up to 2 time(s). (Dramatic Art 175.) Effective: 2012 Fall Quarter.
+
+TCS 190—Research Methods in Technocultural Studies (4) Lecture/Discussion—3 hours; Project (Term Project). Introduction to basic research methods for Technocultural Studies: electronic and archived images, sounds and data, satellite downlinking, radiowave scanning, and oral histories. GE credit: VL, WE. Effective: 2012 Fall Quarter.
+
+TCS 191—Writing Across Media (4) Extensive Writing; Lecture/Discussion—3 hours. Introduction to experimental approaches to writing for different media and artistic practices. How written texts relate to the images, sounds, and performances in digital and media production. GE credit: WE. Effective: 2012 Fall Quarter.
+
+TCS 192—Internship (1-4) Review all entries Internship—3-12 hours. Supervised internship on or off campus in area relevant to Technocultural Studies. May be repeated up to 2 time(s). (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+TCS 192—Internship (1-4) Review all entries Discontinued Internship—3-12 hours. Supervised internship on or off campus in area relevant to Technocultural Studies. May be repeated up to 2 time(s). (P/NP grading only.) Effective: 2018 Fall Quarter.
+
+TCS 197T—Tutoring in Technocultural Studies (1-5) Tutorial—3-15 hours. Prerequisite(s): Consent of Instructor. Undergraduates assist the instructor by tutoring students in one of the department's regularly scheduled courses. May be repeated up to 8 unit(s). (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+TCS 198—Directed Group Study (1-5) Review all entries Variable—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2012
+
+TCS 198—Directed Group Study (1-5) Review all entries Discontinued Variable—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2018
+
+TCS 199—Special study for advanced undergraduates (1-5) Review all entries Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Guided study with faculty member in independent scholarly activity. May be repeated up to 8 unit(s). (P/NP grading only.) Effective:
+
+TCS 199—Special study for advanced undergraduates (1-5) Review all entries Discontinued Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Guided study with faculty member in independent scholarly activity. May be repeated up to 8 unit(s). (P/NP grading only.) Effective:

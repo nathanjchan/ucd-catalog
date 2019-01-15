@@ -1,0 +1,199 @@
+LDA 001—Introduction to Environmental Design (4) Discussion—1 hour; Lecture—3 hours; Term Paper. Introduction to the role of design professionals in contributing to the built environment at a range of scales. Introduction to basic methods used by design professionals to evaluate, design, plan, and manage landscapes and the built environment. GE credit: AH, SE, SS, VL, WC, WE. Effective: 2012 Fall Quarter.
+
+LDA 002—Place, Culture and Community (4) Lecture—4 hours. Introduction to recognizing and reading cultural landscapes, and the application of cultural landscape meaning to the creation of contemporary built environments. Topics include patterns and influences relating to agriculture, military, transportation, housing, wilderness, recreation and tourism. GE credit: ACGH, SS, VL, WC, WE. Effective: 2012 Fall Quarter.
+
+LDA 003—Sustainable Development: Theory and Practice (4) Discussion—1 hour; Lecture—3 hours. Origins, theoretical perspectives, and practical applications of the concept of sustainable development across scales (site, building, neighborhood, city, region, and nation) through lectures, sketch exercises, student projects, walking tours. GE credit: ACGH, SS, VL, WE. Effective: 2018 Winter Quarter.
+
+LDA 010—World Regional Geography (3) Lecture—3 hours. Major geographic regions of the world; physical and human geography of each region; interactions between the people and the environment; culture and landscape; major resources; physical environments; population distribution and major cities. GE credit: AH, SS, WC. Effective: 2016 Spring Quarter.
+
+LDA 021—Landscape Representation I (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): LDA 001 (can be concurrent); or Consent of Instructor. Pass One is restricted to Pre-Landscape Architecture and Sustainable Environmental Design majors. Introduction to landscape architectural representation techniques. Fundamentals of orthographic drafting, freehand drawing, photography, and basic digital representation. GE credit: AH, OL, VL. Effective: 2017 Fall Quarter.
+
+LDA 023—Landscape Representation II (3) Project (Term Project); Studio—6 hours. Prerequisite(s): LDA 021; or Consent of Instructor. Restricted to Pre-Landscape Architecture and Landscape Architecture majors only. Instruction of methods to explore and communicate landscape design intentions through digital media Effective:
+
+LDA 030—History of Environmental Design (4) Discussion—1 hour; Lecture—3 hours. History of Environmental Design across disciplines, including landscape architecture, planning, community and urban design. GE credit: AH, VL, WE. Effective:
+
+LDA 050—Site Ecology (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): BIS 002B Pass One restricted to PreLandscape Architecture and Sustainable Environmental Design majors. Introduction to ecological concepts, including nutrient dynamics, population regulation, community structure, ecosystem function. Principles will be applied to human activities such as biological conservation, ecological restoration, landscape planning, and management. Weekly lab devoted to field exercises in local ecosystems. GE credit: SE, VL, WE. Effective: 2016 Fall Quarter.
+
+LDA 060—Landform and Grading Studio (6) Extensive Problem Solving; Project (Term Project); Studio—8 hours. Prerequisite(s): LDA 070 Pass One restricted to Pre-Landscape Architecture majors. Introduction of landform and topography as landscape medium and utilization of grading and drainage to design meaningful and functional spaces. Intro to site analysis and site planning, with specific attention to topography. GE credit: AH, OL, SE, VL. Effective: 2017 Fall Quarter.
+
+LDA 061—AutoCAD for Landscape Architects (4) Laboratory—4 hours; Lecture—2 hours. Pass One restricted to Pre-Landscape Architecture, Sustainable Environmental Design, and Landscape Architecture majors. Introduction of computeraided drafting (CAD) techniques and their application to landscape design. Drawing set-up, layer control, basic drawing and editing commands, dimensioning and text styles, symbol libraries, and display commands used in the creation of landscape architectural drawings. Effective: 2016
+
+LDA 070—Introduction to Spacemaking (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): LDA 021; or Consent of Instructor. Pass One restricted to Pre-Landscape Architecture and Sustainable Environmental Design majors. Introduction to basic principles of design towards the creation of space. Design methodologies and skills to define, manipulate, and represent the built environment. Workshops in 3D physical modeling for spacemaking. GE credit: AH, OL, VL. Effective: 2017 Fall Quarter.
+
+LDA 098—Directed Group Study in Landscape Architecture (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Directed group study. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 099—Special Study for Undergraduates in Landscape Architecture (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2012
+
+LDA 101—Advanced Theory in Environmental Design (3) Lecture/Discussion—3 hours. Prerequisite(s): LDA 070 (can be concurrent); or Consent of Instructor. Open to LDA/SED majors only. Provides exploration of contemporary theories and philosophies impacting design of landscapes and the built environment. Includes exploring competing definitions of "landscape," "nature," and "culture" GE credit: AH. Effective: 2017 Spring
+
+LDA 102—Methods in Design and Landscape Research (3) Lecture—3 hours. Prerequisite(s): LDA 171; or Consent of Instructor. Open to Landscape Architecture majors only. Research, design, and planning methods employed in landscape architecture. Exercises allow students to design independent landscape research. Lectures provide a historical overview of research methodology. GE credit: AH, OL, VL, WE. Effective: 2018 Winter
+
+LDA 120—Landscape Representation III (3) Project (Term Project); Studio—6 hours. Prerequisite(s): LDA 023; or Consent of Instructor. Restricted to Landscape Architecture majors. Provides hands-on workshop environment to explore advanced representation and modeling skills. Digital drawing explored as an analytical research method and generative design technique for creating presentation graphics. Effective: 2017 Fall
+
+LDA 140—Green Building, Design, and Materials (4) Laboratory—4 hours; Lecture—2 hours. Prerequisite(s): LDA 050; LDA 070 Pass One restricted to Sustainable Environmental Design majors. Sustainable design and construction techniques at site and building scales. Emphasizes real-world case studies, analysis of opportunities for actual sites, and application of LEED and Sustainable Sites green rating systems. GE credit: AH, SE, VL. Effective: 2016 Fall Quarter.
+
+LDA 141—Community Participation and Design (4) Fieldwork—3 hours; Laboratory—3 hours; Lecture—1 hour; Project (Term Project)—3 hours. Prerequisite(s): LDA 021; LDA 030; LDA 050; LDA 070 Restricted to Sustainable Environmental Design and Landscape Architecture majors. Introduction to community participation and design. Incorporates social and cultural factors, public and community processes, theories and practices related to human-environment behavior; community involvement in design, social analysis, community engagement, accessibility, diversity and politics of place. GE credit: ACGH, AH, DD, SS, VL. Effective: 2015 Winter Quarter.
+
+LDA 142—Applying Sustainable Strategies (6) Discussion—3 hours; Lecture—3 hours. Prerequisite(s): LDA 140; LDA 141 Restricted to Sustainable Environmental Design Majors. Capstone class examines case studies and techniques of sustainable development. Student teams will develop detailed proposals for real-world sites. GE credit: AH, OL, SE, SS, VL, WE. Effective: 2016 Spring Quarter.
+
+LDA 150—Introduction to Geographic Information Systems (4) Laboratory—3 hours; Lecture—3 hours. Pass One restricted to Landscape Architecture and Sustainable Environmental Design majors. Basic concepts, principles, and methods of GIS are presented. Data structures, database design, GIS data creation, GPS, and spatial analysis. Not open to credit for students who have completed ABT 180, PLS 180, ABT 181N. (Applied Biological Systems Technology 150.) GE credit: SE, VL. Effective: 2018 Winter Quarter.
+
+LDA 160—Design and Build Studio (6) Extensive Problem Solving; Fieldwork; Studio—8 hours. Prerequisite(s): LDA 001; LDA 002; LDA 003; LDA 021; LDA 030; LDA 050; LDA 070 Restricted to Landscape Architecture majors. Introduction to the spatial design and construction of small-scale projects. Hands-on approach to learning and understanding materials (including wood, concrete, and stone) and methods in landscape construction, and the application of technical skills (including detailing, cost estimation, and specifications). GE credit: AH, OL, VL. Effective: 2013 Fall Quarter.
+
+LDA 161—Professional Practice and Construction Documents (6) Fieldwork; Project (Term Project); Studio—8 hours. Prerequisite(s): LDA 171 Open to Landscape Architecture majors only. Legal and professional aspects of landscape architecture, including the development of construction documents (drawings and specifications), proposal writing, fee calculations, project management, cost estimation, and insurance. Effective: 2017 Fall Quarter.
+
+LDA 170—Site Planning and Design Studio (6) Fieldwork; Studio—8 hours. Prerequisite(s): LDA 160 Open to Landscape Architecture majors only. Application of place-making and problem-solving skills to local landscape sites. Analysis of social and environmental conditions in the field. Lectures link design projects to contemporary theories and practices. GE credit: AH, OL, VL. Effective: 2017 Fall Quarter.
+
+LDA 171—Urban Design and Planning Studio (6) Studio—8 hours. Prerequisite(s): LDA 170 Restricted to Landscape Architecture majors. Studio designing large-scale landscapes at regional, sub-regional, and neighborhood scales. Focuses on understanding complex social, economic, and environmental factors, developing sustainability priorities and strategies, and applying them through design and policy. GE credit: ACGH, AH, OL, VL. Effective: 2016 Fall Quarter.
+
+LDA 180—Advanced Design and Planning Studio (6) Extensive Problem Solving; Fieldwork; Studio—8 hours. Prerequisite(s): LDA 060; LDA 160; LDA 170; LDA 171; LDA 172. Restricted to Landscape Architecture majors or consent of instructor. Application of advanced theories and methods of design and planning to real-world projects. May be repeated up to 18 unit(s). GE credit: AH, OL, VL. Effective: 2013 Fall Quarter.
+
+LDA 182—Advanced Landscape Architecture Studio I (6) Studio—8 hours. Prerequisite(s): LDA 171 Restricted to Landscape Architecture majors (ALDA) or consent of instructor. Landscape architecture studio featuring advanced studies and applications of creative work, design, technology and/or theory. One day long fieldtrip required. Effective: 2016
+
+LDA 183—Advanced Landscape Architecture Studio II (6) Studio—8 hours. Prerequisite(s): LDA 182 Restricted to Landscape Architecture majors (ALDA) or consent of instructor. Landscape architecture studio featuring advanced studies and applications of creative work, design, technology and/or theory. One day long field trip required. Effective: 2016
+
+LDA 184—Capstone Landscape Architecture Studio (6) Studio—8 hours. Prerequisite(s): LDA 183 Restricted to Landscape Architecture majors or consent of instructor. Capstone studio that synthesizes learning objectives within the senior-level Landscape Architecture studio sequence. Students required to apply creative problem solving, design theory, technology, and representation skills towards a design approach that addresses complex, real-world environmental design problems. Effective: 2016 Fall Quarter.
+
+LDA 190—Proseminar in Landscape Architecture (1) Seminar—1 hour. Lectures and discussion of critical issues in landscape architecture. May be repeated three times for credit. May be repeated up to 3 time(s). (P/NP grading only.) Effective:
+
+LDA 191—Landscape Architecture Planning & Design Studio (2-12) Seminar—1 hour; Workshop—3 hours. Prerequisite(s): LDA 001; LDA 070; LDA 170; or Consent of Instructor. Priority to Landscape Architecture majors. Faculty initiated workshops featuring advanced studies and applications of original work in landscape architecture. May be repeated up to 20 unit(s). Effective: 2012 Fall Quarter.
+
+LDA 192—Internship in Landscape Architecture (1-12) Internship. Prerequisite(s): Consent of Instructor. Senior standing in Landscape Architecture. Professional field experience in landscape architecture. May be repeated for a total of 12 units. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 193A—Senior Project in Landscape Architecture (3) Studio—6 hours. Prerequisite(s): Senior standing in Landscape Architecture. Limited enrollment. Projects will focus on a critical area of landscape architectural design, planning, planning, analysis, communication, or research. Limited enrollment. Required of all Landscape Architecture majors. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 193B—Senior Project in Landscape Architecture (4) Studio—8 hours. Prerequisite(s): LDA 193A; And senior standing in Landscape Architecture. Limited enrollment. Projects will focus on a critical area of landscape architectural design, planning, analysis, communication, or research. Limited enrollment. Required of all Landscape Architecture majors. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 197T—Tutoring in Landscape Architecture (1-5) Tutorial—3-15 hours. Prerequisite(s): Consent of Instructor. Tutoring in Landscape Architecture courses. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 198—Directed Group Study in Landscape Architecture (1-5) Variable. Prerequisite(s): Consent of Instructor. Directed group study. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 199—Special Study for Advanced Undergraduates in Landscape Architecture (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 200—Citizenship, Democracy, & Public Space (4) Seminar—4 hours. Prerequisite(s): Graduate standing or consent of instructor. Introduction to seminal works in political theory, philosophy, and the social sciences that focus on citizenship and the public sphere; development of critical perspective regarding restructuring of public space in a pluralistic and global culture; discussion of contemporary case studies. (Geography 230.) Effective:
+
+LDA 201—Theory and Philosophy of the Designed Environment (4) Seminar—4 hours. Prerequisite(s): LDA 140; Or the equivalent; graduate standing or consent of instructor. Examines the major theories of environmental design. Epistemology of design serves as framework to examine modern landscape architecture, architecture, urban design and planning. Normative theories of design are reviewed along with the social and environmental sciences. Effective: 2012 Fall Quarter.
+
+LDA 202—Methods in Design and Landscape Research (4) Seminar—4 hours. Explores many of the research and advanced design and planning methods employed in landscape architecture. Exercises provide the student with a vehicle for designing independent landscape research and creative activities. Lectures provide an historical overview of research methodology. Effective: 2016 Spring Quarter.
+
+LDA 204—Case Studies in Landscape Design and Research (4) Seminar—4 hours. Prerequisite(s): Graduate standing in Landscape Architecture, Ecology, Geography or Community Development or consent of instructor. Real-world designed environment situations where creative activity and/or basic research is the primary product. May be repeated for credit for a total of 12 units. May be repeated up to 12 unit(s). Effective: 2012 Fall Quarter.
+
+LDA 205—Urban Planning and Design (4) Discussion—2 hours; Lecture—2 hours. Limited to graduate students. Regulation, design, and development of the built landscape, planning and land development processes, zoning and subdivision regulation, site planning, urban design goals and methods, public participation strategies, creatively designing landscapes to meet community and ecological goals. (Geography 233.) Effective: 2016 Winter Quarter.
+
+LDA 210—Advanced Landscape Architecture Studio (4) Laboratory—8 hours. Prerequisite(s): LDA 113 or the equivalent; graduate standing or consent of instructor. Exposes students to real-world, designed-environment situations where creative activity and/or basic research is the primary product. Advanced landscape problems will be utilized at the site, urban or rural scale. Effective: 2012 Fall Quarter.
+
+LDA 215—Ecologies of Infrastructure (4) Seminar—4 hours. Open to graduate standing or consent of instructor. Focus on design practices and theory associated with ecological conceptions of infrastructure, including networked infrastructure, region, bioregion, regionalization, ecological engineering, reconciliation ecology, novel ecosystems, and theory/articulation of landscape change. (Geography 215.) Effective: 2016
+
+LDA 270—Environment and Behavior (4) Seminar—3 hours; Tutorial—1 hour. Prerequisite(s): Graduate standing or consent of instructor; PSC 144 recommended. Factors that influence human's interaction with their surroundings and the mechanisms used for recognizing and addressing general and specific human needs in community design and development decisions. Effective: 2012 Fall Quarter.
+
+LDA 280—Landscape Conservation (3) Seminar—3 hours. Prerequisite(s): Contact department for prerequisite courses; graduate standing or consent of instructor. Focus is on land planning, design, and management techniques to further the goal of resource preservation. Examines current critical theory in the establishment and management of conservation areas. Effective: 2012 Fall Quarter.
+
+LDA 290—Graduate Seminar in Landscape Architecture (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Seminar on selected topics in landscape architecture research, analysis, planning, design, communication, or education. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2012 Fall
+
+LDA 297—Practicum in Landscape Architecture (1-10) Independent Study—1-10 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Opportunity for students to work directly in the field with academics at other institutions or with professionals in an office setting. Gives experience beyond the confines of campus and allows direct interaction with the community. (S/U grading only.) Effective: 2012
+
+LDA 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+LDA 299—Directed Individual Research for Graduate Students (1-12) Independent Study. May be repeated for credit. (S/U grading only.) Effective: 2012 Fall Quarter.
+
+LDA 396—Teaching Assistant Training Practicum (1-4) Variable. May be repeated for credit. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 001—Introduction to Environmental Design (4) Discussion—1 hour; Lecture—3 hours; Term Paper. Introduction to the role of design professionals in contributing to the built environment at a range of scales. Introduction to basic methods used by design professionals to evaluate, design, plan, and manage landscapes and the built environment. GE credit: AH, SE, SS, VL, WC, WE. Effective: 2012 Fall Quarter.
+
+LDA 002—Place, Culture and Community (4) Lecture—4 hours. Introduction to recognizing and reading cultural landscapes, and the application of cultural landscape meaning to the creation of contemporary built environments. Topics include patterns and influences relating to agriculture, military, transportation, housing, wilderness, recreation and tourism. GE credit: ACGH, SS, VL, WC, WE. Effective: 2012 Fall Quarter.
+
+LDA 003—Sustainable Development: Theory and Practice (4) Discussion—1 hour; Lecture—3 hours. Origins, theoretical perspectives, and practical applications of the concept of sustainable development across scales (site, building, neighborhood, city, region, and nation) through lectures, sketch exercises, student projects, walking tours. GE credit: ACGH, SS, VL, WE. Effective: 2018 Winter Quarter.
+
+LDA 010—World Regional Geography (3) Lecture—3 hours. Major geographic regions of the world; physical and human geography of each region; interactions between the people and the environment; culture and landscape; major resources; physical environments; population distribution and major cities. GE credit: AH, SS, WC. Effective: 2016 Spring Quarter.
+
+LDA 021—Landscape Representation I (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): LDA 001 (can be concurrent); or Consent of Instructor. Pass One is restricted to Pre-Landscape Architecture and Sustainable Environmental Design majors. Introduction to landscape architectural representation techniques. Fundamentals of orthographic drafting, freehand drawing, photography, and basic digital representation. GE credit: AH, OL, VL. Effective: 2017 Fall Quarter.
+
+LDA 023—Landscape Representation II (3) Project (Term Project); Studio—6 hours. Prerequisite(s): LDA 021; or Consent of Instructor. Restricted to Pre-Landscape Architecture and Landscape Architecture majors only. Instruction of methods to explore and communicate landscape design intentions through digital media Effective:
+
+LDA 030—History of Environmental Design (4) Discussion—1 hour; Lecture—3 hours. History of Environmental Design across disciplines, including landscape architecture, planning, community and urban design. GE credit: AH, VL, WE. Effective:
+
+LDA 050—Site Ecology (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): BIS 002B Pass One restricted to PreLandscape Architecture and Sustainable Environmental Design majors. Introduction to ecological concepts, including nutrient dynamics, population regulation, community structure, ecosystem function. Principles will be applied to human activities such as biological conservation, ecological restoration, landscape planning, and management. Weekly lab devoted to field exercises in local ecosystems. GE credit: SE, VL, WE. Effective: 2016 Fall Quarter.
+
+LDA 060—Landform and Grading Studio (6) Extensive Problem Solving; Project (Term Project); Studio—8 hours. Prerequisite(s): LDA 070 Pass One restricted to Pre-Landscape Architecture majors. Introduction of landform and topography as landscape medium and utilization of grading and drainage to design meaningful and functional spaces. Intro to site analysis and site planning, with specific attention to topography. GE credit: AH, OL, SE, VL. Effective: 2017 Fall Quarter.
+
+LDA 061—AutoCAD for Landscape Architects (4) Laboratory—4 hours; Lecture—2 hours. Pass One restricted to Pre-Landscape Architecture, Sustainable Environmental Design, and Landscape Architecture majors. Introduction of computeraided drafting (CAD) techniques and their application to landscape design. Drawing set-up, layer control, basic drawing and editing commands, dimensioning and text styles, symbol libraries, and display commands used in the creation of landscape architectural drawings. Effective: 2016
+
+LDA 070—Introduction to Spacemaking (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): LDA 021; or Consent of Instructor. Pass One restricted to Pre-Landscape Architecture and Sustainable Environmental Design majors. Introduction to basic principles of design towards the creation of space. Design methodologies and skills to define, manipulate, and represent the built environment. Workshops in 3D physical modeling for spacemaking. GE credit: AH, OL, VL. Effective: 2017 Fall Quarter.
+
+LDA 098—Directed Group Study in Landscape Architecture (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Directed group study. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 099—Special Study for Undergraduates in Landscape Architecture (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2012
+
+LDA 101—Advanced Theory in Environmental Design (3) Lecture/Discussion—3 hours. Prerequisite(s): LDA 070 (can be concurrent); or Consent of Instructor. Open to LDA/SED majors only. Provides exploration of contemporary theories and philosophies impacting design of landscapes and the built environment. Includes exploring competing definitions of "landscape," "nature," and "culture" GE credit: AH. Effective: 2017 Spring
+
+LDA 102—Methods in Design and Landscape Research (3) Lecture—3 hours. Prerequisite(s): LDA 171; or Consent of Instructor. Open to Landscape Architecture majors only. Research, design, and planning methods employed in landscape architecture. Exercises allow students to design independent landscape research. Lectures provide a historical overview of research methodology. GE credit: AH, OL, VL, WE. Effective: 2018 Winter
+
+LDA 120—Landscape Representation III (3) Project (Term Project); Studio—6 hours. Prerequisite(s): LDA 023; or Consent of Instructor. Restricted to Landscape Architecture majors. Provides hands-on workshop environment to explore advanced representation and modeling skills. Digital drawing explored as an analytical research method and generative design technique for creating presentation graphics. Effective: 2017 Fall
+
+LDA 140—Green Building, Design, and Materials (4) Laboratory—4 hours; Lecture—2 hours. Prerequisite(s): LDA 050; LDA 070 Pass One restricted to Sustainable Environmental Design majors. Sustainable design and construction techniques at site and building scales. Emphasizes real-world case studies, analysis of opportunities for actual sites, and application of LEED and Sustainable Sites green rating systems. GE credit: AH, SE, VL. Effective: 2016 Fall Quarter.
+
+LDA 141—Community Participation and Design (4) Fieldwork—3 hours; Laboratory—3 hours; Lecture—1 hour; Project (Term Project)—3 hours. Prerequisite(s): LDA 021; LDA 030; LDA 050; LDA 070 Restricted to Sustainable Environmental Design and Landscape Architecture majors. Introduction to community participation and design. Incorporates social and cultural factors, public and community processes, theories and practices related to human-environment behavior; community involvement in design, social analysis, community engagement, accessibility, diversity and politics of place. GE credit: ACGH, AH, DD, SS, VL. Effective: 2015 Winter Quarter.
+
+LDA 142—Applying Sustainable Strategies (6) Discussion—3 hours; Lecture—3 hours. Prerequisite(s): LDA 140; LDA 141 Restricted to Sustainable Environmental Design Majors. Capstone class examines case studies and techniques of sustainable development. Student teams will develop detailed proposals for real-world sites. GE credit: AH, OL, SE, SS, VL, WE. Effective: 2016 Spring Quarter.
+
+LDA 150—Introduction to Geographic Information Systems (4) Laboratory—3 hours; Lecture—3 hours. Pass One restricted to Landscape Architecture and Sustainable Environmental Design majors. Basic concepts, principles, and methods of GIS are presented. Data structures, database design, GIS data creation, GPS, and spatial analysis. Not open to credit for students who have completed ABT 180, PLS 180, ABT 181N. (Applied Biological Systems Technology 150.) GE credit: SE, VL. Effective: 2018 Winter Quarter.
+
+LDA 160—Design and Build Studio (6) Extensive Problem Solving; Fieldwork; Studio—8 hours. Prerequisite(s): LDA 001; LDA 002; LDA 003; LDA 021; LDA 030; LDA 050; LDA 070 Restricted to Landscape Architecture majors. Introduction to the spatial design and construction of small-scale projects. Hands-on approach to learning and understanding materials (including wood, concrete, and stone) and methods in landscape construction, and the application of technical skills (including detailing, cost estimation, and specifications). GE credit: AH, OL, VL. Effective: 2013 Fall Quarter.
+
+LDA 161—Professional Practice and Construction Documents (6) Fieldwork; Project (Term Project); Studio—8 hours. Prerequisite(s): LDA 171 Open to Landscape Architecture majors only. Legal and professional aspects of landscape architecture, including the development of construction documents (drawings and specifications), proposal writing, fee calculations, project management, cost estimation, and insurance. Effective: 2017 Fall Quarter.
+
+LDA 170—Site Planning and Design Studio (6) Fieldwork; Studio—8 hours. Prerequisite(s): LDA 160 Open to Landscape Architecture majors only. Application of place-making and problem-solving skills to local landscape sites. Analysis of social and environmental conditions in the field. Lectures link design projects to contemporary theories and practices. GE credit: AH, OL, VL. Effective: 2017 Fall Quarter.
+
+LDA 171—Urban Design and Planning Studio (6) Studio—8 hours. Prerequisite(s): LDA 170 Restricted to Landscape Architecture majors. Studio designing large-scale landscapes at regional, sub-regional, and neighborhood scales. Focuses on understanding complex social, economic, and environmental factors, developing sustainability priorities and strategies, and applying them through design and policy. GE credit: ACGH, AH, OL, VL. Effective: 2016 Fall Quarter.
+
+LDA 180—Advanced Design and Planning Studio (6) Extensive Problem Solving; Fieldwork; Studio—8 hours. Prerequisite(s): LDA 060; LDA 160; LDA 170; LDA 171; LDA 172. Restricted to Landscape Architecture majors or consent of instructor. Application of advanced theories and methods of design and planning to real-world projects. May be repeated up to 18 unit(s). GE credit: AH, OL, VL. Effective: 2013 Fall Quarter.
+
+LDA 182—Advanced Landscape Architecture Studio I (6) Studio—8 hours. Prerequisite(s): LDA 171 Restricted to Landscape Architecture majors (ALDA) or consent of instructor. Landscape architecture studio featuring advanced studies and applications of creative work, design, technology and/or theory. One day long fieldtrip required. Effective: 2016
+
+LDA 183—Advanced Landscape Architecture Studio II (6) Studio—8 hours. Prerequisite(s): LDA 182 Restricted to Landscape Architecture majors (ALDA) or consent of instructor. Landscape architecture studio featuring advanced studies and applications of creative work, design, technology and/or theory. One day long field trip required. Effective: 2016
+
+LDA 184—Capstone Landscape Architecture Studio (6) Studio—8 hours. Prerequisite(s): LDA 183 Restricted to Landscape Architecture majors or consent of instructor. Capstone studio that synthesizes learning objectives within the senior-level Landscape Architecture studio sequence. Students required to apply creative problem solving, design theory, technology, and representation skills towards a design approach that addresses complex, real-world environmental design problems. Effective: 2016 Fall Quarter.
+
+LDA 190—Proseminar in Landscape Architecture (1) Seminar—1 hour. Lectures and discussion of critical issues in landscape architecture. May be repeated three times for credit. May be repeated up to 3 time(s). (P/NP grading only.) Effective:
+
+LDA 191—Landscape Architecture Planning & Design Studio (2-12) Seminar—1 hour; Workshop—3 hours. Prerequisite(s): LDA 001; LDA 070; LDA 170; or Consent of Instructor. Priority to Landscape Architecture majors. Faculty initiated workshops featuring advanced studies and applications of original work in landscape architecture. May be repeated up to 20 unit(s). Effective: 2012 Fall Quarter.
+
+LDA 192—Internship in Landscape Architecture (1-12) Internship. Prerequisite(s): Consent of Instructor. Senior standing in Landscape Architecture. Professional field experience in landscape architecture. May be repeated for a total of 12 units. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 193A—Senior Project in Landscape Architecture (3) Studio—6 hours. Prerequisite(s): Senior standing in Landscape Architecture. Limited enrollment. Projects will focus on a critical area of landscape architectural design, planning, planning, analysis, communication, or research. Limited enrollment. Required of all Landscape Architecture majors. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 193B—Senior Project in Landscape Architecture (4) Studio—8 hours. Prerequisite(s): LDA 193A; And senior standing in Landscape Architecture. Limited enrollment. Projects will focus on a critical area of landscape architectural design, planning, analysis, communication, or research. Limited enrollment. Required of all Landscape Architecture majors. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 197T—Tutoring in Landscape Architecture (1-5) Tutorial—3-15 hours. Prerequisite(s): Consent of Instructor. Tutoring in Landscape Architecture courses. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 198—Directed Group Study in Landscape Architecture (1-5) Variable. Prerequisite(s): Consent of Instructor. Directed group study. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 199—Special Study for Advanced Undergraduates in Landscape Architecture (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2012 Fall Quarter.
+
+LDA 200—Citizenship, Democracy, & Public Space (4) Seminar—4 hours. Prerequisite(s): Graduate standing or consent of instructor. Introduction to seminal works in political theory, philosophy, and the social sciences that focus on citizenship and the public sphere; development of critical perspective regarding restructuring of public space in a pluralistic and global culture; discussion of contemporary case studies. (Geography 230.) Effective:
+
+LDA 201—Theory and Philosophy of the Designed Environment (4) Seminar—4 hours. Prerequisite(s): LDA 140; Or the equivalent; graduate standing or consent of instructor. Examines the major theories of environmental design. Epistemology of design serves as framework to examine modern landscape architecture, architecture, urban design and planning. Normative theories of design are reviewed along with the social and environmental sciences. Effective: 2012 Fall Quarter.
+
+LDA 202—Methods in Design and Landscape Research (4) Seminar—4 hours. Explores many of the research and advanced design and planning methods employed in landscape architecture. Exercises provide the student with a vehicle for designing independent landscape research and creative activities. Lectures provide an historical overview of research methodology. Effective: 2016 Spring Quarter.
+
+LDA 204—Case Studies in Landscape Design and Research (4) Seminar—4 hours. Prerequisite(s): Graduate standing in Landscape Architecture, Ecology, Geography or Community Development or consent of instructor. Real-world designed environment situations where creative activity and/or basic research is the primary product. May be repeated for credit for a total of 12 units. May be repeated up to 12 unit(s). Effective: 2012 Fall Quarter.
+
+LDA 205—Urban Planning and Design (4) Discussion—2 hours; Lecture—2 hours. Limited to graduate students. Regulation, design, and development of the built landscape, planning and land development processes, zoning and subdivision regulation, site planning, urban design goals and methods, public participation strategies, creatively designing landscapes to meet community and ecological goals. (Geography 233.) Effective: 2016 Winter Quarter.
+
+LDA 210—Advanced Landscape Architecture Studio (4) Laboratory—8 hours. Prerequisite(s): LDA 113 or the equivalent; graduate standing or consent of instructor. Exposes students to real-world, designed-environment situations where creative activity and/or basic research is the primary product. Advanced landscape problems will be utilized at the site, urban or rural scale. Effective: 2012 Fall Quarter.
+
+LDA 215—Ecologies of Infrastructure (4) Seminar—4 hours. Open to graduate standing or consent of instructor. Focus on design practices and theory associated with ecological conceptions of infrastructure, including networked infrastructure, region, bioregion, regionalization, ecological engineering, reconciliation ecology, novel ecosystems, and theory/articulation of landscape change. (Geography 215.) Effective: 2016
+
+LDA 270—Environment and Behavior (4) Seminar—3 hours; Tutorial—1 hour. Prerequisite(s): Graduate standing or consent of instructor; PSC 144 recommended. Factors that influence human's interaction with their surroundings and the mechanisms used for recognizing and addressing general and specific human needs in community design and development decisions. Effective: 2012 Fall Quarter.
+
+LDA 280—Landscape Conservation (3) Seminar—3 hours. Prerequisite(s): Contact department for prerequisite courses; graduate standing or consent of instructor. Focus is on land planning, design, and management techniques to further the goal of resource preservation. Examines current critical theory in the establishment and management of conservation areas. Effective: 2012 Fall Quarter.
+
+LDA 290—Graduate Seminar in Landscape Architecture (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Seminar on selected topics in landscape architecture research, analysis, planning, design, communication, or education. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2012 Fall
+
+LDA 297—Practicum in Landscape Architecture (1-10) Independent Study—1-10 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Opportunity for students to work directly in the field with academics at other institutions or with professionals in an office setting. Gives experience beyond the confines of campus and allows direct interaction with the community. (S/U grading only.) Effective: 2012
+
+LDA 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+LDA 299—Directed Individual Research for Graduate Students (1-12) Independent Study. May be repeated for credit. (S/U grading only.) Effective: 2012 Fall Quarter.
+
+LDA 396—Teaching Assistant Training Practicum (1-4) Variable. May be repeated for credit. (P/NP grading only.) Effective: 2012 Fall Quarter.

@@ -1,0 +1,39 @@
+BST 222—Biostatistics: Survival Analysis (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): STA 131C Incomplete data; life tables; nonparametric methods; parametric methods; accelerated failure time models; proportional hazards models; partial likelihood; advanced topics. (STA 222.) Effective: 2002 Fall Quarter.
+
+BST 223—Biostatistics: Generalized Linear Models (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): STA 131C Likelihood and linear regression; generalized linear model; Binomial regression; case-control studies; dose-response and bioassay; Poisson regression; Gamma regression; quasi-likelihood models; estimating equations; multivariate GLMs. (STA 223.) Effective: 2002 Fall Quarter.
+
+BST 224—Analysis of Longitudinal Data (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): (BST 222 or STA 222); (BST 223 or STA 223); STA 232B; or Consent of Instructor. Standard and advanced methodology, theory, algorithms, and applications relevant for analysis of repeated measurements and longitudinal data in biostatistical and statistical settings. (STA 224.) Effective: 2005 Spring Quarter.
+
+BST 225—Clinical Trials (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): BST 223 or STA 223; or Consent of Instructor. Basic statistical principles of clinical designs, including bias, randomization, blocking, and masking. Practical applications of widely-used designs, including dose-finding, comparative and cluster randomization designs. Advanced statistical procedures for analysis of data collected in clinical trials. (STA 225.) Effective: 2005 Spring Quarter.
+
+BST 226—Statistical Methods for Bioinformatics (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): BST 131C or Consent of Instructor; Data analysis experience recommended. Standard and advanced statistical methodology, theory, algorithms, and applications relevant to the analysis of -omics data. (STA 226.) Effective: 2007 Winter Quarter.
+
+BST 252—Advanced Topics in Biostatistics (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): BST 222; BST 223 Biostatistical methods and models selected from the following: genetics, bioinformatics and genomics;longitudinal or functional data; clinical trials and experimental design; analysis of environmental data; dose-response, nutrition and toxicology; survival analysis; observational studies and epidemiology; computer-intensive or Bayesian methods in biostatistics. May be repeated for credit with consent of advisor when topic differs. (STA 252.) Effective: 2002 Fall
+
+BST 290—Seminar in Biostatistics (1) Seminar—1 hour. Restricted to graduate standing. Seminar on advanced topics in the field of biostatistics. Presented by members of the Biostatistics Graduate Group and other guest speakers. May be repeated up to 12 time(s). (S/U grading only.) Effective: 2002 Fall Quarter.
+
+BST 298—Directed Group Study (1-5) Variable—3-15 hours. Special topics in Biostatistics appropriate for group study at the graduate level. May be repeated for credit. Effective: 2004 Spring Quarter.
+
+BST 299—Special Study for Biostat Graduate Students (1-12) Variable—3-36 hours. Special topics in Biostatistics appropriate for directed individual study on advanced topics not otherwise covered in the Biostatistics curriculum. May be repeated for credit. (S/U grading only.) Effective: 2004 Spring Quarter.
+
+BST 299D—Dissertation Research (1-12) Variable—3-36 hours. Prerequisite(s): and Consent of Instructor. Advancement to Candidacy for Ph.D. Research in Biostatistics under the supervision of major professor. May be repeated for credit. (S/U grading only.) Effective: 2004 Spring Quarter.
+
+BST 222—Biostatistics: Survival Analysis (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): STA 131C Incomplete data; life tables; nonparametric methods; parametric methods; accelerated failure time models; proportional hazards models; partial likelihood; advanced topics. (STA 222.) Effective: 2002 Fall Quarter.
+
+BST 223—Biostatistics: Generalized Linear Models (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): STA 131C Likelihood and linear regression; generalized linear model; Binomial regression; case-control studies; dose-response and bioassay; Poisson regression; Gamma regression; quasi-likelihood models; estimating equations; multivariate GLMs. (STA 223.) Effective: 2002 Fall Quarter.
+
+BST 224—Analysis of Longitudinal Data (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): (BST 222 or STA 222); (BST 223 or STA 223); STA 232B; or Consent of Instructor. Standard and advanced methodology, theory, algorithms, and applications relevant for analysis of repeated measurements and longitudinal data in biostatistical and statistical settings. (STA 224.) Effective: 2005 Spring Quarter.
+
+BST 225—Clinical Trials (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): BST 223 or STA 223; or Consent of Instructor. Basic statistical principles of clinical designs, including bias, randomization, blocking, and masking. Practical applications of widely-used designs, including dose-finding, comparative and cluster randomization designs. Advanced statistical procedures for analysis of data collected in clinical trials. (STA 225.) Effective: 2005 Spring Quarter.
+
+BST 226—Statistical Methods for Bioinformatics (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): BST 131C or Consent of Instructor; Data analysis experience recommended. Standard and advanced statistical methodology, theory, algorithms, and applications relevant to the analysis of -omics data. (STA 226.) Effective: 2007 Winter Quarter.
+
+BST 252—Advanced Topics in Biostatistics (4) Discussion/Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): BST 222; BST 223 Biostatistical methods and models selected from the following: genetics, bioinformatics and genomics;longitudinal or functional data; clinical trials and experimental design; analysis of environmental data; dose-response, nutrition and toxicology; survival analysis; observational studies and epidemiology; computer-intensive or Bayesian methods in biostatistics. May be repeated for credit with consent of advisor when topic differs. (STA 252.) Effective: 2002 Fall
+
+BST 290—Seminar in Biostatistics (1) Seminar—1 hour. Restricted to graduate standing. Seminar on advanced topics in the field of biostatistics. Presented by members of the Biostatistics Graduate Group and other guest speakers. May be repeated up to 12 time(s). (S/U grading only.) Effective: 2002 Fall Quarter.
+
+BST 298—Directed Group Study (1-5) Variable—3-15 hours. Special topics in Biostatistics appropriate for group study at the graduate level. May be repeated for credit. Effective: 2004 Spring Quarter.
+
+BST 299—Special Study for Biostat Graduate Students (1-12) Variable—3-36 hours. Special topics in Biostatistics appropriate for directed individual study on advanced topics not otherwise covered in the Biostatistics curriculum. May be repeated for credit. (S/U grading only.) Effective: 2004 Spring Quarter.
+
+BST 299D—Dissertation Research (1-12) Variable—3-36 hours. Prerequisite(s): and Consent of Instructor. Advancement to Candidacy for Ph.D. Research in Biostatistics under the supervision of major professor. May be repeated for credit. (S/U grading only.) Effective: 2004 Spring Quarter.

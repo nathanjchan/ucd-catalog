@@ -1,0 +1,123 @@
+PLP 040—Edible Mushroom Cultivation (2) Discussion/Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): BIS 010 or MIC 020 recommended. Principles and practices of growing edible mushrooms, including culture maintenance, basic mushroom substrate preparation, composting, spawn generation techniques, inoculation methods, harvesting, and pests and pest management. Effective: 1998 Winter Quarter.
+
+PLP 120—Introduction to Plant Pathology (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 001C; MIC 102 recommended. The nature, cause, and control of plant diseases. Effective: 1997 Winter Quarter.
+
+PLP 123—Plant-Virus-Vector Interaction (3) Lecture—3 hours. Prerequisite(s): BIS 002A; BIS 101; PLB 105, PLP 120, and ENT 100 recommended. Analysis of interactions necessary for viruses to infect plants.Interactions among insect vectors and host plants involved in the plant-virus life cycle. Evolutionary aspects of the molecular components in viral infection and modern approaches to the interdiction of viral movement. (Entomology 123 and Plant Biology 123.) GE credit: SE, SL, WE. Effective: 2014 Winter
+
+PLP 130—Fungal Biotechnology and Biochemistry (3) Lecture—3 hours. Prerequisite(s): PLB 119; BIS 103 How fundamental physiological and biochemical activities of fungi impact the destructive and beneficial roles of these organisms in nature. Utilization and manipulation of fungi for biotechnological and industrial applications. Effective: 1997 Winter Quarter.
+
+PLP 135—Field Identification of Mushrooms (1) Fieldwork. Prerequisite(s): Introductory course in Biological Sciences; course in mycology recommended. Collection and identification of mushrooms and other fleshy fungi based on macro and microscopic features. (P/NP grading only.) Effective: 1999 Winter Quarter.
+
+PLP 140—Agricultural Biotechnology and Public Policy (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): High school level biology, including genetics; BIS 010 is recommended. Examination of the development and deployment of agricultural biotechnologies, particularly transgenic crop plants, microorganisms and animals, with consideration of conventional agriculture, public perceptions of technologies, food safety, environmental impact, public policies and regulations. GE credit: SL. Effective: 2005 Spring
+
+PLP 148—Introductory Mycology (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 001A; BIS 001B; BIS 001C Limited enrollment. Systematics, ecology, evolution, and morphology of fungi. Importance of fungi to humans. (Plant Biology 148.) GE credit: SE. Effective: 2001 Fall Quarter.
+
+PLP 150—Fungal Ecology (3) Lecture—3 hours. Prerequisite(s): BIS 001C; Or equivalent. The ecological roles of fungi as saprobes, mutualists and parasites in native and managed ecosystems. Physiological and reproductive strategies associated with adaptations to diverse habitats. Effective: 1999 Winter
+
+PLP 185—Advanced Mushroom Taxonomy (2) Discussion/Laboratory—3 hours; Fieldwork—1 hour. Prerequisite(s): (PLP 135 or PLP 148); BIS 101; Or the equivalent to BIS 101. Class size limited to 12 students. Microscopic and molecular methods used in the identification of mushroom species; molecular characterization including PCRamplification of ribosomal nuclear DNA, digestion of the product with restriction enzymes, and DNA sequencing; a one-day field trip is required. Effective: 2002 Fall Quarter.
+
+PLP 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): PLP 120; and Consent of Instructor. Work experience off and on campus, supervised by a member of the faculty. (P/NP grading only.) Effective: 1997
+
+PLP 198—Directed Group Study (1-5) Variable. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+PLP 199—Special Study for Advanced Undergraduates (1-5) Variable. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+PLP 201A—Impacts, Mechanisms and Control of Plant Disease (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): PLP 120; Graduate student status in the Plant Pathology Graduate Program or consent of instructor. A case-studies approach to analysis of plant diseases caused by bacteria, fungi, oomycetes, and viruses, including impacts, etiology, pathogen taxonomy and epidemiology, biochemical and genetic aspects of pathogen-host interactions, virulence and resistance, and approaches to disease control. Effective: 2009 Winter
+
+PLP 201B—Impacts, Mechanisms and Control of Plant Disease (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): PLP 120; PLP 201A; Graduate student status in the Plant Pathology Graduate Program or consent of instructor. A case-studies approach to analysis of plant diseases, including emerging diseases, caused by bacteria, fungi, nematodes, and oomycetes: impacts, etiology, pathogen taxonomy, epidemiology, biochemical and genetic aspects of pathogen-host interactions, virulence, resistance, disease control and statistical analysis. Effective: 2009 Spring Quarter.
+
+PLP 205A—Diseases of Vegetable and Field Crops (3) Fieldwork—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): PLP 120 Clinical study of diseases of vegetable and field crops with emphasis on etiology, epidemiology, diagnosis, and control. Field trips required. Effective: 2006 Spring Quarter.
+
+PLP 205B—Diseases of Vegetable and Field Crops - Summer Field Trip (1) Fieldwork—3 hours. Prerequisite(s): PLP 120; PLP 205A Continuation of Course 205A- four-day field trip investigating diseases of vegetable and field crops. (S/U grading only.) Effective: 2004
+
+PLP 206A—Diseases of Fruit, Nut, and Vine Crop (3) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): PLP 120; PLB 119; and Consent of Instructor. Course 205 may be taken concurrently. Clinical study of fruit, nut, and vine crops diseases with emphasis on etiology, epidemiology, diagnosis, and control. Effective: 1997 Winter
+
+PLP 206B—Diseases of Fruit, Nut, and Vine Crop (1) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): PLP 120; PLB 119; and Consent of Instructor. Course 205 may be taken concurrently. Clinical study of fruit, nut, and vine crops diseases with emphasis on etiology, epidemiology, diagnosis, and control. Effective: 1997 Winter
+
+PLP 210—Biochemistry and Molecular Biology of Plant-Microbe Interaction (4) Lecture/Discussion—4 hours. Prerequisite(s): BIS 101; BIS 102; BIS 103; BIS 104; Or the equivalent. Discussion of plantmicrobe interactions, focused on the underlying cellular, biochemical, and molecular events that determine the diseased state. Effective: 1997 Winter Quarter.
+
+PLP 217—Molecular Genetics of Fungi (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 103; MCB 161; PLB 119; PLP 130; PLP 215X; Graduate standing in a Biological Science; MIC 215 recommended. Advanced treatment of molecular biology and genetics of filamentous fungi and yeasts, including gene structure, organization and regulation; plant pathogenesis; secretion; control of reproduction; reproduction; molecular evolution; transformation; and gene manipulation. (Biological Chemistry 217) Effective: 1997 Winter Quarter.
+
+PLP 224—Advanced Mycology (4) Review all entries Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): PLP 148 or PLB 148; or Consent of Instructor. Systematics, evolution, and ecology of the fungi. Topics include modern techniques and theories on classification of fungi, species concepts, sexual compatibility and vegetative compatibility. Laboratories will emphasize various approaches to fungal identification. Effective:
+
+PLP 224—Advanced Mycology (3) Review all entries Lecture—3 hours. Prerequisite(s): PLP 148 or PLB 148; PLP 120; or Consent of Instructor. Physiology, cell biology and biochemistry of fungi. Topics include mycotoxins, epidemiology and nature of emerging and re-emerging fungal diseases, fungicides, and fungicide resistance. Effective: 2018 Fall Quarter.
+
+PLP 228—Plant Bacteriology (5) Review all entries Laboratory—9 hours; Lecture—2 hours. Prerequisite(s): PLP 120; BIS 102; BIS 103; MIC 002 or the equivalent. Study of bacteria which have a saprophytic, symbiotic, or parasitic association with higher and lower plants. Clinical and molecular methods for identification and classification of these bacteria. Effective: 1997 Winter Quarter.
+
+PLP 228—Plant Bacteriology (3) Review all entries Discussion—1 hour; Lecture—2 hours. Prerequisite(s): PLP 120; or equivalent or consent of instructor. Study of plant pathogenic microorganisms including taxonomy, biology, molecular mechanisms of disease, and plant disease management. Topics include quorum sensing, rhizosphere biology, genomics, virulence factors, and host plant resistance genes. Effective: 2019
+
+PLP 230—Plant Virology (3) Lecture—3 hours. Prerequisite(s): Upper division or graduate course in Molecular Biology or graduate student in Plant Pathology. Viruses as causal agents of plant disease and as tools for manipulating plants; structures of virus particles; mechanisms of transmission, replication, and spread in the plant; cytology and molecular biology in susceptible and resistant reactions to virus infection; virus disease control. Only two units of credit to students who complete MIC 262; not open for credit to students who have completed PLP 226. Effective: 2003 Spring Quarter.
+
+PLP 290—Seminar (1) Seminar—1 hour. Review and evaluation of current research in plant pathology. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PLP 290C—Advanced Research Conference (1) Seminar—1 hour. Prerequisite(s): PLP 120; or Consent of Instructor. Presentation, evaluation, and critical discussions of research activities in the area of advanced plant pathology; primarily designed for graduate students. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PLP 291—Seminar in Molecular Plant Pathology (1) Seminar—1 hour. Prerequisite(s): PLP 120; or Consent of Instructor. Review and evaluation of current literature and research in biochemistry and molecular biology of plant microbe interactions. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter
+
+PLP 295—Seminar in Mycology (1) Seminar—1 hour. Review and evaluation of current literature and research in mycology. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PLP 298—Special Group Study (1-5) Variable. Effective: 1997 Winter Quarter.
+
+PLP 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PLP 040—Edible Mushroom Cultivation (2) Discussion/Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): BIS 010 or MIC 020 recommended. Principles and practices of growing edible mushrooms, including culture maintenance, basic mushroom substrate preparation, composting, spawn generation techniques, inoculation methods, harvesting, and pests and pest management. Effective: 1998 Winter Quarter.
+
+PLP 120—Introduction to Plant Pathology (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 001C; MIC 102 recommended. The nature, cause, and control of plant diseases. Effective: 1997 Winter Quarter.
+
+PLP 123—Plant-Virus-Vector Interaction (3) Lecture—3 hours. Prerequisite(s): BIS 002A; BIS 101; PLB 105, PLP 120, and ENT 100 recommended. Analysis of interactions necessary for viruses to infect plants.Interactions among insect vectors and host plants involved in the plant-virus life cycle. Evolutionary aspects of the molecular components in viral infection and modern approaches to the interdiction of viral movement. (Entomology 123 and Plant Biology 123.) GE credit: SE, SL, WE. Effective: 2014 Winter
+
+PLP 130—Fungal Biotechnology and Biochemistry (3) Lecture—3 hours. Prerequisite(s): PLB 119; BIS 103 How fundamental physiological and biochemical activities of fungi impact the destructive and beneficial roles of these organisms in nature. Utilization and manipulation of fungi for biotechnological and industrial applications. Effective: 1997 Winter Quarter.
+
+PLP 135—Field Identification of Mushrooms (1) Fieldwork. Prerequisite(s): Introductory course in Biological Sciences; course in mycology recommended. Collection and identification of mushrooms and other fleshy fungi based on macro and microscopic features. (P/NP grading only.) Effective: 1999 Winter Quarter.
+
+PLP 140—Agricultural Biotechnology and Public Policy (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): High school level biology, including genetics; BIS 010 is recommended. Examination of the development and deployment of agricultural biotechnologies, particularly transgenic crop plants, microorganisms and animals, with consideration of conventional agriculture, public perceptions of technologies, food safety, environmental impact, public policies and regulations. GE credit: SL. Effective: 2005 Spring
+
+PLP 148—Introductory Mycology (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 001A; BIS 001B; BIS 001C Limited enrollment. Systematics, ecology, evolution, and morphology of fungi. Importance of fungi to humans. (Plant Biology 148.) GE credit: SE. Effective: 2001 Fall Quarter.
+
+PLP 150—Fungal Ecology (3) Lecture—3 hours. Prerequisite(s): BIS 001C; Or equivalent. The ecological roles of fungi as saprobes, mutualists and parasites in native and managed ecosystems. Physiological and reproductive strategies associated with adaptations to diverse habitats. Effective: 1999 Winter
+
+PLP 185—Advanced Mushroom Taxonomy (2) Discussion/Laboratory—3 hours; Fieldwork—1 hour. Prerequisite(s): (PLP 135 or PLP 148); BIS 101; Or the equivalent to BIS 101. Class size limited to 12 students. Microscopic and molecular methods used in the identification of mushroom species; molecular characterization including PCRamplification of ribosomal nuclear DNA, digestion of the product with restriction enzymes, and DNA sequencing; a one-day field trip is required. Effective: 2002 Fall Quarter.
+
+PLP 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): PLP 120; and Consent of Instructor. Work experience off and on campus, supervised by a member of the faculty. (P/NP grading only.) Effective: 1997
+
+PLP 198—Directed Group Study (1-5) Variable. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+PLP 199—Special Study for Advanced Undergraduates (1-5) Variable. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+PLP 201A—Impacts, Mechanisms and Control of Plant Disease (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): PLP 120; Graduate student status in the Plant Pathology Graduate Program or consent of instructor. A case-studies approach to analysis of plant diseases caused by bacteria, fungi, oomycetes, and viruses, including impacts, etiology, pathogen taxonomy and epidemiology, biochemical and genetic aspects of pathogen-host interactions, virulence and resistance, and approaches to disease control. Effective: 2009 Winter
+
+PLP 201B—Impacts, Mechanisms and Control of Plant Disease (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): PLP 120; PLP 201A; Graduate student status in the Plant Pathology Graduate Program or consent of instructor. A case-studies approach to analysis of plant diseases, including emerging diseases, caused by bacteria, fungi, nematodes, and oomycetes: impacts, etiology, pathogen taxonomy, epidemiology, biochemical and genetic aspects of pathogen-host interactions, virulence, resistance, disease control and statistical analysis. Effective: 2009 Spring Quarter.
+
+PLP 205A—Diseases of Vegetable and Field Crops (3) Fieldwork—3 hours; Lecture/Discussion—3 hours. Prerequisite(s): PLP 120 Clinical study of diseases of vegetable and field crops with emphasis on etiology, epidemiology, diagnosis, and control. Field trips required. Effective: 2006 Spring Quarter.
+
+PLP 205B—Diseases of Vegetable and Field Crops - Summer Field Trip (1) Fieldwork—3 hours. Prerequisite(s): PLP 120; PLP 205A Continuation of Course 205A- four-day field trip investigating diseases of vegetable and field crops. (S/U grading only.) Effective: 2004
+
+PLP 206A—Diseases of Fruit, Nut, and Vine Crop (3) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): PLP 120; PLB 119; and Consent of Instructor. Course 205 may be taken concurrently. Clinical study of fruit, nut, and vine crops diseases with emphasis on etiology, epidemiology, diagnosis, and control. Effective: 1997 Winter
+
+PLP 206B—Diseases of Fruit, Nut, and Vine Crop (1) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): PLP 120; PLB 119; and Consent of Instructor. Course 205 may be taken concurrently. Clinical study of fruit, nut, and vine crops diseases with emphasis on etiology, epidemiology, diagnosis, and control. Effective: 1997 Winter
+
+PLP 210—Biochemistry and Molecular Biology of Plant-Microbe Interaction (4) Lecture/Discussion—4 hours. Prerequisite(s): BIS 101; BIS 102; BIS 103; BIS 104; Or the equivalent. Discussion of plantmicrobe interactions, focused on the underlying cellular, biochemical, and molecular events that determine the diseased state. Effective: 1997 Winter Quarter.
+
+PLP 217—Molecular Genetics of Fungi (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 103; MCB 161; PLB 119; PLP 130; PLP 215X; Graduate standing in a Biological Science; MIC 215 recommended. Advanced treatment of molecular biology and genetics of filamentous fungi and yeasts, including gene structure, organization and regulation; plant pathogenesis; secretion; control of reproduction; reproduction; molecular evolution; transformation; and gene manipulation. (Biological Chemistry 217) Effective: 1997 Winter Quarter.
+
+PLP 224—Advanced Mycology (4) Review all entries Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): PLP 148 or PLB 148; or Consent of Instructor. Systematics, evolution, and ecology of the fungi. Topics include modern techniques and theories on classification of fungi, species concepts, sexual compatibility and vegetative compatibility. Laboratories will emphasize various approaches to fungal identification. Effective:
+
+PLP 224—Advanced Mycology (3) Review all entries Lecture—3 hours. Prerequisite(s): PLP 148 or PLB 148; PLP 120; or Consent of Instructor. Physiology, cell biology and biochemistry of fungi. Topics include mycotoxins, epidemiology and nature of emerging and re-emerging fungal diseases, fungicides, and fungicide resistance. Effective: 2018 Fall Quarter.
+
+PLP 228—Plant Bacteriology (5) Review all entries Laboratory—9 hours; Lecture—2 hours. Prerequisite(s): PLP 120; BIS 102; BIS 103; MIC 002 or the equivalent. Study of bacteria which have a saprophytic, symbiotic, or parasitic association with higher and lower plants. Clinical and molecular methods for identification and classification of these bacteria. Effective: 1997 Winter Quarter.
+
+PLP 228—Plant Bacteriology (3) Review all entries Discussion—1 hour; Lecture—2 hours. Prerequisite(s): PLP 120; or equivalent or consent of instructor. Study of plant pathogenic microorganisms including taxonomy, biology, molecular mechanisms of disease, and plant disease management. Topics include quorum sensing, rhizosphere biology, genomics, virulence factors, and host plant resistance genes. Effective: 2019
+
+PLP 230—Plant Virology (3) Lecture—3 hours. Prerequisite(s): Upper division or graduate course in Molecular Biology or graduate student in Plant Pathology. Viruses as causal agents of plant disease and as tools for manipulating plants; structures of virus particles; mechanisms of transmission, replication, and spread in the plant; cytology and molecular biology in susceptible and resistant reactions to virus infection; virus disease control. Only two units of credit to students who complete MIC 262; not open for credit to students who have completed PLP 226. Effective: 2003 Spring Quarter.
+
+PLP 290—Seminar (1) Seminar—1 hour. Review and evaluation of current research in plant pathology. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PLP 290C—Advanced Research Conference (1) Seminar—1 hour. Prerequisite(s): PLP 120; or Consent of Instructor. Presentation, evaluation, and critical discussions of research activities in the area of advanced plant pathology; primarily designed for graduate students. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PLP 291—Seminar in Molecular Plant Pathology (1) Seminar—1 hour. Prerequisite(s): PLP 120; or Consent of Instructor. Review and evaluation of current literature and research in biochemistry and molecular biology of plant microbe interactions. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter
+
+PLP 295—Seminar in Mycology (1) Seminar—1 hour. Review and evaluation of current literature and research in mycology. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PLP 298—Special Group Study (1-5) Variable. Effective: 1997 Winter Quarter.
+
+PLP 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.

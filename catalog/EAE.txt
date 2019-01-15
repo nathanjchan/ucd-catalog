@@ -1,0 +1,107 @@
+EAE 001—Introduction to Aerospace Science Engineering (1) Lecture—1 hour. Description of the field of aerospace engineering with examples from industry, government, and research. Aerospace engineering principles, ethics, and responsibilities. (P/NP grading only.) Effective: 2002 Fall Quarter.
+
+EAE 010—From the Wright Brothers to Drones and Quadcopters (2) Lecture—2 hours. History of aircraft and its influence on society. Topics covered will include Unmanned Aerial Vehicles, safety considerations, economics and privacy issues. Aerodynamics, stability and control will also be introduced. GE credit: SE, SS. Effective: 2015 Summer Session 1.
+
+EAE 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Lower division standing. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+EAE 126—Theoretical and Computational Aerodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 180 C- or better or EAD 115 C- or better or MAT 128C C- or better or EME 115 C- or better); EAE 127 C- or better Development of general equations of fluid motion. Study of flow field kinematics and dynamics. Flow about a body. Thin airfoil theory. Viscous effects. Applications of numerical methods to wing analysis and design. GE credit: SE. Effective: 2013 Fall Quarter.
+
+EAE 127—Applied Aircraft Aerodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EME 106 C- or better Principles, governing equations, and predictive theories for aircraft aerodynamics. Lift and drag of 2D airfoils, 3D wings, and high-lift devices. GE credit: SE, WE. Effective: 2017 Fall Quarter.
+
+EAE 129—Stability and Control of Aerospace Vehicles (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ENG 102 C- or better Restricted to upper division standing. Aircraft and spacecraft stability and control. Derivation of fundamental equations of motion for aircraft/spacecraft. Fundamentals of feedback. Aircraft flight control systems. Spacecraft attitude control systems. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 130A—Aircraft Performance and Design (4) Discussion—1 hour; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EAE 127 C- or better; EAE 129 C- or better (can be concurrent) Major aircraft design experience with multiple realistic constraints including aerodynamics, performance analysis, weight estimation, stability and control, and appropriate engineering standards. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 130B—Aircraft Performance and Design (4) Discussion—1 hour; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EAE 130A C- or better Restricted to upper division standing. Major aircraft design experience including detailed design, cost analysis, analysis of aircraft structure, propulsion system, aerodynamics, aircraft handling qualities, manufacturing, or meeting relevant engineering standards. GE credit: OL, SE. Effective:
+
+EAE 133—Finite Element Methods in Structures (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 104 C- or better Open to College of Engineering Students. Introduction to the aerospace structural design process. History of aircraft and spacecraft materials. Effects of loading beyond elastic limit. Deflections and stresses due to combined loading. Virtual work principles, and finite element methods. Applications to aerospace structures. GE credit: SE. Effective: 2011 Fall Quarter.
+
+EAE 135—Aerospace Structures (4) Lecture—4 hours. Prerequisite(s): ENG 104 C- or better; EAE 126 or EAE 127 recommended. Analysis and design methods used in aerospace structures. Shear flow in open, closed and multicell beam cross-sections, buckling of flat and curved sheets, tension field beams, local buckling. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 137—Structural Composites (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ENG 104 C- or better Overview of materials and technology for creating structures from fiber reinforced resin matrix composite material systems. Elementary design analysis and case studies emphasizing aeronautical applications. GE credit: SE. Effective: 2010 Fall Quarter.
+
+EAE 138—Aircraft Propulsion (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EME 106 C- or better Analysis/design of modern aircraft gas turbine engines. Development/application of cycle performance prediction techniques. Introduction to design of inlets, compressors, burners, turbines, and nozzles. Cycle design for specific applications. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 140—Rocket Propulsion (4) Lecture—4 hours. Prerequisite(s): EME 106 C- or better Restricted to upper division standing. Fluid and thermodynamics of rocket engines, liquid and solid rocket propulsion. Space propulsion concepts and space mission requirements. Not open for credit to students who have taken identical EAE 189A prior to Fall Quarter 2013. GE credit: SE. Effective: 2016 Winter Quarter.
+
+EAE 141—Space Systems Design (4) Discussion—2 hours; Lecture—2 hours. Prerequisite(s): ENG 102 C- or better; EME 106 C- or better Introduction to space systems design including space project organization, requirements definition and specification, concepts formulation, system tradeoffs, subsystem design. Prototype space mission concepts are presented and a multidisciplinary mission design is developed that considers all relevant architecture elements. GE credit: SE. Effective: 2013 Fall Quarter.
+
+EAE 142—Orbital Mechanics (4) Lecture—4 hours. Prerequisite(s): ENG 102 C- or better Restricted to upper division standing. Satellite orbits, multistage rockets, current global boosters, and new technologies. Design application problems include satellites, trajectory optimizations, and interplanetary trajectories. Not open for credit to students who have completed EAE 189B prior to Fall Quarter 2013. GE credit: SE. Effective: 2013 Fall Quarter.
+
+EAE 189C—Flight Simulation and Testing in Design of Aircraft and Spacecraft (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 102; and Consent of Instructor. Teaches flight test techniques together with data analysis methods to prepare students for any type of flight testing including fixed wing, rotary wing and launch vehicles. GE credit: SE. Effective:
+
+EAE 198—Directed Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997
+
+EAE 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+EAE 001—Introduction to Aerospace Science Engineering (1) Lecture—1 hour. Description of the field of aerospace engineering with examples from industry, government, and research. Aerospace engineering principles, ethics, and responsibilities. (P/NP grading only.) Effective: 2002 Fall Quarter.
+
+EAE 010—From the Wright Brothers to Drones and Quadcopters (2) Lecture—2 hours. History of aircraft and its influence on society. Topics covered will include Unmanned Aerial Vehicles, safety considerations, economics and privacy issues. Aerodynamics, stability and control will also be introduced. GE credit: SE, SS. Effective: 2015 Summer Session 1.
+
+EAE 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Lower division standing. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+EAE 126—Theoretical and Computational Aerodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 180 C- or better or EAD 115 C- or better or MAT 128C C- or better or EME 115 C- or better); EAE 127 C- or better Development of general equations of fluid motion. Study of flow field kinematics and dynamics. Flow about a body. Thin airfoil theory. Viscous effects. Applications of numerical methods to wing analysis and design. GE credit: SE. Effective: 2013 Fall Quarter.
+
+EAE 127—Applied Aircraft Aerodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EME 106 C- or better Principles, governing equations, and predictive theories for aircraft aerodynamics. Lift and drag of 2D airfoils, 3D wings, and high-lift devices. GE credit: SE, WE. Effective: 2017 Fall Quarter.
+
+EAE 129—Stability and Control of Aerospace Vehicles (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ENG 102 C- or better Restricted to upper division standing. Aircraft and spacecraft stability and control. Derivation of fundamental equations of motion for aircraft/spacecraft. Fundamentals of feedback. Aircraft flight control systems. Spacecraft attitude control systems. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 130A—Aircraft Performance and Design (4) Discussion—1 hour; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EAE 127 C- or better; EAE 129 C- or better (can be concurrent) Major aircraft design experience with multiple realistic constraints including aerodynamics, performance analysis, weight estimation, stability and control, and appropriate engineering standards. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 130B—Aircraft Performance and Design (4) Discussion—1 hour; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EAE 130A C- or better Restricted to upper division standing. Major aircraft design experience including detailed design, cost analysis, analysis of aircraft structure, propulsion system, aerodynamics, aircraft handling qualities, manufacturing, or meeting relevant engineering standards. GE credit: OL, SE. Effective:
+
+EAE 133—Finite Element Methods in Structures (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 104 C- or better Open to College of Engineering Students. Introduction to the aerospace structural design process. History of aircraft and spacecraft materials. Effects of loading beyond elastic limit. Deflections and stresses due to combined loading. Virtual work principles, and finite element methods. Applications to aerospace structures. GE credit: SE. Effective: 2011 Fall Quarter.
+
+EAE 135—Aerospace Structures (4) Lecture—4 hours. Prerequisite(s): ENG 104 C- or better; EAE 126 or EAE 127 recommended. Analysis and design methods used in aerospace structures. Shear flow in open, closed and multicell beam cross-sections, buckling of flat and curved sheets, tension field beams, local buckling. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 137—Structural Composites (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ENG 104 C- or better Overview of materials and technology for creating structures from fiber reinforced resin matrix composite material systems. Elementary design analysis and case studies emphasizing aeronautical applications. GE credit: SE. Effective: 2010 Fall Quarter.
+
+EAE 138—Aircraft Propulsion (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EME 106 C- or better Analysis/design of modern aircraft gas turbine engines. Development/application of cycle performance prediction techniques. Introduction to design of inlets, compressors, burners, turbines, and nozzles. Cycle design for specific applications. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 140—Rocket Propulsion (4) Lecture—4 hours. Prerequisite(s): EME 106 C- or better Restricted to upper division standing. Fluid and thermodynamics of rocket engines, liquid and solid rocket propulsion. Space propulsion concepts and space mission requirements. Not open for credit to students who have taken identical EAE 189A prior to Fall Quarter 2013. GE credit: SE. Effective: 2016 Winter Quarter.
+
+EAE 141—Space Systems Design (4) Discussion—2 hours; Lecture—2 hours. Prerequisite(s): ENG 102 C- or better; EME 106 C- or better Introduction to space systems design including space project organization, requirements definition and specification, concepts formulation, system tradeoffs, subsystem design. Prototype space mission concepts are presented and a multidisciplinary mission design is developed that considers all relevant architecture elements. GE credit: SE. Effective: 2013 Fall Quarter.
+
+EAE 142—Orbital Mechanics (4) Lecture—4 hours. Prerequisite(s): ENG 102 C- or better Restricted to upper division standing. Satellite orbits, multistage rockets, current global boosters, and new technologies. Design application problems include satellites, trajectory optimizations, and interplanetary trajectories. Not open for credit to students who have completed EAE 189B prior to Fall Quarter 2013. GE credit: SE. Effective: 2013 Fall Quarter.
+
+EAE 189C—Flight Simulation and Testing in Design of Aircraft and Spacecraft (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 102; and Consent of Instructor. Teaches flight test techniques together with data analysis methods to prepare students for any type of flight testing including fixed wing, rotary wing and launch vehicles. GE credit: SE. Effective:
+
+EAE 198—Directed Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997
+
+EAE 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+EAE 001—Introduction to Aerospace Science Engineering (1) Lecture—1 hour. Description of the field of aerospace engineering with examples from industry, government, and research. Aerospace engineering principles, ethics, and responsibilities. (P/NP grading only.) Effective: 2002 Fall Quarter.
+
+EAE 010—From the Wright Brothers to Drones and Quadcopters (2) Lecture—2 hours. History of aircraft and its influence on society. Topics covered will include Unmanned Aerial Vehicles, safety considerations, economics and privacy issues. Aerodynamics, stability and control will also be introduced. GE credit: SE, SS. Effective: 2015 Summer Session 1.
+
+EAE 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Lower division standing. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+EAE 126—Theoretical and Computational Aerodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 180 C- or better or EAD 115 C- or better or MAT 128C C- or better or EME 115 C- or better); EAE 127 C- or better Development of general equations of fluid motion. Study of flow field kinematics and dynamics. Flow about a body. Thin airfoil theory. Viscous effects. Applications of numerical methods to wing analysis and design. GE credit: SE. Effective: 2013 Fall Quarter.
+
+EAE 127—Applied Aircraft Aerodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EME 106 C- or better Principles, governing equations, and predictive theories for aircraft aerodynamics. Lift and drag of 2D airfoils, 3D wings, and high-lift devices. GE credit: SE, WE. Effective: 2017 Fall Quarter.
+
+EAE 129—Stability and Control of Aerospace Vehicles (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ENG 102 C- or better Restricted to upper division standing. Aircraft and spacecraft stability and control. Derivation of fundamental equations of motion for aircraft/spacecraft. Fundamentals of feedback. Aircraft flight control systems. Spacecraft attitude control systems. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 130A—Aircraft Performance and Design (4) Discussion—1 hour; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EAE 127 C- or better; EAE 129 C- or better (can be concurrent) Major aircraft design experience with multiple realistic constraints including aerodynamics, performance analysis, weight estimation, stability and control, and appropriate engineering standards. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 130B—Aircraft Performance and Design (4) Discussion—1 hour; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EAE 130A C- or better Restricted to upper division standing. Major aircraft design experience including detailed design, cost analysis, analysis of aircraft structure, propulsion system, aerodynamics, aircraft handling qualities, manufacturing, or meeting relevant engineering standards. GE credit: OL, SE. Effective:
+
+EAE 133—Finite Element Methods in Structures (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 104 C- or better Open to College of Engineering Students. Introduction to the aerospace structural design process. History of aircraft and spacecraft materials. Effects of loading beyond elastic limit. Deflections and stresses due to combined loading. Virtual work principles, and finite element methods. Applications to aerospace structures. GE credit: SE. Effective: 2011 Fall Quarter.
+
+EAE 135—Aerospace Structures (4) Lecture—4 hours. Prerequisite(s): ENG 104 C- or better; EAE 126 or EAE 127 recommended. Analysis and design methods used in aerospace structures. Shear flow in open, closed and multicell beam cross-sections, buckling of flat and curved sheets, tension field beams, local buckling. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 137—Structural Composites (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ENG 104 C- or better Overview of materials and technology for creating structures from fiber reinforced resin matrix composite material systems. Elementary design analysis and case studies emphasizing aeronautical applications. GE credit: SE. Effective: 2010 Fall Quarter.
+
+EAE 138—Aircraft Propulsion (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EME 106 C- or better Analysis/design of modern aircraft gas turbine engines. Development/application of cycle performance prediction techniques. Introduction to design of inlets, compressors, burners, turbines, and nozzles. Cycle design for specific applications. GE credit: SE. Effective: 2017 Fall Quarter.
+
+EAE 140—Rocket Propulsion (4) Lecture—4 hours. Prerequisite(s): EME 106 C- or better Restricted to upper division standing. Fluid and thermodynamics of rocket engines, liquid and solid rocket propulsion. Space propulsion concepts and space mission requirements. Not open for credit to students who have taken identical EAE 189A prior to Fall Quarter 2013. GE credit: SE. Effective: 2016 Winter Quarter.
+
+EAE 141—Space Systems Design (4) Discussion—2 hours; Lecture—2 hours. Prerequisite(s): ENG 102 C- or better; EME 106 C- or better Introduction to space systems design including space project organization, requirements definition and specification, concepts formulation, system tradeoffs, subsystem design. Prototype space mission concepts are presented and a multidisciplinary mission design is developed that considers all relevant architecture elements. GE credit: SE. Effective: 2013 Fall Quarter.
+
+EAE 142—Orbital Mechanics (4) Lecture—4 hours. Prerequisite(s): ENG 102 C- or better Restricted to upper division standing. Satellite orbits, multistage rockets, current global boosters, and new technologies. Design application problems include satellites, trajectory optimizations, and interplanetary trajectories. Not open for credit to students who have completed EAE 189B prior to Fall Quarter 2013. GE credit: SE. Effective: 2013 Fall Quarter.
+
+EAE 189C—Flight Simulation and Testing in Design of Aircraft and Spacecraft (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 102; and Consent of Instructor. Teaches flight test techniques together with data analysis methods to prepare students for any type of flight testing including fixed wing, rotary wing and launch vehicles. GE credit: SE. Effective:
+
+EAE 198—Directed Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997
+
+EAE 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter

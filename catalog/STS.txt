@@ -1,0 +1,195 @@
+STS 001—Introduction to Science, Technology and Medicine Studies (4) Discussion—1 hour; Lecture—3 hours. History, philosophy, sociology, politics, and cultural studies of science, technology, and medicine. Emphasis on a broad range of perspectives. GE credit: SS, WE. Effective: 1998 Fall Quarter.
+
+STS 002—Introduction to the History of Science and Technology (4) Discussion—1 hour; Lecture—3 hours. Introduction to topics and methods of the history of science and technology. Emphasis on understanding the role of science and technology in the modern world through a long-term historical perspective. (History 002.) GE credit: AH, SL, SS, WC, WE. Effective: 2017 Fall Quarter.
+
+STS 011—Science on Trial: Law, Science, and Technology in the United States (4) Lecture/Discussion—3 hours; Term Paper. Relationships among law, technology, and science. Scientific evidence and testimony, biology education, patenting, and sterilization. GE credit: ACGH, SS. Effective: 2018 Spring Quarter.
+
+STS 020—Methods in Science, Technology and Medicine Studies (4) Extensive Writing; Lecture/Discussion—3 hours. Prerequisite(s): STS 001 recommended. Methodological issues concerning the historical, philosophical, sociological, ethical, and political analysis of science, technology, and medicine. Detailed case studies to illustrate different methods of analysis. GE credit: SS, WE. Effective: 1998 Fall Quarter.
+
+STS 032—Drugs, Science and Culture (4) Discussion—1 hour; Lecture—3 hours. Drugs, politics, science, society in a cultural perspective: emphasis on roles of science, government and the media in shifting attitudes toward alcohol, marijuana, Prozac and other pharmaceuticals; drug laws, war on drugs and global trade in sugar, opium, cocaine. (Anthropology 32.) GE credit: SS, VL, WE. Effective: 2008 Fall Quarter.
+
+STS 040A—Media History 1, Gutenberg to Oppenheimer (4) Discussion—1 hour; Extensive Writing; Film Viewing—2 hours; Lecture—3 hours. History of Media to 1945, with particular focus on mechanically reproduced mass media technologies including the printing press, the newspaper, photography, cinema, radio and early computing technology. Analysis of inter-related cultural and political topics. (Cinema and Technocultural Studies 40A.) GE credit: AH, OL, SS, VL, WE. Effective: 2014 Fall Quarter.
+
+STS 040B—Media History 2 1945-Present (4) Discussion—1 hour; Extensive Writing; Film Viewing—2 hours; Lecture—3 hours. Prerequisite(s): STS 040A History of media from 1945 to present, with particular focus on the development of the computer, digital network and internet technologies in the context of other media infrastructures like radio, television and satellite networks. Analysis of inter-related cultural/political topics. (Cinema & Technocultural Studies 040B.) GE credit: AH, OL, SS, VL, WE. Effective: 2015 Winter
+
+STS 050—Ancient Science (4) Discussion—1 hour; Lecture—3 hours. Study of science in ancient Greece and Rome; consideration of its social context; concentration on the basic concepts of physics the world of medicine and biology the history of mathematics and the practices of astronomy astrology and meteorology. (Classics 50.) GE credit: AH, WC, WE. Effective: 2016 Fall Quarter.
+
+STS 051—Ancient Medicine (4) Discussion—1 hour; Lecture—3 hours. Medicine in ancient Greece and Rome; physiological conceptions of the body within scientific and social frameworks; exploration of sanitation technology and health in antiquity; medical treatment of the female body; medicine and the economy. (Classics 051.) GE credit: AH, WC, WE. Effective: 2016 Winter Quarter.
+
+STS 092—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Work experience off and on campus in all subject areas offered in the program in Science & Technology Studies under the supervision of a member of the faculty. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 2006
+
+STS 098—Directed Group Study (1-5) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. May be repeated for credit. (P/NP grading only.) GE credit: SS. Effective: 2006 Fall Quarter.
+
+STS 099—Special Study for Undergraduates (1-5) Variable—3-15 hours. (P/NP grading only.) Effective: 2006 Fall Quarter.
+
+STS 101—Introduction to Data Studies (4) Lecture/Discussion—4 hours. Introduction to basic data science concepts, defining problems, clarifying questions, identifying stakeholders, caring for and cleaning data, interviewing techniques, structuring presentations, use of Excel for data problems. GE credit: SS. Effective: 2017 Spring
+
+STS 108—Intellectual Property in Science (4) Lecture/Discussion—4 hours. Prerequisite(s): STS 001; Or other Social Science or Humanities writing course. Historical and conceptual framework for contemporary debates about intellectual property and science. Topics include US patent system and copyright law, interaction between patents and industrial policy, credit in academic and industrial science, role of IP in global knowledge politics. GE credit: ACGH, SS, WE. Effective: 2011 Spring Quarter.
+
+STS 109—Visualization in Science: A Critical Introduction (4) Extensive Writing/Discussion—1 hour; Lecture—3 hours. Prerequisite(s): STS 001 or STS 020 or ANT 002 recommended. Anthropological approaches to scientific visualization techniques, informatics, simulations. Examination of different visualization techniques toward understanding the work involved in producing them, critical assessment of their power and limits, especially when visualizations are used socially to make claims. (Anthropology 109.) GE credit: SS, VL, WE. Effective: 2016 Fall Quarter.
+
+STS 110—Computing, Data, & Law in the United States (4) Lecture/Discussion—3 hours; Term Paper. Introduction to the problems in American law and policy borne out of the creation and use of information technologies. Topics include intellectual property, corporate law, privacy, and emerging problems surrounding big data. GE credit: ACGH, SS, WE. Effective: 2018 Winter Quarter.
+
+STS 112—Visualizing Society with Data (4) Lecture/Lab—3 hours; Term Paper. Analysis and visualization of historical and contemporary data about populations and societies using R. Critical exploration of visual communication of information about people over time and critical assessment of role of data collection and analysis in societies . GE credit: DD, QL, SS. Effective: 2018 Winter Quarter.
+
+STS 120—Religion, Magic and Science (4) Extensive Writing; Lecture—3 hours. Religion, magic, and science from the middle ages to the present. Contrast between modern scientific methodology and religious and magical thinking. (RST 120) GE credit: AH, OL, VL, WC. Effective: 2005 Fall Quarter.
+
+STS 121—Special Topics in Medical Anthropology (4) Lecture/Discussion—4 hours. Prerequisite(s): ANT 002 recommended. Introduction to critical medical anthropology. Topics include anthropological analysis of bio-medicine, psychiatry, systems of knowledge and healing, the body, emotions, and clinical encounters in a cross-cultural perspective. (Anthropology 121.) GE credit: SS, WC, WE. Effective: 2016 Fall Quarter.
+
+STS 122—Health and Medical Technologies (4) Lecture/Discussion—3 hours; Term Paper. Critical/historical examination of medical technologies: imaging, pharmaceuticals, genetics, implants/devices. Exploration of mutually constitutive relationship between health, medical technologies, social difference (race/gender/class/sexuality). GE credit: DD, SS. Effective: 2018 Winter Quarter.
+
+STS 129—Health and Medicine in a Global Context (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): ANT 002 recommended. Recent works in medical anthropology and the science studies of medicine dealing with social and cultural aspects of global health issues such as AIDS, pandemics, clinical trials, cultural differences in illnesses, diabetes, organ trafficking, medical technologies, illness narratives, and others. (Anthropology 129.) GE credit: SS, WC, WE. Effective: 2016 Fall Quarter.
+
+STS 130A—From Natural History to the History of Nature (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): HIS 135A recommended. Evolution and demise of natural history as a discipline from Aristotle to Linnaeus. Considers ancient views of nature and its Renaissance rediscovery; the emergence of biology, botany, geology, and zoology; the history of taxonomy and classification. GE credit: AH, SE, WE. Effective: 1997 Winter Quarter.
+
+STS 130B—History of Modern Biology (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): STS 130A recommended. Development of modern biology from pre-Darwinian roots to the present. Considers emergence of modern biological specialities and consolidation of biological theory around evolutionary ideas. History of allied fields such as genetics, paleontology, embryology, ecology, systematics and molecular biology. GE credit: AH, SE, WE. Effective: 1997 Winter Quarter.
+
+STS 131—Darwin (4) Lecture—3 hours; Term Paper. Prerequisite(s): Upper division standing or consent of instructor. Students will explore the life and times of Charles Darwin and will trace the development of evolutionary thinking before and after the Origin of Species to appreciate its place in Victorian society and in the corpus of Darwins thought. GE credit: AH, SE, WE. Effective: 1997 Winter
+
+STS 150—Gender and Science (4) Lecture/Discussion—3 hours; Term Paper. An interdisciplinary approach to the relations between gender and science. Topics include the biological and cultural construction of sexual difference, the role of women as practitioners of science, and feminist approaches to science. GE credit: ACGH, DD, SS, WE. Effective: 1997 Winter Quarter.
+
+STS 151—Media Theory (5) Discussion—1 hour; Extensive Writing; Film Viewing—3 hours; Lecture—2 hours. Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media (formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory). (Cinema and Technocultural Studies 150.) GE credit: AH, OL, SS, VL, WE. Effective: 2014 Fall Quarter.
+
+STS 152—Sounding Data: Critical Approaches to Sonification (4) Lecture/Discussion—3 hours; Term Paper/Discussion. Critical and creative approaches to auditory data and display in art, science, and technology. Practical introduction to sonification techniques through sound studies and sensory ethnography. Heuristic listening and collaborative sound design. GE credit: SS, WE. Effective: 2017 Spring Quarter.
+
+STS 160—Ghosts of the Machine: How Technology Rewires our Senses (4) Extensive Writing/Discussion—1 hour; Lecture—3 hours. Historical, aesthetic and critical approaches to how information technologies produced ghost effects or a sense of terror in response to new media like the photograph, gramophone, film, typewriter, computer, Turing Machine. Focus on technological media transforms sense perception. (Technocultural Studies 160.) GE credit: ACGH, AH, SS, VL, WE. Effective: 2013 Fall Quarter.
+
+STS 161—Time: Mechanism and Measurement (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): STS 001 Cultural concepts of time; units and instruments of time measurement; historical differences in the social organization of time; and time measurement in twentieth-century science. GE credit: SS, WE. Effective: 2005 Fall Quarter.
+
+STS 162—Surveillance Technologies and Social Media (4) Film Viewing—3 hours; Lecture—3 hours; Term Paper. Prerequisite(s): STS 020 or TCS 001 Study of the ubiquitous presence of CCTV, face recognition software, global tracking systems, biosensors, and data mining practices that have made surveillance part of our daily life. Exploration of the boundary between security and control, information and spying. (Cinema & Technocultural Studies 162.) GE credit: ACGH, AH, OL, SS, VL, WE. Effective: 2015 Winter Quarter.
+
+STS 163—History of Communication Technologies (4) Lecture/Discussion—3 hours; Term Paper. History of communication technologies from the late Middle Ages to the 20th century. Questions of technology, knowledge, power and culture. Particular attention to questions about information and truth. GE credit: SS, WE. Effective: 2005 Fall Quarter.
+
+STS 164—Writing Science (4) Extensive Writing; Lecture/Discussion—3 hours. Prerequisite(s): STS 001 or ENL 003; Or equivalent. Texts and writing practices in the production of scientific knowledge. Surveys the literary structure of scientific arguments; history of scientific genres; rhetoric and semiotics in scientific culture; graphical systems in the experimental laboratory; narratives of science, including science fiction. (English 164.) GE credit: AH, SL, WE. Effective: 2011 Fall Quarter.
+
+STS 165—Built Environments (4) Extensive Writing; Lecture—3 hours. Built environments, which are designed to support forms of life. Their role as carriers of cultural memory and in turning knowledge of nature into social assets. Historical constellations of knowledge, social order, and power. GE credit: SS. Effective: 2005
+
+STS 172—Video Games and Culture (4) Extensive Writing/Discussion—1 hour; Lecture—3 hours. Prerequisite(s): STS 001 or TCS 001 or ENL 003; Or equivalent of any. Critical approaches to the study of video games, focusing on formal, historical, and cultural modes of analysis. History of software and hardware in North American and global contexts. Relations of games to society, politics, economics, literature, media, and the arts. (Cinema and Technocultural Studies 172 and English 172.) GE credit: ACGH, AH, SS, VL. Effective: 2014 Fall Quarter.
+
+STS 173—Science Fiction (4) Extensive Writing; Lecture/Discussion—3 hours. Prerequisite(s): STS 001 or ENL 003; Or equivalent. The literary modes and methods of science fiction. Representative texts, authors, and themes of the genre - e.g., time travel, alternative universes, and utopias. Relations of science fiction to science, philosophy, and culture. (English 173.) GE credit: AH, WE. Effective: 2008 Winter
+
+STS 175—Laboratory Studies Lab (4) Discussion/Laboratory—4 hours. Prerequisite(s): Upper division standing or consent of instructor. Hands-on training in Science and Technology Studies fieldwork, interviewing, archival research and data analysis. Review of laboratory studies literature, informed consent procedures, ethics, and care of the data. Individual and group projects possible. GE credit: SS, WE. Effective: 2011 Fall
+
+STS 176—Sociology of Knowledge, Science, and Scientific Knowledge (4) Lecture—3 hours; Term Paper/Discussion—1 hour. Prerequisite(s): SOC 001, SOC 002, or SOC 003 recommended. Social, cultural, and historical dimensions of knowledge, especially scientific knowledge. Problems, methods, and theory in sociology of scientific knowledge. Laboratory and historical case studies. Scientific and technical knowledge in institutional and organizational contexts. (Sociology 176.) GE credit: SS. Effective: 2016 Fall Quarter.
+
+STS 180—Topics in History and Philosophy of Science (4) Review all entries Seminar—3 hours; Term Paper. Prerequisite(s): Course in History and Philosophy of Science or other course-work relevant to topic. In depth treatment of selected topis in the history and philosophy of science. Possible topics include history of modern physics, history of molecular biology, science and society, science and power, scientific explanation, technology and culture, theory testing. May be repeated for credit consent of instructor. GE credit: SS. Effective: 2004 Fall
+
+STS 180—Topics in Science and Technology Studies (4) Review all entries Seminar—3 hours; Term Paper. Prerequisite(s): Course in Science and Technology Studies or other course-work relevant to topic. In-depth treatment of selected topics in anthropology, history, philosophy, and sociology of science and related fields. Possible topics include science and society, science and power, scientific explanation, technology and culture, theory testing. May be repeated for credit when content varies. GE credit: SS. Effective: 2018 Fall Quarter.
+
+STS 190—Seminar in Science, Technology and Medicine Studies (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): Open to junior and senior Science and Technology Studies majors only. Intensive reading, discussion, research and writing by small groups in selected topics of science, technology, and medicine studies scholarship. Emphasis on individual research projects. Effective: 1998 Fall Quarter.
+
+STS 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Work experience off and on campus in all subject areas offered in the program in Science & Technology Studies under the supervision of a member of the faculty. May be repeated up to 3 time(s) for up to 12 units of credit. (P/NP grading only.) Effective: 2006 Fall Quarter.
+
+STS 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+STS 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+STS 200—Theories and Methods in Science & Technology Studies (4) Seminar—3 hours; Term Paper. Theories and methods of Science & Technology Studies as a field of critical and empirical scholarship, and examination of various contexts in which STS has emerged worldwide. May be repeated up to 1 time(s) with consent of instructor. Effective: 2014
+
+STS 210—Digital Technologies: History and Theory (4) Discussion—3 hours; Term Paper. Introduction to the history and theory of digital technologies. Human-machine interaction, cybernetics, software studies, and global networking. Effective: 2018
+
+STS 250—History and Philosophy of Science (4) Seminar—3 hours; Term Paper. Prerequisite(s): Graduate standing or consent of instructor. Interdisciplinary seminar in the history and philosophy of science. Focuses on issues such as historiography, methodology, and the conceptual foundations of science. May be repeated for credit with consent of instructor. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+STS 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+STS 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+STS 396—Teaching Assitant Training Practicum (1-4) Variable. Prerequisite(s): Graduate standing. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+STS 001—Introduction to Science, Technology and Medicine Studies (4) Discussion—1 hour; Lecture—3 hours. History, philosophy, sociology, politics, and cultural studies of science, technology, and medicine. Emphasis on a broad range of perspectives. GE credit: SS, WE. Effective: 1998 Fall Quarter.
+
+STS 002—Introduction to the History of Science and Technology (4) Discussion—1 hour; Lecture—3 hours. Introduction to topics and methods of the history of science and technology. Emphasis on understanding the role of science and technology in the modern world through a long-term historical perspective. (History 002.) GE credit: AH, SL, SS, WC, WE. Effective: 2017 Fall Quarter.
+
+STS 011—Science on Trial: Law, Science, and Technology in the United States (4) Lecture/Discussion—3 hours; Term Paper. Relationships among law, technology, and science. Scientific evidence and testimony, biology education, patenting, and sterilization. GE credit: ACGH, SS. Effective: 2018 Spring Quarter.
+
+STS 020—Methods in Science, Technology and Medicine Studies (4) Extensive Writing; Lecture/Discussion—3 hours. Prerequisite(s): STS 001 recommended. Methodological issues concerning the historical, philosophical, sociological, ethical, and political analysis of science, technology, and medicine. Detailed case studies to illustrate different methods of analysis. GE credit: SS, WE. Effective: 1998 Fall Quarter.
+
+STS 032—Drugs, Science and Culture (4) Discussion—1 hour; Lecture—3 hours. Drugs, politics, science, society in a cultural perspective: emphasis on roles of science, government and the media in shifting attitudes toward alcohol, marijuana, Prozac and other pharmaceuticals; drug laws, war on drugs and global trade in sugar, opium, cocaine. (Anthropology 32.) GE credit: SS, VL, WE. Effective: 2008 Fall Quarter.
+
+STS 040A—Media History 1, Gutenberg to Oppenheimer (4) Discussion—1 hour; Extensive Writing; Film Viewing—2 hours; Lecture—3 hours. History of Media to 1945, with particular focus on mechanically reproduced mass media technologies including the printing press, the newspaper, photography, cinema, radio and early computing technology. Analysis of inter-related cultural and political topics. (Cinema and Technocultural Studies 40A.) GE credit: AH, OL, SS, VL, WE. Effective: 2014 Fall Quarter.
+
+STS 040B—Media History 2 1945-Present (4) Discussion—1 hour; Extensive Writing; Film Viewing—2 hours; Lecture—3 hours. Prerequisite(s): STS 040A History of media from 1945 to present, with particular focus on the development of the computer, digital network and internet technologies in the context of other media infrastructures like radio, television and satellite networks. Analysis of inter-related cultural/political topics. (Cinema & Technocultural Studies 040B.) GE credit: AH, OL, SS, VL, WE. Effective: 2015 Winter
+
+STS 050—Ancient Science (4) Discussion—1 hour; Lecture—3 hours. Study of science in ancient Greece and Rome; consideration of its social context; concentration on the basic concepts of physics the world of medicine and biology the history of mathematics and the practices of astronomy astrology and meteorology. (Classics 50.) GE credit: AH, WC, WE. Effective: 2016 Fall Quarter.
+
+STS 051—Ancient Medicine (4) Discussion—1 hour; Lecture—3 hours. Medicine in ancient Greece and Rome; physiological conceptions of the body within scientific and social frameworks; exploration of sanitation technology and health in antiquity; medical treatment of the female body; medicine and the economy. (Classics 051.) GE credit: AH, WC, WE. Effective: 2016 Winter Quarter.
+
+STS 092—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Work experience off and on campus in all subject areas offered in the program in Science & Technology Studies under the supervision of a member of the faculty. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 2006
+
+STS 098—Directed Group Study (1-5) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. May be repeated for credit. (P/NP grading only.) GE credit: SS. Effective: 2006 Fall Quarter.
+
+STS 099—Special Study for Undergraduates (1-5) Variable—3-15 hours. (P/NP grading only.) Effective: 2006 Fall Quarter.
+
+STS 101—Introduction to Data Studies (4) Lecture/Discussion—4 hours. Introduction to basic data science concepts, defining problems, clarifying questions, identifying stakeholders, caring for and cleaning data, interviewing techniques, structuring presentations, use of Excel for data problems. GE credit: SS. Effective: 2017 Spring
+
+STS 108—Intellectual Property in Science (4) Lecture/Discussion—4 hours. Prerequisite(s): STS 001; Or other Social Science or Humanities writing course. Historical and conceptual framework for contemporary debates about intellectual property and science. Topics include US patent system and copyright law, interaction between patents and industrial policy, credit in academic and industrial science, role of IP in global knowledge politics. GE credit: ACGH, SS, WE. Effective: 2011 Spring Quarter.
+
+STS 109—Visualization in Science: A Critical Introduction (4) Extensive Writing/Discussion—1 hour; Lecture—3 hours. Prerequisite(s): STS 001 or STS 020 or ANT 002 recommended. Anthropological approaches to scientific visualization techniques, informatics, simulations. Examination of different visualization techniques toward understanding the work involved in producing them, critical assessment of their power and limits, especially when visualizations are used socially to make claims. (Anthropology 109.) GE credit: SS, VL, WE. Effective: 2016 Fall Quarter.
+
+STS 110—Computing, Data, & Law in the United States (4) Lecture/Discussion—3 hours; Term Paper. Introduction to the problems in American law and policy borne out of the creation and use of information technologies. Topics include intellectual property, corporate law, privacy, and emerging problems surrounding big data. GE credit: ACGH, SS, WE. Effective: 2018 Winter Quarter.
+
+STS 112—Visualizing Society with Data (4) Lecture/Lab—3 hours; Term Paper. Analysis and visualization of historical and contemporary data about populations and societies using R. Critical exploration of visual communication of information about people over time and critical assessment of role of data collection and analysis in societies . GE credit: DD, QL, SS. Effective: 2018 Winter Quarter.
+
+STS 120—Religion, Magic and Science (4) Extensive Writing; Lecture—3 hours. Religion, magic, and science from the middle ages to the present. Contrast between modern scientific methodology and religious and magical thinking. (RST 120) GE credit: AH, OL, VL, WC. Effective: 2005 Fall Quarter.
+
+STS 121—Special Topics in Medical Anthropology (4) Lecture/Discussion—4 hours. Prerequisite(s): ANT 002 recommended. Introduction to critical medical anthropology. Topics include anthropological analysis of bio-medicine, psychiatry, systems of knowledge and healing, the body, emotions, and clinical encounters in a cross-cultural perspective. (Anthropology 121.) GE credit: SS, WC, WE. Effective: 2016 Fall Quarter.
+
+STS 122—Health and Medical Technologies (4) Lecture/Discussion—3 hours; Term Paper. Critical/historical examination of medical technologies: imaging, pharmaceuticals, genetics, implants/devices. Exploration of mutually constitutive relationship between health, medical technologies, social difference (race/gender/class/sexuality). GE credit: DD, SS. Effective: 2018 Winter Quarter.
+
+STS 129—Health and Medicine in a Global Context (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): ANT 002 recommended. Recent works in medical anthropology and the science studies of medicine dealing with social and cultural aspects of global health issues such as AIDS, pandemics, clinical trials, cultural differences in illnesses, diabetes, organ trafficking, medical technologies, illness narratives, and others. (Anthropology 129.) GE credit: SS, WC, WE. Effective: 2016 Fall Quarter.
+
+STS 130A—From Natural History to the History of Nature (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): HIS 135A recommended. Evolution and demise of natural history as a discipline from Aristotle to Linnaeus. Considers ancient views of nature and its Renaissance rediscovery; the emergence of biology, botany, geology, and zoology; the history of taxonomy and classification. GE credit: AH, SE, WE. Effective: 1997 Winter Quarter.
+
+STS 130B—History of Modern Biology (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): STS 130A recommended. Development of modern biology from pre-Darwinian roots to the present. Considers emergence of modern biological specialities and consolidation of biological theory around evolutionary ideas. History of allied fields such as genetics, paleontology, embryology, ecology, systematics and molecular biology. GE credit: AH, SE, WE. Effective: 1997 Winter Quarter.
+
+STS 131—Darwin (4) Lecture—3 hours; Term Paper. Prerequisite(s): Upper division standing or consent of instructor. Students will explore the life and times of Charles Darwin and will trace the development of evolutionary thinking before and after the Origin of Species to appreciate its place in Victorian society and in the corpus of Darwins thought. GE credit: AH, SE, WE. Effective: 1997 Winter
+
+STS 150—Gender and Science (4) Lecture/Discussion—3 hours; Term Paper. An interdisciplinary approach to the relations between gender and science. Topics include the biological and cultural construction of sexual difference, the role of women as practitioners of science, and feminist approaches to science. GE credit: ACGH, DD, SS, WE. Effective: 1997 Winter Quarter.
+
+STS 151—Media Theory (5) Discussion—1 hour; Extensive Writing; Film Viewing—3 hours; Lecture—2 hours. Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media (formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory). (Cinema and Technocultural Studies 150.) GE credit: AH, OL, SS, VL, WE. Effective: 2014 Fall Quarter.
+
+STS 152—Sounding Data: Critical Approaches to Sonification (4) Lecture/Discussion—3 hours; Term Paper/Discussion. Critical and creative approaches to auditory data and display in art, science, and technology. Practical introduction to sonification techniques through sound studies and sensory ethnography. Heuristic listening and collaborative sound design. GE credit: SS, WE. Effective: 2017 Spring Quarter.
+
+STS 160—Ghosts of the Machine: How Technology Rewires our Senses (4) Extensive Writing/Discussion—1 hour; Lecture—3 hours. Historical, aesthetic and critical approaches to how information technologies produced ghost effects or a sense of terror in response to new media like the photograph, gramophone, film, typewriter, computer, Turing Machine. Focus on technological media transforms sense perception. (Technocultural Studies 160.) GE credit: ACGH, AH, SS, VL, WE. Effective: 2013 Fall Quarter.
+
+STS 161—Time: Mechanism and Measurement (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): STS 001 Cultural concepts of time; units and instruments of time measurement; historical differences in the social organization of time; and time measurement in twentieth-century science. GE credit: SS, WE. Effective: 2005 Fall Quarter.
+
+STS 162—Surveillance Technologies and Social Media (4) Film Viewing—3 hours; Lecture—3 hours; Term Paper. Prerequisite(s): STS 020 or TCS 001 Study of the ubiquitous presence of CCTV, face recognition software, global tracking systems, biosensors, and data mining practices that have made surveillance part of our daily life. Exploration of the boundary between security and control, information and spying. (Cinema & Technocultural Studies 162.) GE credit: ACGH, AH, OL, SS, VL, WE. Effective: 2015 Winter Quarter.
+
+STS 163—History of Communication Technologies (4) Lecture/Discussion—3 hours; Term Paper. History of communication technologies from the late Middle Ages to the 20th century. Questions of technology, knowledge, power and culture. Particular attention to questions about information and truth. GE credit: SS, WE. Effective: 2005 Fall Quarter.
+
+STS 164—Writing Science (4) Extensive Writing; Lecture/Discussion—3 hours. Prerequisite(s): STS 001 or ENL 003; Or equivalent. Texts and writing practices in the production of scientific knowledge. Surveys the literary structure of scientific arguments; history of scientific genres; rhetoric and semiotics in scientific culture; graphical systems in the experimental laboratory; narratives of science, including science fiction. (English 164.) GE credit: AH, SL, WE. Effective: 2011 Fall Quarter.
+
+STS 165—Built Environments (4) Extensive Writing; Lecture—3 hours. Built environments, which are designed to support forms of life. Their role as carriers of cultural memory and in turning knowledge of nature into social assets. Historical constellations of knowledge, social order, and power. GE credit: SS. Effective: 2005
+
+STS 172—Video Games and Culture (4) Extensive Writing/Discussion—1 hour; Lecture—3 hours. Prerequisite(s): STS 001 or TCS 001 or ENL 003; Or equivalent of any. Critical approaches to the study of video games, focusing on formal, historical, and cultural modes of analysis. History of software and hardware in North American and global contexts. Relations of games to society, politics, economics, literature, media, and the arts. (Cinema and Technocultural Studies 172 and English 172.) GE credit: ACGH, AH, SS, VL. Effective: 2014 Fall Quarter.
+
+STS 173—Science Fiction (4) Extensive Writing; Lecture/Discussion—3 hours. Prerequisite(s): STS 001 or ENL 003; Or equivalent. The literary modes and methods of science fiction. Representative texts, authors, and themes of the genre - e.g., time travel, alternative universes, and utopias. Relations of science fiction to science, philosophy, and culture. (English 173.) GE credit: AH, WE. Effective: 2008 Winter
+
+STS 175—Laboratory Studies Lab (4) Discussion/Laboratory—4 hours. Prerequisite(s): Upper division standing or consent of instructor. Hands-on training in Science and Technology Studies fieldwork, interviewing, archival research and data analysis. Review of laboratory studies literature, informed consent procedures, ethics, and care of the data. Individual and group projects possible. GE credit: SS, WE. Effective: 2011 Fall
+
+STS 176—Sociology of Knowledge, Science, and Scientific Knowledge (4) Lecture—3 hours; Term Paper/Discussion—1 hour. Prerequisite(s): SOC 001, SOC 002, or SOC 003 recommended. Social, cultural, and historical dimensions of knowledge, especially scientific knowledge. Problems, methods, and theory in sociology of scientific knowledge. Laboratory and historical case studies. Scientific and technical knowledge in institutional and organizational contexts. (Sociology 176.) GE credit: SS. Effective: 2016 Fall Quarter.
+
+STS 180—Topics in History and Philosophy of Science (4) Review all entries Seminar—3 hours; Term Paper. Prerequisite(s): Course in History and Philosophy of Science or other course-work relevant to topic. In depth treatment of selected topis in the history and philosophy of science. Possible topics include history of modern physics, history of molecular biology, science and society, science and power, scientific explanation, technology and culture, theory testing. May be repeated for credit consent of instructor. GE credit: SS. Effective: 2004 Fall
+
+STS 180—Topics in Science and Technology Studies (4) Review all entries Seminar—3 hours; Term Paper. Prerequisite(s): Course in Science and Technology Studies or other course-work relevant to topic. In-depth treatment of selected topics in anthropology, history, philosophy, and sociology of science and related fields. Possible topics include science and society, science and power, scientific explanation, technology and culture, theory testing. May be repeated for credit when content varies. GE credit: SS. Effective: 2018 Fall Quarter.
+
+STS 190—Seminar in Science, Technology and Medicine Studies (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): Open to junior and senior Science and Technology Studies majors only. Intensive reading, discussion, research and writing by small groups in selected topics of science, technology, and medicine studies scholarship. Emphasis on individual research projects. Effective: 1998 Fall Quarter.
+
+STS 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Work experience off and on campus in all subject areas offered in the program in Science & Technology Studies under the supervision of a member of the faculty. May be repeated up to 3 time(s) for up to 12 units of credit. (P/NP grading only.) Effective: 2006 Fall Quarter.
+
+STS 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+STS 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+STS 200—Theories and Methods in Science & Technology Studies (4) Seminar—3 hours; Term Paper. Theories and methods of Science & Technology Studies as a field of critical and empirical scholarship, and examination of various contexts in which STS has emerged worldwide. May be repeated up to 1 time(s) with consent of instructor. Effective: 2014
+
+STS 210—Digital Technologies: History and Theory (4) Discussion—3 hours; Term Paper. Introduction to the history and theory of digital technologies. Human-machine interaction, cybernetics, software studies, and global networking. Effective: 2018
+
+STS 250—History and Philosophy of Science (4) Seminar—3 hours; Term Paper. Prerequisite(s): Graduate standing or consent of instructor. Interdisciplinary seminar in the history and philosophy of science. Focuses on issues such as historiography, methodology, and the conceptual foundations of science. May be repeated for credit with consent of instructor. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+STS 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+STS 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+STS 396—Teaching Assitant Training Practicum (1-4) Variable. Prerequisite(s): Graduate standing. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.

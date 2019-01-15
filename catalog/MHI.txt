@@ -1,0 +1,63 @@
+MHI 202—Computer-Based Patient Records (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): Current enrollment within the Health Informatics Graduate Program or consent of instructor. Introduction and overview of computerbased clinical record systems. Topics include data modeling, health system standards and terminologies; security, privacy and confidentiality; workflow modeling; data visualization; legal; decision support; public health; and evidence-based practice. Effective: 2009 Winter Quarter.
+
+MHI 207—Decision Support Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): Consent of Instructor. Explores decision support systems for medical application. Topics include medical decision making, uncertainty, review of existing decision support systems, knowledge engineering, data mining, and knowledge based systems. Effective: 2010 Winter Quarter.
+
+MHI 208—Medical Informatics in Web-Based Enterprise Computing (4) Discussion—2 hours; Lecture—2 hours. Introduction to the decision making processes and technologies that are involved in developing web-based distributed enterprise applications in medicine. Focus on the Informatician's role as a team member. Effective: 2010 Spring Quarter.
+
+MHI 209—Data Acquisition and Analysis (4) Discussion—1 hour; Laboratory—3 hours; Lecture—2 hours. Examines the nature, acquisition, and analysis of medical data. Data ranges from signals of electrical potentials, sounds, text, images (still and motion), and data from nucleic acid and protein expression and sequencing instruments. Effective: 2010 Spring Quarter.
+
+MHI 210—Introduction to Health Informatics (4) Discussion—1 hour; Lecture—3 hours. Overview course to give the student a broad exposure to the field of Health Informatics. Topics covered include, but are not limited to, networking, information systems, coding, HL7, Security, and HIPPA. Effective: 2009 Winter Quarter.
+
+MHI 211V—Telemedicine (4) Web Electronic Discussion—1 hour; Web Virtual Lecture—3 hours. Issues for the development and maintenance of a successful telemedicine program with focus on strategic planning, clinical applications, project management, risk management and legal issues; reimbursement and contracting; human resources and program sustainability. Effective: 2013 Fall Quarter.
+
+MHI 212—Computer Security in Health Informatics (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): MHI 210; MHI 202; MHI 209 Critical thinking about basic concepts in computer security and privacy. How the computer security and privacy impact health informatics, ranging from electronic health records to telemedicine to remote, virtual surgery. Effective: 2012 Fall Quarter.
+
+MHI 215—Beginning and Intermediate Programming in M (MUMPS) (3) Lecture—3 hours. Project-oriented approach to fundamentals of programming in ANSI Standard M (MUMPS) language. Basic syntax, Hierarchical file structure; arrays and string subscripts, indirection and extrinsic functions. (S/U grading only.) Effective: 2009 Winter Quarter.
+
+MHI 289A—Special Topics in Medical Informatics: Data Acquisition (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Data Acquisition. May be repeated for credit when topic differs. Effective: 2010 Fall Quarter.
+
+MHI 289E—Clinical Knowledge for the Health Informaticist (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Basic clinical knowledge for health informatics students. Human systems, disease states and conditions, treatments and prognosis. Effective: 2018 Winter Quarter.
+
+MHI 289F—Database and Knowledge Management (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): Consent of Instructor. Course objectives include understanding the informatics techniques for data capture, information management, and knowledge generation that a student will use throughout their career. May be repeated for credit. Effective: 2010 Winter Quarter.
+
+MHI 289G—Special Topics in Health Informatics; Biostatistics (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Special topics in Biostatistics. Evaluation Methods and Statistics in Biomedical Informatics. Research design and analysis with special emphasis on Biomedical Informatics. Effective: 2016 Spring Quarter.
+
+MHI 289H—Modeling Biological Systems (4) Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Class size limited to 20 students. Create awareness of how modern computer graphics have led to VR-Sim-Rob applications, and how they are modifying the teaching of medicine and in some cases the diagnosis and treatment of patients. Effective: 2011 Winter Quarter.
+
+MHI 289I—Programming in Health Informatics (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Basics of computer programming essential to the study of informatics. Impacts on systems within healthcare, public health, nursing, research, and others. Effective: 2018 Winter Quarter.
+
+MHI 290—Seminar in Medical Informatics (1) Seminar—1 hour. Restricted to 20 students. Discussion of current graduate research and topics in Medical Informatics. Oral presentations of individual study. (S/U grading only.) Effective: 2009 Fall
+
+MHI 299—Research in Health Informatics (1-12) Variable. Independent research in Health Informatics. (S/U grading only.) Effective: 2010 Spring
+
+MHI 202—Computer-Based Patient Records (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): Current enrollment within the Health Informatics Graduate Program or consent of instructor. Introduction and overview of computerbased clinical record systems. Topics include data modeling, health system standards and terminologies; security, privacy and confidentiality; workflow modeling; data visualization; legal; decision support; public health; and evidence-based practice. Effective: 2009 Winter Quarter.
+
+MHI 207—Decision Support Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): Consent of Instructor. Explores decision support systems for medical application. Topics include medical decision making, uncertainty, review of existing decision support systems, knowledge engineering, data mining, and knowledge based systems. Effective: 2010 Winter Quarter.
+
+MHI 208—Medical Informatics in Web-Based Enterprise Computing (4) Discussion—2 hours; Lecture—2 hours. Introduction to the decision making processes and technologies that are involved in developing web-based distributed enterprise applications in medicine. Focus on the Informatician's role as a team member. Effective: 2010 Spring Quarter.
+
+MHI 209—Data Acquisition and Analysis (4) Discussion—1 hour; Laboratory—3 hours; Lecture—2 hours. Examines the nature, acquisition, and analysis of medical data. Data ranges from signals of electrical potentials, sounds, text, images (still and motion), and data from nucleic acid and protein expression and sequencing instruments. Effective: 2010 Spring Quarter.
+
+MHI 210—Introduction to Health Informatics (4) Discussion—1 hour; Lecture—3 hours. Overview course to give the student a broad exposure to the field of Health Informatics. Topics covered include, but are not limited to, networking, information systems, coding, HL7, Security, and HIPPA. Effective: 2009 Winter Quarter.
+
+MHI 211V—Telemedicine (4) Web Electronic Discussion—1 hour; Web Virtual Lecture—3 hours. Issues for the development and maintenance of a successful telemedicine program with focus on strategic planning, clinical applications, project management, risk management and legal issues; reimbursement and contracting; human resources and program sustainability. Effective: 2013 Fall Quarter.
+
+MHI 212—Computer Security in Health Informatics (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): MHI 210; MHI 202; MHI 209 Critical thinking about basic concepts in computer security and privacy. How the computer security and privacy impact health informatics, ranging from electronic health records to telemedicine to remote, virtual surgery. Effective: 2012 Fall Quarter.
+
+MHI 215—Beginning and Intermediate Programming in M (MUMPS) (3) Lecture—3 hours. Project-oriented approach to fundamentals of programming in ANSI Standard M (MUMPS) language. Basic syntax, Hierarchical file structure; arrays and string subscripts, indirection and extrinsic functions. (S/U grading only.) Effective: 2009 Winter Quarter.
+
+MHI 289A—Special Topics in Medical Informatics: Data Acquisition (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Data Acquisition. May be repeated for credit when topic differs. Effective: 2010 Fall Quarter.
+
+MHI 289E—Clinical Knowledge for the Health Informaticist (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Basic clinical knowledge for health informatics students. Human systems, disease states and conditions, treatments and prognosis. Effective: 2018 Winter Quarter.
+
+MHI 289F—Database and Knowledge Management (4) Lecture/Discussion—3 hours; Term Paper. Prerequisite(s): Consent of Instructor. Course objectives include understanding the informatics techniques for data capture, information management, and knowledge generation that a student will use throughout their career. May be repeated for credit. Effective: 2010 Winter Quarter.
+
+MHI 289G—Special Topics in Health Informatics; Biostatistics (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Special topics in Biostatistics. Evaluation Methods and Statistics in Biomedical Informatics. Research design and analysis with special emphasis on Biomedical Informatics. Effective: 2016 Spring Quarter.
+
+MHI 289H—Modeling Biological Systems (4) Laboratory—1 hour; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Class size limited to 20 students. Create awareness of how modern computer graphics have led to VR-Sim-Rob applications, and how they are modifying the teaching of medicine and in some cases the diagnosis and treatment of patients. Effective: 2011 Winter Quarter.
+
+MHI 289I—Programming in Health Informatics (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Basics of computer programming essential to the study of informatics. Impacts on systems within healthcare, public health, nursing, research, and others. Effective: 2018 Winter Quarter.
+
+MHI 290—Seminar in Medical Informatics (1) Seminar—1 hour. Restricted to 20 students. Discussion of current graduate research and topics in Medical Informatics. Oral presentations of individual study. (S/U grading only.) Effective: 2009 Fall
+
+MHI 299—Research in Health Informatics (1-12) Variable. Independent research in Health Informatics. (S/U grading only.) Effective: 2010 Spring

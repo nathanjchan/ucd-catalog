@@ -1,0 +1,63 @@
+BIT 001Y—Introduction to Biotechnology (4) Discussion—1 hour; Lecture—2 hours; Web Virtual Lecture—1 hour. Principles and technologies of biotechnology as applied to agriculture, the environment, and medicine. Business plans and presentation pitches for new biotechnology products. Bioinformatics approaches exploring genomic databases and DNA manipulations in silica. (BIT 001.) GE credit: SE. Effective: 2014 Spring
+
+BIT 091—Undergraduate Seminars in Biotechnology (1) Seminar—1 hour. Undergraduate oriented seminar series focused on biotechnology research and product development. Speakers from campus and the private sectors discuss ongoing research, product development and biotechnology careers. (P/NP grading only.) Effective: 2017 Winter
+
+BIT 092—Internship in Biotechnology (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Work experience on or off campus in subject area pertaining to biotechnology or in a business, industry or agency associated with biotechnology. Internship supervised by faculty member in the animal or plant sciences. (P/NP grading only.) Effective: 1998 Fall Quarter.
+
+BIT 098—Directed Group Study (1-5) Variable—1-15 hours. Prerequisite(s): Consent of Instructor. Directed group study. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2016 Fall Quarter.
+
+BIT 099—Special Study for Undergraduates (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1998 Fall Quarter.
+
+BIT 150—Applied Bioinformatics (4) Discussion/Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): BIS 101; (ECS 010 or ECS 015 or PLS 021); (PLS 120 or STA 013 or STA 013Y or STA 100); or Consent of Instructor. Limited enrollment. Concepts and programs needed to apply bioinformatics in biotechnology research. Sequence analysis and annotation and use of plant and animal databases for students in biological and agricultural sciences. Two units of credit for students who have completed ECS 124. GE credit: SE, VL. Effective: 2018 Spring Quarter.
+
+BIT 160—Principles of Plant Biotechnology (3) Lecture—3 hours. Prerequisite(s): (BIS 001A or BIS 002A); (BIS 101 or PLS 152) Principles and concepts of plant biotechnology including recombinant DNA technology, molecular biology, genomics, cell and tissue culture, gene transfer and crop improvement strategies using transgenic crops. Not open for credit to students who have completed PLB 160. (Former course PLB 160.). GE credit: SE. Effective: 2008 Winter Quarter.
+
+BIT 161A—Genetics and Biotechnology Laboratory (6) Laboratory—9 hours; Lecture—3 hours. Prerequisite(s): PLS 152 or BIS 101; and Consent of Instructor. Techniques of genetic analysis at the molecular level including recombinant DNA, gene mapping and basic computational biology. Not open for credit to students who have completed PLB 161A. GE credit: SE. Effective: 2010 Winter Quarter.
+
+BIT 161B—Plant Genetics and Biotechnology Laboratory (4) Laboratory—8 hours; Lecture—1 hour. Prerequisite(s): PLS 152 or BIS 101; and Consent of Instructor. Advanced techniques of genetic analysis at the molecular and cellular levels, including transformation, gene expression and analysis of transgenic plants. Not open for credit to students who have taken PLB 161B. (Former course PLB 161B.). GE credit: SE, SL. Effective: 2011 Fall
+
+BIT 171—Professionalism and Ethics in Genomics and Biotechnology (3) Discussion—2 hours; Lecture—1 hour. Prerequisite(s): Upper division standing in a natural science major. Real and hypothetical case studies to illustrate ethical issues in genomics and biotechnology. Training and practice in difficult ethical situations and evaluating personal and social consequences. GE credit: SE, SL, WE. Effective: 2005 Winter Quarter.
+
+BIT 188—Undergraduate Research Proposal (3) Lecture/Discussion—3 hours. Prerequisite(s): Upper division standing. Preparation and review of a scientific proposal. Problem definition, identification of objectives, literature survey, hypothesis generation, design of experiments, data analysis planning, proposal outline and preparation. (PLS 188.) GE credit: OL, SE, WE. Effective: 2009 Spring Quarter.
+
+BIT 189L—Laboratory Research in Genomics and Biotechnology (2-5) Discussion—1 hour; Laboratory—3-12 hours. Prerequisite(s): BIT 188; and Consent of Instructor. Formulating experimental approaches to current questions in biotechnology; performance of proposed experiments. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 2000
+
+BIT 192—Internship in Biotechnology (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Work experience on or off campus in a subject area pertaining to biotechnology or in a business, industry or agency associated with biotechnology. Internship supervised by faculty member in the animal or plant sciences. (P/NP grading only.) Effective: 1998 Fall Quarter.
+
+BIT 194H—Honors Thesis in Biotechnology (1-2) Independent Study—3-6 hours. Prerequisite(s): BIT 188; BIT 189L; Consent of Instructor. Senior standing in Biotechnology with 3.250 GPA or higher. Independent study of selected topics under the direction of a member or members of the staff. Completion will involve the writing of a senior thesis. (P/NP grading only.) GE credit: SE, WE. Effective: 2016 Winter Quarter.
+
+BIT 198—Directed Group Study (1-5) Variable—1-15 hours. Prerequisite(s): Consent of Instructor. Directed group study. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2016 Fall Quarter.
+
+BIT 199—Special Study for Advanced Undergraduates (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1998 Fall Quarter.
+
+BIT 001Y—Introduction to Biotechnology (4) Discussion—1 hour; Lecture—2 hours; Web Virtual Lecture—1 hour. Principles and technologies of biotechnology as applied to agriculture, the environment, and medicine. Business plans and presentation pitches for new biotechnology products. Bioinformatics approaches exploring genomic databases and DNA manipulations in silica. (BIT 001.) GE credit: SE. Effective: 2014 Spring
+
+BIT 091—Undergraduate Seminars in Biotechnology (1) Seminar—1 hour. Undergraduate oriented seminar series focused on biotechnology research and product development. Speakers from campus and the private sectors discuss ongoing research, product development and biotechnology careers. (P/NP grading only.) Effective: 2017 Winter
+
+BIT 092—Internship in Biotechnology (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Work experience on or off campus in subject area pertaining to biotechnology or in a business, industry or agency associated with biotechnology. Internship supervised by faculty member in the animal or plant sciences. (P/NP grading only.) Effective: 1998 Fall Quarter.
+
+BIT 098—Directed Group Study (1-5) Variable—1-15 hours. Prerequisite(s): Consent of Instructor. Directed group study. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2016 Fall Quarter.
+
+BIT 099—Special Study for Undergraduates (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1998 Fall Quarter.
+
+BIT 150—Applied Bioinformatics (4) Discussion/Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): BIS 101; (ECS 010 or ECS 015 or PLS 021); (PLS 120 or STA 013 or STA 013Y or STA 100); or Consent of Instructor. Limited enrollment. Concepts and programs needed to apply bioinformatics in biotechnology research. Sequence analysis and annotation and use of plant and animal databases for students in biological and agricultural sciences. Two units of credit for students who have completed ECS 124. GE credit: SE, VL. Effective: 2018 Spring Quarter.
+
+BIT 160—Principles of Plant Biotechnology (3) Lecture—3 hours. Prerequisite(s): (BIS 001A or BIS 002A); (BIS 101 or PLS 152) Principles and concepts of plant biotechnology including recombinant DNA technology, molecular biology, genomics, cell and tissue culture, gene transfer and crop improvement strategies using transgenic crops. Not open for credit to students who have completed PLB 160. (Former course PLB 160.). GE credit: SE. Effective: 2008 Winter Quarter.
+
+BIT 161A—Genetics and Biotechnology Laboratory (6) Laboratory—9 hours; Lecture—3 hours. Prerequisite(s): PLS 152 or BIS 101; and Consent of Instructor. Techniques of genetic analysis at the molecular level including recombinant DNA, gene mapping and basic computational biology. Not open for credit to students who have completed PLB 161A. GE credit: SE. Effective: 2010 Winter Quarter.
+
+BIT 161B—Plant Genetics and Biotechnology Laboratory (4) Laboratory—8 hours; Lecture—1 hour. Prerequisite(s): PLS 152 or BIS 101; and Consent of Instructor. Advanced techniques of genetic analysis at the molecular and cellular levels, including transformation, gene expression and analysis of transgenic plants. Not open for credit to students who have taken PLB 161B. (Former course PLB 161B.). GE credit: SE, SL. Effective: 2011 Fall
+
+BIT 171—Professionalism and Ethics in Genomics and Biotechnology (3) Discussion—2 hours; Lecture—1 hour. Prerequisite(s): Upper division standing in a natural science major. Real and hypothetical case studies to illustrate ethical issues in genomics and biotechnology. Training and practice in difficult ethical situations and evaluating personal and social consequences. GE credit: SE, SL, WE. Effective: 2005 Winter Quarter.
+
+BIT 188—Undergraduate Research Proposal (3) Lecture/Discussion—3 hours. Prerequisite(s): Upper division standing. Preparation and review of a scientific proposal. Problem definition, identification of objectives, literature survey, hypothesis generation, design of experiments, data analysis planning, proposal outline and preparation. (PLS 188.) GE credit: OL, SE, WE. Effective: 2009 Spring Quarter.
+
+BIT 189L—Laboratory Research in Genomics and Biotechnology (2-5) Discussion—1 hour; Laboratory—3-12 hours. Prerequisite(s): BIT 188; and Consent of Instructor. Formulating experimental approaches to current questions in biotechnology; performance of proposed experiments. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 2000
+
+BIT 192—Internship in Biotechnology (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Work experience on or off campus in a subject area pertaining to biotechnology or in a business, industry or agency associated with biotechnology. Internship supervised by faculty member in the animal or plant sciences. (P/NP grading only.) Effective: 1998 Fall Quarter.
+
+BIT 194H—Honors Thesis in Biotechnology (1-2) Independent Study—3-6 hours. Prerequisite(s): BIT 188; BIT 189L; Consent of Instructor. Senior standing in Biotechnology with 3.250 GPA or higher. Independent study of selected topics under the direction of a member or members of the staff. Completion will involve the writing of a senior thesis. (P/NP grading only.) GE credit: SE, WE. Effective: 2016 Winter Quarter.
+
+BIT 198—Directed Group Study (1-5) Variable—1-15 hours. Prerequisite(s): Consent of Instructor. Directed group study. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2016 Fall Quarter.
+
+BIT 199—Special Study for Advanced Undergraduates (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1998 Fall Quarter.

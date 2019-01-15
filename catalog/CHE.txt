@@ -1,0 +1,879 @@
+CHE 002A—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): High school chemistry and physics, and concurrent enrollment in mathematics at or above the level of MAT 012 strongly recommended; any one of the following: (A) SAT Mathematics score = 600+; (B) ACT Mathematics score = 27+; (C) AP Chemistry exam score of = 3+; (D) SAT Chemistry subject test score = 700+; (E) UC Davis Chemistry Placement Examination score = 24+ on first attempt; in lieu of A-E, either completion of ALEKS online Preparatory Chemistry course with 100% Pie Mastery or completion of Workload 41C with a grade of C or better (Workload 41C offered in fall quarter only to students who do not meet A-E). Periodic table, stoichiometry, chemical equations, physical properties and kinetic theory of gases, atomic and molecular structure and chemical bonding. Laboratory experiments in stoichiometric relations, properties and collection of gases, atomic spectroscopy, and introductory quantitative analysis. Not open for credit to students who have taken CHE 002AH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002AH—Honors General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): Consent of Instructor. High school chemistry and physics. Any ONE of the following: (A) SAT Mathematics score = 670+; (B) ACT Mathematics score = 30+; (C) AP Chemistry exam score = 4+; (D) SAT Chemistry subject test score = 700+; (E) UC Davis Chemistry Placement Examination score = 33+ on first attempt; (F) UC Davis Chemistry Placement Examination score = 30+ AND UC Davis Mathematics Placement Examination score = 45+, both on first attempts; consent of instructor. Limited enrollment course with a more rigorous treatment of material covered in course 2A. Students completing course 2AH can continue with course 2BH or 2B. Not open for credit to students who have taken CHE 002A. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002B—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002A C- or better or CHE 002AH C- or better Continuation of course 2A. Condensed phases and intermolecular forces, chemical thermodynamics, chemical equilibria, acids and bases, solubility. Laboratory experiments in thermochemistry, equilibria, and quantitative analysis using volumetric methods. Not open for credit to students who have taken CHE 002BH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002BH—Honors General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002A or CHE 002AH C or better; MAT 021B (can be concurrent); or Consent of Instructor. CHE 2A with consent of instructor. Limited enrollment course with a more rigorous treatment of material covered in course 2B. Students completing course 2BH can continue with course 2CH or 2C. Not open for credit to students who have taken CHE 002B. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002C—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002B C- or better or CHE 002BH C- or better Continuation of course 2B. Kinetics, electrochemistry, spectroscopy, structure and bonding in transition metal compounds, application of principles to chemical reactions. Laboratory experiments in selected analytical methods and syntheses. Not open for credit to students who have taken CHE 002CH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002CH—Honors General Chemistry (5) Discussion/Laboratory—6 hours; Lecture—3 hours. Prerequisite(s): CHE 002B or CHE 002BH C or better; MAT 021C (can be concurrent); or Consent of Instructor. CHE 002B with consent of instructor Limited enrollment course with a more rigorous treatment of material covered in course 2C. Not open for credit to students who have taken CHE 002C. GE credit: QL, SE, SL. Effective:
+
+CHE 008A—Organic Chemistry: Brief Course (2) Lecture—2 hours. Prerequisite(s): CHE 002B C- or better or CHE 002BH C- or better With course 8B, an introduction to the nomenclature, structure, chemistry, and reaction mechanisms of organic compounds. Intended for students majoring in areas other than organic chemistry. No credit to students who have completed CHE 118A or 128A. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 008B—Organic Chemistry: Brief Course (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 008A or CHE 118A or CHE 128A Laboratory concerned primarily with organic laboratory techniques and the chemistry of the common classes of organic compounds. Lecture portion a continuation of course 8A. Varying credit hours according to courses taken previously and corresponding expected workload for this course; full credit to students who complete CHE 118A or 128A; 3 units credit to students who have completed CHE 128A and CHE 129A (students who have completed CHE 129A are exempt from the laboratory portion of CHE 008B); 2 units credit to students who have completed CHE 128B; 1 unit credit to students who have completed CHE 118B or CHE 128B and CHE 129A (students who have completed CHE 118B are exempt from the laboratory portion of CHE 008B). GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 010—Concept of Chemistry (4) Lecture—4 hours. Survey of basic concepts and contemporary applications of chemistry. Designed for non-science majors and not as preparation for Chemistry 2A. Not open for credit to students who have had CHE 002A; but students with credit for CHE 010 may take CHE 002A for full credit. GE credit: SE, SL. Effective: 1997 Winter Quarter.
+
+CHE 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Primarily for lower division students. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+CHE 100—Environmental Water Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH Practical aspects of water chemistry in the environment, including thermodynamic relations, coordination chemistry, solubility calculations, redox reactions and rate laws. Computer modeling of the evolution in water chemistry from contact with minerals and gases. Effective: 2016 Winter Quarter.
+
+CHE 103B—Chemistry for Life Sciences: Predicting and Controlling Organic Pathways (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 103A C- or better Not open for enrollment to students who have completed course 008B, 118B, 118C, 128B, or 128C with a C- or better. Continuation of course 103A. Core concepts of functional group transformations, synthesis, mechanisms, sustainable chemistry, structure and function of biomolecules, organic reactions in biological systems, molecular design, detection, separation, and identification of organic molecules. Not open for credit to students who have completed CHE 008B, CHE 118B, CHE 118C, CHE 128B, or CHE 128C. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+CHE 104—Forensic Applications of Analytical Chemistry (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): CHE 002C or CHE 002CH Theory and application of standard methods of chemical analysis to evidentiary samples. Use and evaluation of results from screening tests, FTIR, GC and GCMS to various sample types encountered in forensics. Effective: 2016 Winter Quarter.
+
+CHE 105—Analytical and Physical Chemical Methods (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 110A (can be concurrent) or CHE 107B (can be concurrent) Fundamental theory and laboratory techniques in; analytical and physical chemistry, errors and data analysis methods, basic electrical circuits in instruments, advanced solution equilibria, potentiometric analysis, chromatographic separations, UV-visible spectroscopy, lasers. GE credit: QL, SE, SL. Effective: 2016 Spring Quarter.
+
+CHE 107A—Physical Chemistry for the Life Sciences (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH; (MAT 016C or MAT 017C or MAT 021C); (PHY 007C or PHY 009C or PHY 009HC) Physical chemistry intended for majors in the life science area. Introductory development of classical and statistical thermodynamics including equilibrium processes and solutions of both non-electrolytes and electrolytes. The thermodynamic basis of electrochemistry and membrane potentials. GE credit: SE. Effective: 2017 Spring Quarter.
+
+CHE 107B—Physical Chemistry for the Life Sciences (3) Lecture—3 hours. Prerequisite(s): CHE 107A Continuation of course 107A. Kinetic theory of gases and transport processes in liquids. Chemical kinetics, enzyme kinetics and theories of reaction rates. Introduction to quantum theory, atomic and molecular structure, and spectroscopy. Application to problems in the biological sciences. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 108—Molecular Biochemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128C or CHE 118C Pass One open to Chemistry majors. Chemical principles and experimental methods applied to the biological sciences to understand the molecular structure and function of proteins, nucleic acids, carbohydrates, and membrane lipids. Effective: 2016 Winter Quarter.
+
+CHE 110A—Physical Chemistry: Introduction to Quantum Mechanics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (PHY 007C or PHY 009C or PHY 009HC); (CHE 002C or CHE 002CH); (MAT 016C or MAT 017C or MAT 021C); Completion of Mathematics 21D, 22A, and 22AL, and Physics 9C or 9HC, strongly recommended. Introduction to the postulates and general principles of quantum mechanics. Approximations based on variational method and time independent perturbation theory. Application to harmonic oscillator, rigid rotor, one-electron and many-electron atoms, and homo-and hetero-nuclear diatomic molecules. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+CHE 110B—Physical Chemistry: Properties of Atoms and Molecules (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110A Group theory. Application of quantum mechanics to polyatomic molecules and molecular spectroscopy. Intermolecular forces and the gas, liquid and solid states. Distributions, ensembles and partition functions. Transport properties. Effective:
+
+CHE 110C—Physical Chemistry: Thermodynamics, Equilibria and Kinetics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110B Development and application of the general principles of thermodynamics and statistical thermodynamics. Chemical kinetics, rate laws for chemical reactions and reaction mechanisms. Effective: 1999 Fall Quarter.
+
+CHE 115—Instrumental Analysis (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 105; (CHE 110B (can be concurrent) or (CHE 107A, CHE 107B)) Intermediate theory and laboratory techniques in analytical and physical chemistry. Advanced data analysis methods and goodness-of-fit criteria. Fourier-transform spectroscopic methods and instrumentation. Mass spectrometry. Electrochemistry. Liquid chromatography. GE credit: QL, SE, WE. Effective: 2006 Fall Quarter.
+
+CHE 118A—Organic Chemistry for Health and Life Sciences (4) Discussion/Laboratory—1.5 hours; Lecture—3 hours. Prerequisite(s): CHE 002C C- or better or CHE 002CH C- or better The 118A, 118B, 118C series is for students planning professional school studies in health and life sciences. A rigorous, in-depth presentation of basic principles with emphasis on stereochemistry and spectroscopy and preparations and reactions of nonaromatic hydrocarbons, haloalkanes, alcohols and ethers. Only 2 units credit for students who have completed course CHE 008A; not open for credit to students who have completed CHE 008B or CHE 128A. GE credit: SE, SL. Effective: 2017 Spring Quarter.
+
+CHE 118B—Organic Chemistry for Health and Life Sciences (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 118A or CHE 128A Continuation of course 118A, with emphasis on spectroscopy and the preparation and reactions of aromatic hydrocarbons, organometallic compounds, aldehydes and ketones. Only one unit of credit to students who completed course CHE 128B.; not open for credit to students who have completed 8 or more units of CHE 128 and CHE 129 courses. GE credit: SE, SL. Effective: 2017 Fall Quarter.
+
+CHE 118C—Organic Chemistry for Health and Life Sciences (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 118B or (CHE 128B, CHE 129A) Open to students changing from the CHE 128 course sequence only if they have completed prior organic laboratory work (at least course CHE 129A). Continuation of course 118B, with emphasis on the preparation, reactions and identification of carboxylic acids and their derivatives, alkyl and acyl amines, ß-dicarbonyl compounds, and various classes of naturally occurring, biologically important compounds. Not open for credit to students who have completed course CHE 128C. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+CHE 121—Introduction to Molecular Structure and Spectra (4) Lecture—4 hours. Prerequisite(s): CHE 110B Modern theoretical and experimental methods used to study problems of molecular structure and bonding; emphasis on spectroscopic techniques. Effective: 1997 Winter Quarter.
+
+CHE 122—Chemistry of Nanoparticles (3) Lecture—3 hours. Prerequisite(s): CHE 110C (can be concurrent) or CHE 107B (can be concurrent) Chemical and physical aspects of inorganic nanoparticles. Topics include synthesis, structure, colloidal behavior, catalytic activity, size and shape dependency of physical properties, analytical methods and applications. Effective: 2016 Winter Quarter.
+
+CHE 124A—Inorganic Chemistry: Fundamentals (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH Symmetry, molecular geometry and structure, molecular orbital theory of bonding (polyatomic molecules and transition metals), solid state chemistry, energetics and spectroscopy of inorganic compounds. GE credit: SE. Effective:
+
+CHE 124B—Inorganic Chemistry: Main Group Elements (3) Lecture—3 hours. Prerequisite(s): CHE 124A Synthesis, structure and reactivity of inorganic and heteroorganic molecules containing the main group elements. Effective: 1997 Winter Quarter.
+
+CHE 124C—Inorganic Chemistry: d and f Block Elements (3) Lecture—3 hours. Prerequisite(s): CHE 124A Synthesis, structure and reactivity of transition metal complexes, organometallic and bioinorganic chemistry, the lanthanides and actinides. Effective: 1997 Winter
+
+CHE 124L—Laboratory Methods in Inorganic Chemistry (2) Laboratory—6 hours. Prerequisite(s): CHE 124B or CHE 124C (can be concurrent) The preparation, purification and characterization of main group and transition metal inorganic and organometallic compounds. Effective: 2000 Spring Quarter.
+
+CHE 125—Advanced Methods in Physical Chemistry (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 110C (can be concurrent); CHE 115 Advanced theory and laboratory techniques in analytical and physical chemistry. Advanced spectroscopic methods. Thermodynamics. Kinetics. Chemical literature. Digital electronics and computer interfacing. Laboratory measurements and vacuum techniques. GE credit: QL, SE, WE. Effective: 2000 Spring Quarter.
+
+CHE 128A—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 002C C or better or CHE 002CH C or better Introduction to the basic concepts of organic chemistry with emphasis on stereochemistry and the chemistry of hydrocarbons. Designed primarily for majors in chemistry. Chemistry majors should enroll in course 129A concurrently. Only two units credit allowed for students who have completed CHE 008A; not open for credit to students who have completed courses CHE 008B or 118A. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 128B—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128A; or Consent of Instructor. Continuation of course 128A with emphasis on the chemistry of alcohols, ethers, their sulfur analogs, and carbonyl compounds. Introduction to the application of spectroscopic methods to organic chemistry. Introduction to synthesis of moderately complex organic molecules. Full credit to students who completed CHE 008B or CHE 118A; not open for credit to students who have completed CHE 118B. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 128C—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128B Continuation of course 128B with emphasis on enolate condensations and the chemistry of amines, phenols, and sugars; selected biologically important compounds. Full credit to students who completed CHE 118B; Not open for credit to students who have completed CHE 118C. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 129A—Organic Chemistry Laboratory (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): (CHE 002C C or better or CHE 002CH C or better); CHE 128A (can be concurrent) Introduction to laboratory techniques of organic chemistry. Emphasis on methods used for separation and purification of organic compounds. Full credit to students who completed CHE 008B; not open for credit to students who have completed CHE 118B. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 129B—Organic Chemistry Laboratory (2) Laboratory—6 hours. Prerequisite(s): CHE 129A; CHE 128B (can be concurrent) Continuation of course 129A. Emphasis on methods used for synthesis and isolation of organic compounds. Not open for credit to students who have completed CHE 118C. GE credit: SE. Effective: 2017 Winter
+
+CHE 129C—Organic Chemistry Laboratory (2) Laboratory—6 hours. Prerequisite(s): CHE 128C (can be concurrent); CHE 129B continuation of course 129B Effective: 1997 Winter Quarter.
+
+CHE 130A—Pharmaceutical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C Examination of the design principles and experimental methods used in pharmaceutical and medicinal chemistry. Effective: 2006 Fall
+
+CHE 130B—Pharmaceutical Chemistry (3) Lecture—2 hours; Lecture/Lab—1 hour. Prerequisite(s): CHE 130A (can be concurrent) Continuation of course 130A with emphasis on case studies of various drugs and the use of computational methods in drug design. Effective: 2017 Spring Quarter.
+
+CHE 130C—Case Studies in Pharmaceutical Chemistry (1) Independent Study; Seminar—2 hours. Prerequisite(s): CHE 130A (can be concurrent); CHE 130B (can be concurrent) Seminar. Exploration of medicinal and pharmaceutical chemistry topics through seminars presented by professional chemists (and allied professionals). Designed to highlight career opportunities for students with a degree in pharmaceutical chemistry. (P/NP grading only.) Effective: 2017 Spring Quarter.
+
+CHE 131—Modern Methods of Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 128C or CHE 118C Introduction to modern synthetic methodology in organic chemistry with emphasis on retrosynthetic analysis, reaction mechanisms, and application to multistep syntheses of pharmaceuticals and natural products. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 135—Advanced Bio-organic Chemistry Laboratory (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): CHE 130B (can be concurrent) Separation, purification, identification and biological evaluation of organic compounds using modern methods of synthesis, computational chemistry and instrumentation. Emphasis on pharmaceutical and medicinal substances. Effective: 2017 Fall Quarter.
+
+CHE 145—Good Quality Practices (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): CHE 118B or CHE 129B Open to Chemistry and science majors. Preparation for work in GQP laboratories in both research and industry. Context within GQP-Good Quality Practices (GMP Good Manufacturing Practice, GCP Good Clinical Practices). Lab practice in GQP skills. GE credit: SE. Effective: 2016 Winter Quarter.
+
+CHE 150—Chemistry of Natural Products (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C Chemistry of terpenes, steroids, acetogenins, and alkaloids: isolation, structure determination, biosynthesis, chemical transformations, and total synthesis. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 192—Internship in Chemistry (1-6) Internship—3-18 hours. Prerequisite(s): Upper division standing; project approval by faculty sponsor prior to enrollment. Supervised internship in chemistry; requires a final written report. May be repeated up to 6 unit(s). (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 194HA—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 1997 Winter Quarter.
+
+CHE 194HB—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 1997 Winter Quarter.
+
+CHE 194HC—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 2005 Fall Quarter.
+
+CHE 195—Careers in Chemistry (1) Seminar—2 hours. Prerequisite(s): Junior or senior standing in Chemistry. Designed to give Chemistry undergraduate students an in-depth appreciation of career opportunities with a bachelors degree in chemistry. Professional chemists (and allied professionals) describe research and provide career insights. (P/NP grading only.) Effective: 2001 Fall Quarter.
+
+CHE 197—Projects in Chemical Education (1-4) Discussion/Laboratory. Prerequisite(s): Consent of Instructor. Participation may include development of laboratory experiments, lecture demonstrations, autotutorial modules or assistance with laboratory sessions. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 1997
+
+CHE 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of instructor based upon adequate preparation in chemistry, mathematics and physics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of instructor based upon adequate preparation in chemistry, mathematics, and physics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 201—Chemical Uses of Symmetry and Group Theory (3) Lecture—3 hours. Prerequisite(s): CHE 124A; CHE 110B; or Consent of Instructor. Symmetry elements and operations, point groups, representations of groups. Applications to molecular orbital theory, ligand field theory, molecular vibrations, and angular momentum. Crystallographic symmetry. Effective: 1997 Winter Quarter.
+
+CHE 204—Mathematical Methods in Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C Graduate standing in Chemistry. Introduction to mathematical and numerical methods in chemistry. Real and complex functions. Methods of integration. Differential equations. Linear algebra and matrices. Special functions. Integral transforms. Statistics. Effective: 2005 Fall Quarter.
+
+CHE 205—Symmetry, Spectroscopy, and Structure (3) Lecture—3 hours. Prerequisite(s): CHE 201; Or equivalent. Vibrational and rotational spectra; electronic spectra and photoelectron spectroscopy; magnetism; electron spin and nuclear quadrapole resonance spectroscopy; nuclear magnetic resonance spectroscopy; other spectroscopic methods. Effective: 1997 Winter Quarter.
+
+CHE 209—Special Topics in Physical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 210A; CHE 211A Graduate standing in Chemistry. Advanced topics in physical chemistry, biophysical chemistry or chemical physics chosen from areas of current research interest. May be repeated for credit when topics differ. Effective: 2005 Fall
+
+CHE 210A—Quantum Chemistry: Introduction and Stationary-State Properties (3) Lecture—3 hours. Prerequisite(s): CHE 110B; CHE 110C; or Consent of Instructor. Stationary-state quantum chemistry: postulates of quantum mechanics, simple solutions, central field problems and angular momenta, hydrogen atom, perturbation theory, variational theory, atoms and molecules. Effective: 1997 Winter Quarter.
+
+CHE 210B—Quantum Chemistry: Time-Dependent Systems (3) Lecture—3 hours. Prerequisite(s): CHE 210A Matrix mechanics and time-dependent quantum chemistry: matrix formulation of quantum mechanics, Heisenberg representation, time-dependent perturbation theory, selection rules, density matrices, and miscellaneous molecular properties. Effective: 1997 Winter Quarter.
+
+CHE 210C—Quantum Chemistry: Molecular Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 210B Molecular spectroscopy: Born-Oppenheimer approximation, rotational, vibrational and electronic spectroscopy, spin systems, and molecular photophysics. Effective: 1997 Winter Quarter.
+
+CHE 211A—Advanced Physical Chemistry: Statistical Thermodynamics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Principles and applications of statistical mechanics; ensemble theory; statistical thermodynamics of gases, solids, liquids, electrolyte solutions and polymers; chemical equilibrium. Effective: 1997 Winter Quarter.
+
+CHE 211B—Statistical Mechanics (3) Lecture—3 hours. Prerequisite(s): CHE 211A Statistical mechanics of nonequilibrium systems, including the rigorous kinetic theory of gases, continuum mechanics transport in dense fluids, stochastic processes, brownian motion and linear response theory. Effective: 1997 Winter Quarter.
+
+CHE 212—Chemical Dynamics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Introduction to modern concepts in chemical reaction dynamics for graduate students in chemistry. Emphasis will be placed on experimental techniques as well as emerging physical models for characterizing chemical reactivity at a microscopic level. Effective: 1997 Winter Quarter.
+
+CHE 215—Theoretical and Computational Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 211A; CHE 210B; or Consent of Instructor. Mathematics of wide utility in chemistry, computational methods for guidance or alternative to experiment, and modern formulations of chemical theory. Emphasis will vary in successive years. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+CHE 216—Magnetic Resonance Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 210A; CHE 210B (can be concurrent) Quantum mechanics of spin and orbital angular momentum, nuclear magnetic resonance, theory of chemical shift and multiplet structures, electron spin resonance, theory of gtensor in organic and transition ions, spin Hamiltonians, nuclear quadrupolar resonance, spin relaxation processes. Effective: 1997 Winter
+
+CHE 217—X-Ray Structure Determination (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Introduction to x-ray structure determination; crystals, symmetry, diffraction geometry, sample preparation and handling, diffraction apparatus and data collection, methods of structure solution and refinement, presentation of results, text, tables and graphics, crystallographic literature. Effective: 1997 Winter Quarter.
+
+CHE 218—Macromolecules: Physical Principles (3) Lecture—3 hours. Prerequisite(s): CHE 110A; CHE 110B; CHE 110C; Or equivalent. Relationship of higher order macromolecular structure to subunit composition; equilibrium properties and macromolecular dynamics; physical chemical determination of macromolecular structure. Effective:
+
+CHE 219—Spectroscopy of Organic Compounds (4) Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Identification of organic compounds and investigation of stereochemical and reaction mechanism phenomena using spectroscopic methods--principally NMR, IR and MS. Effective: 2006 Fall Quarter.
+
+CHE 219L—Laboratory in Spectroscopy of Organic Compounds (1) Laboratory—2.5 hours. Prerequisite(s): CHE 219 (can be concurrent) Restricted to Chemistry graduate students only or consent of instructor Practical application of NMR, IR and MS techniques for organic molecules. Effective: 2009 Summer Session 1.
+
+CHE 221A—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221B—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221C—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221D—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221E—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221F—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221G—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221H—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 222—Chemistry of Nanoparticles (3) Lecture/Discussion—3 hours. Prerequisite(s): CHE 110C; Or equivalent. Chemical and physical aspects of inorganic nanoparticles, including synthesis, purification, reactivity, characterization, and applications for technology. Emphasis is on problems from the current literature. Not open for credit to students who have taken CHE 122. Effective: 2009 Winter Quarter.
+
+CHE 226—Principles of Transition Metal Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 124A; or equivalent. Electronic structures, bonding, and reactivity of transition metal compounds. Effective: 1997 Winter Quarter.
+
+CHE 228A—Bio-inorganic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 226; or Consent of Instructor. Defines role of inorganic chemistry in the functioning of biological systems by identifying the functions of metal ions and main group compounds in biological systems and discussing the chemistry of model and isolated biological compounds. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228B—Main Group Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 226; or Consent of Instructor. Synthesis, physical properties, reactions and bonding of main group compounds. Discussions of concepts of electron deficiency, hypervalency, and non-classical bonding. Chemistry of the main group elements will be treated systematically. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228C—Solid-State Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 124A; CHE 110B; CHE 226; Or equivalent. Design and synthesis, structure and bonding of solid-state compounds; physical properties and characterization of solids; topics of current interest such as low-dimensional materials, inorganic polymers, materials for catalysis. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228D—Homogeneous Catalysis (3) Lecture—3 hours. Prerequisite(s): CHE 226 Overview of homogeneous catalysis and related methods, with emphasis on kinetics, mechanisms, and applications for organic synthesis. The related methods may include cluster, colloid, phase transfer, enzymatic, heterogeneous and polymer-supported catalysis. Offered every third year. Effective: 2001 Fall Quarter.
+
+CHE 228E—Magnetochemistry (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): CHE 124A or CHE 201; Or an equivalent class from either Physics or Chemical Engineering and Materials Science. Covers the basic principles and concepts of magnetism, methods used for characterization of magnetic properties, as well as specific state-of-the-art magnetic materials and topics from the recent chemistry literature. Effective: 2016 Winter Quarter.
+
+CHE 231A—Organic Synthesis: Methods and Strategies (4) Discussion/Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Current strategies and methods in synthetic organic chemistry. Focus on construction of carbon frameworks, control of relative and absolute stereochemistry and retrosynthetic strategies. Use of databases and molecular modeling software in multistep strategies. Effective: 2017 Winter Quarter.
+
+CHE 231B—Advanced Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 231A Current strategies and methods in synthetic organic chemistry. Continuation of course 231A. Organic synthesis of complex target molecules. Stereochemical considerations and asymmetric synthesis. Organometallics for selective transformations. Carbocyclic and heterocyclic ring formation. Effective: 2016 Fall Quarter.
+
+CHE 233—Physical-Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128A; CHE 128B; CHE 128C; CHE 110A; CHE 110B; CHE 110C; Or equivalent. Introduction to elementary concepts in physicalorganic chemistry including the application of simple numerical techniques in characterizing and modeling organic reactions. Effective: 1997 Winter Quarter.
+
+CHE 235—Organometallic Chemistry in Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 128C Current trends in use of organometallics for organic synthesis; preparations, properties, applications, and limitations of organometallic reagents derived from transition and/or main group metals. Effective: 1997 Winter Quarter.
+
+CHE 236—Chemistry of Natural Products (3) Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Advanced treatment of chemistry of naturally occurring compounds isolated from a variety of sources. Topics will include isolation, structure determination, chemical transformations, total synthesis, biological activity, and biosynthesis. Biosynthetic origin will be used as a unifying theme. Effective:
+
+CHE 237—Bio-organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Structure and function of biomolecules; molecular recognition; enzyme reaction mechanisms; design of suicide substrates for enzymes; enzyme engineering; design of artificial enzymes and application of enzymes in organic synthesis. Effective: 1997 Winter Quarter.
+
+CHE 238—Introduction to Chemical Biology (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C; Or equivalent; CHE 130A, CHE 130B and BIS 102, BIS 103, and BIS 104, or the equivalents recommended. Synthesis of complex molecules in nature. Use of biosynthetic pathways in synthesis of new chemical entities. Applications of small molecules in chemical genetics and structural biology. Solving biological problems using synthetic biomolecules. Effective: 2009 Winter Quarter.
+
+CHE 240—Advanced Analytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110A; CHE 115; Or equivalent. Numerical treatment of experimental data; thermodynamics of electrolyte and non-electrolyte solutions; complex equilibria in aqueous and non-aqueous solutions; potentiometry and specific ion electrodes; mass transfer in liquid solutions; fundamentals of separation science, including column, gas and liquid chromatography. Effective: 1997 Winter Quarter.
+
+CHE 241A—Surface Analytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; Or equivalent. Concepts of surfaces and interfaces: physical properties, unique chemistry and electronic effects. Focus on gas-solid interfaces, with some discussion of liquid-solid interfaces. Effective: 2002 Fall Quarter.
+
+CHE 241B—Laser and X-ray Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 110B; Or equivalent. Concepts and mechanisms of lightmatter interactions. Chemical applications of modern spectroscopic methods, including multiphoton spectroscopy, time-resolved laser and x-ray photolysis, and phase-contrast x-ray imaging. Effective: 2002 Fall Quarter.
+
+CHE 241C—Mass Spectrometry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Mass spectrometry and related methods with emphasis on ionization methods, mass analyzers, and detectors. Related methods may include ion-molecule reactions, unimolecular dissociation of organic and bio-organic compounds, and applications in biological and environmental analysis. Effective: 2002 Winter
+
+CHE 241D—Electroanalytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Electroanalytical chemistry with consideration of mass transfer and electrode kinetics for polarizable electrodes. Currentpotential curves for a variety of conditions, including both potentiostatic and galvanostatic control, and their application in chemical analysis. Effective: 2002 Winter Quarter.
+
+CHE 241E— Microscopy and Imaging Techniques (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Introduction to modern microscopy and imaging techniques: scanning tunneling, atomic force, far-field optical, fluorescence, scanning near-field optical, and scanning electron microscopy. Application to nanoscience and analytical and bioanalytical chemistry. Some laboratory demonstrations. Effective:
+
+CHE 245—Mechanistic Enzymology (3) Lecture—3 hours. Advanced topics in chemical kinetics relevant to enzymes, enzyme kinetics, theory of enzyme catalysis, and the analysis of a selection of organic enzyme reaction mechanisms by the tools introduced in the first part of the course. Effective: 2013 Fall Quarter.
+
+CHE 261—Current Topics in Chemical Research (2) Lecture—2 hours. Prerequisite(s): Graduate standing in Chemistry or consent of instructor. Designed to help chemistry graduate students develop and maintain familiarity with the current and past literature in their immediate field of research and related areas. May be repeated for credit when topics differ. Effective: 1997 Winter Quarter.
+
+CHE 263—Introduction to Chemical Research Methodology (3) Discussion/Laboratory—9 hours. Prerequisite(s): CHE 293; and Consent of Instructor. Graduate student standing in Chemistry. Introduction to identification, formulation, and solution of meaningful scientific problems including experimental design and/or theoretical analyses of new and prevailing techniques, theories and hypotheses. May be repeated for credit when topic differs. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+CHE 264—Advanced Chemical Research Methodology (6) Discussion/Laboratory—18 hours. Prerequisite(s): CHE 263; or Consent of Instructor. Applications of the methodology developed in course 263 to experimental and theoretical studies. Advanced methods of interpretation of results are developed. Includes the preparation of manuscripts for publication. May be repeated for credit for credit when topic differs. (S/U grading only.) Effective:
+
+CHE 290—Seminar (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997
+
+CHE 293—Introduction to Chemistry Research (1) Discussion—2 hours. Designed for incoming graduate students preparing for higher degrees in chemistry. Group and individual discussion of research activities in the Department and research topic selection. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+CHE 294—Presentation of Chemistry Research (1) Seminar—2 hours. Prerequisite(s): Graduate standing. Restricted to graduate students in Chemistry who have not yet given their departmental presentation. Introduces first- and secondyear Chemistry graduate students to the process of giving an effective research presentation. Advanced Ph.D. students give formal seminars describing the design and execution of their research projects. May be repeated up to 3 time(s). (S/U grading only.) Effective: 2009 Winter
+
+CHE 295—Careers in Chemistry (1) Seminar—2 hours. Prerequisite(s): Graduate standing in Chemistry. Designed to give Chemistry graduate students an in-depth appreciation of career opportunities with a M.S. or Ph.D. degree in chemistry. Professional chemists (and allied professionals) give seminars describing both research and career insights. May be repeated up to 3 time(s). (S/U grading only.) Effective: 2001 Fall
+
+CHE 296—Research in Pharmaceutical Chemistry (6) Laboratory—18 hours. Prerequisite(s): CHE 130A; CHE 130B; CHE 135; CHE 233 (can be concurrent); and Consent of Instructor. Restricted to students in the Integrated B.S./M.S. Program in Chemistry. Laboratory provides qualified graduate students with the opportunity to pursue original investigation in Pharmaceutical Chemistry and allied fields in order to fulfill the lettergraded research requirement of the Integrated B.S./M.S. Program in Chemistry (Pharmaceutical Chemistry Emphasis). May be repeated up to 3 time(s) when topic differs. Effective: 2009 Fall
+
+CHE 298—Group Study (1-5) Variable. Effective: 1997 Winter Quarter.
+
+CHE 299—Research (1-12) Variable. The laboratory is open to qualified graduate students who wish to pursue original investigation. Students wishing to enroll should communicate with the department well in advance of the quarter in which the work is to be undertaken. (S/U grading only.) Effective: 1997 Winter
+
+CHE 390—Methods of Teaching Chemistry (2) Discussion—1 hour; Lecture—1 hour. Prerequisite(s): Consent of Instructor. Graduate student standing in Chemistry. Practical experience in methods and problems of teaching chemistry. Includes analyses of texts and supporting material, discussion of teaching techniques, preparing for and conducting of discussion sessions and student laboratories. Participation in the teaching program required for Ph.D. in chemistry. May be repeated for credit. (S/U grading only.) Effective:
+
+CHE 392—Advanced Methods of Teaching Chemistry (2) Lecture—2 hours. Prerequisite(s): CHE 390 Advanced topics in teaching chemistry. Analysis and discussion of curricular design, curricula materials, teaching methods and evaluation. For students who are planning a career in teaching chemistry. (S/U grading only.) Effective: 1997 Winter
+
+CHE 002A—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): High school chemistry and physics, and concurrent enrollment in mathematics at or above the level of MAT 012 strongly recommended; any one of the following: (A) SAT Mathematics score = 600+; (B) ACT Mathematics score = 27+; (C) AP Chemistry exam score of = 3+; (D) SAT Chemistry subject test score = 700+; (E) UC Davis Chemistry Placement Examination score = 24+ on first attempt; in lieu of A-E, either completion of ALEKS online Preparatory Chemistry course with 100% Pie Mastery or completion of Workload 41C with a grade of C or better (Workload 41C offered in fall quarter only to students who do not meet A-E). Periodic table, stoichiometry, chemical equations, physical properties and kinetic theory of gases, atomic and molecular structure and chemical bonding. Laboratory experiments in stoichiometric relations, properties and collection of gases, atomic spectroscopy, and introductory quantitative analysis. Not open for credit to students who have taken CHE 002AH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002AH—Honors General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): Consent of Instructor. High school chemistry and physics. Any ONE of the following: (A) SAT Mathematics score = 670+; (B) ACT Mathematics score = 30+; (C) AP Chemistry exam score = 4+; (D) SAT Chemistry subject test score = 700+; (E) UC Davis Chemistry Placement Examination score = 33+ on first attempt; (F) UC Davis Chemistry Placement Examination score = 30+ AND UC Davis Mathematics Placement Examination score = 45+, both on first attempts; consent of instructor. Limited enrollment course with a more rigorous treatment of material covered in course 2A. Students completing course 2AH can continue with course 2BH or 2B. Not open for credit to students who have taken CHE 002A. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002B—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002A C- or better or CHE 002AH C- or better Continuation of course 2A. Condensed phases and intermolecular forces, chemical thermodynamics, chemical equilibria, acids and bases, solubility. Laboratory experiments in thermochemistry, equilibria, and quantitative analysis using volumetric methods. Not open for credit to students who have taken CHE 002BH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002BH—Honors General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002A or CHE 002AH C or better; MAT 021B (can be concurrent); or Consent of Instructor. CHE 2A with consent of instructor. Limited enrollment course with a more rigorous treatment of material covered in course 2B. Students completing course 2BH can continue with course 2CH or 2C. Not open for credit to students who have taken CHE 002B. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002C—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002B C- or better or CHE 002BH C- or better Continuation of course 2B. Kinetics, electrochemistry, spectroscopy, structure and bonding in transition metal compounds, application of principles to chemical reactions. Laboratory experiments in selected analytical methods and syntheses. Not open for credit to students who have taken CHE 002CH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002CH—Honors General Chemistry (5) Discussion/Laboratory—6 hours; Lecture—3 hours. Prerequisite(s): CHE 002B or CHE 002BH C or better; MAT 021C (can be concurrent); or Consent of Instructor. CHE 002B with consent of instructor Limited enrollment course with a more rigorous treatment of material covered in course 2C. Not open for credit to students who have taken CHE 002C. GE credit: QL, SE, SL. Effective:
+
+CHE 008A—Organic Chemistry: Brief Course (2) Lecture—2 hours. Prerequisite(s): CHE 002B C- or better or CHE 002BH C- or better With course 8B, an introduction to the nomenclature, structure, chemistry, and reaction mechanisms of organic compounds. Intended for students majoring in areas other than organic chemistry. No credit to students who have completed CHE 118A or 128A. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 008B—Organic Chemistry: Brief Course (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 008A or CHE 118A or CHE 128A Laboratory concerned primarily with organic laboratory techniques and the chemistry of the common classes of organic compounds. Lecture portion a continuation of course 8A. Varying credit hours according to courses taken previously and corresponding expected workload for this course; full credit to students who complete CHE 118A or 128A; 3 units credit to students who have completed CHE 128A and CHE 129A (students who have completed CHE 129A are exempt from the laboratory portion of CHE 008B); 2 units credit to students who have completed CHE 128B; 1 unit credit to students who have completed CHE 118B or CHE 128B and CHE 129A (students who have completed CHE 118B are exempt from the laboratory portion of CHE 008B). GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 010—Concept of Chemistry (4) Lecture—4 hours. Survey of basic concepts and contemporary applications of chemistry. Designed for non-science majors and not as preparation for Chemistry 2A. Not open for credit to students who have had CHE 002A; but students with credit for CHE 010 may take CHE 002A for full credit. GE credit: SE, SL. Effective: 1997 Winter Quarter.
+
+CHE 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Primarily for lower division students. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+CHE 100—Environmental Water Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH Practical aspects of water chemistry in the environment, including thermodynamic relations, coordination chemistry, solubility calculations, redox reactions and rate laws. Computer modeling of the evolution in water chemistry from contact with minerals and gases. Effective: 2016 Winter Quarter.
+
+CHE 103B—Chemistry for Life Sciences: Predicting and Controlling Organic Pathways (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 103A C- or better Not open for enrollment to students who have completed course 008B, 118B, 118C, 128B, or 128C with a C- or better. Continuation of course 103A. Core concepts of functional group transformations, synthesis, mechanisms, sustainable chemistry, structure and function of biomolecules, organic reactions in biological systems, molecular design, detection, separation, and identification of organic molecules. Not open for credit to students who have completed CHE 008B, CHE 118B, CHE 118C, CHE 128B, or CHE 128C. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+CHE 104—Forensic Applications of Analytical Chemistry (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): CHE 002C or CHE 002CH Theory and application of standard methods of chemical analysis to evidentiary samples. Use and evaluation of results from screening tests, FTIR, GC and GCMS to various sample types encountered in forensics. Effective: 2016 Winter Quarter.
+
+CHE 105—Analytical and Physical Chemical Methods (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 110A (can be concurrent) or CHE 107B (can be concurrent) Fundamental theory and laboratory techniques in; analytical and physical chemistry, errors and data analysis methods, basic electrical circuits in instruments, advanced solution equilibria, potentiometric analysis, chromatographic separations, UV-visible spectroscopy, lasers. GE credit: QL, SE, SL. Effective: 2016 Spring Quarter.
+
+CHE 107A—Physical Chemistry for the Life Sciences (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH; (MAT 016C or MAT 017C or MAT 021C); (PHY 007C or PHY 009C or PHY 009HC) Physical chemistry intended for majors in the life science area. Introductory development of classical and statistical thermodynamics including equilibrium processes and solutions of both non-electrolytes and electrolytes. The thermodynamic basis of electrochemistry and membrane potentials. GE credit: SE. Effective: 2017 Spring Quarter.
+
+CHE 107B—Physical Chemistry for the Life Sciences (3) Lecture—3 hours. Prerequisite(s): CHE 107A Continuation of course 107A. Kinetic theory of gases and transport processes in liquids. Chemical kinetics, enzyme kinetics and theories of reaction rates. Introduction to quantum theory, atomic and molecular structure, and spectroscopy. Application to problems in the biological sciences. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 108—Molecular Biochemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128C or CHE 118C Pass One open to Chemistry majors. Chemical principles and experimental methods applied to the biological sciences to understand the molecular structure and function of proteins, nucleic acids, carbohydrates, and membrane lipids. Effective: 2016 Winter Quarter.
+
+CHE 110A—Physical Chemistry: Introduction to Quantum Mechanics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (PHY 007C or PHY 009C or PHY 009HC); (CHE 002C or CHE 002CH); (MAT 016C or MAT 017C or MAT 021C); Completion of Mathematics 21D, 22A, and 22AL, and Physics 9C or 9HC, strongly recommended. Introduction to the postulates and general principles of quantum mechanics. Approximations based on variational method and time independent perturbation theory. Application to harmonic oscillator, rigid rotor, one-electron and many-electron atoms, and homo-and hetero-nuclear diatomic molecules. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+CHE 110B—Physical Chemistry: Properties of Atoms and Molecules (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110A Group theory. Application of quantum mechanics to polyatomic molecules and molecular spectroscopy. Intermolecular forces and the gas, liquid and solid states. Distributions, ensembles and partition functions. Transport properties. Effective:
+
+CHE 110C—Physical Chemistry: Thermodynamics, Equilibria and Kinetics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110B Development and application of the general principles of thermodynamics and statistical thermodynamics. Chemical kinetics, rate laws for chemical reactions and reaction mechanisms. Effective: 1999 Fall Quarter.
+
+CHE 115—Instrumental Analysis (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 105; (CHE 110B (can be concurrent) or (CHE 107A, CHE 107B)) Intermediate theory and laboratory techniques in analytical and physical chemistry. Advanced data analysis methods and goodness-of-fit criteria. Fourier-transform spectroscopic methods and instrumentation. Mass spectrometry. Electrochemistry. Liquid chromatography. GE credit: QL, SE, WE. Effective: 2006 Fall Quarter.
+
+CHE 118A—Organic Chemistry for Health and Life Sciences (4) Discussion/Laboratory—1.5 hours; Lecture—3 hours. Prerequisite(s): CHE 002C C- or better or CHE 002CH C- or better The 118A, 118B, 118C series is for students planning professional school studies in health and life sciences. A rigorous, in-depth presentation of basic principles with emphasis on stereochemistry and spectroscopy and preparations and reactions of nonaromatic hydrocarbons, haloalkanes, alcohols and ethers. Only 2 units credit for students who have completed course CHE 008A; not open for credit to students who have completed CHE 008B or CHE 128A. GE credit: SE, SL. Effective: 2017 Spring Quarter.
+
+CHE 118B—Organic Chemistry for Health and Life Sciences (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 118A or CHE 128A Continuation of course 118A, with emphasis on spectroscopy and the preparation and reactions of aromatic hydrocarbons, organometallic compounds, aldehydes and ketones. Only one unit of credit to students who completed course CHE 128B.; not open for credit to students who have completed 8 or more units of CHE 128 and CHE 129 courses. GE credit: SE, SL. Effective: 2017 Fall Quarter.
+
+CHE 118C—Organic Chemistry for Health and Life Sciences (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 118B or (CHE 128B, CHE 129A) Open to students changing from the CHE 128 course sequence only if they have completed prior organic laboratory work (at least course CHE 129A). Continuation of course 118B, with emphasis on the preparation, reactions and identification of carboxylic acids and their derivatives, alkyl and acyl amines, ß-dicarbonyl compounds, and various classes of naturally occurring, biologically important compounds. Not open for credit to students who have completed course CHE 128C. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+CHE 121—Introduction to Molecular Structure and Spectra (4) Lecture—4 hours. Prerequisite(s): CHE 110B Modern theoretical and experimental methods used to study problems of molecular structure and bonding; emphasis on spectroscopic techniques. Effective: 1997 Winter Quarter.
+
+CHE 122—Chemistry of Nanoparticles (3) Lecture—3 hours. Prerequisite(s): CHE 110C (can be concurrent) or CHE 107B (can be concurrent) Chemical and physical aspects of inorganic nanoparticles. Topics include synthesis, structure, colloidal behavior, catalytic activity, size and shape dependency of physical properties, analytical methods and applications. Effective: 2016 Winter Quarter.
+
+CHE 124A—Inorganic Chemistry: Fundamentals (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH Symmetry, molecular geometry and structure, molecular orbital theory of bonding (polyatomic molecules and transition metals), solid state chemistry, energetics and spectroscopy of inorganic compounds. GE credit: SE. Effective:
+
+CHE 124B—Inorganic Chemistry: Main Group Elements (3) Lecture—3 hours. Prerequisite(s): CHE 124A Synthesis, structure and reactivity of inorganic and heteroorganic molecules containing the main group elements. Effective: 1997 Winter Quarter.
+
+CHE 124C—Inorganic Chemistry: d and f Block Elements (3) Lecture—3 hours. Prerequisite(s): CHE 124A Synthesis, structure and reactivity of transition metal complexes, organometallic and bioinorganic chemistry, the lanthanides and actinides. Effective: 1997 Winter
+
+CHE 124L—Laboratory Methods in Inorganic Chemistry (2) Laboratory—6 hours. Prerequisite(s): CHE 124B or CHE 124C (can be concurrent) The preparation, purification and characterization of main group and transition metal inorganic and organometallic compounds. Effective: 2000 Spring Quarter.
+
+CHE 125—Advanced Methods in Physical Chemistry (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 110C (can be concurrent); CHE 115 Advanced theory and laboratory techniques in analytical and physical chemistry. Advanced spectroscopic methods. Thermodynamics. Kinetics. Chemical literature. Digital electronics and computer interfacing. Laboratory measurements and vacuum techniques. GE credit: QL, SE, WE. Effective: 2000 Spring Quarter.
+
+CHE 128A—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 002C C or better or CHE 002CH C or better Introduction to the basic concepts of organic chemistry with emphasis on stereochemistry and the chemistry of hydrocarbons. Designed primarily for majors in chemistry. Chemistry majors should enroll in course 129A concurrently. Only two units credit allowed for students who have completed CHE 008A; not open for credit to students who have completed courses CHE 008B or 118A. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 128B—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128A; or Consent of Instructor. Continuation of course 128A with emphasis on the chemistry of alcohols, ethers, their sulfur analogs, and carbonyl compounds. Introduction to the application of spectroscopic methods to organic chemistry. Introduction to synthesis of moderately complex organic molecules. Full credit to students who completed CHE 008B or CHE 118A; not open for credit to students who have completed CHE 118B. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 128C—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128B Continuation of course 128B with emphasis on enolate condensations and the chemistry of amines, phenols, and sugars; selected biologically important compounds. Full credit to students who completed CHE 118B; Not open for credit to students who have completed CHE 118C. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 129A—Organic Chemistry Laboratory (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): (CHE 002C C or better or CHE 002CH C or better); CHE 128A (can be concurrent) Introduction to laboratory techniques of organic chemistry. Emphasis on methods used for separation and purification of organic compounds. Full credit to students who completed CHE 008B; not open for credit to students who have completed CHE 118B. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 129B—Organic Chemistry Laboratory (2) Laboratory—6 hours. Prerequisite(s): CHE 129A; CHE 128B (can be concurrent) Continuation of course 129A. Emphasis on methods used for synthesis and isolation of organic compounds. Not open for credit to students who have completed CHE 118C. GE credit: SE. Effective: 2017 Winter
+
+CHE 129C—Organic Chemistry Laboratory (2) Laboratory—6 hours. Prerequisite(s): CHE 128C (can be concurrent); CHE 129B continuation of course 129B Effective: 1997 Winter Quarter.
+
+CHE 130A—Pharmaceutical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C Examination of the design principles and experimental methods used in pharmaceutical and medicinal chemistry. Effective: 2006 Fall
+
+CHE 130B—Pharmaceutical Chemistry (3) Lecture—2 hours; Lecture/Lab—1 hour. Prerequisite(s): CHE 130A (can be concurrent) Continuation of course 130A with emphasis on case studies of various drugs and the use of computational methods in drug design. Effective: 2017 Spring Quarter.
+
+CHE 130C—Case Studies in Pharmaceutical Chemistry (1) Independent Study; Seminar—2 hours. Prerequisite(s): CHE 130A (can be concurrent); CHE 130B (can be concurrent) Seminar. Exploration of medicinal and pharmaceutical chemistry topics through seminars presented by professional chemists (and allied professionals). Designed to highlight career opportunities for students with a degree in pharmaceutical chemistry. (P/NP grading only.) Effective: 2017 Spring Quarter.
+
+CHE 131—Modern Methods of Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 128C or CHE 118C Introduction to modern synthetic methodology in organic chemistry with emphasis on retrosynthetic analysis, reaction mechanisms, and application to multistep syntheses of pharmaceuticals and natural products. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 135—Advanced Bio-organic Chemistry Laboratory (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): CHE 130B (can be concurrent) Separation, purification, identification and biological evaluation of organic compounds using modern methods of synthesis, computational chemistry and instrumentation. Emphasis on pharmaceutical and medicinal substances. Effective: 2017 Fall Quarter.
+
+CHE 145—Good Quality Practices (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): CHE 118B or CHE 129B Open to Chemistry and science majors. Preparation for work in GQP laboratories in both research and industry. Context within GQP-Good Quality Practices (GMP Good Manufacturing Practice, GCP Good Clinical Practices). Lab practice in GQP skills. GE credit: SE. Effective: 2016 Winter Quarter.
+
+CHE 150—Chemistry of Natural Products (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C Chemistry of terpenes, steroids, acetogenins, and alkaloids: isolation, structure determination, biosynthesis, chemical transformations, and total synthesis. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 192—Internship in Chemistry (1-6) Internship—3-18 hours. Prerequisite(s): Upper division standing; project approval by faculty sponsor prior to enrollment. Supervised internship in chemistry; requires a final written report. May be repeated up to 6 unit(s). (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 194HA—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 1997 Winter Quarter.
+
+CHE 194HB—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 1997 Winter Quarter.
+
+CHE 194HC—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 2005 Fall Quarter.
+
+CHE 195—Careers in Chemistry (1) Seminar—2 hours. Prerequisite(s): Junior or senior standing in Chemistry. Designed to give Chemistry undergraduate students an in-depth appreciation of career opportunities with a bachelors degree in chemistry. Professional chemists (and allied professionals) describe research and provide career insights. (P/NP grading only.) Effective: 2001 Fall Quarter.
+
+CHE 197—Projects in Chemical Education (1-4) Discussion/Laboratory. Prerequisite(s): Consent of Instructor. Participation may include development of laboratory experiments, lecture demonstrations, autotutorial modules or assistance with laboratory sessions. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 1997
+
+CHE 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of instructor based upon adequate preparation in chemistry, mathematics and physics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of instructor based upon adequate preparation in chemistry, mathematics, and physics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 201—Chemical Uses of Symmetry and Group Theory (3) Lecture—3 hours. Prerequisite(s): CHE 124A; CHE 110B; or Consent of Instructor. Symmetry elements and operations, point groups, representations of groups. Applications to molecular orbital theory, ligand field theory, molecular vibrations, and angular momentum. Crystallographic symmetry. Effective: 1997 Winter Quarter.
+
+CHE 204—Mathematical Methods in Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C Graduate standing in Chemistry. Introduction to mathematical and numerical methods in chemistry. Real and complex functions. Methods of integration. Differential equations. Linear algebra and matrices. Special functions. Integral transforms. Statistics. Effective: 2005 Fall Quarter.
+
+CHE 205—Symmetry, Spectroscopy, and Structure (3) Lecture—3 hours. Prerequisite(s): CHE 201; Or equivalent. Vibrational and rotational spectra; electronic spectra and photoelectron spectroscopy; magnetism; electron spin and nuclear quadrapole resonance spectroscopy; nuclear magnetic resonance spectroscopy; other spectroscopic methods. Effective: 1997 Winter Quarter.
+
+CHE 209—Special Topics in Physical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 210A; CHE 211A Graduate standing in Chemistry. Advanced topics in physical chemistry, biophysical chemistry or chemical physics chosen from areas of current research interest. May be repeated for credit when topics differ. Effective: 2005 Fall
+
+CHE 210A—Quantum Chemistry: Introduction and Stationary-State Properties (3) Lecture—3 hours. Prerequisite(s): CHE 110B; CHE 110C; or Consent of Instructor. Stationary-state quantum chemistry: postulates of quantum mechanics, simple solutions, central field problems and angular momenta, hydrogen atom, perturbation theory, variational theory, atoms and molecules. Effective: 1997 Winter Quarter.
+
+CHE 210B—Quantum Chemistry: Time-Dependent Systems (3) Lecture—3 hours. Prerequisite(s): CHE 210A Matrix mechanics and time-dependent quantum chemistry: matrix formulation of quantum mechanics, Heisenberg representation, time-dependent perturbation theory, selection rules, density matrices, and miscellaneous molecular properties. Effective: 1997 Winter Quarter.
+
+CHE 210C—Quantum Chemistry: Molecular Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 210B Molecular spectroscopy: Born-Oppenheimer approximation, rotational, vibrational and electronic spectroscopy, spin systems, and molecular photophysics. Effective: 1997 Winter Quarter.
+
+CHE 211A—Advanced Physical Chemistry: Statistical Thermodynamics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Principles and applications of statistical mechanics; ensemble theory; statistical thermodynamics of gases, solids, liquids, electrolyte solutions and polymers; chemical equilibrium. Effective: 1997 Winter Quarter.
+
+CHE 211B—Statistical Mechanics (3) Lecture—3 hours. Prerequisite(s): CHE 211A Statistical mechanics of nonequilibrium systems, including the rigorous kinetic theory of gases, continuum mechanics transport in dense fluids, stochastic processes, brownian motion and linear response theory. Effective: 1997 Winter Quarter.
+
+CHE 212—Chemical Dynamics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Introduction to modern concepts in chemical reaction dynamics for graduate students in chemistry. Emphasis will be placed on experimental techniques as well as emerging physical models for characterizing chemical reactivity at a microscopic level. Effective: 1997 Winter Quarter.
+
+CHE 215—Theoretical and Computational Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 211A; CHE 210B; or Consent of Instructor. Mathematics of wide utility in chemistry, computational methods for guidance or alternative to experiment, and modern formulations of chemical theory. Emphasis will vary in successive years. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+CHE 216—Magnetic Resonance Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 210A; CHE 210B (can be concurrent) Quantum mechanics of spin and orbital angular momentum, nuclear magnetic resonance, theory of chemical shift and multiplet structures, electron spin resonance, theory of gtensor in organic and transition ions, spin Hamiltonians, nuclear quadrupolar resonance, spin relaxation processes. Effective: 1997 Winter
+
+CHE 217—X-Ray Structure Determination (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Introduction to x-ray structure determination; crystals, symmetry, diffraction geometry, sample preparation and handling, diffraction apparatus and data collection, methods of structure solution and refinement, presentation of results, text, tables and graphics, crystallographic literature. Effective: 1997 Winter Quarter.
+
+CHE 218—Macromolecules: Physical Principles (3) Lecture—3 hours. Prerequisite(s): CHE 110A; CHE 110B; CHE 110C; Or equivalent. Relationship of higher order macromolecular structure to subunit composition; equilibrium properties and macromolecular dynamics; physical chemical determination of macromolecular structure. Effective:
+
+CHE 219—Spectroscopy of Organic Compounds (4) Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Identification of organic compounds and investigation of stereochemical and reaction mechanism phenomena using spectroscopic methods--principally NMR, IR and MS. Effective: 2006 Fall Quarter.
+
+CHE 219L—Laboratory in Spectroscopy of Organic Compounds (1) Laboratory—2.5 hours. Prerequisite(s): CHE 219 (can be concurrent) Restricted to Chemistry graduate students only or consent of instructor Practical application of NMR, IR and MS techniques for organic molecules. Effective: 2009 Summer Session 1.
+
+CHE 221A—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221B—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221C—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221D—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221E—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221F—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221G—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221H—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 222—Chemistry of Nanoparticles (3) Lecture/Discussion—3 hours. Prerequisite(s): CHE 110C; Or equivalent. Chemical and physical aspects of inorganic nanoparticles, including synthesis, purification, reactivity, characterization, and applications for technology. Emphasis is on problems from the current literature. Not open for credit to students who have taken CHE 122. Effective: 2009 Winter Quarter.
+
+CHE 226—Principles of Transition Metal Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 124A; or equivalent. Electronic structures, bonding, and reactivity of transition metal compounds. Effective: 1997 Winter Quarter.
+
+CHE 228A—Bio-inorganic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 226; or Consent of Instructor. Defines role of inorganic chemistry in the functioning of biological systems by identifying the functions of metal ions and main group compounds in biological systems and discussing the chemistry of model and isolated biological compounds. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228B—Main Group Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 226; or Consent of Instructor. Synthesis, physical properties, reactions and bonding of main group compounds. Discussions of concepts of electron deficiency, hypervalency, and non-classical bonding. Chemistry of the main group elements will be treated systematically. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228C—Solid-State Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 124A; CHE 110B; CHE 226; Or equivalent. Design and synthesis, structure and bonding of solid-state compounds; physical properties and characterization of solids; topics of current interest such as low-dimensional materials, inorganic polymers, materials for catalysis. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228D—Homogeneous Catalysis (3) Lecture—3 hours. Prerequisite(s): CHE 226 Overview of homogeneous catalysis and related methods, with emphasis on kinetics, mechanisms, and applications for organic synthesis. The related methods may include cluster, colloid, phase transfer, enzymatic, heterogeneous and polymer-supported catalysis. Offered every third year. Effective: 2001 Fall Quarter.
+
+CHE 228E—Magnetochemistry (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): CHE 124A or CHE 201; Or an equivalent class from either Physics or Chemical Engineering and Materials Science. Covers the basic principles and concepts of magnetism, methods used for characterization of magnetic properties, as well as specific state-of-the-art magnetic materials and topics from the recent chemistry literature. Effective: 2016 Winter Quarter.
+
+CHE 231A—Organic Synthesis: Methods and Strategies (4) Discussion/Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Current strategies and methods in synthetic organic chemistry. Focus on construction of carbon frameworks, control of relative and absolute stereochemistry and retrosynthetic strategies. Use of databases and molecular modeling software in multistep strategies. Effective: 2017 Winter Quarter.
+
+CHE 231B—Advanced Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 231A Current strategies and methods in synthetic organic chemistry. Continuation of course 231A. Organic synthesis of complex target molecules. Stereochemical considerations and asymmetric synthesis. Organometallics for selective transformations. Carbocyclic and heterocyclic ring formation. Effective: 2016 Fall Quarter.
+
+CHE 233—Physical-Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128A; CHE 128B; CHE 128C; CHE 110A; CHE 110B; CHE 110C; Or equivalent. Introduction to elementary concepts in physicalorganic chemistry including the application of simple numerical techniques in characterizing and modeling organic reactions. Effective: 1997 Winter Quarter.
+
+CHE 235—Organometallic Chemistry in Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 128C Current trends in use of organometallics for organic synthesis; preparations, properties, applications, and limitations of organometallic reagents derived from transition and/or main group metals. Effective: 1997 Winter Quarter.
+
+CHE 236—Chemistry of Natural Products (3) Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Advanced treatment of chemistry of naturally occurring compounds isolated from a variety of sources. Topics will include isolation, structure determination, chemical transformations, total synthesis, biological activity, and biosynthesis. Biosynthetic origin will be used as a unifying theme. Effective:
+
+CHE 237—Bio-organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Structure and function of biomolecules; molecular recognition; enzyme reaction mechanisms; design of suicide substrates for enzymes; enzyme engineering; design of artificial enzymes and application of enzymes in organic synthesis. Effective: 1997 Winter Quarter.
+
+CHE 238—Introduction to Chemical Biology (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C; Or equivalent; CHE 130A, CHE 130B and BIS 102, BIS 103, and BIS 104, or the equivalents recommended. Synthesis of complex molecules in nature. Use of biosynthetic pathways in synthesis of new chemical entities. Applications of small molecules in chemical genetics and structural biology. Solving biological problems using synthetic biomolecules. Effective: 2009 Winter Quarter.
+
+CHE 240—Advanced Analytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110A; CHE 115; Or equivalent. Numerical treatment of experimental data; thermodynamics of electrolyte and non-electrolyte solutions; complex equilibria in aqueous and non-aqueous solutions; potentiometry and specific ion electrodes; mass transfer in liquid solutions; fundamentals of separation science, including column, gas and liquid chromatography. Effective: 1997 Winter Quarter.
+
+CHE 241A—Surface Analytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; Or equivalent. Concepts of surfaces and interfaces: physical properties, unique chemistry and electronic effects. Focus on gas-solid interfaces, with some discussion of liquid-solid interfaces. Effective: 2002 Fall Quarter.
+
+CHE 241B—Laser and X-ray Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 110B; Or equivalent. Concepts and mechanisms of lightmatter interactions. Chemical applications of modern spectroscopic methods, including multiphoton spectroscopy, time-resolved laser and x-ray photolysis, and phase-contrast x-ray imaging. Effective: 2002 Fall Quarter.
+
+CHE 241C—Mass Spectrometry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Mass spectrometry and related methods with emphasis on ionization methods, mass analyzers, and detectors. Related methods may include ion-molecule reactions, unimolecular dissociation of organic and bio-organic compounds, and applications in biological and environmental analysis. Effective: 2002 Winter
+
+CHE 241D—Electroanalytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Electroanalytical chemistry with consideration of mass transfer and electrode kinetics for polarizable electrodes. Currentpotential curves for a variety of conditions, including both potentiostatic and galvanostatic control, and their application in chemical analysis. Effective: 2002 Winter Quarter.
+
+CHE 241E— Microscopy and Imaging Techniques (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Introduction to modern microscopy and imaging techniques: scanning tunneling, atomic force, far-field optical, fluorescence, scanning near-field optical, and scanning electron microscopy. Application to nanoscience and analytical and bioanalytical chemistry. Some laboratory demonstrations. Effective:
+
+CHE 245—Mechanistic Enzymology (3) Lecture—3 hours. Advanced topics in chemical kinetics relevant to enzymes, enzyme kinetics, theory of enzyme catalysis, and the analysis of a selection of organic enzyme reaction mechanisms by the tools introduced in the first part of the course. Effective: 2013 Fall Quarter.
+
+CHE 261—Current Topics in Chemical Research (2) Lecture—2 hours. Prerequisite(s): Graduate standing in Chemistry or consent of instructor. Designed to help chemistry graduate students develop and maintain familiarity with the current and past literature in their immediate field of research and related areas. May be repeated for credit when topics differ. Effective: 1997 Winter Quarter.
+
+CHE 263—Introduction to Chemical Research Methodology (3) Discussion/Laboratory—9 hours. Prerequisite(s): CHE 293; and Consent of Instructor. Graduate student standing in Chemistry. Introduction to identification, formulation, and solution of meaningful scientific problems including experimental design and/or theoretical analyses of new and prevailing techniques, theories and hypotheses. May be repeated for credit when topic differs. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+CHE 264—Advanced Chemical Research Methodology (6) Discussion/Laboratory—18 hours. Prerequisite(s): CHE 263; or Consent of Instructor. Applications of the methodology developed in course 263 to experimental and theoretical studies. Advanced methods of interpretation of results are developed. Includes the preparation of manuscripts for publication. May be repeated for credit for credit when topic differs. (S/U grading only.) Effective:
+
+CHE 290—Seminar (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997
+
+CHE 293—Introduction to Chemistry Research (1) Discussion—2 hours. Designed for incoming graduate students preparing for higher degrees in chemistry. Group and individual discussion of research activities in the Department and research topic selection. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+CHE 294—Presentation of Chemistry Research (1) Seminar—2 hours. Prerequisite(s): Graduate standing. Restricted to graduate students in Chemistry who have not yet given their departmental presentation. Introduces first- and secondyear Chemistry graduate students to the process of giving an effective research presentation. Advanced Ph.D. students give formal seminars describing the design and execution of their research projects. May be repeated up to 3 time(s). (S/U grading only.) Effective: 2009 Winter
+
+CHE 295—Careers in Chemistry (1) Seminar—2 hours. Prerequisite(s): Graduate standing in Chemistry. Designed to give Chemistry graduate students an in-depth appreciation of career opportunities with a M.S. or Ph.D. degree in chemistry. Professional chemists (and allied professionals) give seminars describing both research and career insights. May be repeated up to 3 time(s). (S/U grading only.) Effective: 2001 Fall
+
+CHE 296—Research in Pharmaceutical Chemistry (6) Laboratory—18 hours. Prerequisite(s): CHE 130A; CHE 130B; CHE 135; CHE 233 (can be concurrent); and Consent of Instructor. Restricted to students in the Integrated B.S./M.S. Program in Chemistry. Laboratory provides qualified graduate students with the opportunity to pursue original investigation in Pharmaceutical Chemistry and allied fields in order to fulfill the lettergraded research requirement of the Integrated B.S./M.S. Program in Chemistry (Pharmaceutical Chemistry Emphasis). May be repeated up to 3 time(s) when topic differs. Effective: 2009 Fall
+
+CHE 298—Group Study (1-5) Variable. Effective: 1997 Winter Quarter.
+
+CHE 299—Research (1-12) Variable. The laboratory is open to qualified graduate students who wish to pursue original investigation. Students wishing to enroll should communicate with the department well in advance of the quarter in which the work is to be undertaken. (S/U grading only.) Effective: 1997 Winter
+
+CHE 390—Methods of Teaching Chemistry (2) Discussion—1 hour; Lecture—1 hour. Prerequisite(s): Consent of Instructor. Graduate student standing in Chemistry. Practical experience in methods and problems of teaching chemistry. Includes analyses of texts and supporting material, discussion of teaching techniques, preparing for and conducting of discussion sessions and student laboratories. Participation in the teaching program required for Ph.D. in chemistry. May be repeated for credit. (S/U grading only.) Effective:
+
+CHE 392—Advanced Methods of Teaching Chemistry (2) Lecture—2 hours. Prerequisite(s): CHE 390 Advanced topics in teaching chemistry. Analysis and discussion of curricular design, curricula materials, teaching methods and evaluation. For students who are planning a career in teaching chemistry. (S/U grading only.) Effective: 1997 Winter
+
+CHE 002A—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): High school chemistry and physics, and concurrent enrollment in mathematics at or above the level of MAT 012 strongly recommended; any one of the following: (A) SAT Mathematics score = 600+; (B) ACT Mathematics score = 27+; (C) AP Chemistry exam score of = 3+; (D) SAT Chemistry subject test score = 700+; (E) UC Davis Chemistry Placement Examination score = 24+ on first attempt; in lieu of A-E, either completion of ALEKS online Preparatory Chemistry course with 100% Pie Mastery or completion of Workload 41C with a grade of C or better (Workload 41C offered in fall quarter only to students who do not meet A-E). Periodic table, stoichiometry, chemical equations, physical properties and kinetic theory of gases, atomic and molecular structure and chemical bonding. Laboratory experiments in stoichiometric relations, properties and collection of gases, atomic spectroscopy, and introductory quantitative analysis. Not open for credit to students who have taken CHE 002AH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002AH—Honors General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): Consent of Instructor. High school chemistry and physics. Any ONE of the following: (A) SAT Mathematics score = 670+; (B) ACT Mathematics score = 30+; (C) AP Chemistry exam score = 4+; (D) SAT Chemistry subject test score = 700+; (E) UC Davis Chemistry Placement Examination score = 33+ on first attempt; (F) UC Davis Chemistry Placement Examination score = 30+ AND UC Davis Mathematics Placement Examination score = 45+, both on first attempts; consent of instructor. Limited enrollment course with a more rigorous treatment of material covered in course 2A. Students completing course 2AH can continue with course 2BH or 2B. Not open for credit to students who have taken CHE 002A. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002B—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002A C- or better or CHE 002AH C- or better Continuation of course 2A. Condensed phases and intermolecular forces, chemical thermodynamics, chemical equilibria, acids and bases, solubility. Laboratory experiments in thermochemistry, equilibria, and quantitative analysis using volumetric methods. Not open for credit to students who have taken CHE 002BH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002BH—Honors General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002A or CHE 002AH C or better; MAT 021B (can be concurrent); or Consent of Instructor. CHE 2A with consent of instructor. Limited enrollment course with a more rigorous treatment of material covered in course 2B. Students completing course 2BH can continue with course 2CH or 2C. Not open for credit to students who have taken CHE 002B. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002C—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002B C- or better or CHE 002BH C- or better Continuation of course 2B. Kinetics, electrochemistry, spectroscopy, structure and bonding in transition metal compounds, application of principles to chemical reactions. Laboratory experiments in selected analytical methods and syntheses. Not open for credit to students who have taken CHE 002CH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002CH—Honors General Chemistry (5) Discussion/Laboratory—6 hours; Lecture—3 hours. Prerequisite(s): CHE 002B or CHE 002BH C or better; MAT 021C (can be concurrent); or Consent of Instructor. CHE 002B with consent of instructor Limited enrollment course with a more rigorous treatment of material covered in course 2C. Not open for credit to students who have taken CHE 002C. GE credit: QL, SE, SL. Effective:
+
+CHE 008A—Organic Chemistry: Brief Course (2) Lecture—2 hours. Prerequisite(s): CHE 002B C- or better or CHE 002BH C- or better With course 8B, an introduction to the nomenclature, structure, chemistry, and reaction mechanisms of organic compounds. Intended for students majoring in areas other than organic chemistry. No credit to students who have completed CHE 118A or 128A. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 008B—Organic Chemistry: Brief Course (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 008A or CHE 118A or CHE 128A Laboratory concerned primarily with organic laboratory techniques and the chemistry of the common classes of organic compounds. Lecture portion a continuation of course 8A. Varying credit hours according to courses taken previously and corresponding expected workload for this course; full credit to students who complete CHE 118A or 128A; 3 units credit to students who have completed CHE 128A and CHE 129A (students who have completed CHE 129A are exempt from the laboratory portion of CHE 008B); 2 units credit to students who have completed CHE 128B; 1 unit credit to students who have completed CHE 118B or CHE 128B and CHE 129A (students who have completed CHE 118B are exempt from the laboratory portion of CHE 008B). GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 010—Concept of Chemistry (4) Lecture—4 hours. Survey of basic concepts and contemporary applications of chemistry. Designed for non-science majors and not as preparation for Chemistry 2A. Not open for credit to students who have had CHE 002A; but students with credit for CHE 010 may take CHE 002A for full credit. GE credit: SE, SL. Effective: 1997 Winter Quarter.
+
+CHE 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Primarily for lower division students. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+CHE 100—Environmental Water Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH Practical aspects of water chemistry in the environment, including thermodynamic relations, coordination chemistry, solubility calculations, redox reactions and rate laws. Computer modeling of the evolution in water chemistry from contact with minerals and gases. Effective: 2016 Winter Quarter.
+
+CHE 103B—Chemistry for Life Sciences: Predicting and Controlling Organic Pathways (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 103A C- or better Not open for enrollment to students who have completed course 008B, 118B, 118C, 128B, or 128C with a C- or better. Continuation of course 103A. Core concepts of functional group transformations, synthesis, mechanisms, sustainable chemistry, structure and function of biomolecules, organic reactions in biological systems, molecular design, detection, separation, and identification of organic molecules. Not open for credit to students who have completed CHE 008B, CHE 118B, CHE 118C, CHE 128B, or CHE 128C. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+CHE 104—Forensic Applications of Analytical Chemistry (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): CHE 002C or CHE 002CH Theory and application of standard methods of chemical analysis to evidentiary samples. Use and evaluation of results from screening tests, FTIR, GC and GCMS to various sample types encountered in forensics. Effective: 2016 Winter Quarter.
+
+CHE 105—Analytical and Physical Chemical Methods (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 110A (can be concurrent) or CHE 107B (can be concurrent) Fundamental theory and laboratory techniques in; analytical and physical chemistry, errors and data analysis methods, basic electrical circuits in instruments, advanced solution equilibria, potentiometric analysis, chromatographic separations, UV-visible spectroscopy, lasers. GE credit: QL, SE, SL. Effective: 2016 Spring Quarter.
+
+CHE 107A—Physical Chemistry for the Life Sciences (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH; (MAT 016C or MAT 017C or MAT 021C); (PHY 007C or PHY 009C or PHY 009HC) Physical chemistry intended for majors in the life science area. Introductory development of classical and statistical thermodynamics including equilibrium processes and solutions of both non-electrolytes and electrolytes. The thermodynamic basis of electrochemistry and membrane potentials. GE credit: SE. Effective: 2017 Spring Quarter.
+
+CHE 107B—Physical Chemistry for the Life Sciences (3) Lecture—3 hours. Prerequisite(s): CHE 107A Continuation of course 107A. Kinetic theory of gases and transport processes in liquids. Chemical kinetics, enzyme kinetics and theories of reaction rates. Introduction to quantum theory, atomic and molecular structure, and spectroscopy. Application to problems in the biological sciences. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 108—Molecular Biochemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128C or CHE 118C Pass One open to Chemistry majors. Chemical principles and experimental methods applied to the biological sciences to understand the molecular structure and function of proteins, nucleic acids, carbohydrates, and membrane lipids. Effective: 2016 Winter Quarter.
+
+CHE 110A—Physical Chemistry: Introduction to Quantum Mechanics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (PHY 007C or PHY 009C or PHY 009HC); (CHE 002C or CHE 002CH); (MAT 016C or MAT 017C or MAT 021C); Completion of Mathematics 21D, 22A, and 22AL, and Physics 9C or 9HC, strongly recommended. Introduction to the postulates and general principles of quantum mechanics. Approximations based on variational method and time independent perturbation theory. Application to harmonic oscillator, rigid rotor, one-electron and many-electron atoms, and homo-and hetero-nuclear diatomic molecules. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+CHE 110B—Physical Chemistry: Properties of Atoms and Molecules (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110A Group theory. Application of quantum mechanics to polyatomic molecules and molecular spectroscopy. Intermolecular forces and the gas, liquid and solid states. Distributions, ensembles and partition functions. Transport properties. Effective:
+
+CHE 110C—Physical Chemistry: Thermodynamics, Equilibria and Kinetics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110B Development and application of the general principles of thermodynamics and statistical thermodynamics. Chemical kinetics, rate laws for chemical reactions and reaction mechanisms. Effective: 1999 Fall Quarter.
+
+CHE 115—Instrumental Analysis (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 105; (CHE 110B (can be concurrent) or (CHE 107A, CHE 107B)) Intermediate theory and laboratory techniques in analytical and physical chemistry. Advanced data analysis methods and goodness-of-fit criteria. Fourier-transform spectroscopic methods and instrumentation. Mass spectrometry. Electrochemistry. Liquid chromatography. GE credit: QL, SE, WE. Effective: 2006 Fall Quarter.
+
+CHE 118A—Organic Chemistry for Health and Life Sciences (4) Discussion/Laboratory—1.5 hours; Lecture—3 hours. Prerequisite(s): CHE 002C C- or better or CHE 002CH C- or better The 118A, 118B, 118C series is for students planning professional school studies in health and life sciences. A rigorous, in-depth presentation of basic principles with emphasis on stereochemistry and spectroscopy and preparations and reactions of nonaromatic hydrocarbons, haloalkanes, alcohols and ethers. Only 2 units credit for students who have completed course CHE 008A; not open for credit to students who have completed CHE 008B or CHE 128A. GE credit: SE, SL. Effective: 2017 Spring Quarter.
+
+CHE 118B—Organic Chemistry for Health and Life Sciences (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 118A or CHE 128A Continuation of course 118A, with emphasis on spectroscopy and the preparation and reactions of aromatic hydrocarbons, organometallic compounds, aldehydes and ketones. Only one unit of credit to students who completed course CHE 128B.; not open for credit to students who have completed 8 or more units of CHE 128 and CHE 129 courses. GE credit: SE, SL. Effective: 2017 Fall Quarter.
+
+CHE 118C—Organic Chemistry for Health and Life Sciences (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 118B or (CHE 128B, CHE 129A) Open to students changing from the CHE 128 course sequence only if they have completed prior organic laboratory work (at least course CHE 129A). Continuation of course 118B, with emphasis on the preparation, reactions and identification of carboxylic acids and their derivatives, alkyl and acyl amines, ß-dicarbonyl compounds, and various classes of naturally occurring, biologically important compounds. Not open for credit to students who have completed course CHE 128C. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+CHE 121—Introduction to Molecular Structure and Spectra (4) Lecture—4 hours. Prerequisite(s): CHE 110B Modern theoretical and experimental methods used to study problems of molecular structure and bonding; emphasis on spectroscopic techniques. Effective: 1997 Winter Quarter.
+
+CHE 122—Chemistry of Nanoparticles (3) Lecture—3 hours. Prerequisite(s): CHE 110C (can be concurrent) or CHE 107B (can be concurrent) Chemical and physical aspects of inorganic nanoparticles. Topics include synthesis, structure, colloidal behavior, catalytic activity, size and shape dependency of physical properties, analytical methods and applications. Effective: 2016 Winter Quarter.
+
+CHE 124A—Inorganic Chemistry: Fundamentals (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH Symmetry, molecular geometry and structure, molecular orbital theory of bonding (polyatomic molecules and transition metals), solid state chemistry, energetics and spectroscopy of inorganic compounds. GE credit: SE. Effective:
+
+CHE 124B—Inorganic Chemistry: Main Group Elements (3) Lecture—3 hours. Prerequisite(s): CHE 124A Synthesis, structure and reactivity of inorganic and heteroorganic molecules containing the main group elements. Effective: 1997 Winter Quarter.
+
+CHE 124C—Inorganic Chemistry: d and f Block Elements (3) Lecture—3 hours. Prerequisite(s): CHE 124A Synthesis, structure and reactivity of transition metal complexes, organometallic and bioinorganic chemistry, the lanthanides and actinides. Effective: 1997 Winter
+
+CHE 124L—Laboratory Methods in Inorganic Chemistry (2) Laboratory—6 hours. Prerequisite(s): CHE 124B or CHE 124C (can be concurrent) The preparation, purification and characterization of main group and transition metal inorganic and organometallic compounds. Effective: 2000 Spring Quarter.
+
+CHE 125—Advanced Methods in Physical Chemistry (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 110C (can be concurrent); CHE 115 Advanced theory and laboratory techniques in analytical and physical chemistry. Advanced spectroscopic methods. Thermodynamics. Kinetics. Chemical literature. Digital electronics and computer interfacing. Laboratory measurements and vacuum techniques. GE credit: QL, SE, WE. Effective: 2000 Spring Quarter.
+
+CHE 128A—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 002C C or better or CHE 002CH C or better Introduction to the basic concepts of organic chemistry with emphasis on stereochemistry and the chemistry of hydrocarbons. Designed primarily for majors in chemistry. Chemistry majors should enroll in course 129A concurrently. Only two units credit allowed for students who have completed CHE 008A; not open for credit to students who have completed courses CHE 008B or 118A. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 128B—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128A; or Consent of Instructor. Continuation of course 128A with emphasis on the chemistry of alcohols, ethers, their sulfur analogs, and carbonyl compounds. Introduction to the application of spectroscopic methods to organic chemistry. Introduction to synthesis of moderately complex organic molecules. Full credit to students who completed CHE 008B or CHE 118A; not open for credit to students who have completed CHE 118B. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 128C—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128B Continuation of course 128B with emphasis on enolate condensations and the chemistry of amines, phenols, and sugars; selected biologically important compounds. Full credit to students who completed CHE 118B; Not open for credit to students who have completed CHE 118C. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 129A—Organic Chemistry Laboratory (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): (CHE 002C C or better or CHE 002CH C or better); CHE 128A (can be concurrent) Introduction to laboratory techniques of organic chemistry. Emphasis on methods used for separation and purification of organic compounds. Full credit to students who completed CHE 008B; not open for credit to students who have completed CHE 118B. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 129B—Organic Chemistry Laboratory (2) Laboratory—6 hours. Prerequisite(s): CHE 129A; CHE 128B (can be concurrent) Continuation of course 129A. Emphasis on methods used for synthesis and isolation of organic compounds. Not open for credit to students who have completed CHE 118C. GE credit: SE. Effective: 2017 Winter
+
+CHE 129C—Organic Chemistry Laboratory (2) Laboratory—6 hours. Prerequisite(s): CHE 128C (can be concurrent); CHE 129B continuation of course 129B Effective: 1997 Winter Quarter.
+
+CHE 130A—Pharmaceutical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C Examination of the design principles and experimental methods used in pharmaceutical and medicinal chemistry. Effective: 2006 Fall
+
+CHE 130B—Pharmaceutical Chemistry (3) Lecture—2 hours; Lecture/Lab—1 hour. Prerequisite(s): CHE 130A (can be concurrent) Continuation of course 130A with emphasis on case studies of various drugs and the use of computational methods in drug design. Effective: 2017 Spring Quarter.
+
+CHE 130C—Case Studies in Pharmaceutical Chemistry (1) Independent Study; Seminar—2 hours. Prerequisite(s): CHE 130A (can be concurrent); CHE 130B (can be concurrent) Seminar. Exploration of medicinal and pharmaceutical chemistry topics through seminars presented by professional chemists (and allied professionals). Designed to highlight career opportunities for students with a degree in pharmaceutical chemistry. (P/NP grading only.) Effective: 2017 Spring Quarter.
+
+CHE 131—Modern Methods of Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 128C or CHE 118C Introduction to modern synthetic methodology in organic chemistry with emphasis on retrosynthetic analysis, reaction mechanisms, and application to multistep syntheses of pharmaceuticals and natural products. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 135—Advanced Bio-organic Chemistry Laboratory (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): CHE 130B (can be concurrent) Separation, purification, identification and biological evaluation of organic compounds using modern methods of synthesis, computational chemistry and instrumentation. Emphasis on pharmaceutical and medicinal substances. Effective: 2017 Fall Quarter.
+
+CHE 145—Good Quality Practices (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): CHE 118B or CHE 129B Open to Chemistry and science majors. Preparation for work in GQP laboratories in both research and industry. Context within GQP-Good Quality Practices (GMP Good Manufacturing Practice, GCP Good Clinical Practices). Lab practice in GQP skills. GE credit: SE. Effective: 2016 Winter Quarter.
+
+CHE 150—Chemistry of Natural Products (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C Chemistry of terpenes, steroids, acetogenins, and alkaloids: isolation, structure determination, biosynthesis, chemical transformations, and total synthesis. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 192—Internship in Chemistry (1-6) Internship—3-18 hours. Prerequisite(s): Upper division standing; project approval by faculty sponsor prior to enrollment. Supervised internship in chemistry; requires a final written report. May be repeated up to 6 unit(s). (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 194HA—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 1997 Winter Quarter.
+
+CHE 194HB—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 1997 Winter Quarter.
+
+CHE 194HC—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 2005 Fall Quarter.
+
+CHE 195—Careers in Chemistry (1) Seminar—2 hours. Prerequisite(s): Junior or senior standing in Chemistry. Designed to give Chemistry undergraduate students an in-depth appreciation of career opportunities with a bachelors degree in chemistry. Professional chemists (and allied professionals) describe research and provide career insights. (P/NP grading only.) Effective: 2001 Fall Quarter.
+
+CHE 197—Projects in Chemical Education (1-4) Discussion/Laboratory. Prerequisite(s): Consent of Instructor. Participation may include development of laboratory experiments, lecture demonstrations, autotutorial modules or assistance with laboratory sessions. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 1997
+
+CHE 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of instructor based upon adequate preparation in chemistry, mathematics and physics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of instructor based upon adequate preparation in chemistry, mathematics, and physics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 201—Chemical Uses of Symmetry and Group Theory (3) Lecture—3 hours. Prerequisite(s): CHE 124A; CHE 110B; or Consent of Instructor. Symmetry elements and operations, point groups, representations of groups. Applications to molecular orbital theory, ligand field theory, molecular vibrations, and angular momentum. Crystallographic symmetry. Effective: 1997 Winter Quarter.
+
+CHE 204—Mathematical Methods in Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C Graduate standing in Chemistry. Introduction to mathematical and numerical methods in chemistry. Real and complex functions. Methods of integration. Differential equations. Linear algebra and matrices. Special functions. Integral transforms. Statistics. Effective: 2005 Fall Quarter.
+
+CHE 205—Symmetry, Spectroscopy, and Structure (3) Lecture—3 hours. Prerequisite(s): CHE 201; Or equivalent. Vibrational and rotational spectra; electronic spectra and photoelectron spectroscopy; magnetism; electron spin and nuclear quadrapole resonance spectroscopy; nuclear magnetic resonance spectroscopy; other spectroscopic methods. Effective: 1997 Winter Quarter.
+
+CHE 209—Special Topics in Physical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 210A; CHE 211A Graduate standing in Chemistry. Advanced topics in physical chemistry, biophysical chemistry or chemical physics chosen from areas of current research interest. May be repeated for credit when topics differ. Effective: 2005 Fall
+
+CHE 210A—Quantum Chemistry: Introduction and Stationary-State Properties (3) Lecture—3 hours. Prerequisite(s): CHE 110B; CHE 110C; or Consent of Instructor. Stationary-state quantum chemistry: postulates of quantum mechanics, simple solutions, central field problems and angular momenta, hydrogen atom, perturbation theory, variational theory, atoms and molecules. Effective: 1997 Winter Quarter.
+
+CHE 210B—Quantum Chemistry: Time-Dependent Systems (3) Lecture—3 hours. Prerequisite(s): CHE 210A Matrix mechanics and time-dependent quantum chemistry: matrix formulation of quantum mechanics, Heisenberg representation, time-dependent perturbation theory, selection rules, density matrices, and miscellaneous molecular properties. Effective: 1997 Winter Quarter.
+
+CHE 210C—Quantum Chemistry: Molecular Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 210B Molecular spectroscopy: Born-Oppenheimer approximation, rotational, vibrational and electronic spectroscopy, spin systems, and molecular photophysics. Effective: 1997 Winter Quarter.
+
+CHE 211A—Advanced Physical Chemistry: Statistical Thermodynamics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Principles and applications of statistical mechanics; ensemble theory; statistical thermodynamics of gases, solids, liquids, electrolyte solutions and polymers; chemical equilibrium. Effective: 1997 Winter Quarter.
+
+CHE 211B—Statistical Mechanics (3) Lecture—3 hours. Prerequisite(s): CHE 211A Statistical mechanics of nonequilibrium systems, including the rigorous kinetic theory of gases, continuum mechanics transport in dense fluids, stochastic processes, brownian motion and linear response theory. Effective: 1997 Winter Quarter.
+
+CHE 212—Chemical Dynamics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Introduction to modern concepts in chemical reaction dynamics for graduate students in chemistry. Emphasis will be placed on experimental techniques as well as emerging physical models for characterizing chemical reactivity at a microscopic level. Effective: 1997 Winter Quarter.
+
+CHE 215—Theoretical and Computational Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 211A; CHE 210B; or Consent of Instructor. Mathematics of wide utility in chemistry, computational methods for guidance or alternative to experiment, and modern formulations of chemical theory. Emphasis will vary in successive years. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+CHE 216—Magnetic Resonance Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 210A; CHE 210B (can be concurrent) Quantum mechanics of spin and orbital angular momentum, nuclear magnetic resonance, theory of chemical shift and multiplet structures, electron spin resonance, theory of gtensor in organic and transition ions, spin Hamiltonians, nuclear quadrupolar resonance, spin relaxation processes. Effective: 1997 Winter
+
+CHE 217—X-Ray Structure Determination (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Introduction to x-ray structure determination; crystals, symmetry, diffraction geometry, sample preparation and handling, diffraction apparatus and data collection, methods of structure solution and refinement, presentation of results, text, tables and graphics, crystallographic literature. Effective: 1997 Winter Quarter.
+
+CHE 218—Macromolecules: Physical Principles (3) Lecture—3 hours. Prerequisite(s): CHE 110A; CHE 110B; CHE 110C; Or equivalent. Relationship of higher order macromolecular structure to subunit composition; equilibrium properties and macromolecular dynamics; physical chemical determination of macromolecular structure. Effective:
+
+CHE 219—Spectroscopy of Organic Compounds (4) Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Identification of organic compounds and investigation of stereochemical and reaction mechanism phenomena using spectroscopic methods--principally NMR, IR and MS. Effective: 2006 Fall Quarter.
+
+CHE 219L—Laboratory in Spectroscopy of Organic Compounds (1) Laboratory—2.5 hours. Prerequisite(s): CHE 219 (can be concurrent) Restricted to Chemistry graduate students only or consent of instructor Practical application of NMR, IR and MS techniques for organic molecules. Effective: 2009 Summer Session 1.
+
+CHE 221A—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221B—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221C—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221D—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221E—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221F—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221G—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221H—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 222—Chemistry of Nanoparticles (3) Lecture/Discussion—3 hours. Prerequisite(s): CHE 110C; Or equivalent. Chemical and physical aspects of inorganic nanoparticles, including synthesis, purification, reactivity, characterization, and applications for technology. Emphasis is on problems from the current literature. Not open for credit to students who have taken CHE 122. Effective: 2009 Winter Quarter.
+
+CHE 226—Principles of Transition Metal Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 124A; or equivalent. Electronic structures, bonding, and reactivity of transition metal compounds. Effective: 1997 Winter Quarter.
+
+CHE 228A—Bio-inorganic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 226; or Consent of Instructor. Defines role of inorganic chemistry in the functioning of biological systems by identifying the functions of metal ions and main group compounds in biological systems and discussing the chemistry of model and isolated biological compounds. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228B—Main Group Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 226; or Consent of Instructor. Synthesis, physical properties, reactions and bonding of main group compounds. Discussions of concepts of electron deficiency, hypervalency, and non-classical bonding. Chemistry of the main group elements will be treated systematically. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228C—Solid-State Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 124A; CHE 110B; CHE 226; Or equivalent. Design and synthesis, structure and bonding of solid-state compounds; physical properties and characterization of solids; topics of current interest such as low-dimensional materials, inorganic polymers, materials for catalysis. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228D—Homogeneous Catalysis (3) Lecture—3 hours. Prerequisite(s): CHE 226 Overview of homogeneous catalysis and related methods, with emphasis on kinetics, mechanisms, and applications for organic synthesis. The related methods may include cluster, colloid, phase transfer, enzymatic, heterogeneous and polymer-supported catalysis. Offered every third year. Effective: 2001 Fall Quarter.
+
+CHE 228E—Magnetochemistry (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): CHE 124A or CHE 201; Or an equivalent class from either Physics or Chemical Engineering and Materials Science. Covers the basic principles and concepts of magnetism, methods used for characterization of magnetic properties, as well as specific state-of-the-art magnetic materials and topics from the recent chemistry literature. Effective: 2016 Winter Quarter.
+
+CHE 231A—Organic Synthesis: Methods and Strategies (4) Discussion/Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Current strategies and methods in synthetic organic chemistry. Focus on construction of carbon frameworks, control of relative and absolute stereochemistry and retrosynthetic strategies. Use of databases and molecular modeling software in multistep strategies. Effective: 2017 Winter Quarter.
+
+CHE 231B—Advanced Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 231A Current strategies and methods in synthetic organic chemistry. Continuation of course 231A. Organic synthesis of complex target molecules. Stereochemical considerations and asymmetric synthesis. Organometallics for selective transformations. Carbocyclic and heterocyclic ring formation. Effective: 2016 Fall Quarter.
+
+CHE 233—Physical-Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128A; CHE 128B; CHE 128C; CHE 110A; CHE 110B; CHE 110C; Or equivalent. Introduction to elementary concepts in physicalorganic chemistry including the application of simple numerical techniques in characterizing and modeling organic reactions. Effective: 1997 Winter Quarter.
+
+CHE 235—Organometallic Chemistry in Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 128C Current trends in use of organometallics for organic synthesis; preparations, properties, applications, and limitations of organometallic reagents derived from transition and/or main group metals. Effective: 1997 Winter Quarter.
+
+CHE 236—Chemistry of Natural Products (3) Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Advanced treatment of chemistry of naturally occurring compounds isolated from a variety of sources. Topics will include isolation, structure determination, chemical transformations, total synthesis, biological activity, and biosynthesis. Biosynthetic origin will be used as a unifying theme. Effective:
+
+CHE 237—Bio-organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Structure and function of biomolecules; molecular recognition; enzyme reaction mechanisms; design of suicide substrates for enzymes; enzyme engineering; design of artificial enzymes and application of enzymes in organic synthesis. Effective: 1997 Winter Quarter.
+
+CHE 238—Introduction to Chemical Biology (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C; Or equivalent; CHE 130A, CHE 130B and BIS 102, BIS 103, and BIS 104, or the equivalents recommended. Synthesis of complex molecules in nature. Use of biosynthetic pathways in synthesis of new chemical entities. Applications of small molecules in chemical genetics and structural biology. Solving biological problems using synthetic biomolecules. Effective: 2009 Winter Quarter.
+
+CHE 240—Advanced Analytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110A; CHE 115; Or equivalent. Numerical treatment of experimental data; thermodynamics of electrolyte and non-electrolyte solutions; complex equilibria in aqueous and non-aqueous solutions; potentiometry and specific ion electrodes; mass transfer in liquid solutions; fundamentals of separation science, including column, gas and liquid chromatography. Effective: 1997 Winter Quarter.
+
+CHE 241A—Surface Analytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; Or equivalent. Concepts of surfaces and interfaces: physical properties, unique chemistry and electronic effects. Focus on gas-solid interfaces, with some discussion of liquid-solid interfaces. Effective: 2002 Fall Quarter.
+
+CHE 241B—Laser and X-ray Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 110B; Or equivalent. Concepts and mechanisms of lightmatter interactions. Chemical applications of modern spectroscopic methods, including multiphoton spectroscopy, time-resolved laser and x-ray photolysis, and phase-contrast x-ray imaging. Effective: 2002 Fall Quarter.
+
+CHE 241C—Mass Spectrometry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Mass spectrometry and related methods with emphasis on ionization methods, mass analyzers, and detectors. Related methods may include ion-molecule reactions, unimolecular dissociation of organic and bio-organic compounds, and applications in biological and environmental analysis. Effective: 2002 Winter
+
+CHE 241D—Electroanalytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Electroanalytical chemistry with consideration of mass transfer and electrode kinetics for polarizable electrodes. Currentpotential curves for a variety of conditions, including both potentiostatic and galvanostatic control, and their application in chemical analysis. Effective: 2002 Winter Quarter.
+
+CHE 241E— Microscopy and Imaging Techniques (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Introduction to modern microscopy and imaging techniques: scanning tunneling, atomic force, far-field optical, fluorescence, scanning near-field optical, and scanning electron microscopy. Application to nanoscience and analytical and bioanalytical chemistry. Some laboratory demonstrations. Effective:
+
+CHE 245—Mechanistic Enzymology (3) Lecture—3 hours. Advanced topics in chemical kinetics relevant to enzymes, enzyme kinetics, theory of enzyme catalysis, and the analysis of a selection of organic enzyme reaction mechanisms by the tools introduced in the first part of the course. Effective: 2013 Fall Quarter.
+
+CHE 261—Current Topics in Chemical Research (2) Lecture—2 hours. Prerequisite(s): Graduate standing in Chemistry or consent of instructor. Designed to help chemistry graduate students develop and maintain familiarity with the current and past literature in their immediate field of research and related areas. May be repeated for credit when topics differ. Effective: 1997 Winter Quarter.
+
+CHE 263—Introduction to Chemical Research Methodology (3) Discussion/Laboratory—9 hours. Prerequisite(s): CHE 293; and Consent of Instructor. Graduate student standing in Chemistry. Introduction to identification, formulation, and solution of meaningful scientific problems including experimental design and/or theoretical analyses of new and prevailing techniques, theories and hypotheses. May be repeated for credit when topic differs. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+CHE 264—Advanced Chemical Research Methodology (6) Discussion/Laboratory—18 hours. Prerequisite(s): CHE 263; or Consent of Instructor. Applications of the methodology developed in course 263 to experimental and theoretical studies. Advanced methods of interpretation of results are developed. Includes the preparation of manuscripts for publication. May be repeated for credit for credit when topic differs. (S/U grading only.) Effective:
+
+CHE 290—Seminar (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997
+
+CHE 293—Introduction to Chemistry Research (1) Discussion—2 hours. Designed for incoming graduate students preparing for higher degrees in chemistry. Group and individual discussion of research activities in the Department and research topic selection. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+CHE 294—Presentation of Chemistry Research (1) Seminar—2 hours. Prerequisite(s): Graduate standing. Restricted to graduate students in Chemistry who have not yet given their departmental presentation. Introduces first- and secondyear Chemistry graduate students to the process of giving an effective research presentation. Advanced Ph.D. students give formal seminars describing the design and execution of their research projects. May be repeated up to 3 time(s). (S/U grading only.) Effective: 2009 Winter
+
+CHE 295—Careers in Chemistry (1) Seminar—2 hours. Prerequisite(s): Graduate standing in Chemistry. Designed to give Chemistry graduate students an in-depth appreciation of career opportunities with a M.S. or Ph.D. degree in chemistry. Professional chemists (and allied professionals) give seminars describing both research and career insights. May be repeated up to 3 time(s). (S/U grading only.) Effective: 2001 Fall
+
+CHE 296—Research in Pharmaceutical Chemistry (6) Laboratory—18 hours. Prerequisite(s): CHE 130A; CHE 130B; CHE 135; CHE 233 (can be concurrent); and Consent of Instructor. Restricted to students in the Integrated B.S./M.S. Program in Chemistry. Laboratory provides qualified graduate students with the opportunity to pursue original investigation in Pharmaceutical Chemistry and allied fields in order to fulfill the lettergraded research requirement of the Integrated B.S./M.S. Program in Chemistry (Pharmaceutical Chemistry Emphasis). May be repeated up to 3 time(s) when topic differs. Effective: 2009 Fall
+
+CHE 298—Group Study (1-5) Variable. Effective: 1997 Winter Quarter.
+
+CHE 299—Research (1-12) Variable. The laboratory is open to qualified graduate students who wish to pursue original investigation. Students wishing to enroll should communicate with the department well in advance of the quarter in which the work is to be undertaken. (S/U grading only.) Effective: 1997 Winter
+
+CHE 390—Methods of Teaching Chemistry (2) Discussion—1 hour; Lecture—1 hour. Prerequisite(s): Consent of Instructor. Graduate student standing in Chemistry. Practical experience in methods and problems of teaching chemistry. Includes analyses of texts and supporting material, discussion of teaching techniques, preparing for and conducting of discussion sessions and student laboratories. Participation in the teaching program required for Ph.D. in chemistry. May be repeated for credit. (S/U grading only.) Effective:
+
+CHE 392—Advanced Methods of Teaching Chemistry (2) Lecture—2 hours. Prerequisite(s): CHE 390 Advanced topics in teaching chemistry. Analysis and discussion of curricular design, curricula materials, teaching methods and evaluation. For students who are planning a career in teaching chemistry. (S/U grading only.) Effective: 1997 Winter
+
+CHE 002A—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): High school chemistry and physics, and concurrent enrollment in mathematics at or above the level of MAT 012 strongly recommended; any one of the following: (A) SAT Mathematics score = 600+; (B) ACT Mathematics score = 27+; (C) AP Chemistry exam score of = 3+; (D) SAT Chemistry subject test score = 700+; (E) UC Davis Chemistry Placement Examination score = 24+ on first attempt; in lieu of A-E, either completion of ALEKS online Preparatory Chemistry course with 100% Pie Mastery or completion of Workload 41C with a grade of C or better (Workload 41C offered in fall quarter only to students who do not meet A-E). Periodic table, stoichiometry, chemical equations, physical properties and kinetic theory of gases, atomic and molecular structure and chemical bonding. Laboratory experiments in stoichiometric relations, properties and collection of gases, atomic spectroscopy, and introductory quantitative analysis. Not open for credit to students who have taken CHE 002AH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002AH—Honors General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): Consent of Instructor. High school chemistry and physics. Any ONE of the following: (A) SAT Mathematics score = 670+; (B) ACT Mathematics score = 30+; (C) AP Chemistry exam score = 4+; (D) SAT Chemistry subject test score = 700+; (E) UC Davis Chemistry Placement Examination score = 33+ on first attempt; (F) UC Davis Chemistry Placement Examination score = 30+ AND UC Davis Mathematics Placement Examination score = 45+, both on first attempts; consent of instructor. Limited enrollment course with a more rigorous treatment of material covered in course 2A. Students completing course 2AH can continue with course 2BH or 2B. Not open for credit to students who have taken CHE 002A. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002B—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002A C- or better or CHE 002AH C- or better Continuation of course 2A. Condensed phases and intermolecular forces, chemical thermodynamics, chemical equilibria, acids and bases, solubility. Laboratory experiments in thermochemistry, equilibria, and quantitative analysis using volumetric methods. Not open for credit to students who have taken CHE 002BH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002BH—Honors General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002A or CHE 002AH C or better; MAT 021B (can be concurrent); or Consent of Instructor. CHE 2A with consent of instructor. Limited enrollment course with a more rigorous treatment of material covered in course 2B. Students completing course 2BH can continue with course 2CH or 2C. Not open for credit to students who have taken CHE 002B. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002C—General Chemistry (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): CHE 002B C- or better or CHE 002BH C- or better Continuation of course 2B. Kinetics, electrochemistry, spectroscopy, structure and bonding in transition metal compounds, application of principles to chemical reactions. Laboratory experiments in selected analytical methods and syntheses. Not open for credit to students who have taken CHE 002CH. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+CHE 002CH—Honors General Chemistry (5) Discussion/Laboratory—6 hours; Lecture—3 hours. Prerequisite(s): CHE 002B or CHE 002BH C or better; MAT 021C (can be concurrent); or Consent of Instructor. CHE 002B with consent of instructor Limited enrollment course with a more rigorous treatment of material covered in course 2C. Not open for credit to students who have taken CHE 002C. GE credit: QL, SE, SL. Effective:
+
+CHE 008A—Organic Chemistry: Brief Course (2) Lecture—2 hours. Prerequisite(s): CHE 002B C- or better or CHE 002BH C- or better With course 8B, an introduction to the nomenclature, structure, chemistry, and reaction mechanisms of organic compounds. Intended for students majoring in areas other than organic chemistry. No credit to students who have completed CHE 118A or 128A. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 008B—Organic Chemistry: Brief Course (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 008A or CHE 118A or CHE 128A Laboratory concerned primarily with organic laboratory techniques and the chemistry of the common classes of organic compounds. Lecture portion a continuation of course 8A. Varying credit hours according to courses taken previously and corresponding expected workload for this course; full credit to students who complete CHE 118A or 128A; 3 units credit to students who have completed CHE 128A and CHE 129A (students who have completed CHE 129A are exempt from the laboratory portion of CHE 008B); 2 units credit to students who have completed CHE 128B; 1 unit credit to students who have completed CHE 118B or CHE 128B and CHE 129A (students who have completed CHE 118B are exempt from the laboratory portion of CHE 008B). GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 010—Concept of Chemistry (4) Lecture—4 hours. Survey of basic concepts and contemporary applications of chemistry. Designed for non-science majors and not as preparation for Chemistry 2A. Not open for credit to students who have had CHE 002A; but students with credit for CHE 010 may take CHE 002A for full credit. GE credit: SE, SL. Effective: 1997 Winter Quarter.
+
+CHE 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Primarily for lower division students. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+CHE 100—Environmental Water Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH Practical aspects of water chemistry in the environment, including thermodynamic relations, coordination chemistry, solubility calculations, redox reactions and rate laws. Computer modeling of the evolution in water chemistry from contact with minerals and gases. Effective: 2016 Winter Quarter.
+
+CHE 103B—Chemistry for Life Sciences: Predicting and Controlling Organic Pathways (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 103A C- or better Not open for enrollment to students who have completed course 008B, 118B, 118C, 128B, or 128C with a C- or better. Continuation of course 103A. Core concepts of functional group transformations, synthesis, mechanisms, sustainable chemistry, structure and function of biomolecules, organic reactions in biological systems, molecular design, detection, separation, and identification of organic molecules. Not open for credit to students who have completed CHE 008B, CHE 118B, CHE 118C, CHE 128B, or CHE 128C. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+CHE 104—Forensic Applications of Analytical Chemistry (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): CHE 002C or CHE 002CH Theory and application of standard methods of chemical analysis to evidentiary samples. Use and evaluation of results from screening tests, FTIR, GC and GCMS to various sample types encountered in forensics. Effective: 2016 Winter Quarter.
+
+CHE 105—Analytical and Physical Chemical Methods (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 110A (can be concurrent) or CHE 107B (can be concurrent) Fundamental theory and laboratory techniques in; analytical and physical chemistry, errors and data analysis methods, basic electrical circuits in instruments, advanced solution equilibria, potentiometric analysis, chromatographic separations, UV-visible spectroscopy, lasers. GE credit: QL, SE, SL. Effective: 2016 Spring Quarter.
+
+CHE 107A—Physical Chemistry for the Life Sciences (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH; (MAT 016C or MAT 017C or MAT 021C); (PHY 007C or PHY 009C or PHY 009HC) Physical chemistry intended for majors in the life science area. Introductory development of classical and statistical thermodynamics including equilibrium processes and solutions of both non-electrolytes and electrolytes. The thermodynamic basis of electrochemistry and membrane potentials. GE credit: SE. Effective: 2017 Spring Quarter.
+
+CHE 107B—Physical Chemistry for the Life Sciences (3) Lecture—3 hours. Prerequisite(s): CHE 107A Continuation of course 107A. Kinetic theory of gases and transport processes in liquids. Chemical kinetics, enzyme kinetics and theories of reaction rates. Introduction to quantum theory, atomic and molecular structure, and spectroscopy. Application to problems in the biological sciences. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 108—Molecular Biochemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128C or CHE 118C Pass One open to Chemistry majors. Chemical principles and experimental methods applied to the biological sciences to understand the molecular structure and function of proteins, nucleic acids, carbohydrates, and membrane lipids. Effective: 2016 Winter Quarter.
+
+CHE 110A—Physical Chemistry: Introduction to Quantum Mechanics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (PHY 007C or PHY 009C or PHY 009HC); (CHE 002C or CHE 002CH); (MAT 016C or MAT 017C or MAT 021C); Completion of Mathematics 21D, 22A, and 22AL, and Physics 9C or 9HC, strongly recommended. Introduction to the postulates and general principles of quantum mechanics. Approximations based on variational method and time independent perturbation theory. Application to harmonic oscillator, rigid rotor, one-electron and many-electron atoms, and homo-and hetero-nuclear diatomic molecules. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+CHE 110B—Physical Chemistry: Properties of Atoms and Molecules (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110A Group theory. Application of quantum mechanics to polyatomic molecules and molecular spectroscopy. Intermolecular forces and the gas, liquid and solid states. Distributions, ensembles and partition functions. Transport properties. Effective:
+
+CHE 110C—Physical Chemistry: Thermodynamics, Equilibria and Kinetics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110B Development and application of the general principles of thermodynamics and statistical thermodynamics. Chemical kinetics, rate laws for chemical reactions and reaction mechanisms. Effective: 1999 Fall Quarter.
+
+CHE 115—Instrumental Analysis (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 105; (CHE 110B (can be concurrent) or (CHE 107A, CHE 107B)) Intermediate theory and laboratory techniques in analytical and physical chemistry. Advanced data analysis methods and goodness-of-fit criteria. Fourier-transform spectroscopic methods and instrumentation. Mass spectrometry. Electrochemistry. Liquid chromatography. GE credit: QL, SE, WE. Effective: 2006 Fall Quarter.
+
+CHE 118A—Organic Chemistry for Health and Life Sciences (4) Discussion/Laboratory—1.5 hours; Lecture—3 hours. Prerequisite(s): CHE 002C C- or better or CHE 002CH C- or better The 118A, 118B, 118C series is for students planning professional school studies in health and life sciences. A rigorous, in-depth presentation of basic principles with emphasis on stereochemistry and spectroscopy and preparations and reactions of nonaromatic hydrocarbons, haloalkanes, alcohols and ethers. Only 2 units credit for students who have completed course CHE 008A; not open for credit to students who have completed CHE 008B or CHE 128A. GE credit: SE, SL. Effective: 2017 Spring Quarter.
+
+CHE 118B—Organic Chemistry for Health and Life Sciences (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 118A or CHE 128A Continuation of course 118A, with emphasis on spectroscopy and the preparation and reactions of aromatic hydrocarbons, organometallic compounds, aldehydes and ketones. Only one unit of credit to students who completed course CHE 128B.; not open for credit to students who have completed 8 or more units of CHE 128 and CHE 129 courses. GE credit: SE, SL. Effective: 2017 Fall Quarter.
+
+CHE 118C—Organic Chemistry for Health and Life Sciences (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 118B or (CHE 128B, CHE 129A) Open to students changing from the CHE 128 course sequence only if they have completed prior organic laboratory work (at least course CHE 129A). Continuation of course 118B, with emphasis on the preparation, reactions and identification of carboxylic acids and their derivatives, alkyl and acyl amines, ß-dicarbonyl compounds, and various classes of naturally occurring, biologically important compounds. Not open for credit to students who have completed course CHE 128C. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+CHE 121—Introduction to Molecular Structure and Spectra (4) Lecture—4 hours. Prerequisite(s): CHE 110B Modern theoretical and experimental methods used to study problems of molecular structure and bonding; emphasis on spectroscopic techniques. Effective: 1997 Winter Quarter.
+
+CHE 122—Chemistry of Nanoparticles (3) Lecture—3 hours. Prerequisite(s): CHE 110C (can be concurrent) or CHE 107B (can be concurrent) Chemical and physical aspects of inorganic nanoparticles. Topics include synthesis, structure, colloidal behavior, catalytic activity, size and shape dependency of physical properties, analytical methods and applications. Effective: 2016 Winter Quarter.
+
+CHE 124A—Inorganic Chemistry: Fundamentals (3) Lecture—3 hours. Prerequisite(s): CHE 002C or CHE 002CH Symmetry, molecular geometry and structure, molecular orbital theory of bonding (polyatomic molecules and transition metals), solid state chemistry, energetics and spectroscopy of inorganic compounds. GE credit: SE. Effective:
+
+CHE 124B—Inorganic Chemistry: Main Group Elements (3) Lecture—3 hours. Prerequisite(s): CHE 124A Synthesis, structure and reactivity of inorganic and heteroorganic molecules containing the main group elements. Effective: 1997 Winter Quarter.
+
+CHE 124C—Inorganic Chemistry: d and f Block Elements (3) Lecture—3 hours. Prerequisite(s): CHE 124A Synthesis, structure and reactivity of transition metal complexes, organometallic and bioinorganic chemistry, the lanthanides and actinides. Effective: 1997 Winter
+
+CHE 124L—Laboratory Methods in Inorganic Chemistry (2) Laboratory—6 hours. Prerequisite(s): CHE 124B or CHE 124C (can be concurrent) The preparation, purification and characterization of main group and transition metal inorganic and organometallic compounds. Effective: 2000 Spring Quarter.
+
+CHE 125—Advanced Methods in Physical Chemistry (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): CHE 110C (can be concurrent); CHE 115 Advanced theory and laboratory techniques in analytical and physical chemistry. Advanced spectroscopic methods. Thermodynamics. Kinetics. Chemical literature. Digital electronics and computer interfacing. Laboratory measurements and vacuum techniques. GE credit: QL, SE, WE. Effective: 2000 Spring Quarter.
+
+CHE 128A—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 002C C or better or CHE 002CH C or better Introduction to the basic concepts of organic chemistry with emphasis on stereochemistry and the chemistry of hydrocarbons. Designed primarily for majors in chemistry. Chemistry majors should enroll in course 129A concurrently. Only two units credit allowed for students who have completed CHE 008A; not open for credit to students who have completed courses CHE 008B or 118A. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 128B—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128A; or Consent of Instructor. Continuation of course 128A with emphasis on the chemistry of alcohols, ethers, their sulfur analogs, and carbonyl compounds. Introduction to the application of spectroscopic methods to organic chemistry. Introduction to synthesis of moderately complex organic molecules. Full credit to students who completed CHE 008B or CHE 118A; not open for credit to students who have completed CHE 118B. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 128C—Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128B Continuation of course 128B with emphasis on enolate condensations and the chemistry of amines, phenols, and sugars; selected biologically important compounds. Full credit to students who completed CHE 118B; Not open for credit to students who have completed CHE 118C. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 129A—Organic Chemistry Laboratory (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): (CHE 002C C or better or CHE 002CH C or better); CHE 128A (can be concurrent) Introduction to laboratory techniques of organic chemistry. Emphasis on methods used for separation and purification of organic compounds. Full credit to students who completed CHE 008B; not open for credit to students who have completed CHE 118B. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 129B—Organic Chemistry Laboratory (2) Laboratory—6 hours. Prerequisite(s): CHE 129A; CHE 128B (can be concurrent) Continuation of course 129A. Emphasis on methods used for synthesis and isolation of organic compounds. Not open for credit to students who have completed CHE 118C. GE credit: SE. Effective: 2017 Winter
+
+CHE 129C—Organic Chemistry Laboratory (2) Laboratory—6 hours. Prerequisite(s): CHE 128C (can be concurrent); CHE 129B continuation of course 129B Effective: 1997 Winter Quarter.
+
+CHE 130A—Pharmaceutical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C Examination of the design principles and experimental methods used in pharmaceutical and medicinal chemistry. Effective: 2006 Fall
+
+CHE 130B—Pharmaceutical Chemistry (3) Lecture—2 hours; Lecture/Lab—1 hour. Prerequisite(s): CHE 130A (can be concurrent) Continuation of course 130A with emphasis on case studies of various drugs and the use of computational methods in drug design. Effective: 2017 Spring Quarter.
+
+CHE 130C—Case Studies in Pharmaceutical Chemistry (1) Independent Study; Seminar—2 hours. Prerequisite(s): CHE 130A (can be concurrent); CHE 130B (can be concurrent) Seminar. Exploration of medicinal and pharmaceutical chemistry topics through seminars presented by professional chemists (and allied professionals). Designed to highlight career opportunities for students with a degree in pharmaceutical chemistry. (P/NP grading only.) Effective: 2017 Spring Quarter.
+
+CHE 131—Modern Methods of Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 128C or CHE 118C Introduction to modern synthetic methodology in organic chemistry with emphasis on retrosynthetic analysis, reaction mechanisms, and application to multistep syntheses of pharmaceuticals and natural products. GE credit: SE. Effective: 2016 Fall Quarter.
+
+CHE 135—Advanced Bio-organic Chemistry Laboratory (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): CHE 130B (can be concurrent) Separation, purification, identification and biological evaluation of organic compounds using modern methods of synthesis, computational chemistry and instrumentation. Emphasis on pharmaceutical and medicinal substances. Effective: 2017 Fall Quarter.
+
+CHE 145—Good Quality Practices (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): CHE 118B or CHE 129B Open to Chemistry and science majors. Preparation for work in GQP laboratories in both research and industry. Context within GQP-Good Quality Practices (GMP Good Manufacturing Practice, GCP Good Clinical Practices). Lab practice in GQP skills. GE credit: SE. Effective: 2016 Winter Quarter.
+
+CHE 150—Chemistry of Natural Products (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C Chemistry of terpenes, steroids, acetogenins, and alkaloids: isolation, structure determination, biosynthesis, chemical transformations, and total synthesis. GE credit: SE. Effective: 2017 Winter Quarter.
+
+CHE 192—Internship in Chemistry (1-6) Internship—3-18 hours. Prerequisite(s): Upper division standing; project approval by faculty sponsor prior to enrollment. Supervised internship in chemistry; requires a final written report. May be repeated up to 6 unit(s). (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 194HA—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 1997 Winter Quarter.
+
+CHE 194HB—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 1997 Winter Quarter.
+
+CHE 194HC—Undergraduate Honors Research (2) Independent Study—2 hours. Prerequisite(s): Open only to chemistry majors who have completed 135 units and who qualify for the honors program. Original research under the guidance of a faculty advisor, culminating in the writing of an extensive report. Effective: 2005 Fall Quarter.
+
+CHE 195—Careers in Chemistry (1) Seminar—2 hours. Prerequisite(s): Junior or senior standing in Chemistry. Designed to give Chemistry undergraduate students an in-depth appreciation of career opportunities with a bachelors degree in chemistry. Professional chemists (and allied professionals) describe research and provide career insights. (P/NP grading only.) Effective: 2001 Fall Quarter.
+
+CHE 197—Projects in Chemical Education (1-4) Discussion/Laboratory. Prerequisite(s): Consent of Instructor. Participation may include development of laboratory experiments, lecture demonstrations, autotutorial modules or assistance with laboratory sessions. May be repeated up to 12 unit(s). (P/NP grading only.) Effective: 1997
+
+CHE 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of instructor based upon adequate preparation in chemistry, mathematics and physics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of instructor based upon adequate preparation in chemistry, mathematics, and physics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+CHE 201—Chemical Uses of Symmetry and Group Theory (3) Lecture—3 hours. Prerequisite(s): CHE 124A; CHE 110B; or Consent of Instructor. Symmetry elements and operations, point groups, representations of groups. Applications to molecular orbital theory, ligand field theory, molecular vibrations, and angular momentum. Crystallographic symmetry. Effective: 1997 Winter Quarter.
+
+CHE 204—Mathematical Methods in Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C Graduate standing in Chemistry. Introduction to mathematical and numerical methods in chemistry. Real and complex functions. Methods of integration. Differential equations. Linear algebra and matrices. Special functions. Integral transforms. Statistics. Effective: 2005 Fall Quarter.
+
+CHE 205—Symmetry, Spectroscopy, and Structure (3) Lecture—3 hours. Prerequisite(s): CHE 201; Or equivalent. Vibrational and rotational spectra; electronic spectra and photoelectron spectroscopy; magnetism; electron spin and nuclear quadrapole resonance spectroscopy; nuclear magnetic resonance spectroscopy; other spectroscopic methods. Effective: 1997 Winter Quarter.
+
+CHE 209—Special Topics in Physical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 210A; CHE 211A Graduate standing in Chemistry. Advanced topics in physical chemistry, biophysical chemistry or chemical physics chosen from areas of current research interest. May be repeated for credit when topics differ. Effective: 2005 Fall
+
+CHE 210A—Quantum Chemistry: Introduction and Stationary-State Properties (3) Lecture—3 hours. Prerequisite(s): CHE 110B; CHE 110C; or Consent of Instructor. Stationary-state quantum chemistry: postulates of quantum mechanics, simple solutions, central field problems and angular momenta, hydrogen atom, perturbation theory, variational theory, atoms and molecules. Effective: 1997 Winter Quarter.
+
+CHE 210B—Quantum Chemistry: Time-Dependent Systems (3) Lecture—3 hours. Prerequisite(s): CHE 210A Matrix mechanics and time-dependent quantum chemistry: matrix formulation of quantum mechanics, Heisenberg representation, time-dependent perturbation theory, selection rules, density matrices, and miscellaneous molecular properties. Effective: 1997 Winter Quarter.
+
+CHE 210C—Quantum Chemistry: Molecular Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 210B Molecular spectroscopy: Born-Oppenheimer approximation, rotational, vibrational and electronic spectroscopy, spin systems, and molecular photophysics. Effective: 1997 Winter Quarter.
+
+CHE 211A—Advanced Physical Chemistry: Statistical Thermodynamics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Principles and applications of statistical mechanics; ensemble theory; statistical thermodynamics of gases, solids, liquids, electrolyte solutions and polymers; chemical equilibrium. Effective: 1997 Winter Quarter.
+
+CHE 211B—Statistical Mechanics (3) Lecture—3 hours. Prerequisite(s): CHE 211A Statistical mechanics of nonequilibrium systems, including the rigorous kinetic theory of gases, continuum mechanics transport in dense fluids, stochastic processes, brownian motion and linear response theory. Effective: 1997 Winter Quarter.
+
+CHE 212—Chemical Dynamics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Introduction to modern concepts in chemical reaction dynamics for graduate students in chemistry. Emphasis will be placed on experimental techniques as well as emerging physical models for characterizing chemical reactivity at a microscopic level. Effective: 1997 Winter Quarter.
+
+CHE 215—Theoretical and Computational Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 211A; CHE 210B; or Consent of Instructor. Mathematics of wide utility in chemistry, computational methods for guidance or alternative to experiment, and modern formulations of chemical theory. Emphasis will vary in successive years. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+CHE 216—Magnetic Resonance Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 210A; CHE 210B (can be concurrent) Quantum mechanics of spin and orbital angular momentum, nuclear magnetic resonance, theory of chemical shift and multiplet structures, electron spin resonance, theory of gtensor in organic and transition ions, spin Hamiltonians, nuclear quadrupolar resonance, spin relaxation processes. Effective: 1997 Winter
+
+CHE 217—X-Ray Structure Determination (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Introduction to x-ray structure determination; crystals, symmetry, diffraction geometry, sample preparation and handling, diffraction apparatus and data collection, methods of structure solution and refinement, presentation of results, text, tables and graphics, crystallographic literature. Effective: 1997 Winter Quarter.
+
+CHE 218—Macromolecules: Physical Principles (3) Lecture—3 hours. Prerequisite(s): CHE 110A; CHE 110B; CHE 110C; Or equivalent. Relationship of higher order macromolecular structure to subunit composition; equilibrium properties and macromolecular dynamics; physical chemical determination of macromolecular structure. Effective:
+
+CHE 219—Spectroscopy of Organic Compounds (4) Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Identification of organic compounds and investigation of stereochemical and reaction mechanism phenomena using spectroscopic methods--principally NMR, IR and MS. Effective: 2006 Fall Quarter.
+
+CHE 219L—Laboratory in Spectroscopy of Organic Compounds (1) Laboratory—2.5 hours. Prerequisite(s): CHE 219 (can be concurrent) Restricted to Chemistry graduate students only or consent of instructor Practical application of NMR, IR and MS techniques for organic molecules. Effective: 2009 Summer Session 1.
+
+CHE 221A—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221B—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221C—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221D—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221E—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221F—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221G—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 221H—Special Topics in Organic Chemistry (3) Lecture—3 hours. Selected topics of current interest in organic chemistry. Topics will vary each time the course is offered, and in general will emphasize the research interests of the staff member giving the course. Effective: 1997 Winter Quarter.
+
+CHE 222—Chemistry of Nanoparticles (3) Lecture/Discussion—3 hours. Prerequisite(s): CHE 110C; Or equivalent. Chemical and physical aspects of inorganic nanoparticles, including synthesis, purification, reactivity, characterization, and applications for technology. Emphasis is on problems from the current literature. Not open for credit to students who have taken CHE 122. Effective: 2009 Winter Quarter.
+
+CHE 226—Principles of Transition Metal Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 124A; or equivalent. Electronic structures, bonding, and reactivity of transition metal compounds. Effective: 1997 Winter Quarter.
+
+CHE 228A—Bio-inorganic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 226; or Consent of Instructor. Defines role of inorganic chemistry in the functioning of biological systems by identifying the functions of metal ions and main group compounds in biological systems and discussing the chemistry of model and isolated biological compounds. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228B—Main Group Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 226; or Consent of Instructor. Synthesis, physical properties, reactions and bonding of main group compounds. Discussions of concepts of electron deficiency, hypervalency, and non-classical bonding. Chemistry of the main group elements will be treated systematically. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228C—Solid-State Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 124A; CHE 110B; CHE 226; Or equivalent. Design and synthesis, structure and bonding of solid-state compounds; physical properties and characterization of solids; topics of current interest such as low-dimensional materials, inorganic polymers, materials for catalysis. Offered every third year. Effective: 1997 Winter Quarter.
+
+CHE 228D—Homogeneous Catalysis (3) Lecture—3 hours. Prerequisite(s): CHE 226 Overview of homogeneous catalysis and related methods, with emphasis on kinetics, mechanisms, and applications for organic synthesis. The related methods may include cluster, colloid, phase transfer, enzymatic, heterogeneous and polymer-supported catalysis. Offered every third year. Effective: 2001 Fall Quarter.
+
+CHE 228E—Magnetochemistry (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): CHE 124A or CHE 201; Or an equivalent class from either Physics or Chemical Engineering and Materials Science. Covers the basic principles and concepts of magnetism, methods used for characterization of magnetic properties, as well as specific state-of-the-art magnetic materials and topics from the recent chemistry literature. Effective: 2016 Winter Quarter.
+
+CHE 231A—Organic Synthesis: Methods and Strategies (4) Discussion/Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Current strategies and methods in synthetic organic chemistry. Focus on construction of carbon frameworks, control of relative and absolute stereochemistry and retrosynthetic strategies. Use of databases and molecular modeling software in multistep strategies. Effective: 2017 Winter Quarter.
+
+CHE 231B—Advanced Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 231A Current strategies and methods in synthetic organic chemistry. Continuation of course 231A. Organic synthesis of complex target molecules. Stereochemical considerations and asymmetric synthesis. Organometallics for selective transformations. Carbocyclic and heterocyclic ring formation. Effective: 2016 Fall Quarter.
+
+CHE 233—Physical-Organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128A; CHE 128B; CHE 128C; CHE 110A; CHE 110B; CHE 110C; Or equivalent. Introduction to elementary concepts in physicalorganic chemistry including the application of simple numerical techniques in characterizing and modeling organic reactions. Effective: 1997 Winter Quarter.
+
+CHE 235—Organometallic Chemistry in Organic Synthesis (3) Lecture—3 hours. Prerequisite(s): CHE 128C Current trends in use of organometallics for organic synthesis; preparations, properties, applications, and limitations of organometallic reagents derived from transition and/or main group metals. Effective: 1997 Winter Quarter.
+
+CHE 236—Chemistry of Natural Products (3) Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Advanced treatment of chemistry of naturally occurring compounds isolated from a variety of sources. Topics will include isolation, structure determination, chemical transformations, total synthesis, biological activity, and biosynthesis. Biosynthetic origin will be used as a unifying theme. Effective:
+
+CHE 237—Bio-organic Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 128C; Or equivalent. Structure and function of biomolecules; molecular recognition; enzyme reaction mechanisms; design of suicide substrates for enzymes; enzyme engineering; design of artificial enzymes and application of enzymes in organic synthesis. Effective: 1997 Winter Quarter.
+
+CHE 238—Introduction to Chemical Biology (3) Lecture—3 hours. Prerequisite(s): CHE 118C or CHE 128C; Or equivalent; CHE 130A, CHE 130B and BIS 102, BIS 103, and BIS 104, or the equivalents recommended. Synthesis of complex molecules in nature. Use of biosynthetic pathways in synthesis of new chemical entities. Applications of small molecules in chemical genetics and structural biology. Solving biological problems using synthetic biomolecules. Effective: 2009 Winter Quarter.
+
+CHE 240—Advanced Analytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110A; CHE 115; Or equivalent. Numerical treatment of experimental data; thermodynamics of electrolyte and non-electrolyte solutions; complex equilibria in aqueous and non-aqueous solutions; potentiometry and specific ion electrodes; mass transfer in liquid solutions; fundamentals of separation science, including column, gas and liquid chromatography. Effective: 1997 Winter Quarter.
+
+CHE 241A—Surface Analytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; Or equivalent. Concepts of surfaces and interfaces: physical properties, unique chemistry and electronic effects. Focus on gas-solid interfaces, with some discussion of liquid-solid interfaces. Effective: 2002 Fall Quarter.
+
+CHE 241B—Laser and X-ray Spectroscopy (3) Lecture—3 hours. Prerequisite(s): CHE 110B; Or equivalent. Concepts and mechanisms of lightmatter interactions. Chemical applications of modern spectroscopic methods, including multiphoton spectroscopy, time-resolved laser and x-ray photolysis, and phase-contrast x-ray imaging. Effective: 2002 Fall Quarter.
+
+CHE 241C—Mass Spectrometry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Mass spectrometry and related methods with emphasis on ionization methods, mass analyzers, and detectors. Related methods may include ion-molecule reactions, unimolecular dissociation of organic and bio-organic compounds, and applications in biological and environmental analysis. Effective: 2002 Winter
+
+CHE 241D—Electroanalytical Chemistry (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Electroanalytical chemistry with consideration of mass transfer and electrode kinetics for polarizable electrodes. Currentpotential curves for a variety of conditions, including both potentiostatic and galvanostatic control, and their application in chemical analysis. Effective: 2002 Winter Quarter.
+
+CHE 241E— Microscopy and Imaging Techniques (3) Lecture—3 hours. Prerequisite(s): CHE 110C; CHE 115; Or equivalent. Introduction to modern microscopy and imaging techniques: scanning tunneling, atomic force, far-field optical, fluorescence, scanning near-field optical, and scanning electron microscopy. Application to nanoscience and analytical and bioanalytical chemistry. Some laboratory demonstrations. Effective:
+
+CHE 245—Mechanistic Enzymology (3) Lecture—3 hours. Advanced topics in chemical kinetics relevant to enzymes, enzyme kinetics, theory of enzyme catalysis, and the analysis of a selection of organic enzyme reaction mechanisms by the tools introduced in the first part of the course. Effective: 2013 Fall Quarter.
+
+CHE 261—Current Topics in Chemical Research (2) Lecture—2 hours. Prerequisite(s): Graduate standing in Chemistry or consent of instructor. Designed to help chemistry graduate students develop and maintain familiarity with the current and past literature in their immediate field of research and related areas. May be repeated for credit when topics differ. Effective: 1997 Winter Quarter.
+
+CHE 263—Introduction to Chemical Research Methodology (3) Discussion/Laboratory—9 hours. Prerequisite(s): CHE 293; and Consent of Instructor. Graduate student standing in Chemistry. Introduction to identification, formulation, and solution of meaningful scientific problems including experimental design and/or theoretical analyses of new and prevailing techniques, theories and hypotheses. May be repeated for credit when topic differs. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+CHE 264—Advanced Chemical Research Methodology (6) Discussion/Laboratory—18 hours. Prerequisite(s): CHE 263; or Consent of Instructor. Applications of the methodology developed in course 263 to experimental and theoretical studies. Advanced methods of interpretation of results are developed. Includes the preparation of manuscripts for publication. May be repeated for credit for credit when topic differs. (S/U grading only.) Effective:
+
+CHE 290—Seminar (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997
+
+CHE 293—Introduction to Chemistry Research (1) Discussion—2 hours. Designed for incoming graduate students preparing for higher degrees in chemistry. Group and individual discussion of research activities in the Department and research topic selection. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+CHE 294—Presentation of Chemistry Research (1) Seminar—2 hours. Prerequisite(s): Graduate standing. Restricted to graduate students in Chemistry who have not yet given their departmental presentation. Introduces first- and secondyear Chemistry graduate students to the process of giving an effective research presentation. Advanced Ph.D. students give formal seminars describing the design and execution of their research projects. May be repeated up to 3 time(s). (S/U grading only.) Effective: 2009 Winter
+
+CHE 295—Careers in Chemistry (1) Seminar—2 hours. Prerequisite(s): Graduate standing in Chemistry. Designed to give Chemistry graduate students an in-depth appreciation of career opportunities with a M.S. or Ph.D. degree in chemistry. Professional chemists (and allied professionals) give seminars describing both research and career insights. May be repeated up to 3 time(s). (S/U grading only.) Effective: 2001 Fall
+
+CHE 296—Research in Pharmaceutical Chemistry (6) Laboratory—18 hours. Prerequisite(s): CHE 130A; CHE 130B; CHE 135; CHE 233 (can be concurrent); and Consent of Instructor. Restricted to students in the Integrated B.S./M.S. Program in Chemistry. Laboratory provides qualified graduate students with the opportunity to pursue original investigation in Pharmaceutical Chemistry and allied fields in order to fulfill the lettergraded research requirement of the Integrated B.S./M.S. Program in Chemistry (Pharmaceutical Chemistry Emphasis). May be repeated up to 3 time(s) when topic differs. Effective: 2009 Fall
+
+CHE 298—Group Study (1-5) Variable. Effective: 1997 Winter Quarter.
+
+CHE 299—Research (1-12) Variable. The laboratory is open to qualified graduate students who wish to pursue original investigation. Students wishing to enroll should communicate with the department well in advance of the quarter in which the work is to be undertaken. (S/U grading only.) Effective: 1997 Winter
+
+CHE 390—Methods of Teaching Chemistry (2) Discussion—1 hour; Lecture—1 hour. Prerequisite(s): Consent of Instructor. Graduate student standing in Chemistry. Practical experience in methods and problems of teaching chemistry. Includes analyses of texts and supporting material, discussion of teaching techniques, preparing for and conducting of discussion sessions and student laboratories. Participation in the teaching program required for Ph.D. in chemistry. May be repeated for credit. (S/U grading only.) Effective:
+
+CHE 392—Advanced Methods of Teaching Chemistry (2) Lecture—2 hours. Prerequisite(s): CHE 390 Advanced topics in teaching chemistry. Analysis and discussion of curricular design, curricula materials, teaching methods and evaluation. For students who are planning a career in teaching chemistry. (S/U grading only.) Effective: 1997 Winter

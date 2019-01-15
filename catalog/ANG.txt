@@ -1,0 +1,51 @@
+ANG 101—Animal Cytogenetics (3) Discussion/Laboratory—1 hour; Laboratory—6 hours. Prerequisite(s): BIS 101; BIS 102; Or equivalent of BIS 102. Principles and techniques of cytogenetics applied to animal systems; chromosome harvest techniques, analysis of mitosis and meiosis, karyotyping, chromosome banding, cytogenetic mapping, chromosome structure and function, comparative cytogenetics. GE credit: SE. Effective: 2003 Spring Quarter.
+
+ANG 105—Horse Genetics (2) Lecture—2 hours. Prerequisite(s): ANS 015; BIS 101 Coat color, parentage testing, medical genetics, pedigrees, breeds, the gene map and genus Equus. Emphasis on understanding horse genetics based on the unity of mammalian genetics and making breeding decisions based on fundamental genetic concepts. GE credit: SE, SL. Effective: 2017 Winter Quarter.
+
+ANG 107—Genetics and Animal Breeding (5) Laboratory—3 hours; Lecture—4 hours. Prerequisite(s): BIS 101 Principles of quantitative genetics applied to improvement of livestock and poultry. Effects of mating systems and selection methods are emphasized with illustration from current breeding practices. GE credit: SE. Effective: 1997
+
+ANG 111—Molecular Biology Laboratory Techniques (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 002C; BIS 101; (BIS 102 or ABI 102); (BIS 103 or ABI 103) Introduction to the concepts and techniques used in molecular biology; the role of this technology in both basic and applied animal research, and participation in laboratories using some of the most common techniques in molecular biology. GE credit: SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+ANG 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Selected topics relating to animal genetics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+ANG 199—Special Study for Advanced Undergraduates (1-5) Independent Study. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997
+
+ANG 204—Theory of Quantitative Genetics (3) Lecture—3 hours. Prerequisite(s): ANG 107; Or the equivalent. Theoretical basis of quantitative genetics and the consequences of Mendelian inheritance. Concepts used to estimate quantitative genetic differences and basis for partitioning the phenotypic variance. Effective: 1997 Winter
+
+ANG 206—Advanced Domestic Animal Breeding (3) Lecture—3 hours. Prerequisite(s): ANG 107; ANS 205; ANG 204 recommended. Procedures for the genetic evaluation of individuals to include selection indices and mixed model evaluation for single and multiple traits. Methods of estimating genetic trends. Effective: 1997 Winter Quarter.
+
+ANG 208—Estimation of Genetic Parameters (3) Lecture—3 hours. Prerequisite(s): ANG 107; ANS 205; ANG 204 and ANG 108 recommended. General methods for the estimation of components of variance and covariance and their application to the estimation of heritability, repeatability and genetic correlations are considered. Specific emphasis is given to procedures applicable to livestock populations under selection. Effective: 1997
+
+ANG 211—Genetic Engineering of Animals (2) Lecture—1 hour; Lecture/Discussion—1 hour. Review of techniques for the genetic engineering of animals and their limitations and applications. Student-led discussions of recent papers in the field and possible future applications of genetically engineered animals in basic research and applied agricultural and medical research. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ANG 212—Sequence Analysis in Molecular Genetics (2) Lecture/Lab—2 hours. Prerequisite(s): BIS 101; Or the equivalent; graduate standing or consent of instructor. Use of computer algorithms and on-line databases to analyze nucleic acid and protein sequences in molecular genetics research. Effective: 2005 Winter Quarter.
+
+ANG 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Lectures and discussions of advanced topics in animal genetics. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ANG 299—Research in Animal Genetics (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ANG 101—Animal Cytogenetics (3) Discussion/Laboratory—1 hour; Laboratory—6 hours. Prerequisite(s): BIS 101; BIS 102; Or equivalent of BIS 102. Principles and techniques of cytogenetics applied to animal systems; chromosome harvest techniques, analysis of mitosis and meiosis, karyotyping, chromosome banding, cytogenetic mapping, chromosome structure and function, comparative cytogenetics. GE credit: SE. Effective: 2003 Spring Quarter.
+
+ANG 105—Horse Genetics (2) Lecture—2 hours. Prerequisite(s): ANS 015; BIS 101 Coat color, parentage testing, medical genetics, pedigrees, breeds, the gene map and genus Equus. Emphasis on understanding horse genetics based on the unity of mammalian genetics and making breeding decisions based on fundamental genetic concepts. GE credit: SE, SL. Effective: 2017 Winter Quarter.
+
+ANG 107—Genetics and Animal Breeding (5) Laboratory—3 hours; Lecture—4 hours. Prerequisite(s): BIS 101 Principles of quantitative genetics applied to improvement of livestock and poultry. Effects of mating systems and selection methods are emphasized with illustration from current breeding practices. GE credit: SE. Effective: 1997
+
+ANG 111—Molecular Biology Laboratory Techniques (4) Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 002C; BIS 101; (BIS 102 or ABI 102); (BIS 103 or ABI 103) Introduction to the concepts and techniques used in molecular biology; the role of this technology in both basic and applied animal research, and participation in laboratories using some of the most common techniques in molecular biology. GE credit: SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+ANG 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Selected topics relating to animal genetics. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+ANG 199—Special Study for Advanced Undergraduates (1-5) Independent Study. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997
+
+ANG 204—Theory of Quantitative Genetics (3) Lecture—3 hours. Prerequisite(s): ANG 107; Or the equivalent. Theoretical basis of quantitative genetics and the consequences of Mendelian inheritance. Concepts used to estimate quantitative genetic differences and basis for partitioning the phenotypic variance. Effective: 1997 Winter
+
+ANG 206—Advanced Domestic Animal Breeding (3) Lecture—3 hours. Prerequisite(s): ANG 107; ANS 205; ANG 204 recommended. Procedures for the genetic evaluation of individuals to include selection indices and mixed model evaluation for single and multiple traits. Methods of estimating genetic trends. Effective: 1997 Winter Quarter.
+
+ANG 208—Estimation of Genetic Parameters (3) Lecture—3 hours. Prerequisite(s): ANG 107; ANS 205; ANG 204 and ANG 108 recommended. General methods for the estimation of components of variance and covariance and their application to the estimation of heritability, repeatability and genetic correlations are considered. Specific emphasis is given to procedures applicable to livestock populations under selection. Effective: 1997
+
+ANG 211—Genetic Engineering of Animals (2) Lecture—1 hour; Lecture/Discussion—1 hour. Review of techniques for the genetic engineering of animals and their limitations and applications. Student-led discussions of recent papers in the field and possible future applications of genetically engineered animals in basic research and applied agricultural and medical research. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ANG 212—Sequence Analysis in Molecular Genetics (2) Lecture/Lab—2 hours. Prerequisite(s): BIS 101; Or the equivalent; graduate standing or consent of instructor. Use of computer algorithms and on-line databases to analyze nucleic acid and protein sequences in molecular genetics research. Effective: 2005 Winter Quarter.
+
+ANG 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Lectures and discussions of advanced topics in animal genetics. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ANG 299—Research in Animal Genetics (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.

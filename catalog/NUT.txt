@@ -1,0 +1,569 @@
+NUT 010—Discoveries and Concepts in Nutrition (3) Lecture—3 hours; Project (Term Project). Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010Y or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter
+
+NUT 010V—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010Y or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 010Y—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 011—Current Topics and Controversies in Nutrition (2) Discussion—1.5 hours; Term Paper. Exploration of current applications and controversies in nutrition. Students read scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues. GE credit: OL, SE, WE. Effective: 2010 Winter Quarter.
+
+NUT 099—Individual Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 105—Nutrition and Aging (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); ABI 103; Or the equivalent course to ABI 103. Role of nutrition in the aging process from both an organismal/cell perspective, including demographics, theories of aging, nutrition and evolution, nutritional manipulation and life-span extension, and nutrition's impact on the diseases of aging. GE credit: SE. Effective: 2017
+
+NUT 111AY—Introduction to Nutrition and Metabolism (3) Lecture/Discussion—1 hour; Web Virtual Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; Or the equivalent of NPB 101. Restricted to upper division or graduate level students only. Introduction to metabolism of protein, fat and carbohydrate: the biological role of vitamins and minerals; nutrient requirements during the life cycle; assessment of dietary intake and nutritional status. Not open for credit to students who have completed NUT 101 or NUT 111AV. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 111B—Recommendations and Standards for Human Nutrition (2) Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; (NUT 111AV or NUT 111AY); Or the equivalent of NPB 101. Critical analysis of the development of nutritional recommendations for humans. Topics include: history of modern recommendations, development of the Recommended Dietary Allowance (RDA) and other food guides; the Dietary Reference Intakes (DRI); administrative structure of regulatory agencies pertinent to nutrition recommendations; introduction to scientific methods used to determine the recommendations; food labeling laws; nutrition recommendations in other countries and cultures. Not open for credit to students who have completed NUT 111. Effective: 2017 Spring Quarter.
+
+NUT 112—Nutritional Assessment (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ((ABI 102, ABI 103) or (BIS 102, BIS 103)); NUT 111AY; (STA 013 or STA 013Y or PLS 120) Restricted to upper division or graduate level Nutrition students only. Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations. GE credit: QL, SE. Effective: 2018 Spring Quarter.
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): PLS 120; Or equivalent. Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2014
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): STA 013 or STA 013Y or PLS 120 or STA 100 Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2018 Fall Quarter.
+
+NUT 114—Developmental Nutrition (4) Lecture—4 hours. Prerequisite(s): ABI 102; ABI 103; (NUT 111AV or NUT 111AY); NUT 111B Role of nutritional factors in embryonic and postnatal development. GE credit: SE. Effective: 2017
+
+NUT 115—Animal Nutrition (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 008B or CHE 118B; or Consent of Instructor. Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies. GE credit: OL, QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+NUT 116A—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 116AL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116A (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116A. GE credit: SE. Effective: 1997 Fall Quarter.
+
+NUT 116B—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2017 Winter
+
+NUT 116BL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116AL; NUT 116B (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116B. Continuation of course 116AL. GE credit: SE. Effective: 2017 Winter Quarter.
+
+NUT 117—Experimental Nutrition (6) Extensive Writing; Laboratory—6 hours; Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; BIS 102; BIS 103; MCB 120L or other laboratory course in biochemistry is recommended. Methods of assessing nutritional status. Application of chemical, microbiological, chromatographic and enzymatic techniques to current problems in nutrition. GE credit: SE, WE. Effective: 2016 Fall Quarter.
+
+NUT 118—Community Nutrition (4) Lecture—4 hours. Prerequisite(s): NUT 116A; (NUT 111AV or NUT 111AY); NUT 111B Nutrition problems in contemporary communities and of selected target groups in the United States and in developing countries. Nutrition programs and policy, principles of nutrition education. GE credit: SE, SL. Effective: 2017 Winter Quarter.
+
+NUT 119A—International, community-based nutritional assessment. (1) Lecture/Discussion—1 hour. Prerequisite(s): NUT 112 (can be concurrent); and Consent of Instructor. Issues and problems related to community-based nutritional assessment in a lowincome country, major nutritional problems in low-income countries; ethical issues in human investigation; survey design, data collection techniques, and data analysis; preparation for international travel; cross-cultural communication, health, and safety while living abroad. Effective:
+
+NUT 119B—International, Community-Based Nutritional Assessment (6) Fieldwork—12 hours; Lecture—2 hours. Prerequisite(s): NUT 119A; and Consent of Instructor. Restricted to upper division students in Clinical Nutrition, Community Nutrition, Dietetics, and Nutrition Science. A six-week summer course in Peru. Implementation of a community-based nutritional assessment survey, including development of the survey instrument, selection. Effective: 2002 Summer Special Session.
+
+NUT 120AN—Nutritional Anthropology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): NUT 010 and ANT 002 recommended. Nutritional anthropology from historical and contemporary perspectives; the anthropological approach to food and diet; field work methods; case histories that explore food patterns and their nutritional implications. GE credit: SE, SS. Effective: 2017 Spring Quarter.
+
+NUT 120BN—Nutritional Geography (4) Discussion—1 hour; Lecture—3 hours. Nutritional geography from historical and contemporary perspectives; the geographical approach to food and diet; cultural and environmental factors that influence dietary practices; food-related landscapes and patterns. GE credit: SE, SS. Effective:
+
+NUT 122—Ruminant Nutrition and Digestive Physiology (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (ABI 103 or BIS 103); BIS 002A; BIS 002B; BIS 002C; (ANS 100 or NPB 101); or Consent of Instructor. MAT 016B recommended. Study of nutrient utilization as influenced by the unique aspects of digestion and fermentation in ruminants, both domestic and wild. Laboratories include comparative anatomy, feed evaluation, digestion kinetics using fistulated cows, computer modeling, and microbial exercises. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+NUT 123—Comparative Animal Nutrition (3) Lecture—3 hours. Prerequisite(s): ABI 103 or BIS 103 Restricted to upper division and graduate level students. Comparative nutrition of animals; including laboratory, companion, zoo, and wild, animals. Digestion and metabolic adaptations required for animal species to consume diverse diets. Relation of nutrition to metabolic adaptations and physiological states, including growth, reproduction, and diseases. GE credit: SE. Effective: 2017 Spring Quarter.
+
+NUT 123L—Comparative Animal Nutrition Laboratory (1) Laboratory—3 hours. Prerequisite(s): ABI 103 or BIS 103 Laboratory exercises leading to written reports on establishment of nutritional requirements and formulation of complete diets for laboratory, companion, zoo and wild animals. Effective: 2017 Spring Quarter.
+
+NUT 124—Nutrition and Feeding of Finfishes (3) Lecture—3 hours. Prerequisite(s): BIS 103 or ABI 103 Principles of nutrition and feeding of fishes under commercial situations; implication of fish nutrition to the environment and conservation of endangered species. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+NUT 127—Environmental Stress and Development in Marine Organisms (10) Discussion—2 hours; Laboratory—12 hours; Lecture—4 hours. Prerequisite(s): ETX 101 or BIS 102 or BIS 104; or equivalent course. ETX 114A or NUT 114 recommended. Course taught at Bodega Marine Laboratory. Effects of environmental and nutritional stress, including pollutants, on development and function in embryos and larvae of marine organisms. Emphasis on advanced experimental methods. (Environmental Toxicology 127.) GE credit: OL, QL, SE, SL, VL, WE. Effective: 2002 Summer Session 1.
+
+NUT 129—Journalistic Practicum in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; or Consent of Instructor. A course in written or oral expression. Critical analysis and discussion of current, controversial issues in nutrition; use of journalistic techniques to interpret scientific findings for the lay public. Students required to write several articles for campus media. May be repeated up to 1 time(s). GE credit: OL, SE, SL, WE. Effective: 2017 Spring Quarter.
+
+NUT 130—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 111AV, NUT 111AY, NUT 111B or NUT 114 recommended. Experiments in current nutritional problems. Experimental design:students choose project and, independently or in groups of two-three, design a protocol, complete the project, and report findings. May be repeated for credit up to six times(three times per instructor)with consent of instructor. May be repeated up to 6 time(s) three times per instructor with consent of instructor. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 190—Proseminar in Nutrition (1) Seminar—1 hour. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B Restricted to senior standing. Discussion of human nutrition problems. Each term will involve a different emphasis among experimental, clinical, and dietetic problems of community, national and international scope. May be repeated twice for credit with consent of instructor. May be repeated up to 2 time(s). GE credit: OL, SE, VL. Effective: 2016 Fall Quarter.
+
+NUT 190C—Nutrition Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Nutrition or related biological science. Introduction to research findings and methods in nutrition. Presentation and discussion of research by faculty and students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+NUT 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. One upper division course in nutrition. Work experience on or off campus in practical application of nutrition, supervised by a faculty member. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+NUT 197T—Tutoring in Nutrition (1-2) Discussion/Laboratory—3-6 hours. Prerequisite(s): Consent of Instructor. Nutrition Science, Clinical Nutrition or related major. Tutoring of students in nutrition courses, assistance with discussion groups or laboratory sections, weekly conference with instructor in charge of course: written evaluations. May be repeated if tutoring a different course. May be repeated for credit. (P/NP grading only.) Effective: 2016 Fall Quarter.
+
+NUT 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+NUT 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 219A—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 111AV; NUT 111AY; Graduate Standing; undergraduates only admitted with consent of instructor. Epidemiology, etiology, and consequences of undernutrition, with particular focus on the nutritional problems of children and women in low income populations. Effective: 2018 Spring Quarter.
+
+NUT 219B—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 219A Intervention programs to prevent or ameliorate nutritional problems in low-income populations. Planning, implementing, and evaluating nutrition intervention programs. Effective: 2004 Fall Quarter.
+
+NUT 230—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 201, NUT 202, NUT 203, NUT 204, or the equivalent recommended. Student selected projects to enhance laboratory skills. Independently, or in groups of two-three students, design a protocol, carry out the project, analyze the results and report the findings. May be repeated up to 6 time(s) with consent of instructor (limit of three times per instructor). Effective: 1999 Fall Quarter.
+
+NUT 250—Metabolic Homeostasis (3) Discussion—1.5 hours; Lecture—2 hours. Prerequisite(s): Passing the Nutrition Graduate Group Preliminary Examination or consent of instructor. Preference given to students in advanced standing in the Nutrition Graduate Group. Regulatory mechanisms of carbohydrate, lipid, and protein homeostasis; mechanisms of metabolic enzyme regulation and of the metabolic hormones; homeostatic mechanisms and interactions; fuel-fuel interactions; nutrition-energy balance. Effective: 2001 Spring Quarter.
+
+NUT 251—Nutrition and Immunity (2) Lecture/Discussion—2 hours. Prerequisite(s): PMI 126; ABI 102; MMI 107; Or the equivalent to MMI 107. Cellular and molecular mechanisms underlying interactions of nutrition and immune function, including modulation of immunocompetence by diet and effects of immune responses on nutritional needs. Lectures and discussion explore implications for resistance to infection, autoimmunity and cancer. Effective: 2000 Winter Quarter.
+
+NUT 252—Nutrition and Development (3) Lecture—3 hours. Prerequisite(s): NUB 210A, NUB 210B, and NUB 210C recommended. Relationship of nutrition to prenatal and early postnatal development. Effective: 2018 Spring
+
+NUT 253—Control of Energy Balance and Body Weight (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Comprehensive study of the biochemical, nutritional and physiological mechanisms controlling food intake, body composition and energy expenditure. Subject matter will be approached through lectures and discussions where students and staff will critically evaluate the literature. Effective: 2016 Spring
+
+NUT 254—Applications of Systems Analysis in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): NUT 202; Or the equivalent. Quantitative aspects of digestion and metabolism; principles of systems analysis. Evolution of models of energy metabolism as applied in current feeding systems. Critical evaluations of mechanistic models used analytically in support of nutritional research. Effective: 1997 Winter Quarter.
+
+NUT 258—Field Research Methods in International Nutrition (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing or consent of instructor. Issues and problems related to implementation of nutrition field research in less-developed countries, including ethics; relationships with local governments, communities, and scientists; data collection techniques and quality assurance; field logistics; research budgets; and other administrative and personal issues. Effective: 1997 Winter Quarter.
+
+NUT 259—Nutrition and Aging (2) Lecture—2 hours. Prerequisite(s): NUT 201; NUT 202; NUT 203; NUT 204; Three courses. Interaction between nutrition and aging. Topics include physiological/biochemical basis of aging, age-related changes affecting nutritional requirements, nutrition and mortality rate, assessment of nutritional status in the elderly, and relationship between developmental nutrition and the rate of aging. Effective: 1997
+
+NUT 270—Scientific Ethics in Biomedical Studies: Emphasis on Nutrition (3) Discussion—1 hour; Lecture—1 hour; Term Paper. Restricted to graduate standing or consent of instructor. Scientific ethics in biomedical studies, especially nutrition. Discussion and case study presentations on scientific integrity, fraud, misconduct, conflict of interest, human and animal research protections. Not open for credit to students who have completed NUT 492B. Effective:
+
+NUT 290—Beginning Nutrition Seminar (2) Lecture/Discussion—1 hour; Seminar—1 hour. Prerequisite(s): First-year graduate standing. Discussion and critical evaluation of topics in nutrition with emphasis on literature review and evaluation in this field. Students give oral presentations on relevant topics. Effective: 1997 Fall
+
+NUT 290C—Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Major professors lead research discussions with their graduate students. Research papers are reviewed and project proposals presented and evaluated. Format will combine seminar and discussion style. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 291—Advanced Nutrition Seminar (1) Seminar—1 hour. Prerequisite(s): Second-year graduate standing. Advanced topics in nutrition research. Multiple sections may be taken concurrently for credit. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 293A—Current Topics in Obesity, Food Intake and Energy Balance (3) Discussion—1 hour; Lecture—1 hour; Seminar—1 hour. Prerequisite(s): NUT 129; Or graduate standing; Undergraduates with upper division standing with at least one writing course may enroll with consent of instructor. Current research and its evaluation. Principles of experimental design and scientific background for given article. Articles summarized for posting on Internet for use by healthcare professionals. May be repeated for credit with consent of instructor. May be repeated for credit. Effective: 1997 Fall Quarter.
+
+NUT 294A—Current Topics in Developmental Nutrition (2) Seminar—2 hours. Prerequisite(s): NUT 114 or NUT 252; or Consent of Instructor. Restricted to graduate standing or consent of instructor. Effects of nutrition on embryology, morphogenesis, and developmental mechanisms. May be repeated for credit when topic differs. Effective: 2004 Winter
+
+NUT 297T—Supervised Teaching in Nutrition (1-3) Variable. Prerequisite(s): Graduate standing in nutrition or consent of instructor. Practical experience in teaching nutrition at the university level; curriculum design and evaluation; preparation and presentation of material. Assistance in laboratories, discussion sections, and evaluation of student work. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Effective: 1997 Winter Quarter.
+
+NUT 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+NUT 492A—Professionalism: An Academic Perspective (2) Lecture/Discussion—2 hours. Prerequisite(s): Graduate standing. For graduate students in their initial quarter of residence. Professionalism topics are presented and examples drawn from both the biological and social sciences. Effective: 1997 Fall Quarter.
+
+NUT 492C—Grant Writing (3) Discussion—1.5 hours; Lecture—1.5 hours. Prerequisite(s): Graduate standing in Nutrition or consent of instructor. Preparation of grants for governmental agencies (particularly NIH and USDA) and private foundations. Students will write a research grant or fellowship application. May be repeated once for credit with consent of instructor. May be repeated up to 1 time(s). Effective: 1997 Fall Quarter.
+
+NUT 010—Discoveries and Concepts in Nutrition (3) Lecture—3 hours; Project (Term Project). Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010Y or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter
+
+NUT 010V—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010Y or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 010Y—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 011—Current Topics and Controversies in Nutrition (2) Discussion—1.5 hours; Term Paper. Exploration of current applications and controversies in nutrition. Students read scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues. GE credit: OL, SE, WE. Effective: 2010 Winter Quarter.
+
+NUT 099—Individual Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 105—Nutrition and Aging (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); ABI 103; Or the equivalent course to ABI 103. Role of nutrition in the aging process from both an organismal/cell perspective, including demographics, theories of aging, nutrition and evolution, nutritional manipulation and life-span extension, and nutrition's impact on the diseases of aging. GE credit: SE. Effective: 2017
+
+NUT 111AY—Introduction to Nutrition and Metabolism (3) Lecture/Discussion—1 hour; Web Virtual Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; Or the equivalent of NPB 101. Restricted to upper division or graduate level students only. Introduction to metabolism of protein, fat and carbohydrate: the biological role of vitamins and minerals; nutrient requirements during the life cycle; assessment of dietary intake and nutritional status. Not open for credit to students who have completed NUT 101 or NUT 111AV. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 111B—Recommendations and Standards for Human Nutrition (2) Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; (NUT 111AV or NUT 111AY); Or the equivalent of NPB 101. Critical analysis of the development of nutritional recommendations for humans. Topics include: history of modern recommendations, development of the Recommended Dietary Allowance (RDA) and other food guides; the Dietary Reference Intakes (DRI); administrative structure of regulatory agencies pertinent to nutrition recommendations; introduction to scientific methods used to determine the recommendations; food labeling laws; nutrition recommendations in other countries and cultures. Not open for credit to students who have completed NUT 111. Effective: 2017 Spring Quarter.
+
+NUT 112—Nutritional Assessment (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ((ABI 102, ABI 103) or (BIS 102, BIS 103)); NUT 111AY; (STA 013 or STA 013Y or PLS 120) Restricted to upper division or graduate level Nutrition students only. Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations. GE credit: QL, SE. Effective: 2018 Spring Quarter.
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): PLS 120; Or equivalent. Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2014
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): STA 013 or STA 013Y or PLS 120 or STA 100 Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2018 Fall Quarter.
+
+NUT 114—Developmental Nutrition (4) Lecture—4 hours. Prerequisite(s): ABI 102; ABI 103; (NUT 111AV or NUT 111AY); NUT 111B Role of nutritional factors in embryonic and postnatal development. GE credit: SE. Effective: 2017
+
+NUT 115—Animal Nutrition (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 008B or CHE 118B; or Consent of Instructor. Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies. GE credit: OL, QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+NUT 116A—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 116AL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116A (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116A. GE credit: SE. Effective: 1997 Fall Quarter.
+
+NUT 116B—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2017 Winter
+
+NUT 116BL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116AL; NUT 116B (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116B. Continuation of course 116AL. GE credit: SE. Effective: 2017 Winter Quarter.
+
+NUT 117—Experimental Nutrition (6) Extensive Writing; Laboratory—6 hours; Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; BIS 102; BIS 103; MCB 120L or other laboratory course in biochemistry is recommended. Methods of assessing nutritional status. Application of chemical, microbiological, chromatographic and enzymatic techniques to current problems in nutrition. GE credit: SE, WE. Effective: 2016 Fall Quarter.
+
+NUT 118—Community Nutrition (4) Lecture—4 hours. Prerequisite(s): NUT 116A; (NUT 111AV or NUT 111AY); NUT 111B Nutrition problems in contemporary communities and of selected target groups in the United States and in developing countries. Nutrition programs and policy, principles of nutrition education. GE credit: SE, SL. Effective: 2017 Winter Quarter.
+
+NUT 119A—International, community-based nutritional assessment. (1) Lecture/Discussion—1 hour. Prerequisite(s): NUT 112 (can be concurrent); and Consent of Instructor. Issues and problems related to community-based nutritional assessment in a lowincome country, major nutritional problems in low-income countries; ethical issues in human investigation; survey design, data collection techniques, and data analysis; preparation for international travel; cross-cultural communication, health, and safety while living abroad. Effective:
+
+NUT 119B—International, Community-Based Nutritional Assessment (6) Fieldwork—12 hours; Lecture—2 hours. Prerequisite(s): NUT 119A; and Consent of Instructor. Restricted to upper division students in Clinical Nutrition, Community Nutrition, Dietetics, and Nutrition Science. A six-week summer course in Peru. Implementation of a community-based nutritional assessment survey, including development of the survey instrument, selection. Effective: 2002 Summer Special Session.
+
+NUT 120AN—Nutritional Anthropology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): NUT 010 and ANT 002 recommended. Nutritional anthropology from historical and contemporary perspectives; the anthropological approach to food and diet; field work methods; case histories that explore food patterns and their nutritional implications. GE credit: SE, SS. Effective: 2017 Spring Quarter.
+
+NUT 120BN—Nutritional Geography (4) Discussion—1 hour; Lecture—3 hours. Nutritional geography from historical and contemporary perspectives; the geographical approach to food and diet; cultural and environmental factors that influence dietary practices; food-related landscapes and patterns. GE credit: SE, SS. Effective:
+
+NUT 122—Ruminant Nutrition and Digestive Physiology (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (ABI 103 or BIS 103); BIS 002A; BIS 002B; BIS 002C; (ANS 100 or NPB 101); or Consent of Instructor. MAT 016B recommended. Study of nutrient utilization as influenced by the unique aspects of digestion and fermentation in ruminants, both domestic and wild. Laboratories include comparative anatomy, feed evaluation, digestion kinetics using fistulated cows, computer modeling, and microbial exercises. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+NUT 123—Comparative Animal Nutrition (3) Lecture—3 hours. Prerequisite(s): ABI 103 or BIS 103 Restricted to upper division and graduate level students. Comparative nutrition of animals; including laboratory, companion, zoo, and wild, animals. Digestion and metabolic adaptations required for animal species to consume diverse diets. Relation of nutrition to metabolic adaptations and physiological states, including growth, reproduction, and diseases. GE credit: SE. Effective: 2017 Spring Quarter.
+
+NUT 123L—Comparative Animal Nutrition Laboratory (1) Laboratory—3 hours. Prerequisite(s): ABI 103 or BIS 103 Laboratory exercises leading to written reports on establishment of nutritional requirements and formulation of complete diets for laboratory, companion, zoo and wild animals. Effective: 2017 Spring Quarter.
+
+NUT 124—Nutrition and Feeding of Finfishes (3) Lecture—3 hours. Prerequisite(s): BIS 103 or ABI 103 Principles of nutrition and feeding of fishes under commercial situations; implication of fish nutrition to the environment and conservation of endangered species. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+NUT 127—Environmental Stress and Development in Marine Organisms (10) Discussion—2 hours; Laboratory—12 hours; Lecture—4 hours. Prerequisite(s): ETX 101 or BIS 102 or BIS 104; or equivalent course. ETX 114A or NUT 114 recommended. Course taught at Bodega Marine Laboratory. Effects of environmental and nutritional stress, including pollutants, on development and function in embryos and larvae of marine organisms. Emphasis on advanced experimental methods. (Environmental Toxicology 127.) GE credit: OL, QL, SE, SL, VL, WE. Effective: 2002 Summer Session 1.
+
+NUT 129—Journalistic Practicum in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; or Consent of Instructor. A course in written or oral expression. Critical analysis and discussion of current, controversial issues in nutrition; use of journalistic techniques to interpret scientific findings for the lay public. Students required to write several articles for campus media. May be repeated up to 1 time(s). GE credit: OL, SE, SL, WE. Effective: 2017 Spring Quarter.
+
+NUT 130—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 111AV, NUT 111AY, NUT 111B or NUT 114 recommended. Experiments in current nutritional problems. Experimental design:students choose project and, independently or in groups of two-three, design a protocol, complete the project, and report findings. May be repeated for credit up to six times(three times per instructor)with consent of instructor. May be repeated up to 6 time(s) three times per instructor with consent of instructor. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 190—Proseminar in Nutrition (1) Seminar—1 hour. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B Restricted to senior standing. Discussion of human nutrition problems. Each term will involve a different emphasis among experimental, clinical, and dietetic problems of community, national and international scope. May be repeated twice for credit with consent of instructor. May be repeated up to 2 time(s). GE credit: OL, SE, VL. Effective: 2016 Fall Quarter.
+
+NUT 190C—Nutrition Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Nutrition or related biological science. Introduction to research findings and methods in nutrition. Presentation and discussion of research by faculty and students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+NUT 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. One upper division course in nutrition. Work experience on or off campus in practical application of nutrition, supervised by a faculty member. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+NUT 197T—Tutoring in Nutrition (1-2) Discussion/Laboratory—3-6 hours. Prerequisite(s): Consent of Instructor. Nutrition Science, Clinical Nutrition or related major. Tutoring of students in nutrition courses, assistance with discussion groups or laboratory sections, weekly conference with instructor in charge of course: written evaluations. May be repeated if tutoring a different course. May be repeated for credit. (P/NP grading only.) Effective: 2016 Fall Quarter.
+
+NUT 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+NUT 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 219A—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 111AV; NUT 111AY; Graduate Standing; undergraduates only admitted with consent of instructor. Epidemiology, etiology, and consequences of undernutrition, with particular focus on the nutritional problems of children and women in low income populations. Effective: 2018 Spring Quarter.
+
+NUT 219B—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 219A Intervention programs to prevent or ameliorate nutritional problems in low-income populations. Planning, implementing, and evaluating nutrition intervention programs. Effective: 2004 Fall Quarter.
+
+NUT 230—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 201, NUT 202, NUT 203, NUT 204, or the equivalent recommended. Student selected projects to enhance laboratory skills. Independently, or in groups of two-three students, design a protocol, carry out the project, analyze the results and report the findings. May be repeated up to 6 time(s) with consent of instructor (limit of three times per instructor). Effective: 1999 Fall Quarter.
+
+NUT 250—Metabolic Homeostasis (3) Discussion—1.5 hours; Lecture—2 hours. Prerequisite(s): Passing the Nutrition Graduate Group Preliminary Examination or consent of instructor. Preference given to students in advanced standing in the Nutrition Graduate Group. Regulatory mechanisms of carbohydrate, lipid, and protein homeostasis; mechanisms of metabolic enzyme regulation and of the metabolic hormones; homeostatic mechanisms and interactions; fuel-fuel interactions; nutrition-energy balance. Effective: 2001 Spring Quarter.
+
+NUT 251—Nutrition and Immunity (2) Lecture/Discussion—2 hours. Prerequisite(s): PMI 126; ABI 102; MMI 107; Or the equivalent to MMI 107. Cellular and molecular mechanisms underlying interactions of nutrition and immune function, including modulation of immunocompetence by diet and effects of immune responses on nutritional needs. Lectures and discussion explore implications for resistance to infection, autoimmunity and cancer. Effective: 2000 Winter Quarter.
+
+NUT 252—Nutrition and Development (3) Lecture—3 hours. Prerequisite(s): NUB 210A, NUB 210B, and NUB 210C recommended. Relationship of nutrition to prenatal and early postnatal development. Effective: 2018 Spring
+
+NUT 253—Control of Energy Balance and Body Weight (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Comprehensive study of the biochemical, nutritional and physiological mechanisms controlling food intake, body composition and energy expenditure. Subject matter will be approached through lectures and discussions where students and staff will critically evaluate the literature. Effective: 2016 Spring
+
+NUT 254—Applications of Systems Analysis in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): NUT 202; Or the equivalent. Quantitative aspects of digestion and metabolism; principles of systems analysis. Evolution of models of energy metabolism as applied in current feeding systems. Critical evaluations of mechanistic models used analytically in support of nutritional research. Effective: 1997 Winter Quarter.
+
+NUT 258—Field Research Methods in International Nutrition (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing or consent of instructor. Issues and problems related to implementation of nutrition field research in less-developed countries, including ethics; relationships with local governments, communities, and scientists; data collection techniques and quality assurance; field logistics; research budgets; and other administrative and personal issues. Effective: 1997 Winter Quarter.
+
+NUT 259—Nutrition and Aging (2) Lecture—2 hours. Prerequisite(s): NUT 201; NUT 202; NUT 203; NUT 204; Three courses. Interaction between nutrition and aging. Topics include physiological/biochemical basis of aging, age-related changes affecting nutritional requirements, nutrition and mortality rate, assessment of nutritional status in the elderly, and relationship between developmental nutrition and the rate of aging. Effective: 1997
+
+NUT 270—Scientific Ethics in Biomedical Studies: Emphasis on Nutrition (3) Discussion—1 hour; Lecture—1 hour; Term Paper. Restricted to graduate standing or consent of instructor. Scientific ethics in biomedical studies, especially nutrition. Discussion and case study presentations on scientific integrity, fraud, misconduct, conflict of interest, human and animal research protections. Not open for credit to students who have completed NUT 492B. Effective:
+
+NUT 290—Beginning Nutrition Seminar (2) Lecture/Discussion—1 hour; Seminar—1 hour. Prerequisite(s): First-year graduate standing. Discussion and critical evaluation of topics in nutrition with emphasis on literature review and evaluation in this field. Students give oral presentations on relevant topics. Effective: 1997 Fall
+
+NUT 290C—Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Major professors lead research discussions with their graduate students. Research papers are reviewed and project proposals presented and evaluated. Format will combine seminar and discussion style. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 291—Advanced Nutrition Seminar (1) Seminar—1 hour. Prerequisite(s): Second-year graduate standing. Advanced topics in nutrition research. Multiple sections may be taken concurrently for credit. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 293A—Current Topics in Obesity, Food Intake and Energy Balance (3) Discussion—1 hour; Lecture—1 hour; Seminar—1 hour. Prerequisite(s): NUT 129; Or graduate standing; Undergraduates with upper division standing with at least one writing course may enroll with consent of instructor. Current research and its evaluation. Principles of experimental design and scientific background for given article. Articles summarized for posting on Internet for use by healthcare professionals. May be repeated for credit with consent of instructor. May be repeated for credit. Effective: 1997 Fall Quarter.
+
+NUT 294A—Current Topics in Developmental Nutrition (2) Seminar—2 hours. Prerequisite(s): NUT 114 or NUT 252; or Consent of Instructor. Restricted to graduate standing or consent of instructor. Effects of nutrition on embryology, morphogenesis, and developmental mechanisms. May be repeated for credit when topic differs. Effective: 2004 Winter
+
+NUT 297T—Supervised Teaching in Nutrition (1-3) Variable. Prerequisite(s): Graduate standing in nutrition or consent of instructor. Practical experience in teaching nutrition at the university level; curriculum design and evaluation; preparation and presentation of material. Assistance in laboratories, discussion sections, and evaluation of student work. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Effective: 1997 Winter Quarter.
+
+NUT 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+NUT 492A—Professionalism: An Academic Perspective (2) Lecture/Discussion—2 hours. Prerequisite(s): Graduate standing. For graduate students in their initial quarter of residence. Professionalism topics are presented and examples drawn from both the biological and social sciences. Effective: 1997 Fall Quarter.
+
+NUT 492C—Grant Writing (3) Discussion—1.5 hours; Lecture—1.5 hours. Prerequisite(s): Graduate standing in Nutrition or consent of instructor. Preparation of grants for governmental agencies (particularly NIH and USDA) and private foundations. Students will write a research grant or fellowship application. May be repeated once for credit with consent of instructor. May be repeated up to 1 time(s). Effective: 1997 Fall Quarter.
+
+NUT 010—Discoveries and Concepts in Nutrition (3) Lecture—3 hours; Project (Term Project). Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010Y or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter
+
+NUT 010V—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010Y or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 010Y—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 011—Current Topics and Controversies in Nutrition (2) Discussion—1.5 hours; Term Paper. Exploration of current applications and controversies in nutrition. Students read scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues. GE credit: OL, SE, WE. Effective: 2010 Winter Quarter.
+
+NUT 099—Individual Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 105—Nutrition and Aging (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); ABI 103; Or the equivalent course to ABI 103. Role of nutrition in the aging process from both an organismal/cell perspective, including demographics, theories of aging, nutrition and evolution, nutritional manipulation and life-span extension, and nutrition's impact on the diseases of aging. GE credit: SE. Effective: 2017
+
+NUT 111AY—Introduction to Nutrition and Metabolism (3) Lecture/Discussion—1 hour; Web Virtual Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; Or the equivalent of NPB 101. Restricted to upper division or graduate level students only. Introduction to metabolism of protein, fat and carbohydrate: the biological role of vitamins and minerals; nutrient requirements during the life cycle; assessment of dietary intake and nutritional status. Not open for credit to students who have completed NUT 101 or NUT 111AV. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 111B—Recommendations and Standards for Human Nutrition (2) Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; (NUT 111AV or NUT 111AY); Or the equivalent of NPB 101. Critical analysis of the development of nutritional recommendations for humans. Topics include: history of modern recommendations, development of the Recommended Dietary Allowance (RDA) and other food guides; the Dietary Reference Intakes (DRI); administrative structure of regulatory agencies pertinent to nutrition recommendations; introduction to scientific methods used to determine the recommendations; food labeling laws; nutrition recommendations in other countries and cultures. Not open for credit to students who have completed NUT 111. Effective: 2017 Spring Quarter.
+
+NUT 112—Nutritional Assessment (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ((ABI 102, ABI 103) or (BIS 102, BIS 103)); NUT 111AY; (STA 013 or STA 013Y or PLS 120) Restricted to upper division or graduate level Nutrition students only. Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations. GE credit: QL, SE. Effective: 2018 Spring Quarter.
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): PLS 120; Or equivalent. Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2014
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): STA 013 or STA 013Y or PLS 120 or STA 100 Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2018 Fall Quarter.
+
+NUT 114—Developmental Nutrition (4) Lecture—4 hours. Prerequisite(s): ABI 102; ABI 103; (NUT 111AV or NUT 111AY); NUT 111B Role of nutritional factors in embryonic and postnatal development. GE credit: SE. Effective: 2017
+
+NUT 115—Animal Nutrition (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 008B or CHE 118B; or Consent of Instructor. Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies. GE credit: OL, QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+NUT 116A—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 116AL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116A (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116A. GE credit: SE. Effective: 1997 Fall Quarter.
+
+NUT 116B—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2017 Winter
+
+NUT 116BL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116AL; NUT 116B (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116B. Continuation of course 116AL. GE credit: SE. Effective: 2017 Winter Quarter.
+
+NUT 117—Experimental Nutrition (6) Extensive Writing; Laboratory—6 hours; Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; BIS 102; BIS 103; MCB 120L or other laboratory course in biochemistry is recommended. Methods of assessing nutritional status. Application of chemical, microbiological, chromatographic and enzymatic techniques to current problems in nutrition. GE credit: SE, WE. Effective: 2016 Fall Quarter.
+
+NUT 118—Community Nutrition (4) Lecture—4 hours. Prerequisite(s): NUT 116A; (NUT 111AV or NUT 111AY); NUT 111B Nutrition problems in contemporary communities and of selected target groups in the United States and in developing countries. Nutrition programs and policy, principles of nutrition education. GE credit: SE, SL. Effective: 2017 Winter Quarter.
+
+NUT 119A—International, community-based nutritional assessment. (1) Lecture/Discussion—1 hour. Prerequisite(s): NUT 112 (can be concurrent); and Consent of Instructor. Issues and problems related to community-based nutritional assessment in a lowincome country, major nutritional problems in low-income countries; ethical issues in human investigation; survey design, data collection techniques, and data analysis; preparation for international travel; cross-cultural communication, health, and safety while living abroad. Effective:
+
+NUT 119B—International, Community-Based Nutritional Assessment (6) Fieldwork—12 hours; Lecture—2 hours. Prerequisite(s): NUT 119A; and Consent of Instructor. Restricted to upper division students in Clinical Nutrition, Community Nutrition, Dietetics, and Nutrition Science. A six-week summer course in Peru. Implementation of a community-based nutritional assessment survey, including development of the survey instrument, selection. Effective: 2002 Summer Special Session.
+
+NUT 120AN—Nutritional Anthropology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): NUT 010 and ANT 002 recommended. Nutritional anthropology from historical and contemporary perspectives; the anthropological approach to food and diet; field work methods; case histories that explore food patterns and their nutritional implications. GE credit: SE, SS. Effective: 2017 Spring Quarter.
+
+NUT 120BN—Nutritional Geography (4) Discussion—1 hour; Lecture—3 hours. Nutritional geography from historical and contemporary perspectives; the geographical approach to food and diet; cultural and environmental factors that influence dietary practices; food-related landscapes and patterns. GE credit: SE, SS. Effective:
+
+NUT 122—Ruminant Nutrition and Digestive Physiology (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (ABI 103 or BIS 103); BIS 002A; BIS 002B; BIS 002C; (ANS 100 or NPB 101); or Consent of Instructor. MAT 016B recommended. Study of nutrient utilization as influenced by the unique aspects of digestion and fermentation in ruminants, both domestic and wild. Laboratories include comparative anatomy, feed evaluation, digestion kinetics using fistulated cows, computer modeling, and microbial exercises. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+NUT 123—Comparative Animal Nutrition (3) Lecture—3 hours. Prerequisite(s): ABI 103 or BIS 103 Restricted to upper division and graduate level students. Comparative nutrition of animals; including laboratory, companion, zoo, and wild, animals. Digestion and metabolic adaptations required for animal species to consume diverse diets. Relation of nutrition to metabolic adaptations and physiological states, including growth, reproduction, and diseases. GE credit: SE. Effective: 2017 Spring Quarter.
+
+NUT 123L—Comparative Animal Nutrition Laboratory (1) Laboratory—3 hours. Prerequisite(s): ABI 103 or BIS 103 Laboratory exercises leading to written reports on establishment of nutritional requirements and formulation of complete diets for laboratory, companion, zoo and wild animals. Effective: 2017 Spring Quarter.
+
+NUT 124—Nutrition and Feeding of Finfishes (3) Lecture—3 hours. Prerequisite(s): BIS 103 or ABI 103 Principles of nutrition and feeding of fishes under commercial situations; implication of fish nutrition to the environment and conservation of endangered species. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+NUT 127—Environmental Stress and Development in Marine Organisms (10) Discussion—2 hours; Laboratory—12 hours; Lecture—4 hours. Prerequisite(s): ETX 101 or BIS 102 or BIS 104; or equivalent course. ETX 114A or NUT 114 recommended. Course taught at Bodega Marine Laboratory. Effects of environmental and nutritional stress, including pollutants, on development and function in embryos and larvae of marine organisms. Emphasis on advanced experimental methods. (Environmental Toxicology 127.) GE credit: OL, QL, SE, SL, VL, WE. Effective: 2002 Summer Session 1.
+
+NUT 129—Journalistic Practicum in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; or Consent of Instructor. A course in written or oral expression. Critical analysis and discussion of current, controversial issues in nutrition; use of journalistic techniques to interpret scientific findings for the lay public. Students required to write several articles for campus media. May be repeated up to 1 time(s). GE credit: OL, SE, SL, WE. Effective: 2017 Spring Quarter.
+
+NUT 130—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 111AV, NUT 111AY, NUT 111B or NUT 114 recommended. Experiments in current nutritional problems. Experimental design:students choose project and, independently or in groups of two-three, design a protocol, complete the project, and report findings. May be repeated for credit up to six times(three times per instructor)with consent of instructor. May be repeated up to 6 time(s) three times per instructor with consent of instructor. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 190—Proseminar in Nutrition (1) Seminar—1 hour. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B Restricted to senior standing. Discussion of human nutrition problems. Each term will involve a different emphasis among experimental, clinical, and dietetic problems of community, national and international scope. May be repeated twice for credit with consent of instructor. May be repeated up to 2 time(s). GE credit: OL, SE, VL. Effective: 2016 Fall Quarter.
+
+NUT 190C—Nutrition Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Nutrition or related biological science. Introduction to research findings and methods in nutrition. Presentation and discussion of research by faculty and students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+NUT 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. One upper division course in nutrition. Work experience on or off campus in practical application of nutrition, supervised by a faculty member. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+NUT 197T—Tutoring in Nutrition (1-2) Discussion/Laboratory—3-6 hours. Prerequisite(s): Consent of Instructor. Nutrition Science, Clinical Nutrition or related major. Tutoring of students in nutrition courses, assistance with discussion groups or laboratory sections, weekly conference with instructor in charge of course: written evaluations. May be repeated if tutoring a different course. May be repeated for credit. (P/NP grading only.) Effective: 2016 Fall Quarter.
+
+NUT 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+NUT 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 219A—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 111AV; NUT 111AY; Graduate Standing; undergraduates only admitted with consent of instructor. Epidemiology, etiology, and consequences of undernutrition, with particular focus on the nutritional problems of children and women in low income populations. Effective: 2018 Spring Quarter.
+
+NUT 219B—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 219A Intervention programs to prevent or ameliorate nutritional problems in low-income populations. Planning, implementing, and evaluating nutrition intervention programs. Effective: 2004 Fall Quarter.
+
+NUT 230—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 201, NUT 202, NUT 203, NUT 204, or the equivalent recommended. Student selected projects to enhance laboratory skills. Independently, or in groups of two-three students, design a protocol, carry out the project, analyze the results and report the findings. May be repeated up to 6 time(s) with consent of instructor (limit of three times per instructor). Effective: 1999 Fall Quarter.
+
+NUT 250—Metabolic Homeostasis (3) Discussion—1.5 hours; Lecture—2 hours. Prerequisite(s): Passing the Nutrition Graduate Group Preliminary Examination or consent of instructor. Preference given to students in advanced standing in the Nutrition Graduate Group. Regulatory mechanisms of carbohydrate, lipid, and protein homeostasis; mechanisms of metabolic enzyme regulation and of the metabolic hormones; homeostatic mechanisms and interactions; fuel-fuel interactions; nutrition-energy balance. Effective: 2001 Spring Quarter.
+
+NUT 251—Nutrition and Immunity (2) Lecture/Discussion—2 hours. Prerequisite(s): PMI 126; ABI 102; MMI 107; Or the equivalent to MMI 107. Cellular and molecular mechanisms underlying interactions of nutrition and immune function, including modulation of immunocompetence by diet and effects of immune responses on nutritional needs. Lectures and discussion explore implications for resistance to infection, autoimmunity and cancer. Effective: 2000 Winter Quarter.
+
+NUT 252—Nutrition and Development (3) Lecture—3 hours. Prerequisite(s): NUB 210A, NUB 210B, and NUB 210C recommended. Relationship of nutrition to prenatal and early postnatal development. Effective: 2018 Spring
+
+NUT 253—Control of Energy Balance and Body Weight (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Comprehensive study of the biochemical, nutritional and physiological mechanisms controlling food intake, body composition and energy expenditure. Subject matter will be approached through lectures and discussions where students and staff will critically evaluate the literature. Effective: 2016 Spring
+
+NUT 254—Applications of Systems Analysis in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): NUT 202; Or the equivalent. Quantitative aspects of digestion and metabolism; principles of systems analysis. Evolution of models of energy metabolism as applied in current feeding systems. Critical evaluations of mechanistic models used analytically in support of nutritional research. Effective: 1997 Winter Quarter.
+
+NUT 258—Field Research Methods in International Nutrition (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing or consent of instructor. Issues and problems related to implementation of nutrition field research in less-developed countries, including ethics; relationships with local governments, communities, and scientists; data collection techniques and quality assurance; field logistics; research budgets; and other administrative and personal issues. Effective: 1997 Winter Quarter.
+
+NUT 259—Nutrition and Aging (2) Lecture—2 hours. Prerequisite(s): NUT 201; NUT 202; NUT 203; NUT 204; Three courses. Interaction between nutrition and aging. Topics include physiological/biochemical basis of aging, age-related changes affecting nutritional requirements, nutrition and mortality rate, assessment of nutritional status in the elderly, and relationship between developmental nutrition and the rate of aging. Effective: 1997
+
+NUT 270—Scientific Ethics in Biomedical Studies: Emphasis on Nutrition (3) Discussion—1 hour; Lecture—1 hour; Term Paper. Restricted to graduate standing or consent of instructor. Scientific ethics in biomedical studies, especially nutrition. Discussion and case study presentations on scientific integrity, fraud, misconduct, conflict of interest, human and animal research protections. Not open for credit to students who have completed NUT 492B. Effective:
+
+NUT 290—Beginning Nutrition Seminar (2) Lecture/Discussion—1 hour; Seminar—1 hour. Prerequisite(s): First-year graduate standing. Discussion and critical evaluation of topics in nutrition with emphasis on literature review and evaluation in this field. Students give oral presentations on relevant topics. Effective: 1997 Fall
+
+NUT 290C—Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Major professors lead research discussions with their graduate students. Research papers are reviewed and project proposals presented and evaluated. Format will combine seminar and discussion style. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 291—Advanced Nutrition Seminar (1) Seminar—1 hour. Prerequisite(s): Second-year graduate standing. Advanced topics in nutrition research. Multiple sections may be taken concurrently for credit. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 293A—Current Topics in Obesity, Food Intake and Energy Balance (3) Discussion—1 hour; Lecture—1 hour; Seminar—1 hour. Prerequisite(s): NUT 129; Or graduate standing; Undergraduates with upper division standing with at least one writing course may enroll with consent of instructor. Current research and its evaluation. Principles of experimental design and scientific background for given article. Articles summarized for posting on Internet for use by healthcare professionals. May be repeated for credit with consent of instructor. May be repeated for credit. Effective: 1997 Fall Quarter.
+
+NUT 294A—Current Topics in Developmental Nutrition (2) Seminar—2 hours. Prerequisite(s): NUT 114 or NUT 252; or Consent of Instructor. Restricted to graduate standing or consent of instructor. Effects of nutrition on embryology, morphogenesis, and developmental mechanisms. May be repeated for credit when topic differs. Effective: 2004 Winter
+
+NUT 297T—Supervised Teaching in Nutrition (1-3) Variable. Prerequisite(s): Graduate standing in nutrition or consent of instructor. Practical experience in teaching nutrition at the university level; curriculum design and evaluation; preparation and presentation of material. Assistance in laboratories, discussion sections, and evaluation of student work. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Effective: 1997 Winter Quarter.
+
+NUT 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+NUT 492A—Professionalism: An Academic Perspective (2) Lecture/Discussion—2 hours. Prerequisite(s): Graduate standing. For graduate students in their initial quarter of residence. Professionalism topics are presented and examples drawn from both the biological and social sciences. Effective: 1997 Fall Quarter.
+
+NUT 492C—Grant Writing (3) Discussion—1.5 hours; Lecture—1.5 hours. Prerequisite(s): Graduate standing in Nutrition or consent of instructor. Preparation of grants for governmental agencies (particularly NIH and USDA) and private foundations. Students will write a research grant or fellowship application. May be repeated once for credit with consent of instructor. May be repeated up to 1 time(s). Effective: 1997 Fall Quarter.
+
+NUT 010—Discoveries and Concepts in Nutrition (3) Lecture—3 hours; Project (Term Project). Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010Y or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter
+
+NUT 010V—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010Y or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 010Y—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 011—Current Topics and Controversies in Nutrition (2) Discussion—1.5 hours; Term Paper. Exploration of current applications and controversies in nutrition. Students read scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues. GE credit: OL, SE, WE. Effective: 2010 Winter Quarter.
+
+NUT 099—Individual Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 105—Nutrition and Aging (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); ABI 103; Or the equivalent course to ABI 103. Role of nutrition in the aging process from both an organismal/cell perspective, including demographics, theories of aging, nutrition and evolution, nutritional manipulation and life-span extension, and nutrition's impact on the diseases of aging. GE credit: SE. Effective: 2017
+
+NUT 111AY—Introduction to Nutrition and Metabolism (3) Lecture/Discussion—1 hour; Web Virtual Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; Or the equivalent of NPB 101. Restricted to upper division or graduate level students only. Introduction to metabolism of protein, fat and carbohydrate: the biological role of vitamins and minerals; nutrient requirements during the life cycle; assessment of dietary intake and nutritional status. Not open for credit to students who have completed NUT 101 or NUT 111AV. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 111B—Recommendations and Standards for Human Nutrition (2) Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; (NUT 111AV or NUT 111AY); Or the equivalent of NPB 101. Critical analysis of the development of nutritional recommendations for humans. Topics include: history of modern recommendations, development of the Recommended Dietary Allowance (RDA) and other food guides; the Dietary Reference Intakes (DRI); administrative structure of regulatory agencies pertinent to nutrition recommendations; introduction to scientific methods used to determine the recommendations; food labeling laws; nutrition recommendations in other countries and cultures. Not open for credit to students who have completed NUT 111. Effective: 2017 Spring Quarter.
+
+NUT 112—Nutritional Assessment (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ((ABI 102, ABI 103) or (BIS 102, BIS 103)); NUT 111AY; (STA 013 or STA 013Y or PLS 120) Restricted to upper division or graduate level Nutrition students only. Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations. GE credit: QL, SE. Effective: 2018 Spring Quarter.
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): PLS 120; Or equivalent. Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2014
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): STA 013 or STA 013Y or PLS 120 or STA 100 Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2018 Fall Quarter.
+
+NUT 114—Developmental Nutrition (4) Lecture—4 hours. Prerequisite(s): ABI 102; ABI 103; (NUT 111AV or NUT 111AY); NUT 111B Role of nutritional factors in embryonic and postnatal development. GE credit: SE. Effective: 2017
+
+NUT 115—Animal Nutrition (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 008B or CHE 118B; or Consent of Instructor. Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies. GE credit: OL, QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+NUT 116A—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 116AL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116A (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116A. GE credit: SE. Effective: 1997 Fall Quarter.
+
+NUT 116B—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2017 Winter
+
+NUT 116BL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116AL; NUT 116B (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116B. Continuation of course 116AL. GE credit: SE. Effective: 2017 Winter Quarter.
+
+NUT 117—Experimental Nutrition (6) Extensive Writing; Laboratory—6 hours; Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; BIS 102; BIS 103; MCB 120L or other laboratory course in biochemistry is recommended. Methods of assessing nutritional status. Application of chemical, microbiological, chromatographic and enzymatic techniques to current problems in nutrition. GE credit: SE, WE. Effective: 2016 Fall Quarter.
+
+NUT 118—Community Nutrition (4) Lecture—4 hours. Prerequisite(s): NUT 116A; (NUT 111AV or NUT 111AY); NUT 111B Nutrition problems in contemporary communities and of selected target groups in the United States and in developing countries. Nutrition programs and policy, principles of nutrition education. GE credit: SE, SL. Effective: 2017 Winter Quarter.
+
+NUT 119A—International, community-based nutritional assessment. (1) Lecture/Discussion—1 hour. Prerequisite(s): NUT 112 (can be concurrent); and Consent of Instructor. Issues and problems related to community-based nutritional assessment in a lowincome country, major nutritional problems in low-income countries; ethical issues in human investigation; survey design, data collection techniques, and data analysis; preparation for international travel; cross-cultural communication, health, and safety while living abroad. Effective:
+
+NUT 119B—International, Community-Based Nutritional Assessment (6) Fieldwork—12 hours; Lecture—2 hours. Prerequisite(s): NUT 119A; and Consent of Instructor. Restricted to upper division students in Clinical Nutrition, Community Nutrition, Dietetics, and Nutrition Science. A six-week summer course in Peru. Implementation of a community-based nutritional assessment survey, including development of the survey instrument, selection. Effective: 2002 Summer Special Session.
+
+NUT 120AN—Nutritional Anthropology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): NUT 010 and ANT 002 recommended. Nutritional anthropology from historical and contemporary perspectives; the anthropological approach to food and diet; field work methods; case histories that explore food patterns and their nutritional implications. GE credit: SE, SS. Effective: 2017 Spring Quarter.
+
+NUT 120BN—Nutritional Geography (4) Discussion—1 hour; Lecture—3 hours. Nutritional geography from historical and contemporary perspectives; the geographical approach to food and diet; cultural and environmental factors that influence dietary practices; food-related landscapes and patterns. GE credit: SE, SS. Effective:
+
+NUT 122—Ruminant Nutrition and Digestive Physiology (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (ABI 103 or BIS 103); BIS 002A; BIS 002B; BIS 002C; (ANS 100 or NPB 101); or Consent of Instructor. MAT 016B recommended. Study of nutrient utilization as influenced by the unique aspects of digestion and fermentation in ruminants, both domestic and wild. Laboratories include comparative anatomy, feed evaluation, digestion kinetics using fistulated cows, computer modeling, and microbial exercises. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+NUT 123—Comparative Animal Nutrition (3) Lecture—3 hours. Prerequisite(s): ABI 103 or BIS 103 Restricted to upper division and graduate level students. Comparative nutrition of animals; including laboratory, companion, zoo, and wild, animals. Digestion and metabolic adaptations required for animal species to consume diverse diets. Relation of nutrition to metabolic adaptations and physiological states, including growth, reproduction, and diseases. GE credit: SE. Effective: 2017 Spring Quarter.
+
+NUT 123L—Comparative Animal Nutrition Laboratory (1) Laboratory—3 hours. Prerequisite(s): ABI 103 or BIS 103 Laboratory exercises leading to written reports on establishment of nutritional requirements and formulation of complete diets for laboratory, companion, zoo and wild animals. Effective: 2017 Spring Quarter.
+
+NUT 124—Nutrition and Feeding of Finfishes (3) Lecture—3 hours. Prerequisite(s): BIS 103 or ABI 103 Principles of nutrition and feeding of fishes under commercial situations; implication of fish nutrition to the environment and conservation of endangered species. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+NUT 127—Environmental Stress and Development in Marine Organisms (10) Discussion—2 hours; Laboratory—12 hours; Lecture—4 hours. Prerequisite(s): ETX 101 or BIS 102 or BIS 104; or equivalent course. ETX 114A or NUT 114 recommended. Course taught at Bodega Marine Laboratory. Effects of environmental and nutritional stress, including pollutants, on development and function in embryos and larvae of marine organisms. Emphasis on advanced experimental methods. (Environmental Toxicology 127.) GE credit: OL, QL, SE, SL, VL, WE. Effective: 2002 Summer Session 1.
+
+NUT 129—Journalistic Practicum in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; or Consent of Instructor. A course in written or oral expression. Critical analysis and discussion of current, controversial issues in nutrition; use of journalistic techniques to interpret scientific findings for the lay public. Students required to write several articles for campus media. May be repeated up to 1 time(s). GE credit: OL, SE, SL, WE. Effective: 2017 Spring Quarter.
+
+NUT 130—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 111AV, NUT 111AY, NUT 111B or NUT 114 recommended. Experiments in current nutritional problems. Experimental design:students choose project and, independently or in groups of two-three, design a protocol, complete the project, and report findings. May be repeated for credit up to six times(three times per instructor)with consent of instructor. May be repeated up to 6 time(s) three times per instructor with consent of instructor. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 190—Proseminar in Nutrition (1) Seminar—1 hour. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B Restricted to senior standing. Discussion of human nutrition problems. Each term will involve a different emphasis among experimental, clinical, and dietetic problems of community, national and international scope. May be repeated twice for credit with consent of instructor. May be repeated up to 2 time(s). GE credit: OL, SE, VL. Effective: 2016 Fall Quarter.
+
+NUT 190C—Nutrition Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Nutrition or related biological science. Introduction to research findings and methods in nutrition. Presentation and discussion of research by faculty and students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+NUT 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. One upper division course in nutrition. Work experience on or off campus in practical application of nutrition, supervised by a faculty member. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+NUT 197T—Tutoring in Nutrition (1-2) Discussion/Laboratory—3-6 hours. Prerequisite(s): Consent of Instructor. Nutrition Science, Clinical Nutrition or related major. Tutoring of students in nutrition courses, assistance with discussion groups or laboratory sections, weekly conference with instructor in charge of course: written evaluations. May be repeated if tutoring a different course. May be repeated for credit. (P/NP grading only.) Effective: 2016 Fall Quarter.
+
+NUT 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+NUT 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 219A—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 111AV; NUT 111AY; Graduate Standing; undergraduates only admitted with consent of instructor. Epidemiology, etiology, and consequences of undernutrition, with particular focus on the nutritional problems of children and women in low income populations. Effective: 2018 Spring Quarter.
+
+NUT 219B—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 219A Intervention programs to prevent or ameliorate nutritional problems in low-income populations. Planning, implementing, and evaluating nutrition intervention programs. Effective: 2004 Fall Quarter.
+
+NUT 230—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 201, NUT 202, NUT 203, NUT 204, or the equivalent recommended. Student selected projects to enhance laboratory skills. Independently, or in groups of two-three students, design a protocol, carry out the project, analyze the results and report the findings. May be repeated up to 6 time(s) with consent of instructor (limit of three times per instructor). Effective: 1999 Fall Quarter.
+
+NUT 250—Metabolic Homeostasis (3) Discussion—1.5 hours; Lecture—2 hours. Prerequisite(s): Passing the Nutrition Graduate Group Preliminary Examination or consent of instructor. Preference given to students in advanced standing in the Nutrition Graduate Group. Regulatory mechanisms of carbohydrate, lipid, and protein homeostasis; mechanisms of metabolic enzyme regulation and of the metabolic hormones; homeostatic mechanisms and interactions; fuel-fuel interactions; nutrition-energy balance. Effective: 2001 Spring Quarter.
+
+NUT 251—Nutrition and Immunity (2) Lecture/Discussion—2 hours. Prerequisite(s): PMI 126; ABI 102; MMI 107; Or the equivalent to MMI 107. Cellular and molecular mechanisms underlying interactions of nutrition and immune function, including modulation of immunocompetence by diet and effects of immune responses on nutritional needs. Lectures and discussion explore implications for resistance to infection, autoimmunity and cancer. Effective: 2000 Winter Quarter.
+
+NUT 252—Nutrition and Development (3) Lecture—3 hours. Prerequisite(s): NUB 210A, NUB 210B, and NUB 210C recommended. Relationship of nutrition to prenatal and early postnatal development. Effective: 2018 Spring
+
+NUT 253—Control of Energy Balance and Body Weight (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Comprehensive study of the biochemical, nutritional and physiological mechanisms controlling food intake, body composition and energy expenditure. Subject matter will be approached through lectures and discussions where students and staff will critically evaluate the literature. Effective: 2016 Spring
+
+NUT 254—Applications of Systems Analysis in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): NUT 202; Or the equivalent. Quantitative aspects of digestion and metabolism; principles of systems analysis. Evolution of models of energy metabolism as applied in current feeding systems. Critical evaluations of mechanistic models used analytically in support of nutritional research. Effective: 1997 Winter Quarter.
+
+NUT 258—Field Research Methods in International Nutrition (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing or consent of instructor. Issues and problems related to implementation of nutrition field research in less-developed countries, including ethics; relationships with local governments, communities, and scientists; data collection techniques and quality assurance; field logistics; research budgets; and other administrative and personal issues. Effective: 1997 Winter Quarter.
+
+NUT 259—Nutrition and Aging (2) Lecture—2 hours. Prerequisite(s): NUT 201; NUT 202; NUT 203; NUT 204; Three courses. Interaction between nutrition and aging. Topics include physiological/biochemical basis of aging, age-related changes affecting nutritional requirements, nutrition and mortality rate, assessment of nutritional status in the elderly, and relationship between developmental nutrition and the rate of aging. Effective: 1997
+
+NUT 270—Scientific Ethics in Biomedical Studies: Emphasis on Nutrition (3) Discussion—1 hour; Lecture—1 hour; Term Paper. Restricted to graduate standing or consent of instructor. Scientific ethics in biomedical studies, especially nutrition. Discussion and case study presentations on scientific integrity, fraud, misconduct, conflict of interest, human and animal research protections. Not open for credit to students who have completed NUT 492B. Effective:
+
+NUT 290—Beginning Nutrition Seminar (2) Lecture/Discussion—1 hour; Seminar—1 hour. Prerequisite(s): First-year graduate standing. Discussion and critical evaluation of topics in nutrition with emphasis on literature review and evaluation in this field. Students give oral presentations on relevant topics. Effective: 1997 Fall
+
+NUT 290C—Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Major professors lead research discussions with their graduate students. Research papers are reviewed and project proposals presented and evaluated. Format will combine seminar and discussion style. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 291—Advanced Nutrition Seminar (1) Seminar—1 hour. Prerequisite(s): Second-year graduate standing. Advanced topics in nutrition research. Multiple sections may be taken concurrently for credit. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 293A—Current Topics in Obesity, Food Intake and Energy Balance (3) Discussion—1 hour; Lecture—1 hour; Seminar—1 hour. Prerequisite(s): NUT 129; Or graduate standing; Undergraduates with upper division standing with at least one writing course may enroll with consent of instructor. Current research and its evaluation. Principles of experimental design and scientific background for given article. Articles summarized for posting on Internet for use by healthcare professionals. May be repeated for credit with consent of instructor. May be repeated for credit. Effective: 1997 Fall Quarter.
+
+NUT 294A—Current Topics in Developmental Nutrition (2) Seminar—2 hours. Prerequisite(s): NUT 114 or NUT 252; or Consent of Instructor. Restricted to graduate standing or consent of instructor. Effects of nutrition on embryology, morphogenesis, and developmental mechanisms. May be repeated for credit when topic differs. Effective: 2004 Winter
+
+NUT 297T—Supervised Teaching in Nutrition (1-3) Variable. Prerequisite(s): Graduate standing in nutrition or consent of instructor. Practical experience in teaching nutrition at the university level; curriculum design and evaluation; preparation and presentation of material. Assistance in laboratories, discussion sections, and evaluation of student work. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Effective: 1997 Winter Quarter.
+
+NUT 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+NUT 492A—Professionalism: An Academic Perspective (2) Lecture/Discussion—2 hours. Prerequisite(s): Graduate standing. For graduate students in their initial quarter of residence. Professionalism topics are presented and examples drawn from both the biological and social sciences. Effective: 1997 Fall Quarter.
+
+NUT 492C—Grant Writing (3) Discussion—1.5 hours; Lecture—1.5 hours. Prerequisite(s): Graduate standing in Nutrition or consent of instructor. Preparation of grants for governmental agencies (particularly NIH and USDA) and private foundations. Students will write a research grant or fellowship application. May be repeated once for credit with consent of instructor. May be repeated up to 1 time(s). Effective: 1997 Fall Quarter.
+
+NUT 010—Discoveries and Concepts in Nutrition (3) Lecture—3 hours; Project (Term Project). Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010Y or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter
+
+NUT 010V—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010Y or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 010Y—Discoveries and Concepts in Nutrition (3) Project (Term Project); Web Virtual Lecture—3 hours. Nutrition as a science; historical development of nutrition concepts; properties of nutrients and foods. Not open for credit to students who have taken an upper division course in nutrition. No credit will be granted to students who have completed NUT 010 or NUT 010V or an upper-division nutrition course. GE credit: SE, SL. Effective: 2018 Winter Quarter.
+
+NUT 011—Current Topics and Controversies in Nutrition (2) Discussion—1.5 hours; Term Paper. Exploration of current applications and controversies in nutrition. Students read scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues. GE credit: OL, SE, WE. Effective: 2010 Winter Quarter.
+
+NUT 099—Individual Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 105—Nutrition and Aging (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); ABI 103; Or the equivalent course to ABI 103. Role of nutrition in the aging process from both an organismal/cell perspective, including demographics, theories of aging, nutrition and evolution, nutritional manipulation and life-span extension, and nutrition's impact on the diseases of aging. GE credit: SE. Effective: 2017
+
+NUT 111AY—Introduction to Nutrition and Metabolism (3) Lecture/Discussion—1 hour; Web Virtual Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; Or the equivalent of NPB 101. Restricted to upper division or graduate level students only. Introduction to metabolism of protein, fat and carbohydrate: the biological role of vitamins and minerals; nutrient requirements during the life cycle; assessment of dietary intake and nutritional status. Not open for credit to students who have completed NUT 101 or NUT 111AV. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 111B—Recommendations and Standards for Human Nutrition (2) Lecture—2 hours. Prerequisite(s): CHE 008B; NPB 101; (NUT 111AV or NUT 111AY); Or the equivalent of NPB 101. Critical analysis of the development of nutritional recommendations for humans. Topics include: history of modern recommendations, development of the Recommended Dietary Allowance (RDA) and other food guides; the Dietary Reference Intakes (DRI); administrative structure of regulatory agencies pertinent to nutrition recommendations; introduction to scientific methods used to determine the recommendations; food labeling laws; nutrition recommendations in other countries and cultures. Not open for credit to students who have completed NUT 111. Effective: 2017 Spring Quarter.
+
+NUT 112—Nutritional Assessment (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ((ABI 102, ABI 103) or (BIS 102, BIS 103)); NUT 111AY; (STA 013 or STA 013Y or PLS 120) Restricted to upper division or graduate level Nutrition students only. Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations. GE credit: QL, SE. Effective: 2018 Spring Quarter.
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): PLS 120; Or equivalent. Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2014
+
+NUT 113—Principles of Epidemiology in Nutrition (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): STA 013 or STA 013Y or PLS 120 or STA 100 Introduction to epidemiology as it relates to the field of nutrition, including study design, principles of epidemiologic inference, criteria for causality, and interpreting measures of disease risk. GE credit: QL, SE. Effective: 2018 Fall Quarter.
+
+NUT 114—Developmental Nutrition (4) Lecture—4 hours. Prerequisite(s): ABI 102; ABI 103; (NUT 111AV or NUT 111AY); NUT 111B Role of nutritional factors in embryonic and postnatal development. GE credit: SE. Effective: 2017
+
+NUT 115—Animal Nutrition (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): CHE 008B or CHE 118B; or Consent of Instructor. Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies. GE credit: OL, QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+NUT 116A—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 116AL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116A (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116A. GE credit: SE. Effective: 1997 Fall Quarter.
+
+NUT 116B—Clinical Nutrition (3) Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; NPB 101; Or the equivalent to NPB 101. Biochemical and physiological bases for therapeutic diets. Problems in planning diets for normal and pathological conditions. GE credit: SE. Effective: 2017 Winter
+
+NUT 116BL—Clinical Nutrition Practicum (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): NUT 116AL; NUT 116B (can be concurrent) Fundamental principles of planning and evaluating therapeutic diets and patient education for pathological conditions covered in 116B. Continuation of course 116AL. GE credit: SE. Effective: 2017 Winter Quarter.
+
+NUT 117—Experimental Nutrition (6) Extensive Writing; Laboratory—6 hours; Lecture—3 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; NUT 112; BIS 102; BIS 103; MCB 120L or other laboratory course in biochemistry is recommended. Methods of assessing nutritional status. Application of chemical, microbiological, chromatographic and enzymatic techniques to current problems in nutrition. GE credit: SE, WE. Effective: 2016 Fall Quarter.
+
+NUT 118—Community Nutrition (4) Lecture—4 hours. Prerequisite(s): NUT 116A; (NUT 111AV or NUT 111AY); NUT 111B Nutrition problems in contemporary communities and of selected target groups in the United States and in developing countries. Nutrition programs and policy, principles of nutrition education. GE credit: SE, SL. Effective: 2017 Winter Quarter.
+
+NUT 119A—International, community-based nutritional assessment. (1) Lecture/Discussion—1 hour. Prerequisite(s): NUT 112 (can be concurrent); and Consent of Instructor. Issues and problems related to community-based nutritional assessment in a lowincome country, major nutritional problems in low-income countries; ethical issues in human investigation; survey design, data collection techniques, and data analysis; preparation for international travel; cross-cultural communication, health, and safety while living abroad. Effective:
+
+NUT 119B—International, Community-Based Nutritional Assessment (6) Fieldwork—12 hours; Lecture—2 hours. Prerequisite(s): NUT 119A; and Consent of Instructor. Restricted to upper division students in Clinical Nutrition, Community Nutrition, Dietetics, and Nutrition Science. A six-week summer course in Peru. Implementation of a community-based nutritional assessment survey, including development of the survey instrument, selection. Effective: 2002 Summer Special Session.
+
+NUT 120AN—Nutritional Anthropology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): NUT 010 and ANT 002 recommended. Nutritional anthropology from historical and contemporary perspectives; the anthropological approach to food and diet; field work methods; case histories that explore food patterns and their nutritional implications. GE credit: SE, SS. Effective: 2017 Spring Quarter.
+
+NUT 120BN—Nutritional Geography (4) Discussion—1 hour; Lecture—3 hours. Nutritional geography from historical and contemporary perspectives; the geographical approach to food and diet; cultural and environmental factors that influence dietary practices; food-related landscapes and patterns. GE credit: SE, SS. Effective:
+
+NUT 122—Ruminant Nutrition and Digestive Physiology (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (ABI 103 or BIS 103); BIS 002A; BIS 002B; BIS 002C; (ANS 100 or NPB 101); or Consent of Instructor. MAT 016B recommended. Study of nutrient utilization as influenced by the unique aspects of digestion and fermentation in ruminants, both domestic and wild. Laboratories include comparative anatomy, feed evaluation, digestion kinetics using fistulated cows, computer modeling, and microbial exercises. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+NUT 123—Comparative Animal Nutrition (3) Lecture—3 hours. Prerequisite(s): ABI 103 or BIS 103 Restricted to upper division and graduate level students. Comparative nutrition of animals; including laboratory, companion, zoo, and wild, animals. Digestion and metabolic adaptations required for animal species to consume diverse diets. Relation of nutrition to metabolic adaptations and physiological states, including growth, reproduction, and diseases. GE credit: SE. Effective: 2017 Spring Quarter.
+
+NUT 123L—Comparative Animal Nutrition Laboratory (1) Laboratory—3 hours. Prerequisite(s): ABI 103 or BIS 103 Laboratory exercises leading to written reports on establishment of nutritional requirements and formulation of complete diets for laboratory, companion, zoo and wild animals. Effective: 2017 Spring Quarter.
+
+NUT 124—Nutrition and Feeding of Finfishes (3) Lecture—3 hours. Prerequisite(s): BIS 103 or ABI 103 Principles of nutrition and feeding of fishes under commercial situations; implication of fish nutrition to the environment and conservation of endangered species. GE credit: QL, SE, SL. Effective: 2016 Fall Quarter.
+
+NUT 127—Environmental Stress and Development in Marine Organisms (10) Discussion—2 hours; Laboratory—12 hours; Lecture—4 hours. Prerequisite(s): ETX 101 or BIS 102 or BIS 104; or equivalent course. ETX 114A or NUT 114 recommended. Course taught at Bodega Marine Laboratory. Effects of environmental and nutritional stress, including pollutants, on development and function in embryos and larvae of marine organisms. Emphasis on advanced experimental methods. (Environmental Toxicology 127.) GE credit: OL, QL, SE, SL, VL, WE. Effective: 2002 Summer Session 1.
+
+NUT 129—Journalistic Practicum in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B; or Consent of Instructor. A course in written or oral expression. Critical analysis and discussion of current, controversial issues in nutrition; use of journalistic techniques to interpret scientific findings for the lay public. Students required to write several articles for campus media. May be repeated up to 1 time(s). GE credit: OL, SE, SL, WE. Effective: 2017 Spring Quarter.
+
+NUT 130—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 111AV, NUT 111AY, NUT 111B or NUT 114 recommended. Experiments in current nutritional problems. Experimental design:students choose project and, independently or in groups of two-three, design a protocol, complete the project, and report findings. May be repeated for credit up to six times(three times per instructor)with consent of instructor. May be repeated up to 6 time(s) three times per instructor with consent of instructor. GE credit: SE. Effective: 2016 Fall Quarter.
+
+NUT 190—Proseminar in Nutrition (1) Seminar—1 hour. Prerequisite(s): (NUT 111AV or NUT 111AY); NUT 111B Restricted to senior standing. Discussion of human nutrition problems. Each term will involve a different emphasis among experimental, clinical, and dietetic problems of community, national and international scope. May be repeated twice for credit with consent of instructor. May be repeated up to 2 time(s). GE credit: OL, SE, VL. Effective: 2016 Fall Quarter.
+
+NUT 190C—Nutrition Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Nutrition or related biological science. Introduction to research findings and methods in nutrition. Presentation and discussion of research by faculty and students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+NUT 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. One upper division course in nutrition. Work experience on or off campus in practical application of nutrition, supervised by a faculty member. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+NUT 197T—Tutoring in Nutrition (1-2) Discussion/Laboratory—3-6 hours. Prerequisite(s): Consent of Instructor. Nutrition Science, Clinical Nutrition or related major. Tutoring of students in nutrition courses, assistance with discussion groups or laboratory sections, weekly conference with instructor in charge of course: written evaluations. May be repeated if tutoring a different course. May be repeated for credit. (P/NP grading only.) Effective: 2016 Fall Quarter.
+
+NUT 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+NUT 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+NUT 219A—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 111AV; NUT 111AY; Graduate Standing; undergraduates only admitted with consent of instructor. Epidemiology, etiology, and consequences of undernutrition, with particular focus on the nutritional problems of children and women in low income populations. Effective: 2018 Spring Quarter.
+
+NUT 219B—International Nutrition (3) Lecture—3 hours. Prerequisite(s): NUT 219A Intervention programs to prevent or ameliorate nutritional problems in low-income populations. Planning, implementing, and evaluating nutrition intervention programs. Effective: 2004 Fall Quarter.
+
+NUT 230—Experiments in Nutrition: Design and Execution (2) Laboratory—6 hours. Prerequisite(s): Consent of Instructor. NUT 201, NUT 202, NUT 203, NUT 204, or the equivalent recommended. Student selected projects to enhance laboratory skills. Independently, or in groups of two-three students, design a protocol, carry out the project, analyze the results and report the findings. May be repeated up to 6 time(s) with consent of instructor (limit of three times per instructor). Effective: 1999 Fall Quarter.
+
+NUT 250—Metabolic Homeostasis (3) Discussion—1.5 hours; Lecture—2 hours. Prerequisite(s): Passing the Nutrition Graduate Group Preliminary Examination or consent of instructor. Preference given to students in advanced standing in the Nutrition Graduate Group. Regulatory mechanisms of carbohydrate, lipid, and protein homeostasis; mechanisms of metabolic enzyme regulation and of the metabolic hormones; homeostatic mechanisms and interactions; fuel-fuel interactions; nutrition-energy balance. Effective: 2001 Spring Quarter.
+
+NUT 251—Nutrition and Immunity (2) Lecture/Discussion—2 hours. Prerequisite(s): PMI 126; ABI 102; MMI 107; Or the equivalent to MMI 107. Cellular and molecular mechanisms underlying interactions of nutrition and immune function, including modulation of immunocompetence by diet and effects of immune responses on nutritional needs. Lectures and discussion explore implications for resistance to infection, autoimmunity and cancer. Effective: 2000 Winter Quarter.
+
+NUT 252—Nutrition and Development (3) Lecture—3 hours. Prerequisite(s): NUB 210A, NUB 210B, and NUB 210C recommended. Relationship of nutrition to prenatal and early postnatal development. Effective: 2018 Spring
+
+NUT 253—Control of Energy Balance and Body Weight (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Comprehensive study of the biochemical, nutritional and physiological mechanisms controlling food intake, body composition and energy expenditure. Subject matter will be approached through lectures and discussions where students and staff will critically evaluate the literature. Effective: 2016 Spring
+
+NUT 254—Applications of Systems Analysis in Nutrition (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): NUT 202; Or the equivalent. Quantitative aspects of digestion and metabolism; principles of systems analysis. Evolution of models of energy metabolism as applied in current feeding systems. Critical evaluations of mechanistic models used analytically in support of nutritional research. Effective: 1997 Winter Quarter.
+
+NUT 258—Field Research Methods in International Nutrition (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing or consent of instructor. Issues and problems related to implementation of nutrition field research in less-developed countries, including ethics; relationships with local governments, communities, and scientists; data collection techniques and quality assurance; field logistics; research budgets; and other administrative and personal issues. Effective: 1997 Winter Quarter.
+
+NUT 259—Nutrition and Aging (2) Lecture—2 hours. Prerequisite(s): NUT 201; NUT 202; NUT 203; NUT 204; Three courses. Interaction between nutrition and aging. Topics include physiological/biochemical basis of aging, age-related changes affecting nutritional requirements, nutrition and mortality rate, assessment of nutritional status in the elderly, and relationship between developmental nutrition and the rate of aging. Effective: 1997
+
+NUT 270—Scientific Ethics in Biomedical Studies: Emphasis on Nutrition (3) Discussion—1 hour; Lecture—1 hour; Term Paper. Restricted to graduate standing or consent of instructor. Scientific ethics in biomedical studies, especially nutrition. Discussion and case study presentations on scientific integrity, fraud, misconduct, conflict of interest, human and animal research protections. Not open for credit to students who have completed NUT 492B. Effective:
+
+NUT 290—Beginning Nutrition Seminar (2) Lecture/Discussion—1 hour; Seminar—1 hour. Prerequisite(s): First-year graduate standing. Discussion and critical evaluation of topics in nutrition with emphasis on literature review and evaluation in this field. Students give oral presentations on relevant topics. Effective: 1997 Fall
+
+NUT 290C—Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Major professors lead research discussions with their graduate students. Research papers are reviewed and project proposals presented and evaluated. Format will combine seminar and discussion style. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 291—Advanced Nutrition Seminar (1) Seminar—1 hour. Prerequisite(s): Second-year graduate standing. Advanced topics in nutrition research. Multiple sections may be taken concurrently for credit. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 293A—Current Topics in Obesity, Food Intake and Energy Balance (3) Discussion—1 hour; Lecture—1 hour; Seminar—1 hour. Prerequisite(s): NUT 129; Or graduate standing; Undergraduates with upper division standing with at least one writing course may enroll with consent of instructor. Current research and its evaluation. Principles of experimental design and scientific background for given article. Articles summarized for posting on Internet for use by healthcare professionals. May be repeated for credit with consent of instructor. May be repeated for credit. Effective: 1997 Fall Quarter.
+
+NUT 294A—Current Topics in Developmental Nutrition (2) Seminar—2 hours. Prerequisite(s): NUT 114 or NUT 252; or Consent of Instructor. Restricted to graduate standing or consent of instructor. Effects of nutrition on embryology, morphogenesis, and developmental mechanisms. May be repeated for credit when topic differs. Effective: 2004 Winter
+
+NUT 297T—Supervised Teaching in Nutrition (1-3) Variable. Prerequisite(s): Graduate standing in nutrition or consent of instructor. Practical experience in teaching nutrition at the university level; curriculum design and evaluation; preparation and presentation of material. Assistance in laboratories, discussion sections, and evaluation of student work. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+NUT 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Effective: 1997 Winter Quarter.
+
+NUT 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+NUT 492A—Professionalism: An Academic Perspective (2) Lecture/Discussion—2 hours. Prerequisite(s): Graduate standing. For graduate students in their initial quarter of residence. Professionalism topics are presented and examples drawn from both the biological and social sciences. Effective: 1997 Fall Quarter.
+
+NUT 492C—Grant Writing (3) Discussion—1.5 hours; Lecture—1.5 hours. Prerequisite(s): Graduate standing in Nutrition or consent of instructor. Preparation of grants for governmental agencies (particularly NIH and USDA) and private foundations. Students will write a research grant or fellowship application. May be repeated once for credit with consent of instructor. May be repeated up to 1 time(s). Effective: 1997 Fall Quarter.

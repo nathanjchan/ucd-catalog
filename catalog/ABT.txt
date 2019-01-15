@@ -1,0 +1,119 @@
+ABT 015—Wood Properties and Fabrication (2) Laboratory—3 hours; Lecture/Discussion—1 hour. Study of wood properties and techniques for fabrication with wood. Gain experience working with various woods and woodworking tools for specific applications. (P/NP grading only.) GE credit: OL, QL, SE, VL. Effective: 2010 Fall Quarter.
+
+ABT 016—Metal Properties and Fabrication (2) Laboratory—3 hours; Lecture—1 hour. Study of metal properties and of techniques for fabricating in metal. Physical principles, design considerations, effects of techniques on quality and appearance, and evaluation procedures. Experience in working with metal. (P/NP grading only.) GE credit: QL, SE, VL. Effective: 1997 Spring Quarter.
+
+ABT 017—Plastic Properties and Fabrication (2) Laboratory—3 hours; Lecture—1 hour. Study of the properties of plastic materials and the fundamentals of fabrication techniques. Experience in working with common plastics, with applications to biological systems. (P/NP grading only.) GE credit: QL, SE, VL. Effective: 1997
+
+ABT 049—Field Equipment Operation (2) Laboratory—3 hours; Lecture—1 hour. Operation, adjustment, and troubleshooting of farm tractors and field equipment. Principles of operation, equipment terminology and uses of tilling, cultivating, thinning, and planting equipment. Typical sequences in cropping practices. (P/NP grading only.) GE credit: QL, SE, VL. Effective: 1997 Spring Quarter.
+
+ABT 052—Field Equipment Welding (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): ABT 016; or Consent of Instructor. Intermediate welding to include hardfacing and inert gas welding. Class projects on repair and fabrication by welding. Troubleshooting and major repair of field equipment. (P/NP grading only.) GE credit: QL, SE, VL. Effective: 2000 Winter Quarter.
+
+ABT 098—Directed Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ABT 099—Special Study for Lower Division Students (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ABT 101—Engine Technology (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): Upper division standing or consent of instructor. Principles of 2-stroke cycle, 4-stroke cycle gasoline and 4-stroke cycle diesel engine construction and operation. Engine systems, performance, troubleshooting, and overhaul. GE credit: QL, SE, VL. Effective: 2000 Winter Quarter.
+
+ABT 110L—Experiments in Food Engineering (2) Laboratory—6 hours. Prerequisite(s): FST 110B (can be concurrent) Use of temperature sensors; measurement of thermal conductivity and heat transfer in foods; refrigeration, freezing, concentration and dehydration of foods. GE credit: QL, SE, VL, WE. Effective: 1997 Spring Quarter.
+
+ABT 121—Animal Housing and Environment Management (2) Lecture—2 hours. Prerequisite(s): ANS 001 or ANS 002 Optimal structures and environments for animal growth and comfort; heat and moisture transfer principles; heating, cooling, ventilating principles and equipment; animal housing design; environmental regulations and waste management practices. GE credit: SE. Effective: 1997 Spring Quarter.
+
+ABT 142—Equipment and Technology for Small Farms (2) Laboratory—3 hours; Lecture—1 hour. Types and characteristics of agricultural equipment and technologies appropriate for small commercial farming. Adjustment and calibration of equipment. Selection of and budgeting for equipment. (IAD 142.) GE credit: QL, SE, VL. Effective: 1997 Spring Quarter.
+
+ABT 150—Introduction to Geographic Information Systems (4) Laboratory—3 hours; Lecture—3 hours. Pass One restricted to Landscape Architecture and Sustainable Environmental Design majors. Basic concepts, principles, and methods of GIS are presented. Data structures, database design, GIS data creation, GPS, and spatial analysis. Not open for credit to students who have completed ABT 180/PLS 180 or ABT 181N. (LDA 150.) GE credit: SE, VL. Effective: 2018 Winter Quarter.
+
+ABT 161—Water Quality Management for Aquaculture (3) Lecture—3 hours. Prerequisite(s): BIS 001B; MAT 016B; CHE 002B Basic principles of water chemistry and water treatment processes as they relate to aquacultural systems. GE credit: QL, SE, SL, VL. Effective: 1997 Spring Quarter.
+
+ABT 163—Aquaculture Systems Engineering (3) Lecture—3 hours. Prerequisite(s): ABT 161 Design of aquacultural systems: design methodology, principles of fluid mechanics, site selection and facility planning, management operations, computer modeling. GE credit: OL, QL, SE, SL, VL, WE. Effective: 1997 Spring Quarter.
+
+ABT 165—Irrigation Practices for an Urban Environment (2) Lecture—2 hours. Prerequisite(s): PHY 001A Basic design, installation, and operation principles of irrigation systems for turf and landscape: golf courses, parks, highways, public buildings, etc. Emphasis on hardware association with sprinkler and drip/trickle systems. GE credit: QL, SE, VL. Effective: 1997 Spring Quarter.
+
+ABT 181N—Concepts and Methods in Geographic Information Systems (4) Lecture/Lab—8 hours. Prerequisite(s): ABT 150; LDA 150; or Consent of Instructor. Data representation and analysis in geographic information systems (GIS). Creation of spatial data sets from analog and digital sources such as aerial photography and maps; data structures, data management, database design, georeferencing, georectification, surface models, analysis, and spatial data visualization. GE credit: SE, SL, VL. Effective: 2018 Winter Quarter.
+
+ABT 182—Environmental Analysis using GIS (4) Laboratory—4 hours; Lecture—2 hours. Prerequisite(s): ABT 150 or LDA 150; Or equivalent GIS experience and skills; general biology and/or ecology courses are recommended. Ecosystem and landscape modeling with emphasis on hydrology and solute transport. Spatial analysis of environmental risk analysis including ecological risk assessment, natural resource management. Spatial database structures, scripting, data models, and error analysis in GIS. (HYD 182.) GE credit: QL, SE, SL, VL. Effective: 2018 Winter Quarter.
+
+ABT 190C—Research Conference for Advanced Undergraduates (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research conferences for specialized study in applied biological systems technology. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ABT 192—Internship in Applied Biological Systems Technology (1-5) Internship—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing; approval of project prior to period of internship. Supervised internship in applied biological systems technology. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ABT 197T—Tutoring in Applied Biological Systems Technology (1-5) Tutorial. Prerequisite(s): Consent of Instructor. Upper division standing. Tutoring individual students, leading small voluntary discussion groups, or assisting the instructor in laboratories affiliated with one of the department's regular courses. May be repeated for credit if topic differs. (P/NP grading only.) GE credit: SE. Effective: 2004 Spring Quarter.
+
+ABT 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ABT 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ABT 212—Path to Zero Net Energy (4) Review all entries Lecture—3 hours; Term Paper/Discussion—1 hour. Prerequisite(s): EBS 216; or Consent of Instructor. Open to upper division or graduate students. Zero Net Energy concepts and social, technical, economic, and environmental considerations. Multidisciplinary research and analysis for clients. Effective: 2017 Fall Quarter.
+
+ABT 212—Path to Zero Net Energy (4) Review all entries Lecture—3 hours; Term Paper/Discussion—1 hour. Prerequisite(s): Consent of Instructor. Open to upper division or graduate students. Zero Net Energy concepts and social, technical, economic, and environmental considerations. Multidisciplinary research and analysis for clients. Effective: 2018
+
+ABT 233—Pest Control Practices (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): Graduate standing or consent of instructor. Practical and theoretical considerations of pest control systems and techniques. Design, selection, and use of mechanical systems for field, orchard, greenhouse, and vector control use. Biological, legal, and environmental considerations in pest control and pesticide application. Effective: 2001
+
+ABT 289B—Selected Topics in Applied Biological Systems Technology: Biotechnology (15) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topic. May be repeated for credit. Effective: 2015 Fall Quarter.
+
+ABT 290C—Graduate Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research problems, progress, and techniques in applied biological systems technology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ABT 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+ABT 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+ABT 317—Teaching Agricultural Mechanics (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): A course in physics; 6 units related to agricultural mechanics; enrolled in Agricultural Education Teacher Credential Program. Preparation of the teacher to plan, organize, and conduct an agricultural mechanics program in secondary schools. Development of and presentation of lesson plans and teaching aids. Review of subject matter in metal fabrication, power and machinery and agricultural structures areas. Effective: 1997
+
+ABT 015—Wood Properties and Fabrication (2) Laboratory—3 hours; Lecture/Discussion—1 hour. Study of wood properties and techniques for fabrication with wood. Gain experience working with various woods and woodworking tools for specific applications. (P/NP grading only.) GE credit: OL, QL, SE, VL. Effective: 2010 Fall Quarter.
+
+ABT 016—Metal Properties and Fabrication (2) Laboratory—3 hours; Lecture—1 hour. Study of metal properties and of techniques for fabricating in metal. Physical principles, design considerations, effects of techniques on quality and appearance, and evaluation procedures. Experience in working with metal. (P/NP grading only.) GE credit: QL, SE, VL. Effective: 1997 Spring Quarter.
+
+ABT 017—Plastic Properties and Fabrication (2) Laboratory—3 hours; Lecture—1 hour. Study of the properties of plastic materials and the fundamentals of fabrication techniques. Experience in working with common plastics, with applications to biological systems. (P/NP grading only.) GE credit: QL, SE, VL. Effective: 1997
+
+ABT 049—Field Equipment Operation (2) Laboratory—3 hours; Lecture—1 hour. Operation, adjustment, and troubleshooting of farm tractors and field equipment. Principles of operation, equipment terminology and uses of tilling, cultivating, thinning, and planting equipment. Typical sequences in cropping practices. (P/NP grading only.) GE credit: QL, SE, VL. Effective: 1997 Spring Quarter.
+
+ABT 052—Field Equipment Welding (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): ABT 016; or Consent of Instructor. Intermediate welding to include hardfacing and inert gas welding. Class projects on repair and fabrication by welding. Troubleshooting and major repair of field equipment. (P/NP grading only.) GE credit: QL, SE, VL. Effective: 2000 Winter Quarter.
+
+ABT 098—Directed Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ABT 099—Special Study for Lower Division Students (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ABT 101—Engine Technology (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): Upper division standing or consent of instructor. Principles of 2-stroke cycle, 4-stroke cycle gasoline and 4-stroke cycle diesel engine construction and operation. Engine systems, performance, troubleshooting, and overhaul. GE credit: QL, SE, VL. Effective: 2000 Winter Quarter.
+
+ABT 110L—Experiments in Food Engineering (2) Laboratory—6 hours. Prerequisite(s): FST 110B (can be concurrent) Use of temperature sensors; measurement of thermal conductivity and heat transfer in foods; refrigeration, freezing, concentration and dehydration of foods. GE credit: QL, SE, VL, WE. Effective: 1997 Spring Quarter.
+
+ABT 121—Animal Housing and Environment Management (2) Lecture—2 hours. Prerequisite(s): ANS 001 or ANS 002 Optimal structures and environments for animal growth and comfort; heat and moisture transfer principles; heating, cooling, ventilating principles and equipment; animal housing design; environmental regulations and waste management practices. GE credit: SE. Effective: 1997 Spring Quarter.
+
+ABT 142—Equipment and Technology for Small Farms (2) Laboratory—3 hours; Lecture—1 hour. Types and characteristics of agricultural equipment and technologies appropriate for small commercial farming. Adjustment and calibration of equipment. Selection of and budgeting for equipment. (IAD 142.) GE credit: QL, SE, VL. Effective: 1997 Spring Quarter.
+
+ABT 150—Introduction to Geographic Information Systems (4) Laboratory—3 hours; Lecture—3 hours. Pass One restricted to Landscape Architecture and Sustainable Environmental Design majors. Basic concepts, principles, and methods of GIS are presented. Data structures, database design, GIS data creation, GPS, and spatial analysis. Not open for credit to students who have completed ABT 180/PLS 180 or ABT 181N. (LDA 150.) GE credit: SE, VL. Effective: 2018 Winter Quarter.
+
+ABT 161—Water Quality Management for Aquaculture (3) Lecture—3 hours. Prerequisite(s): BIS 001B; MAT 016B; CHE 002B Basic principles of water chemistry and water treatment processes as they relate to aquacultural systems. GE credit: QL, SE, SL, VL. Effective: 1997 Spring Quarter.
+
+ABT 163—Aquaculture Systems Engineering (3) Lecture—3 hours. Prerequisite(s): ABT 161 Design of aquacultural systems: design methodology, principles of fluid mechanics, site selection and facility planning, management operations, computer modeling. GE credit: OL, QL, SE, SL, VL, WE. Effective: 1997 Spring Quarter.
+
+ABT 165—Irrigation Practices for an Urban Environment (2) Lecture—2 hours. Prerequisite(s): PHY 001A Basic design, installation, and operation principles of irrigation systems for turf and landscape: golf courses, parks, highways, public buildings, etc. Emphasis on hardware association with sprinkler and drip/trickle systems. GE credit: QL, SE, VL. Effective: 1997 Spring Quarter.
+
+ABT 181N—Concepts and Methods in Geographic Information Systems (4) Lecture/Lab—8 hours. Prerequisite(s): ABT 150; LDA 150; or Consent of Instructor. Data representation and analysis in geographic information systems (GIS). Creation of spatial data sets from analog and digital sources such as aerial photography and maps; data structures, data management, database design, georeferencing, georectification, surface models, analysis, and spatial data visualization. GE credit: SE, SL, VL. Effective: 2018 Winter Quarter.
+
+ABT 182—Environmental Analysis using GIS (4) Laboratory—4 hours; Lecture—2 hours. Prerequisite(s): ABT 150 or LDA 150; Or equivalent GIS experience and skills; general biology and/or ecology courses are recommended. Ecosystem and landscape modeling with emphasis on hydrology and solute transport. Spatial analysis of environmental risk analysis including ecological risk assessment, natural resource management. Spatial database structures, scripting, data models, and error analysis in GIS. (HYD 182.) GE credit: QL, SE, SL, VL. Effective: 2018 Winter Quarter.
+
+ABT 190C—Research Conference for Advanced Undergraduates (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research conferences for specialized study in applied biological systems technology. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ABT 192—Internship in Applied Biological Systems Technology (1-5) Internship—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing; approval of project prior to period of internship. Supervised internship in applied biological systems technology. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ABT 197T—Tutoring in Applied Biological Systems Technology (1-5) Tutorial. Prerequisite(s): Consent of Instructor. Upper division standing. Tutoring individual students, leading small voluntary discussion groups, or assisting the instructor in laboratories affiliated with one of the department's regular courses. May be repeated for credit if topic differs. (P/NP grading only.) GE credit: SE. Effective: 2004 Spring Quarter.
+
+ABT 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ABT 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ABT 212—Path to Zero Net Energy (4) Review all entries Lecture—3 hours; Term Paper/Discussion—1 hour. Prerequisite(s): EBS 216; or Consent of Instructor. Open to upper division or graduate students. Zero Net Energy concepts and social, technical, economic, and environmental considerations. Multidisciplinary research and analysis for clients. Effective: 2017 Fall Quarter.
+
+ABT 212—Path to Zero Net Energy (4) Review all entries Lecture—3 hours; Term Paper/Discussion—1 hour. Prerequisite(s): Consent of Instructor. Open to upper division or graduate students. Zero Net Energy concepts and social, technical, economic, and environmental considerations. Multidisciplinary research and analysis for clients. Effective: 2018
+
+ABT 233—Pest Control Practices (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): Graduate standing or consent of instructor. Practical and theoretical considerations of pest control systems and techniques. Design, selection, and use of mechanical systems for field, orchard, greenhouse, and vector control use. Biological, legal, and environmental considerations in pest control and pesticide application. Effective: 2001
+
+ABT 289B—Selected Topics in Applied Biological Systems Technology: Biotechnology (15) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topic. May be repeated for credit. Effective: 2015 Fall Quarter.
+
+ABT 290C—Graduate Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research problems, progress, and techniques in applied biological systems technology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ABT 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+ABT 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+ABT 317—Teaching Agricultural Mechanics (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): A course in physics; 6 units related to agricultural mechanics; enrolled in Agricultural Education Teacher Credential Program. Preparation of the teacher to plan, organize, and conduct an agricultural mechanics program in secondary schools. Development of and presentation of lesson plans and teaching aids. Review of subject matter in metal fabrication, power and machinery and agricultural structures areas. Effective: 1997

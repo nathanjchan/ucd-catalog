@@ -1,0 +1,159 @@
+MIC 010—Natural History of Infectious Diseases (3) Lecture—3 hours. Topics in the natural history of infectious diseases principally affecting humans. Introduction to infectious microbial agents, ecology, epidemiology, and induction of disease. Focus on diseases of a contemporary nature. Not open for credit to students who have completed MIC 101, MIC 102, or MIC 104. GE credit: SE. Effective: 2014 Fall Quarter.
+
+MIC 091—Introduction to Research (1) Seminar—1 hour. Prerequisite(s): BIS 002A; Or equivalent. Restricted to lower division standing. Discussion of faculty research focusing on the biochemistry, genetics, and cell biology of microorganisms, along with ways undergraduates can participate in research projects of faculty members. May be repeated up to 3 time(s). (P/NP grading only.) GE credit: SE. Effective: 2016 Fall
+
+MIC 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Primarily for lower division students. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+MIC 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. May be repeated for credit. (P/NP grading only.) Effective: 2003 Spring Quarter.
+
+MIC 101—Introductory Microbiology (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (BIS 001A or BIS 002A); CHE 002B (can be concurrent) Survey of microorganisms emphasizing their interactions with humans and diseases. Topics include microscopy, survey of various microbes, the immune system, food microbiology, microbial pathogens, and mechanisms of disease transmission. Designed for students requiring microbiology for professional schools. Not open for credit to students who have completed MIC 102, MIC 102L, MIC 104, or MIC 104L. GE credit: SE, SL. Effective: 2014 Winter Quarter.
+
+MIC 102—Introductory Microbiology (3) Lecture—3 hours. Prerequisite(s): (BIS 001A or BIS 002A); CHE 002B (can be concurrent) Essentials of microbial biology, emphasizing phylogeny, physiology, genetics, ecology, and pathogenesis. Interactions with other microbes, humans, and the biosphere. Uses of microbes in agriculture and biotechnology. Not open for credit to students who have completed MIC 101 or MIC 104. GE credit: QL, SE, SL. Effective: 2016 Winter Quarter.
+
+MIC 103L—Introductory Microbiology Laboratory (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): MIC 102 C- or better; CHE 002B Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L. Effective: 2016 Fall Quarter.
+
+MIC 104L—General Microbiology Laboratory (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): MIC 102 C or better; (CHE 008B or CHE 118B or CHE 129A); and Consent of Instructor. Students must complete a petition for consideration of enrollment; petition available on department of Microbiology and Molecular Genetics website. Principles and laboratory methods employed in working with microorganisms. Designed for students continuing in microbiology, genetics, or biochemistry. Only two units of credit for students who completed MIC 101 before spring 2016, or who have completed MIC 103L; not open to students who have completed MIC 102L. GE credit: SE, WE. Effective: 2016 Fall
+
+MIC 105—Microbial Diversity (3) Lecture—3 hours. Prerequisite(s): MIC 102 or MIC 104; BIS 101; BIS 103 or BIS 105 strongly recommended. Survey of the major groups of microorganisms emphasizing diversity of energy metabolism, morphology, evolution, and natural history. GE credit: SE. Effective: 2017 Winter
+
+MIC 105L—Microbial Diversity Laboratory (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): (MIC 102 or MIC 104); (MIC 102L or MIC 104L); MIC 105 (can be concurrent) Classical enrichments for the isolation of metabolically diverse microbes; modern molecular methods for the identification of isolates; cultivation independent analysis of microbial communities from local environmental samples. GE credit: SE, WE. Effective:
+
+MIC 111—Human Microbiology (3) Lecture—3 hours. Prerequisite(s): MIC 102; BIS 101 Biology of microorganisms that form commensal, mutualistic, and pathogenic relationships with human beings, emphasizing their phylogeny, physiology, genetics, and ecology. Effects on human nutrition, development and physiology. Mechanisms of pathogenesis, immune response evasion, antibiotic action, and antibiotic resistance. GE credit: SE. Effective: 2016 Spring Quarter.
+
+MIC 115—Recombinant DNA Cloning and Analysis (3) Lecture—3 hours. Prerequisite(s): BIS 101; Or the equivalent. Cloning and analysis of recombinant DNA, with emphasis on Escherichia coli host-vector systems. DNA-modifying enzymes; vectors and their use; manipulation and expression of insert DNA; polymerase chain reaction; and sequence annotation. Graduate students see course 215. GE credit: SE. Effective: 2006 Fall Quarter.
+
+MIC 120—Microbial Ecology (3) Lecture—3 hours. Prerequisite(s): MIC 105; (BIS 102 or BIS 105) Interactions between nonpathogenic microorganisms and their environment, emphasizing physiological and metabolic characteristics of various groups and their adaptation to and modification of specific habitats. GE credit: SE. Effective: 2008 Fall Quarter.
+
+MIC 140—Bacterial Physiology (3) Lecture—3 hours. Prerequisite(s): (BIS 101, BIS 102, BIS 103 (can be concurrent)) or (BIS 101, BIS 105); MIC 102 recommended. Fundamentals of bacterial growth and bacterial responses to environmental stresses. Topics will include carbon and nitrogen regulation, growth rate control, post-exponential growth, and motility and chemotaxis. Not open for credit to students who have completed MIC 130A. GE credit: SE. Effective: 2008 Fall Quarter.
+
+MIC 150—Genomes of Pathogenic Bacteria (3) Lecture—3 hours. Prerequisite(s): MIC 102; BIS 101 Molecular genetics and comparative genomics of representative pathogenic bacteria. Roles of mobile genetic elements, lateral gene transfer, and genome rearrangements in pathogen evolution. Mutation, recombination, and complementation as tools for genetic analysis. Content includes close examination of primary research articles. GE credit: SE. Effective: 2016 Spring Quarter.
+
+MIC 155L—Bacterial Physiology Lab (4) Laboratory—8 hours; Lecture/Discussion—1 hour. Prerequisite(s): (MIC 140 or MIC 150); MIC 120L; and Consent of Instructor. Physiology and genetics of bacteria. Isolation and characterization of mutant strains. Mapping of mutations by conjugation and transduction studies of control of enzyme synthesis by induction, repression, and catabolite repression. Effective: 2004 Spring
+
+MIC 162—General Virology (4) Lecture—4 hours. Prerequisite(s): BIS 101; BIS 102 or BIS 105 recommended. Integrated presentation of the nature of animal, bacterial, and plant viruses, including their structure, replication and genetics. Three units to students who have completed PMI 128. GE credit: SE. Effective: 2017 Winter Quarter.
+
+MIC 170—Yeast Molecular Genetics (3) Lecture—3 hours. Prerequisite(s): BIS 101; MIC 102 or MIC 105 strongly recommended. Survey of the genetics, cell biology and technologies in yeasts and related lower eukaryotes. Topics include diversity of yeasts; cell structure; metabolism; cell cycle; genetic approaches and genomics; gene expression; yeasts as models to study higher eukaryotes; and contemporary techniques. GE credit: SE. Effective: 2016 Fall Quarter.
+
+MIC 172—Host-Parasite Interactions (3) Lecture—3 hours. Prerequisite(s): MIC 102 or MIC 101 or MIC 104; BIS 101; Biological Sciences 102 or 105 strongly recommended. Exploration of host-parasite interactions at multiple levels, with an emphasis on global health and medically important human parasites. GE credit: SE, SL. Effective: 2017 Fall Quarter.
+
+MIC 175—Cancer Biology (3) Lecture—3 hours. Prerequisite(s): BIS 101; (BIS 102 or BIS 105) Exploration of the causes and treatments of cancer at multiple levels: molecular/cell biology, clinical manifestations, epidemiology and prevention. GE credit: SE, SL. Effective: 2016 Spring Quarter.
+
+MIC 190C—Undergraduates Research Conference (1) Discussion—1 hour. Prerequisite(s): MIC 199 (can be concurrent); and Consent of Instructor. Upper division standing, MIC 199 required concurrently. Presentation and critical discussion of staff research activities: designed for advanced undergraduate students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) Effective: 1997 Fall Quarter.
+
+MIC 191—Introduction to Research for Advanced Undergraduates (1) Seminar—1 hour. Prerequisite(s): BIS 002A; Or equivalent. Restricted to upper division standing. Discussion of faculty research focusing on the biochemistry, genetics, and cell biology of microorganisms, along with ways undergraduates can participate in research projects of faculty members. May be repeated up to 3 time(s). (P/NP grading only.) GE credit: SE. Effective: 2016 Fall
+
+MIC 192—Internship (1-12) Internship—3-36 hours. Technical and/or professional experience on or off campus. Supervised by a member of the Microbiology Section faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+MIC 194H—Microbiology Honors Research (2) Independent Study—6 hours. Prerequisite(s): Senior standing; eligibility for college honors; completion of six units of MIC 199; consent of section. Continuation of an individual microbiological research project culminating in writing of a senior thesis under a faculty director. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+MIC 197T—Tutoring in Microbiology (1-12) Variable—3-36 hours. Prerequisite(s): Consent of Instructor. Upper division standing. Assisting the instructor in one of the section's regular courses by tutoring individual or small groups of students in a laboratory, in voluntary discussion groups, or other voluntary course activities. May be repeated for credit. (P/NP grading only.) Effective: 2004 Spring Quarter.
+
+MIC 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+MIC 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+MIC 200B—Advanced Bacteriology (3) Lecture—3 hours. Prerequisite(s): MIB 200A Intended for first-year graduate students in Microbiology and closely-related fields. Advanced topics in phylogeny, physiology and diversity of bacteria. Effective: 2001 Winter Quarter.
+
+MIC 215—Recombinant DNA (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 103; Or the equivalent. Application of recombinant DNA technology to modern problems in biology, biochemistry, and genetics, emphasizing molecular cloning strategies, choice of vectors, preparation of insert DNA, and selection procedures. Effective: 1998 Fall Quarter.
+
+MIC 262—Advanced General and Molecular Virology (3) Lecture—3 hours. Prerequisite(s): Graduate standing. Advanced integrated presentation of animal, bacterial, and plant viruses, including their structure, modes of regulation, expression and replication, and effects on host cells and organisms. Effective: 1997 Winter Quarter.
+
+MIC 263—Principles of Protein-Nucleic Acid Interactions (3) Lecture—3 hours. Prerequisite(s): Advanced graduate standing and completion of one year of basic graduate course work in biochemistry, biophysics, chemistry, genetics, microbiology, or molecular biology. Physical basis of protein-nucleic acid interaction. Topics include nucleic acid recognition by proteins,thermodynamics of protein-nucleic acid stability,and kinetics of binding process for both non-specific and sequence-specific nucleic acid binding proteins. Emphasis on systems that represent paradigms in protein-nucleic acid interactions. Effective: 1997 Winter Quarter.
+
+MIC 274—Seminar in Genetic Recombination (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Biochemical and genetic aspects of genetic recombination in prokaryotes and eukaryotes. Mechanisms of recombination and biochemical and genetic characteristics of recombination proteins. Proteins include DNA strand exchange, DNA helicases, and Holliday junction resolving proteins. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1998 Winter Quarter.
+
+MIC 275—Seminar in DNA Repair and Recombination (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing in Microbiology or closely-related field. Review and discussion of current research and literature in DNA repair and recombination with presentations by individual students and invited speakers. May be repeated for credit. (S/U grading only.) Effective: 2006 Fall Quarter.
+
+MIC 276—Advanced Concepts in DNA Metabolism (3) Lecture—3 hours. Prerequisite(s): MCB 221C or GGG 201C or equivalent course recommended. DNA damage checkpoints, homologous recombination, and meiotic recombination. An advanced treatment of the clinical and current literature to discuss emerging principles and current models in these research areas. Effective: 2008 Fall Quarter.
+
+MIC 290C—Advanced Research Conference (1) Conference—1 hour; Discussion—1 hour. Prerequisite(s): Graduate standing and/or consent of instructor. Presentation and critical discussion of staff research activities. Designed for advanced graduate students. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MIC 291—Selected Topics in Microbiology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Current progress in microbiology and cellular and molecular biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MIC 292—Seminar in Bacterial Physiology and Genetics (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing in Microbiology or closely-related field. Review and discussion of current research and literature in bacterial physiology and genetics, with presentations by individual students. (S/U grading only.) Effective:
+
+MIC 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+MIC 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MIC 396—Teaching Assistant Training Practicum (1-4) Variable. Prerequisite(s): Graduate standing. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+MIC 010—Natural History of Infectious Diseases (3) Lecture—3 hours. Topics in the natural history of infectious diseases principally affecting humans. Introduction to infectious microbial agents, ecology, epidemiology, and induction of disease. Focus on diseases of a contemporary nature. Not open for credit to students who have completed MIC 101, MIC 102, or MIC 104. GE credit: SE. Effective: 2014 Fall Quarter.
+
+MIC 091—Introduction to Research (1) Seminar—1 hour. Prerequisite(s): BIS 002A; Or equivalent. Restricted to lower division standing. Discussion of faculty research focusing on the biochemistry, genetics, and cell biology of microorganisms, along with ways undergraduates can participate in research projects of faculty members. May be repeated up to 3 time(s). (P/NP grading only.) GE credit: SE. Effective: 2016 Fall
+
+MIC 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Primarily for lower division students. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+MIC 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. May be repeated for credit. (P/NP grading only.) Effective: 2003 Spring Quarter.
+
+MIC 101—Introductory Microbiology (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (BIS 001A or BIS 002A); CHE 002B (can be concurrent) Survey of microorganisms emphasizing their interactions with humans and diseases. Topics include microscopy, survey of various microbes, the immune system, food microbiology, microbial pathogens, and mechanisms of disease transmission. Designed for students requiring microbiology for professional schools. Not open for credit to students who have completed MIC 102, MIC 102L, MIC 104, or MIC 104L. GE credit: SE, SL. Effective: 2014 Winter Quarter.
+
+MIC 102—Introductory Microbiology (3) Lecture—3 hours. Prerequisite(s): (BIS 001A or BIS 002A); CHE 002B (can be concurrent) Essentials of microbial biology, emphasizing phylogeny, physiology, genetics, ecology, and pathogenesis. Interactions with other microbes, humans, and the biosphere. Uses of microbes in agriculture and biotechnology. Not open for credit to students who have completed MIC 101 or MIC 104. GE credit: QL, SE, SL. Effective: 2016 Winter Quarter.
+
+MIC 103L—Introductory Microbiology Laboratory (2) Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): MIC 102 C- or better; CHE 002B Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L. Effective: 2016 Fall Quarter.
+
+MIC 104L—General Microbiology Laboratory (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): MIC 102 C or better; (CHE 008B or CHE 118B or CHE 129A); and Consent of Instructor. Students must complete a petition for consideration of enrollment; petition available on department of Microbiology and Molecular Genetics website. Principles and laboratory methods employed in working with microorganisms. Designed for students continuing in microbiology, genetics, or biochemistry. Only two units of credit for students who completed MIC 101 before spring 2016, or who have completed MIC 103L; not open to students who have completed MIC 102L. GE credit: SE, WE. Effective: 2016 Fall
+
+MIC 105—Microbial Diversity (3) Lecture—3 hours. Prerequisite(s): MIC 102 or MIC 104; BIS 101; BIS 103 or BIS 105 strongly recommended. Survey of the major groups of microorganisms emphasizing diversity of energy metabolism, morphology, evolution, and natural history. GE credit: SE. Effective: 2017 Winter
+
+MIC 105L—Microbial Diversity Laboratory (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): (MIC 102 or MIC 104); (MIC 102L or MIC 104L); MIC 105 (can be concurrent) Classical enrichments for the isolation of metabolically diverse microbes; modern molecular methods for the identification of isolates; cultivation independent analysis of microbial communities from local environmental samples. GE credit: SE, WE. Effective:
+
+MIC 111—Human Microbiology (3) Lecture—3 hours. Prerequisite(s): MIC 102; BIS 101 Biology of microorganisms that form commensal, mutualistic, and pathogenic relationships with human beings, emphasizing their phylogeny, physiology, genetics, and ecology. Effects on human nutrition, development and physiology. Mechanisms of pathogenesis, immune response evasion, antibiotic action, and antibiotic resistance. GE credit: SE. Effective: 2016 Spring Quarter.
+
+MIC 115—Recombinant DNA Cloning and Analysis (3) Lecture—3 hours. Prerequisite(s): BIS 101; Or the equivalent. Cloning and analysis of recombinant DNA, with emphasis on Escherichia coli host-vector systems. DNA-modifying enzymes; vectors and their use; manipulation and expression of insert DNA; polymerase chain reaction; and sequence annotation. Graduate students see course 215. GE credit: SE. Effective: 2006 Fall Quarter.
+
+MIC 120—Microbial Ecology (3) Lecture—3 hours. Prerequisite(s): MIC 105; (BIS 102 or BIS 105) Interactions between nonpathogenic microorganisms and their environment, emphasizing physiological and metabolic characteristics of various groups and their adaptation to and modification of specific habitats. GE credit: SE. Effective: 2008 Fall Quarter.
+
+MIC 140—Bacterial Physiology (3) Lecture—3 hours. Prerequisite(s): (BIS 101, BIS 102, BIS 103 (can be concurrent)) or (BIS 101, BIS 105); MIC 102 recommended. Fundamentals of bacterial growth and bacterial responses to environmental stresses. Topics will include carbon and nitrogen regulation, growth rate control, post-exponential growth, and motility and chemotaxis. Not open for credit to students who have completed MIC 130A. GE credit: SE. Effective: 2008 Fall Quarter.
+
+MIC 150—Genomes of Pathogenic Bacteria (3) Lecture—3 hours. Prerequisite(s): MIC 102; BIS 101 Molecular genetics and comparative genomics of representative pathogenic bacteria. Roles of mobile genetic elements, lateral gene transfer, and genome rearrangements in pathogen evolution. Mutation, recombination, and complementation as tools for genetic analysis. Content includes close examination of primary research articles. GE credit: SE. Effective: 2016 Spring Quarter.
+
+MIC 155L—Bacterial Physiology Lab (4) Laboratory—8 hours; Lecture/Discussion—1 hour. Prerequisite(s): (MIC 140 or MIC 150); MIC 120L; and Consent of Instructor. Physiology and genetics of bacteria. Isolation and characterization of mutant strains. Mapping of mutations by conjugation and transduction studies of control of enzyme synthesis by induction, repression, and catabolite repression. Effective: 2004 Spring
+
+MIC 162—General Virology (4) Lecture—4 hours. Prerequisite(s): BIS 101; BIS 102 or BIS 105 recommended. Integrated presentation of the nature of animal, bacterial, and plant viruses, including their structure, replication and genetics. Three units to students who have completed PMI 128. GE credit: SE. Effective: 2017 Winter Quarter.
+
+MIC 170—Yeast Molecular Genetics (3) Lecture—3 hours. Prerequisite(s): BIS 101; MIC 102 or MIC 105 strongly recommended. Survey of the genetics, cell biology and technologies in yeasts and related lower eukaryotes. Topics include diversity of yeasts; cell structure; metabolism; cell cycle; genetic approaches and genomics; gene expression; yeasts as models to study higher eukaryotes; and contemporary techniques. GE credit: SE. Effective: 2016 Fall Quarter.
+
+MIC 172—Host-Parasite Interactions (3) Lecture—3 hours. Prerequisite(s): MIC 102 or MIC 101 or MIC 104; BIS 101; Biological Sciences 102 or 105 strongly recommended. Exploration of host-parasite interactions at multiple levels, with an emphasis on global health and medically important human parasites. GE credit: SE, SL. Effective: 2017 Fall Quarter.
+
+MIC 175—Cancer Biology (3) Lecture—3 hours. Prerequisite(s): BIS 101; (BIS 102 or BIS 105) Exploration of the causes and treatments of cancer at multiple levels: molecular/cell biology, clinical manifestations, epidemiology and prevention. GE credit: SE, SL. Effective: 2016 Spring Quarter.
+
+MIC 190C—Undergraduates Research Conference (1) Discussion—1 hour. Prerequisite(s): MIC 199 (can be concurrent); and Consent of Instructor. Upper division standing, MIC 199 required concurrently. Presentation and critical discussion of staff research activities: designed for advanced undergraduate students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) Effective: 1997 Fall Quarter.
+
+MIC 191—Introduction to Research for Advanced Undergraduates (1) Seminar—1 hour. Prerequisite(s): BIS 002A; Or equivalent. Restricted to upper division standing. Discussion of faculty research focusing on the biochemistry, genetics, and cell biology of microorganisms, along with ways undergraduates can participate in research projects of faculty members. May be repeated up to 3 time(s). (P/NP grading only.) GE credit: SE. Effective: 2016 Fall
+
+MIC 192—Internship (1-12) Internship—3-36 hours. Technical and/or professional experience on or off campus. Supervised by a member of the Microbiology Section faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+MIC 194H—Microbiology Honors Research (2) Independent Study—6 hours. Prerequisite(s): Senior standing; eligibility for college honors; completion of six units of MIC 199; consent of section. Continuation of an individual microbiological research project culminating in writing of a senior thesis under a faculty director. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+MIC 197T—Tutoring in Microbiology (1-12) Variable—3-36 hours. Prerequisite(s): Consent of Instructor. Upper division standing. Assisting the instructor in one of the section's regular courses by tutoring individual or small groups of students in a laboratory, in voluntary discussion groups, or other voluntary course activities. May be repeated for credit. (P/NP grading only.) Effective: 2004 Spring Quarter.
+
+MIC 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+MIC 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 1997 Winter
+
+MIC 200B—Advanced Bacteriology (3) Lecture—3 hours. Prerequisite(s): MIB 200A Intended for first-year graduate students in Microbiology and closely-related fields. Advanced topics in phylogeny, physiology and diversity of bacteria. Effective: 2001 Winter Quarter.
+
+MIC 215—Recombinant DNA (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 103; Or the equivalent. Application of recombinant DNA technology to modern problems in biology, biochemistry, and genetics, emphasizing molecular cloning strategies, choice of vectors, preparation of insert DNA, and selection procedures. Effective: 1998 Fall Quarter.
+
+MIC 262—Advanced General and Molecular Virology (3) Lecture—3 hours. Prerequisite(s): Graduate standing. Advanced integrated presentation of animal, bacterial, and plant viruses, including their structure, modes of regulation, expression and replication, and effects on host cells and organisms. Effective: 1997 Winter Quarter.
+
+MIC 263—Principles of Protein-Nucleic Acid Interactions (3) Lecture—3 hours. Prerequisite(s): Advanced graduate standing and completion of one year of basic graduate course work in biochemistry, biophysics, chemistry, genetics, microbiology, or molecular biology. Physical basis of protein-nucleic acid interaction. Topics include nucleic acid recognition by proteins,thermodynamics of protein-nucleic acid stability,and kinetics of binding process for both non-specific and sequence-specific nucleic acid binding proteins. Emphasis on systems that represent paradigms in protein-nucleic acid interactions. Effective: 1997 Winter Quarter.
+
+MIC 274—Seminar in Genetic Recombination (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Biochemical and genetic aspects of genetic recombination in prokaryotes and eukaryotes. Mechanisms of recombination and biochemical and genetic characteristics of recombination proteins. Proteins include DNA strand exchange, DNA helicases, and Holliday junction resolving proteins. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1998 Winter Quarter.
+
+MIC 275—Seminar in DNA Repair and Recombination (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing in Microbiology or closely-related field. Review and discussion of current research and literature in DNA repair and recombination with presentations by individual students and invited speakers. May be repeated for credit. (S/U grading only.) Effective: 2006 Fall Quarter.
+
+MIC 276—Advanced Concepts in DNA Metabolism (3) Lecture—3 hours. Prerequisite(s): MCB 221C or GGG 201C or equivalent course recommended. DNA damage checkpoints, homologous recombination, and meiotic recombination. An advanced treatment of the clinical and current literature to discuss emerging principles and current models in these research areas. Effective: 2008 Fall Quarter.
+
+MIC 290C—Advanced Research Conference (1) Conference—1 hour; Discussion—1 hour. Prerequisite(s): Graduate standing and/or consent of instructor. Presentation and critical discussion of staff research activities. Designed for advanced graduate students. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MIC 291—Selected Topics in Microbiology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Current progress in microbiology and cellular and molecular biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MIC 292—Seminar in Bacterial Physiology and Genetics (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing in Microbiology or closely-related field. Review and discussion of current research and literature in bacterial physiology and genetics, with presentations by individual students. (S/U grading only.) Effective:
+
+MIC 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+MIC 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MIC 396—Teaching Assistant Training Practicum (1-4) Variable. Prerequisite(s): Graduate standing. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.

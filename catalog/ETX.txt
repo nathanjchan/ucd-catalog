@@ -1,0 +1,203 @@
+ETX 010—Introduction to Environmental Toxicology (3) Lecture—3 hours. Hazardous substances, their effects on humans and their actions and movement in the environment. Emphasis on substances of current concern. GE credit: SE, SL. Effective: 2000
+
+ETX 020—Introduction to Forensic Science (3) Lecture—3 hours. Basic principles of forensic science, types of information on which investigations focus, how information is obtained and used in criminal investigations, types of scientific skills required to practice forensic science, guidance on training. Real cases discussed; demonstrations of methods provided. GE credit: SE, SL, VL. Effective: 2012 Spring Quarter.
+
+ETX 030—Chemical and Drug Use and Abuse (3) Lecture—3 hours. An overview of chemical use and abuse in our society. The effects of chemicals (therapeutic drugs, pesticides, food additives, herbal remedies, environmental contaminants, and recreational drugs) on humans and other living systems. GE credit: SE. Effective: 2006 Winter
+
+ETX 092—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Lower division standing. Work experience off and on campus in all subject areas offered in the College of Agricultural and Environmental Sciences. Internships supervised by a member of the faculty. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ETX 101—Principles of Environmental Toxicology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (CHE 008B or CHE 118B or CHE 128B); BIS 001A Principles of toxicology with a focus on environmental, industrial, and natural chemicals. Topics include fate and effects of chemicals in organisms and the environment, air pollutants, insecticides, aquatic toxicology, endocrine disruptors, biomarkers and bioassays, and risk assessment. GE credit: SE, SL. Effective: 2003 Fall Quarter.
+
+ETX 102A—Environmental Fate of Toxicants (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 008B; CHE 118B; CHE 128B; or Consent of Instructor. Properties of toxic chemicals influencing their distribution and transformations; action of environmental forces affecting toxicant breakdown, movement, and accumulation; sources and occurrence of major classes of environmental toxicants. Not open for credit to students who have completed ETX 112A. GE credit: QL, SE, SL, VL, WE. Effective: 2004
+
+ETX 102B—Quantitative Analysis of Environmental Toxicants (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ETX 102A Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data. Not open for credit to students who have completed course ETX 112B. GE credit: SE, VL. Effective: 2004 Spring
+
+ETX 103A—Biological Effects of Toxicants (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): BIS 102; ETX 101 and NPB 101 recommended. Biological effects of toxic substances in living organisms. Metabolism, cellular and tissue targets, mechanisms of action, and pathological effects. Not open for credit to students who have taken ETX 114A. GE credit: SE. Effective: 2004 Winter Quarter.
+
+ETX 103B—Biological Effects of Toxicants: Experimental Approaches (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ETX 103A Experimental approaches for assessing the biological effects of toxicants. Not open for credit to students who have taken ETX 114B. GE credit: SE, VL, WE. Effective: 2004 Spring Quarter.
+
+ETX 110—Toxic Tragedies and Their Impact on Society (2) Lecture—2 hours. Prerequisite(s): BIS 010; or Consent of Instructor. Or equivalent; CHE 118A recommended. Examination of toxic tragedies, their origins, consequences, and effects on toxic regulation. GE credit: OL, SE, SL, WE. Effective: 2004 Winter Quarter.
+
+ETX 111—Introduction to Mass Spectrometry (3) Lecture—3 hours. Prerequisite(s): CHE 118C Introduction to mass spectrometry, including ionization techniques, mass analyzers, interpretation of mass spectra, and applications of mass spectrometry. Emphasis on fundamental concepts of mass spectrometry necessary to identify and quantify organic molecules. GE credit: SE. Effective: 2004 Winter Quarter.
+
+ETX 120—Perspectives in Aquatic Toxicology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 008B; (CHE 118B or CHE 128B); BIS 001A; or Consent of Instructor. Toxic substances, their fate in marine and freshwater systems, and their effects on aquatic organisms, populations, and ecosystems. Emphasis will be on substances and issues of current concern. GE credit: OL, SE, SL, VL, WE. Effective: 2004 Winter Quarter.
+
+ETX 127—Environmental Stress and Development in Marine Organisms (10) Discussion—2 hours; Laboratory—12 hours; Lecture—4 hours. Prerequisite(s): ETX 101 or BIS 102 or BIS 104; and Consent of Instructor. Or the equivalent; ETX 114A or NUT 114 recommended. Course taught at Bodega Marine Laboratory. Effects of environmental and nutritional stress, including pollutants, on development and function in embryos and larvae of marine organisms. Emphasis on advanced experimental methods. (NUT 127.) GE credit: OL, QL, SE, SL, VL, WE. Effective: 2002 Summer Session 1.
+
+ETX 128—Food Toxicology (3) Lecture—3 hours. Prerequisite(s): BIS 102; BIS 103 Chemistry and biochemistry of toxins occurring in foods, including plant and animal toxins, intentional and unintentional food additives. The assessment of food safety and toxic hazards. (FST 128.) GE credit: SE. Effective: 1997 Winter
+
+ETX 130—The Role and Applications of Toxicology in Modern Industry (3) Lecture—3 hours. Prerequisite(s): ETX 101; ETX 103A recommended. Role of toxicology in industry research and development, human health and environmental protection, hazard and risk evaluations, risk management and communications, product stewardship, and regulatory compliance. Scientific principles and methods of toxicology in chemical, energy, pharmaceutical, pesticide, biotechnology industries. GE credit: OL, SE, SL, VL, WE. Effective: 2008 Spring Quarter.
+
+ETX 131—Environmental Toxicology of Air Pollutants (3) Lecture—3 hours. Prerequisite(s): CHE 008B (can be concurrent); Or the equivalent; BIS 102 recommended. Field trip required. Toxicology of air pollutants in the ambient, indoor, and occupational environments. Health effects, sources, environmental fates, pulmonary responses, sampling and analyses, and air-quality criteria and standards. Field trip required. GE credit: SE, VL. Effective: 2003 Fall Quarter.
+
+ETX 135—Health Risk Assessment of Toxicants (3) Lecture—3 hours. Prerequisite(s): ETX 101; ETX 114A recommended. Current practices of health risk assessment of environmental chemicals using toxicological principles and their application to regulatory control of these chemicals. GE credit: QL, SE, SL, VL. Effective: 1997 Winter Quarter.
+
+ETX 138—Legal Aspects of Environmental Toxicology (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. ETX 010 or ETX 101 recommended. Federal and California legislation concerning air and water pollution, pesticide use, food and feed additives, consumer protection, and occupational exposure to toxic substances; roles of federal regulatory agencies; alternatives to government control. GE credit: SE, VL, WE. Effective: 2001 Fall
+
+ETX 140—Genes and the Environment (3) Lecture/Discussion—3 hours. Prerequisite(s): BIS 101; Biological Science 101 required or permission of instructor; coursework in genetics and molecular biology and/or environmental toxicology recommended. Evaluation of evidence that human health and disease susceptibility result from complex interactions between genes and the environment. Emphasis on cancer, metabolic, cardiovascular, and neurological health outcomes assessed by genotoxicity and toxicogenomic methods. Effective: 2015 Fall Quarter.
+
+ETX 146—Exposure and Dose Assessment (3) Lecture—3 hours. Prerequisite(s): ETX 112A; ETX 135 recommended. The exposure component of risk assessment; specifically, the presence and/or formation of toxic substances in environmental media, their movement within and between contaminated media, and the contacts of human populations with those media. GE credit: QL, SE, SL, VL. Effective: 1997 Winter Quarter.
+
+ETX 190—Seminar (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Selected topics presented by students, faculty, or outside speakers covering current research and instructional activities within environmental toxicology. Reports and discussion concerning oral and written presentations, literature sources, and career opportunities. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ETX 190C—Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Weekly conference of advanced research methods and the interpretation of research results. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 190S—Environmental Toxicology Career Seminar (1) Seminar—1 hour. Careers in environmental toxicology; discussions with graduates from the Department of Environmental Toxicology and other experts in the field. (P/NP grading only.) GE credit: SE. Effective: 2003 Fall Quarter.
+
+ETX 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Work experience off and on campus in all subject areas offered in the College of Agricultural and Environmental Sciences. Internships supervised by a member of the faculty. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 194HA—Honors Research (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): Consent of Instructor. Senior standing; minimum GPA of 3.250. Specific research project conducted under the supervision of a faculty sponsor. Experience to include experimental design, learning new techniques, data analysis and interpretation of findings. GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 194HB—Honors Research (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): Consent of Instructor. Senior standing; minimum GPA of 3.250. Specific research project conducted under the supervision of a faculty sponsor. Experience to include experimental design, learning new techniques, data analysis and interpretation of findings. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 194HC—Honors Research (3) Discussion—1 hour; Laboratory—9 hours. Prerequisite(s): Consent of Instructor. Senior standing, minimum GPA of 3.250. Continuation of course 194HA-194HB. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 197T—Tutoring in Environmental Toxicology (1-5) Variable. Prerequisite(s): Consent of Instructor. Advanced standing in Environmental Toxicology, a related major, or the equivalent experience. Teaching toxicology including conducting discussion groups for regular departmental courses under direct guidance of staff. May be repeated up to 5 unit(s). (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ETX 199—Special Study for Advanced Undergraduates (1-5) Variable. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 203—Environmental Toxicants (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 008B or CHE 128C; and Consent of Instructor. Or the equivalent of CHE 128C. Toxic chemicals: selected topics illustrating their occurrence, structure, and the reactions underlying detection, toxicity, fate, and ecological importance. Effective: 1997 Winter Quarter.
+
+ETX 214—Mechanisms of Toxic Action (3) Lecture—3 hours. Prerequisite(s): BIS 102; BIS 103; and Consent of Instructor. Chemical, biochemical, and molecular mechanisms underlying the adverse effects of toxic chemicals. Students are required to write a grant proposal and participate in a grant review panel. Effective:
+
+ETX 220—Analysis of Toxicants (3) Lecture—3 hours. Prerequisite(s): Coursework in organic chemistry. Principles of microanalysis of toxicants. Theoretical considerations regarding separation, detection and quantitative determination of toxicants using chemical and instrumental techniques. (FOR 220.) Effective: 2006
+
+ETX 220L—Analysis of Toxicants Laboratory (2) Laboratory—6 hours. Prerequisite(s): ETX 220 (can be concurrent); and Consent of Instructor. Laboratory techniques for microanalysis of toxicants. Separation, detection, and quantitative determination of toxicants using chemical and instrumental methods. Effective: 1997 Winter
+
+ETX 228—Gas Chromatography/Mass Spectrometry of Toxic Chemicals (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): ETX 220; CHE 129C; and Consent of Instructor. Application of GC/MS techniques to investigate toxic chemicals. Mass spectral fragmentations and their application to the structural elucidation. Practical application of GC/MS in current research. Preference given to environmental toxicology graduate students. Effective: 1997 Winter Quarter.
+
+ETX 234—Current Topics in Neurotoxicology (3) Lecture—3 hours. Prerequisite(s): Core courses in one of the following graduate programs: Pharmacology and Toxicology, Agricultural and Environmental Chemistry, Biochemistry and Molecular Biology, Cell and Developmental Biology, Immunology, Molecular Cellular and Integrative Physiology or Neuroscience. Restricted to upper level undergraduate students must obtain permission from the course coordinator. General principles of neurotoxicology, the cell and molecular mechanisms and health impacts of specific neurotoxicants and the contribution of neurotoxic compounds to complex eurodevelopmental disorders and neurodegenerative diseases. (VMB 234 and MCP 234.) Effective: 2010 Fall Quarter.
+
+ETX 240—Ecotoxicology (3) Lecture—3 hours. Prerequisite(s): or Consent of Instructor. Elementary course in toxicology and ecology or the equivalent. Principles of toxicology as applied to chemical action on natural populations, communities, and ecosystems. Physical, chemical, and biological characteristics which influence ecotoxic effects, modeling, and field research. Selected case histories are analyzed and presented in class. Effective: 1997 Winter Quarter.
+
+ETX 250—Reproductive Toxicology (3) Lecture—1.5 hours; Lecture/Discussion—1.5 hours. Prerequisite(s): PTX 203 Application of toxicological principles in reproductive studies. Effects of toxicants on the male, female, and developing embryo/fetus. Critical evaluation of reproductive toxicity studies and development of mechanistic approaches to understanding how chemical exposure can adversely affect reproduction. Effective: 2000 Winter
+
+ETX 260—Immunotoxicology (3) Lecture—3 hours. Prerequisite(s): Undergraduate or graduate introduction to immunology coursework recommended but not required; graduate standing or consent of instructor. Provides students with skills and knowledge for evaluating and applying research on the impact of environmental toxicants on immunological function in human and wildlife populations. Effective:
+
+ETX 270—Toxicology of Pesticides (3) Lecture—3 hours. Prerequisite(s): ETX 101; One course each in (a) Organic Chemistry, (b) Biochemistry, (c) Toxicology (ETX 101 or equivalent), or with consent of instructor; graduate standing. Classification and chemical properties of pesticides, their mode of action, metabolism and disposition, pesticide resistance, effects on human health and ecological health and methods of risk benefit analyses. Effective: 2007 Winter Quarter.
+
+ETX 278—Molecular Techniques (3) Lecture—3 hours. Prerequisite(s): Graduate standing or consent of instructor. Recombinant DNA technology and its applications. (FOR 278.) Effective: 2002 Spring Quarter.
+
+ETX 280—Forensic DNA Analysis (3) Lecture—3 hours. Prerequisite(s): Coursework in genetics and molecular biology. Graduate standing; consent of instructor required for all students not enrolled in the MS Forensics program. Foundation in theory and practice of forensic DNA analysis; past, present, and emerging technologies; legal and quality assurance issues. DNA extraction, DNA quantitation, multiplex amplification of STR loci, capillary electrophoresis of amplified products, and analysis of STR typing data. (FOR 280.) Effective: 2003 Spring Quarter.
+
+ETX 281—Principles and Practice of Forensic Serology and DNA Analysis (3) Discussion/Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): (FOR 278 or ETX 278) or (FOR 280 or ETX 280); Or equivalent; consent of instructor. Restricted to students enrolled in the M.S. in Forensic Science Program or by consent of Forensic Science Program Director. Comprehensive overview of forensic serology and DNA typing techniques and technologies. Strong emphasis on real-world applications, including preservation and tracking of biological evidence, detection and identification of bodily fluids, and methods to extract, quantify, and type human DNA. (FOR 281.) Effective: 2011 Spring Quarter.
+
+ETX 284—Non-Human Forensic DNA--Theory and Casework Application (2) Lecture—2 hours. Prerequisite(s): Consent of instructor required for all students not enrolled in the MS Forensics program; upper division Molecular Biology and Genetics or its equivalent. Restricted to graduate standing. Provides a comprehensive understanding of plant and animal forensic biology in terms of sample collection, preservation, analytical methods, and of the invaluable lines of inquiry these forensic evidence may permit. (FOR 284.) Effective: 2010 Fall Quarter.
+
+ETX 290—Seminar (1) Seminar—1 hour. Current topics in environmental toxicology. (S/U grading only.) Effective: 1997
+
+ETX 290C—Advanced Research Conference (1) Lecture/Discussion—1 hour. Prerequisite(s): Consent of Instructor. Presentation and critical discussion of advanced research methods and interpretation of research results. Designed primarily for graduate students. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ETX 297T—Tutoring in Environmental Toxicology (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing in Environmental Toxicology, a related major, or the equivalent experience. Teaching toxicology including conducting discussion groups for regular departmental courses under direct guidance of staff. May be repeated up to 5 unit(s). (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ETX 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Effective: 1997 Winter Quarter.
+
+ETX 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+ETX 396—Teaching Assistant Training Practicum (1-4) Variable. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+ETX 010—Introduction to Environmental Toxicology (3) Lecture—3 hours. Hazardous substances, their effects on humans and their actions and movement in the environment. Emphasis on substances of current concern. GE credit: SE, SL. Effective: 2000
+
+ETX 020—Introduction to Forensic Science (3) Lecture—3 hours. Basic principles of forensic science, types of information on which investigations focus, how information is obtained and used in criminal investigations, types of scientific skills required to practice forensic science, guidance on training. Real cases discussed; demonstrations of methods provided. GE credit: SE, SL, VL. Effective: 2012 Spring Quarter.
+
+ETX 030—Chemical and Drug Use and Abuse (3) Lecture—3 hours. An overview of chemical use and abuse in our society. The effects of chemicals (therapeutic drugs, pesticides, food additives, herbal remedies, environmental contaminants, and recreational drugs) on humans and other living systems. GE credit: SE. Effective: 2006 Winter
+
+ETX 092—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Lower division standing. Work experience off and on campus in all subject areas offered in the College of Agricultural and Environmental Sciences. Internships supervised by a member of the faculty. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ETX 101—Principles of Environmental Toxicology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (CHE 008B or CHE 118B or CHE 128B); BIS 001A Principles of toxicology with a focus on environmental, industrial, and natural chemicals. Topics include fate and effects of chemicals in organisms and the environment, air pollutants, insecticides, aquatic toxicology, endocrine disruptors, biomarkers and bioassays, and risk assessment. GE credit: SE, SL. Effective: 2003 Fall Quarter.
+
+ETX 102A—Environmental Fate of Toxicants (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 008B; CHE 118B; CHE 128B; or Consent of Instructor. Properties of toxic chemicals influencing their distribution and transformations; action of environmental forces affecting toxicant breakdown, movement, and accumulation; sources and occurrence of major classes of environmental toxicants. Not open for credit to students who have completed ETX 112A. GE credit: QL, SE, SL, VL, WE. Effective: 2004
+
+ETX 102B—Quantitative Analysis of Environmental Toxicants (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ETX 102A Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data. Not open for credit to students who have completed course ETX 112B. GE credit: SE, VL. Effective: 2004 Spring
+
+ETX 103A—Biological Effects of Toxicants (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): BIS 102; ETX 101 and NPB 101 recommended. Biological effects of toxic substances in living organisms. Metabolism, cellular and tissue targets, mechanisms of action, and pathological effects. Not open for credit to students who have taken ETX 114A. GE credit: SE. Effective: 2004 Winter Quarter.
+
+ETX 103B—Biological Effects of Toxicants: Experimental Approaches (5) Discussion—1 hour; Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ETX 103A Experimental approaches for assessing the biological effects of toxicants. Not open for credit to students who have taken ETX 114B. GE credit: SE, VL, WE. Effective: 2004 Spring Quarter.
+
+ETX 110—Toxic Tragedies and Their Impact on Society (2) Lecture—2 hours. Prerequisite(s): BIS 010; or Consent of Instructor. Or equivalent; CHE 118A recommended. Examination of toxic tragedies, their origins, consequences, and effects on toxic regulation. GE credit: OL, SE, SL, WE. Effective: 2004 Winter Quarter.
+
+ETX 111—Introduction to Mass Spectrometry (3) Lecture—3 hours. Prerequisite(s): CHE 118C Introduction to mass spectrometry, including ionization techniques, mass analyzers, interpretation of mass spectra, and applications of mass spectrometry. Emphasis on fundamental concepts of mass spectrometry necessary to identify and quantify organic molecules. GE credit: SE. Effective: 2004 Winter Quarter.
+
+ETX 120—Perspectives in Aquatic Toxicology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 008B; (CHE 118B or CHE 128B); BIS 001A; or Consent of Instructor. Toxic substances, their fate in marine and freshwater systems, and their effects on aquatic organisms, populations, and ecosystems. Emphasis will be on substances and issues of current concern. GE credit: OL, SE, SL, VL, WE. Effective: 2004 Winter Quarter.
+
+ETX 127—Environmental Stress and Development in Marine Organisms (10) Discussion—2 hours; Laboratory—12 hours; Lecture—4 hours. Prerequisite(s): ETX 101 or BIS 102 or BIS 104; and Consent of Instructor. Or the equivalent; ETX 114A or NUT 114 recommended. Course taught at Bodega Marine Laboratory. Effects of environmental and nutritional stress, including pollutants, on development and function in embryos and larvae of marine organisms. Emphasis on advanced experimental methods. (NUT 127.) GE credit: OL, QL, SE, SL, VL, WE. Effective: 2002 Summer Session 1.
+
+ETX 128—Food Toxicology (3) Lecture—3 hours. Prerequisite(s): BIS 102; BIS 103 Chemistry and biochemistry of toxins occurring in foods, including plant and animal toxins, intentional and unintentional food additives. The assessment of food safety and toxic hazards. (FST 128.) GE credit: SE. Effective: 1997 Winter
+
+ETX 130—The Role and Applications of Toxicology in Modern Industry (3) Lecture—3 hours. Prerequisite(s): ETX 101; ETX 103A recommended. Role of toxicology in industry research and development, human health and environmental protection, hazard and risk evaluations, risk management and communications, product stewardship, and regulatory compliance. Scientific principles and methods of toxicology in chemical, energy, pharmaceutical, pesticide, biotechnology industries. GE credit: OL, SE, SL, VL, WE. Effective: 2008 Spring Quarter.
+
+ETX 131—Environmental Toxicology of Air Pollutants (3) Lecture—3 hours. Prerequisite(s): CHE 008B (can be concurrent); Or the equivalent; BIS 102 recommended. Field trip required. Toxicology of air pollutants in the ambient, indoor, and occupational environments. Health effects, sources, environmental fates, pulmonary responses, sampling and analyses, and air-quality criteria and standards. Field trip required. GE credit: SE, VL. Effective: 2003 Fall Quarter.
+
+ETX 135—Health Risk Assessment of Toxicants (3) Lecture—3 hours. Prerequisite(s): ETX 101; ETX 114A recommended. Current practices of health risk assessment of environmental chemicals using toxicological principles and their application to regulatory control of these chemicals. GE credit: QL, SE, SL, VL. Effective: 1997 Winter Quarter.
+
+ETX 138—Legal Aspects of Environmental Toxicology (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. ETX 010 or ETX 101 recommended. Federal and California legislation concerning air and water pollution, pesticide use, food and feed additives, consumer protection, and occupational exposure to toxic substances; roles of federal regulatory agencies; alternatives to government control. GE credit: SE, VL, WE. Effective: 2001 Fall
+
+ETX 140—Genes and the Environment (3) Lecture/Discussion—3 hours. Prerequisite(s): BIS 101; Biological Science 101 required or permission of instructor; coursework in genetics and molecular biology and/or environmental toxicology recommended. Evaluation of evidence that human health and disease susceptibility result from complex interactions between genes and the environment. Emphasis on cancer, metabolic, cardiovascular, and neurological health outcomes assessed by genotoxicity and toxicogenomic methods. Effective: 2015 Fall Quarter.
+
+ETX 146—Exposure and Dose Assessment (3) Lecture—3 hours. Prerequisite(s): ETX 112A; ETX 135 recommended. The exposure component of risk assessment; specifically, the presence and/or formation of toxic substances in environmental media, their movement within and between contaminated media, and the contacts of human populations with those media. GE credit: QL, SE, SL, VL. Effective: 1997 Winter Quarter.
+
+ETX 190—Seminar (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Selected topics presented by students, faculty, or outside speakers covering current research and instructional activities within environmental toxicology. Reports and discussion concerning oral and written presentations, literature sources, and career opportunities. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ETX 190C—Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Weekly conference of advanced research methods and the interpretation of research results. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 190S—Environmental Toxicology Career Seminar (1) Seminar—1 hour. Careers in environmental toxicology; discussions with graduates from the Department of Environmental Toxicology and other experts in the field. (P/NP grading only.) GE credit: SE. Effective: 2003 Fall Quarter.
+
+ETX 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Work experience off and on campus in all subject areas offered in the College of Agricultural and Environmental Sciences. Internships supervised by a member of the faculty. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 194HA—Honors Research (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): Consent of Instructor. Senior standing; minimum GPA of 3.250. Specific research project conducted under the supervision of a faculty sponsor. Experience to include experimental design, learning new techniques, data analysis and interpretation of findings. GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 194HB—Honors Research (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): Consent of Instructor. Senior standing; minimum GPA of 3.250. Specific research project conducted under the supervision of a faculty sponsor. Experience to include experimental design, learning new techniques, data analysis and interpretation of findings. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 194HC—Honors Research (3) Discussion—1 hour; Laboratory—9 hours. Prerequisite(s): Consent of Instructor. Senior standing, minimum GPA of 3.250. Continuation of course 194HA-194HB. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 197T—Tutoring in Environmental Toxicology (1-5) Variable. Prerequisite(s): Consent of Instructor. Advanced standing in Environmental Toxicology, a related major, or the equivalent experience. Teaching toxicology including conducting discussion groups for regular departmental courses under direct guidance of staff. May be repeated up to 5 unit(s). (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+ETX 199—Special Study for Advanced Undergraduates (1-5) Variable. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+ETX 203—Environmental Toxicants (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 008B or CHE 128C; and Consent of Instructor. Or the equivalent of CHE 128C. Toxic chemicals: selected topics illustrating their occurrence, structure, and the reactions underlying detection, toxicity, fate, and ecological importance. Effective: 1997 Winter Quarter.
+
+ETX 214—Mechanisms of Toxic Action (3) Lecture—3 hours. Prerequisite(s): BIS 102; BIS 103; and Consent of Instructor. Chemical, biochemical, and molecular mechanisms underlying the adverse effects of toxic chemicals. Students are required to write a grant proposal and participate in a grant review panel. Effective:
+
+ETX 220—Analysis of Toxicants (3) Lecture—3 hours. Prerequisite(s): Coursework in organic chemistry. Principles of microanalysis of toxicants. Theoretical considerations regarding separation, detection and quantitative determination of toxicants using chemical and instrumental techniques. (FOR 220.) Effective: 2006
+
+ETX 220L—Analysis of Toxicants Laboratory (2) Laboratory—6 hours. Prerequisite(s): ETX 220 (can be concurrent); and Consent of Instructor. Laboratory techniques for microanalysis of toxicants. Separation, detection, and quantitative determination of toxicants using chemical and instrumental methods. Effective: 1997 Winter
+
+ETX 228—Gas Chromatography/Mass Spectrometry of Toxic Chemicals (3) Discussion—1 hour; Laboratory—3 hours; Lecture—1 hour. Prerequisite(s): ETX 220; CHE 129C; and Consent of Instructor. Application of GC/MS techniques to investigate toxic chemicals. Mass spectral fragmentations and their application to the structural elucidation. Practical application of GC/MS in current research. Preference given to environmental toxicology graduate students. Effective: 1997 Winter Quarter.
+
+ETX 234—Current Topics in Neurotoxicology (3) Lecture—3 hours. Prerequisite(s): Core courses in one of the following graduate programs: Pharmacology and Toxicology, Agricultural and Environmental Chemistry, Biochemistry and Molecular Biology, Cell and Developmental Biology, Immunology, Molecular Cellular and Integrative Physiology or Neuroscience. Restricted to upper level undergraduate students must obtain permission from the course coordinator. General principles of neurotoxicology, the cell and molecular mechanisms and health impacts of specific neurotoxicants and the contribution of neurotoxic compounds to complex eurodevelopmental disorders and neurodegenerative diseases. (VMB 234 and MCP 234.) Effective: 2010 Fall Quarter.
+
+ETX 240—Ecotoxicology (3) Lecture—3 hours. Prerequisite(s): or Consent of Instructor. Elementary course in toxicology and ecology or the equivalent. Principles of toxicology as applied to chemical action on natural populations, communities, and ecosystems. Physical, chemical, and biological characteristics which influence ecotoxic effects, modeling, and field research. Selected case histories are analyzed and presented in class. Effective: 1997 Winter Quarter.
+
+ETX 250—Reproductive Toxicology (3) Lecture—1.5 hours; Lecture/Discussion—1.5 hours. Prerequisite(s): PTX 203 Application of toxicological principles in reproductive studies. Effects of toxicants on the male, female, and developing embryo/fetus. Critical evaluation of reproductive toxicity studies and development of mechanistic approaches to understanding how chemical exposure can adversely affect reproduction. Effective: 2000 Winter
+
+ETX 260—Immunotoxicology (3) Lecture—3 hours. Prerequisite(s): Undergraduate or graduate introduction to immunology coursework recommended but not required; graduate standing or consent of instructor. Provides students with skills and knowledge for evaluating and applying research on the impact of environmental toxicants on immunological function in human and wildlife populations. Effective:
+
+ETX 270—Toxicology of Pesticides (3) Lecture—3 hours. Prerequisite(s): ETX 101; One course each in (a) Organic Chemistry, (b) Biochemistry, (c) Toxicology (ETX 101 or equivalent), or with consent of instructor; graduate standing. Classification and chemical properties of pesticides, their mode of action, metabolism and disposition, pesticide resistance, effects on human health and ecological health and methods of risk benefit analyses. Effective: 2007 Winter Quarter.
+
+ETX 278—Molecular Techniques (3) Lecture—3 hours. Prerequisite(s): Graduate standing or consent of instructor. Recombinant DNA technology and its applications. (FOR 278.) Effective: 2002 Spring Quarter.
+
+ETX 280—Forensic DNA Analysis (3) Lecture—3 hours. Prerequisite(s): Coursework in genetics and molecular biology. Graduate standing; consent of instructor required for all students not enrolled in the MS Forensics program. Foundation in theory and practice of forensic DNA analysis; past, present, and emerging technologies; legal and quality assurance issues. DNA extraction, DNA quantitation, multiplex amplification of STR loci, capillary electrophoresis of amplified products, and analysis of STR typing data. (FOR 280.) Effective: 2003 Spring Quarter.
+
+ETX 281—Principles and Practice of Forensic Serology and DNA Analysis (3) Discussion/Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): (FOR 278 or ETX 278) or (FOR 280 or ETX 280); Or equivalent; consent of instructor. Restricted to students enrolled in the M.S. in Forensic Science Program or by consent of Forensic Science Program Director. Comprehensive overview of forensic serology and DNA typing techniques and technologies. Strong emphasis on real-world applications, including preservation and tracking of biological evidence, detection and identification of bodily fluids, and methods to extract, quantify, and type human DNA. (FOR 281.) Effective: 2011 Spring Quarter.
+
+ETX 284—Non-Human Forensic DNA--Theory and Casework Application (2) Lecture—2 hours. Prerequisite(s): Consent of instructor required for all students not enrolled in the MS Forensics program; upper division Molecular Biology and Genetics or its equivalent. Restricted to graduate standing. Provides a comprehensive understanding of plant and animal forensic biology in terms of sample collection, preservation, analytical methods, and of the invaluable lines of inquiry these forensic evidence may permit. (FOR 284.) Effective: 2010 Fall Quarter.
+
+ETX 290—Seminar (1) Seminar—1 hour. Current topics in environmental toxicology. (S/U grading only.) Effective: 1997
+
+ETX 290C—Advanced Research Conference (1) Lecture/Discussion—1 hour. Prerequisite(s): Consent of Instructor. Presentation and critical discussion of advanced research methods and interpretation of research results. Designed primarily for graduate students. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ETX 297T—Tutoring in Environmental Toxicology (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing in Environmental Toxicology, a related major, or the equivalent experience. Teaching toxicology including conducting discussion groups for regular departmental courses under direct guidance of staff. May be repeated up to 5 unit(s). (S/U grading only.) Effective: 1997 Winter Quarter.
+
+ETX 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Effective: 1997 Winter Quarter.
+
+ETX 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+ETX 396—Teaching Assistant Training Practicum (1-4) Variable. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.

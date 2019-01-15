@@ -1,0 +1,375 @@
+MCB 010—Introduction to Human Heredity (4) Discussion—1 hour; Lecture—3 hours. Topics in human heredity and human gene structure and function, including the genetic basis of human development, causes of birth defects, mental retardation, genetic diseases, sexual determination, development, and behavior. GE credit: QL, SE, SL. Effective: 2004 Spring Quarter.
+
+MCB 023—Biography of Cancer: Past, Present and Future (3) Lecture/Discussion—3 hours. Historical account of the progression of cancer treatment, prevention, and human understanding of the biological basis of cancer. Past, present and future social implications of cancer treatment and prevention. GE credit: ACGH, SE, SL, SS, WE. Effective: 2018
+
+MCB 099—Special Study (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 110Y—iBioseminars in Cell and Molecular Biology (3) Lecture/Discussion—2 hours; Web Electronic Discussion—1.5 hours; Web Virtual Lecture—1.5 hours. Prerequisite(s): BIS 101; BIS 102; (BIS 103 or BIS 105); BIS 104 Hybrid course in Cell and Molecular Biology for senior level (1) Biochemistry/Molecular Biology; (2) Genetics; or (3) Cell Biology majors. Face-to-face instruction combined with online lectures available at iBioseminars website delivered by leading researchers in Cell and Molecular Biology. Students who have previously taken MCB 110V cannot receive credit for MCB 110Y. GE credit: SE, SL. Effective: 2014
+
+MCB 120—Molecular Biology and Biochemistry Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 102; or Consent of Instructor. Pass One restricted to upper division Biochemistry & Molecular Biology majors; concurrent enrollment in MCB 120L required; on-time attendance for first lecture is mandatory. Introduction to laboratory methods and procedures employed in studying molecular biology and biochemical processes. Lecture component for MCB 120L. GE credit: SE, SL. Effective: 2018 Winter
+
+MCB 120L—Molecular Biology and Biochemistry Laboratory (3) Laboratory—10 hours. Prerequisite(s): BIS 102; or Consent of Instructor. Must be taken concurrently with MCB 120. Pass One restricted to upper division Biochemistry & Molecular Biology majors; concurrent enrollment in MCB 120 required; on-time attendance for first lab is mandatory. Introduction to laboratory methods and procedures employed in studying molecular biology and biochemical processes. Designed for students who need experience in use of molecular biology and biochemical techniques as research and analytical tools. GE credit: QL, SE, VL, WE. Effective: 2018
+
+MCB 121—Advanced Molecular Biology (3) Lecture—3 hours. Prerequisite(s): BIS 101; (BIS 102 (can be concurrent) or BIS 105 (can be concurrent) or ABI 102 (can be concurrent)); BIS 102 or BIS 105 or ABI 102 can be concurrent although prior completion is recommended. Structure, expression, and regulation of eukaryotic genes. Chromosome structure and replication; gene structure, transcription, and RNA processing; protein synthesis and translation control; development, immune system, and oncogenes. Not open for credit to students who have completed MCB 161. GE credit: QL, SE, SL. Effective: 2014 Fall
+
+MCB 123—Behavior and Analysis of Enzyme and Receptor Systems (3) Lecture—3 hours. Prerequisite(s): BIS 103 Introduction to the principles of enzyme kinetics and receptor-ligand interactions with emphasis on metabolic regulation and data analysis. Topics include simultaneous equilibria, chemical and steady-state kinetics, allosteric enzymes, mulitreactant systems, enzyme assays, membrane transport and computer-assisted simulations and analyses. GE credit: QL, SE. Effective: 1997 Winter Quarter.
+
+MCB 124—Macromolecular Structure and Function (4) Lecture—4 hours. Prerequisite(s): BIS 103; CHE 118C An in-depth investigation into protein and nucleic acid structure and thermodynamics and how these properties influence their biological functions. Key examples of important functional classes of these molecules will be examined. Not open for credit to students who have completed MCB 122 or CHE 108. GE credit: SE. Effective:
+
+MCB 126—Plant Biochemistry (3) Lecture—3 hours. Prerequisite(s): BIS 103 or BIS 105 The biochemistry of important plant processes and metabolic pathways. Discussion of methods used to understand plant processes, including use of transgenic plants. (Plant Biology 126.) GE credit: SE, SL. Effective: 2008 Spring
+
+MCB 138—Undergraduate Seminar in Biochemistry (1) Seminar—1 hour. Prerequisite(s): BIS 103 Discussion of the historical developments of modern biochemistry or current major research problems. May be repeated twice for credit when topic differs. May be repeated up to 2 time(s). (P/NP grading only.) GE credit: OL, SE. Effective: 1997
+
+MCB 139—Undergraduate Seminar in Biochemistry (2) Seminar—2 hours. Prerequisite(s): BIS 103 Discussion of the historical developments of modern biochemistry or current major research problems. May be repeated up to 2 time(s) when topic differs. (P/NP grading only.) GE credit: OL, SE. Effective: 2015 Spring Quarter.
+
+MCB 140—Cell Biology Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 104; or Consent of Instructor. Pass One restricted to upper division Cell Biology majors; concurrent enrollment in MCB 140L required; on-time attendance for first lecture is mandatory. Lectures illustrating the principles of cell biology with emphasis on light microscopy. Accompanies MCB 140L. GE credit: OL, SE, SL, WE. Effective: 2018 Winter Quarter.
+
+MCB 140L—Cell Biology Laboratory (5) Discussion—1 hour; Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 104 (can be concurrent) Exercises illustrating the principles of cell biology with emphasis on light microscopy. GE credit: OL, QL, SE, SL, VL. Effective: 2009 Winter Quarter.
+
+MCB 142—Advanced Cell Biology: Contractile and Motile Systems (4) Lecture—3 hours; Term Paper. Prerequisite(s): BIS 102; BIS 104 (can be concurrent); MAT 016B Advanced cell biology with emphasis on molecular, biophysical and cellular properties of contractile and motile systems. GE credit: SE. Effective: 1998 Spring Quarter.
+
+MCB 143—Cell and Molecular Biophysics (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 103; BIS 104 Physical chemical principles by which molecules form living, moving, reproducing cells. Physical nature of cytoplasm; molecular structure/bonding in macromolecules, macromolecular assemblies and protein machines. Physical techniques and modeling of cytoskeletal polymer-motor dynamics and function during intracellular transport, mitosis and motility. GE credit: QL, SE. Effective: 2008 Fall Quarter.
+
+MCB 144—Mechanisms of Cell Division (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 104 The molecules and mechanisms that allow eukaryotic cells to coordinate cell growth, DNA replication, segregation of chromosomes and cell division. GE credit: SE, WE. Effective: 2002 Winter Quarter.
+
+MCB 145—Assembly and Function of Cell Signaling Machinery (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 104 Molecular basis of cell signaling, including positioning of cellular machinery, components of various signaling pathways, and downstream effects of signaling on cell adhesion, cell differentiation, and programmed cell death. GE credit: SE. Effective: 2002 Spring Quarter.
+
+MCB 148—Undergraduate Seminar in Cell Biology (2) Seminar—2 hours. Prerequisite(s): Upper division standing in the biological sciences or a related discipline. Student reports on current topics in cell biology with emphasis on integration of concepts, synthesis, and state-of-the-art research approaches. Reviews of literature and reports of undergraduate research may be included. May be repeated for credit. (P/NP grading only.) GE credit: OL, SE. Effective: 1997 Winter Quarter.
+
+MCB 150—Developmental Biology (4) Lecture—4 hours. Prerequisite(s): BIS 101 Analysis of the mechanistic basis for animal development with a focus on experimental evidence and the relevant fundamental experimental strategies. Fertilization and early development, morphogenesis and patterning, cell differentiation, regulation of cell proliferation and tissue growth. GE credit: SE, SL. Effective: 2012 Fall Quarter.
+
+MCB 158—Undergraduate Seminar in Developmental Biology (2) Seminar—2 hours. Prerequisite(s): Upper division standing in the biological sciences or a related discipline. Student reports on current topics in cell biology with emphasis on integration of concepts, synthesis, and state-of-the-art research approaches. Reviews of literature and reports of undergraduate research may be included. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: OL, SE. Effective: 1997 Winter Quarter.
+
+MCB 160—Genetics Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 101; or Consent of Instructor. Pass One restricted to upper division Genetics and Genomics majors; concurrent enrollment in MCB 160L required; on-time attendance for first lecture is mandatory. Lecture instruction in the theoretical basis of laboratory techniques in transmission and molecular genetics, discussion of lab results and experiment interpretation. GE credit: QL, SE, WE. Effective: 2018
+
+MCB 160L—Principles of Genetics Laboratory (5) Discussion/Laboratory—1 hour; Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 101 Laboratory work in basic and molecular genetics including gene mapping, isolation and characterization of mutants in eukaryotic model systems, reverse genetics, gel electrophoresis, recombinant DNA techniques, and PCR. GE credit: QL, SE, VL, WE. Effective: 2012 Fall Quarter.
+
+MCB 162—Human Genetics and Genomics (3) Lecture—3 hours. Prerequisite(s): BIS 101 The human genome and genetic variation in human populations, molecular and genomic approaches in the practice of human genetics, epigenetic gene regulation, personal genetics and genomic medicine. GE credit: QL, SE, SL. Effective: 2016 Fall
+
+MCB 163—Developmental Genetics (3) Lecture—3 hours. Prerequisite(s): MCB 121 (can be concurrent) Current aspects of developmental genetics. Historical background and current genetic approaches to the study of development of higher animals. GE credit: SE. Effective: 2017 Fall Quarter.
+
+MCB 164—Advanced Eukaryotic Genetics (3) Lecture—3 hours. Prerequisite(s): MCB 121 Five basic operations of genetic analysis: mutation, segregation, recombination, complementation, and regulation. Emphasis on the theory and practice of isolating and analyzing mutations, as well as understanding mechanisms underlying both Mendelian and epigenetic inheritance. GE credit: SE, SL. Effective: 2011 Fall Quarter.
+
+MCB 178—Undergraduate Seminar in Molecular Genetics (1) Seminar—1 hour. Prerequisite(s): BIS 101; MCB 121 (can be concurrent); Upper division standing, and completion or concurrent enrollment in MCB 121. Discussion of current topics in molecular genetics to show advanced applications of basic principles and to highlight professional career opportunities. May be repeated up to 1 time(s) when topic differs. (P/NP grading only.) GE credit: OL, SE. Effective: 2011 Fall Quarter.
+
+MCB 182—Principles of Genomics (3) Lecture—3 hours. Prerequisite(s): BIS 101 Fundamentals of genomics, including structural genomics, functional genomics, proteomics, and bioinformatics, focusing on the impact of these disciplines on research in the biological sciences. Social impacts of genomic research. GE credit: SE. Effective: 2017 Winter Quarter.
+
+MCB 190C—Undergraduate Research Conference (1) Discussion—1 hour. Prerequisite(s): MCB 193 (can be concurrent) or MCB 199 (can be concurrent); and Consent of Instructor. Upper division standing; MCB 193 or MCB 199 required concurrently. Presentation and discussion of current research by faculty and students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter
+
+MCB 191—Introduction to Research (1) Seminar—1 hour. Prerequisite(s): BIS 102 (can be concurrent); or Consent of Instructor. Various topics in molecular and cellular biology including biochemistry, genetics, and cell biology will be discussed, along with ways undergraduates can participate in research projects of faculty members. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Technical and/or practical experience on and off campus, supervised by a member of the Section of Molecular and Cellular Biology faculty. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 193—Advanced Research (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): Consent of Instructor. Upper division standing, completion of an upper division Molecular and Cellular Biology laboratory course. Research project carried out under the supervision of a faculty sponsor. Discussion and analysis of results and proposed experiments on a weekly basis with faculty sponsor. May include presentation of a seminar to a research group.May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 194—Thesis Research (3) Independent Study—9 hours. Prerequisite(s): Consent of Instructor. 6 units of course 193 and/or 199 with faculty director; senior standing. Continuation of an intensive, individual laboratory research project in biochemistry, genetics, or cell biology culminating with the presentation of the work in a written thesis and in a seminar. (P/NP grading only.) GE credit: OL, SE, WE. Effective:
+
+MCB 194H—Research Honors (3) Independent Study—9 hours. Prerequisite(s): Consent of Instructor. 6 units of MCB 193 and/or MCB 199 with faculty director; senior standing; GPA of at least 3.250. Honors project. Continuation of an intensive, individual laboratory research project in biochemistry, genetics, or cell biology culminating with the presentation of the work in a written thesis and in a seminar. (P/NP grading only.) GE credit: OL, SE, WE. Effective: 1997 Winter Quarter.
+
+MCB 197T—Tutoring in Molecular and Cellular Biology (1-5) Tutorial—2-6 hours. Prerequisite(s): Consent of Instructor. Upper division standing, completion of course to be tutored. Assisting the instructor in one of the section's regular courses by tutoring individual or small groups of students in a laboratory, in voluntary discussion groups, or other voluntary course activities. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2004 Fall Quarter.
+
+MCB 198—Directed Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 199—Special Study for Advanced Undergraduates (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 248—Seminar in Cell Biology (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Discussion of recent literature on the physical and chemical aspects of organization and function of living systems, topics of current interest in ultrastructure and function of cells. Organizational and functional properties of the molecular and cellular levels of biological systems. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+MCB 258—Seminar in Development (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Reports and discussion on embryology, morphogenesis, and developmental mechanisms. May be repeated for credit. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+MCB 259—Literature in Developmental Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Critical presentation and analysis of recent journal articles in developmental biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 282—Biotechnology Internship (7-12) Internship—21-36 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Open only to students participating in the Designated Emphasis in Biotechnology program. Research at a biotechnology company or interdisciplinary cross-college lab for a minimum of 3 months as part of the Designated Emphasis in Biotechnology Program. (S/U grading only.) Effective: 2004 Winter
+
+MCB 290C—Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Presentations and critical discussions of faculty and graduate student research in molecular and cellular biology including biochemistry, genetics, and cell biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 291—Current Progress in Molecular and Cellular Biology (1) Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Seminars presented by guest lecturers on subject of their own research activities. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 295—Literature in Molecular and Cellular Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Critical reading and evaluation of current literature in molecular and cellular biology disciplines. Papers will be presented and discussed in detail. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 298—Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997
+
+MCB 299—Research (1-12) Independent Study—3-36 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 390—Methods of Teaching (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Practical experience in the methods and problems of teaching biochemistry/genetics/cell biology.Includes analysis of texts and supporting material,discussion of teaching techniques, preparing for and conducting discussion and laboratory sections,formulating examinations under supervision of instructor.Participating in the teaching program required for Ph.D. May be repeated for credit. (S/U grading only.) Effective:
+
+MCB 010—Introduction to Human Heredity (4) Discussion—1 hour; Lecture—3 hours. Topics in human heredity and human gene structure and function, including the genetic basis of human development, causes of birth defects, mental retardation, genetic diseases, sexual determination, development, and behavior. GE credit: QL, SE, SL. Effective: 2004 Spring Quarter.
+
+MCB 023—Biography of Cancer: Past, Present and Future (3) Lecture/Discussion—3 hours. Historical account of the progression of cancer treatment, prevention, and human understanding of the biological basis of cancer. Past, present and future social implications of cancer treatment and prevention. GE credit: ACGH, SE, SL, SS, WE. Effective: 2018
+
+MCB 099—Special Study (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 110Y—iBioseminars in Cell and Molecular Biology (3) Lecture/Discussion—2 hours; Web Electronic Discussion—1.5 hours; Web Virtual Lecture—1.5 hours. Prerequisite(s): BIS 101; BIS 102; (BIS 103 or BIS 105); BIS 104 Hybrid course in Cell and Molecular Biology for senior level (1) Biochemistry/Molecular Biology; (2) Genetics; or (3) Cell Biology majors. Face-to-face instruction combined with online lectures available at iBioseminars website delivered by leading researchers in Cell and Molecular Biology. Students who have previously taken MCB 110V cannot receive credit for MCB 110Y. GE credit: SE, SL. Effective: 2014
+
+MCB 120—Molecular Biology and Biochemistry Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 102; or Consent of Instructor. Pass One restricted to upper division Biochemistry & Molecular Biology majors; concurrent enrollment in MCB 120L required; on-time attendance for first lecture is mandatory. Introduction to laboratory methods and procedures employed in studying molecular biology and biochemical processes. Lecture component for MCB 120L. GE credit: SE, SL. Effective: 2018 Winter
+
+MCB 120L—Molecular Biology and Biochemistry Laboratory (3) Laboratory—10 hours. Prerequisite(s): BIS 102; or Consent of Instructor. Must be taken concurrently with MCB 120. Pass One restricted to upper division Biochemistry & Molecular Biology majors; concurrent enrollment in MCB 120 required; on-time attendance for first lab is mandatory. Introduction to laboratory methods and procedures employed in studying molecular biology and biochemical processes. Designed for students who need experience in use of molecular biology and biochemical techniques as research and analytical tools. GE credit: QL, SE, VL, WE. Effective: 2018
+
+MCB 121—Advanced Molecular Biology (3) Lecture—3 hours. Prerequisite(s): BIS 101; (BIS 102 (can be concurrent) or BIS 105 (can be concurrent) or ABI 102 (can be concurrent)); BIS 102 or BIS 105 or ABI 102 can be concurrent although prior completion is recommended. Structure, expression, and regulation of eukaryotic genes. Chromosome structure and replication; gene structure, transcription, and RNA processing; protein synthesis and translation control; development, immune system, and oncogenes. Not open for credit to students who have completed MCB 161. GE credit: QL, SE, SL. Effective: 2014 Fall
+
+MCB 123—Behavior and Analysis of Enzyme and Receptor Systems (3) Lecture—3 hours. Prerequisite(s): BIS 103 Introduction to the principles of enzyme kinetics and receptor-ligand interactions with emphasis on metabolic regulation and data analysis. Topics include simultaneous equilibria, chemical and steady-state kinetics, allosteric enzymes, mulitreactant systems, enzyme assays, membrane transport and computer-assisted simulations and analyses. GE credit: QL, SE. Effective: 1997 Winter Quarter.
+
+MCB 124—Macromolecular Structure and Function (4) Lecture—4 hours. Prerequisite(s): BIS 103; CHE 118C An in-depth investigation into protein and nucleic acid structure and thermodynamics and how these properties influence their biological functions. Key examples of important functional classes of these molecules will be examined. Not open for credit to students who have completed MCB 122 or CHE 108. GE credit: SE. Effective:
+
+MCB 126—Plant Biochemistry (3) Lecture—3 hours. Prerequisite(s): BIS 103 or BIS 105 The biochemistry of important plant processes and metabolic pathways. Discussion of methods used to understand plant processes, including use of transgenic plants. (Plant Biology 126.) GE credit: SE, SL. Effective: 2008 Spring
+
+MCB 138—Undergraduate Seminar in Biochemistry (1) Seminar—1 hour. Prerequisite(s): BIS 103 Discussion of the historical developments of modern biochemistry or current major research problems. May be repeated twice for credit when topic differs. May be repeated up to 2 time(s). (P/NP grading only.) GE credit: OL, SE. Effective: 1997
+
+MCB 139—Undergraduate Seminar in Biochemistry (2) Seminar—2 hours. Prerequisite(s): BIS 103 Discussion of the historical developments of modern biochemistry or current major research problems. May be repeated up to 2 time(s) when topic differs. (P/NP grading only.) GE credit: OL, SE. Effective: 2015 Spring Quarter.
+
+MCB 140—Cell Biology Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 104; or Consent of Instructor. Pass One restricted to upper division Cell Biology majors; concurrent enrollment in MCB 140L required; on-time attendance for first lecture is mandatory. Lectures illustrating the principles of cell biology with emphasis on light microscopy. Accompanies MCB 140L. GE credit: OL, SE, SL, WE. Effective: 2018 Winter Quarter.
+
+MCB 140L—Cell Biology Laboratory (5) Discussion—1 hour; Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 104 (can be concurrent) Exercises illustrating the principles of cell biology with emphasis on light microscopy. GE credit: OL, QL, SE, SL, VL. Effective: 2009 Winter Quarter.
+
+MCB 142—Advanced Cell Biology: Contractile and Motile Systems (4) Lecture—3 hours; Term Paper. Prerequisite(s): BIS 102; BIS 104 (can be concurrent); MAT 016B Advanced cell biology with emphasis on molecular, biophysical and cellular properties of contractile and motile systems. GE credit: SE. Effective: 1998 Spring Quarter.
+
+MCB 143—Cell and Molecular Biophysics (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 103; BIS 104 Physical chemical principles by which molecules form living, moving, reproducing cells. Physical nature of cytoplasm; molecular structure/bonding in macromolecules, macromolecular assemblies and protein machines. Physical techniques and modeling of cytoskeletal polymer-motor dynamics and function during intracellular transport, mitosis and motility. GE credit: QL, SE. Effective: 2008 Fall Quarter.
+
+MCB 144—Mechanisms of Cell Division (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 104 The molecules and mechanisms that allow eukaryotic cells to coordinate cell growth, DNA replication, segregation of chromosomes and cell division. GE credit: SE, WE. Effective: 2002 Winter Quarter.
+
+MCB 145—Assembly and Function of Cell Signaling Machinery (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 104 Molecular basis of cell signaling, including positioning of cellular machinery, components of various signaling pathways, and downstream effects of signaling on cell adhesion, cell differentiation, and programmed cell death. GE credit: SE. Effective: 2002 Spring Quarter.
+
+MCB 148—Undergraduate Seminar in Cell Biology (2) Seminar—2 hours. Prerequisite(s): Upper division standing in the biological sciences or a related discipline. Student reports on current topics in cell biology with emphasis on integration of concepts, synthesis, and state-of-the-art research approaches. Reviews of literature and reports of undergraduate research may be included. May be repeated for credit. (P/NP grading only.) GE credit: OL, SE. Effective: 1997 Winter Quarter.
+
+MCB 150—Developmental Biology (4) Lecture—4 hours. Prerequisite(s): BIS 101 Analysis of the mechanistic basis for animal development with a focus on experimental evidence and the relevant fundamental experimental strategies. Fertilization and early development, morphogenesis and patterning, cell differentiation, regulation of cell proliferation and tissue growth. GE credit: SE, SL. Effective: 2012 Fall Quarter.
+
+MCB 158—Undergraduate Seminar in Developmental Biology (2) Seminar—2 hours. Prerequisite(s): Upper division standing in the biological sciences or a related discipline. Student reports on current topics in cell biology with emphasis on integration of concepts, synthesis, and state-of-the-art research approaches. Reviews of literature and reports of undergraduate research may be included. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: OL, SE. Effective: 1997 Winter Quarter.
+
+MCB 160—Genetics Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 101; or Consent of Instructor. Pass One restricted to upper division Genetics and Genomics majors; concurrent enrollment in MCB 160L required; on-time attendance for first lecture is mandatory. Lecture instruction in the theoretical basis of laboratory techniques in transmission and molecular genetics, discussion of lab results and experiment interpretation. GE credit: QL, SE, WE. Effective: 2018
+
+MCB 160L—Principles of Genetics Laboratory (5) Discussion/Laboratory—1 hour; Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 101 Laboratory work in basic and molecular genetics including gene mapping, isolation and characterization of mutants in eukaryotic model systems, reverse genetics, gel electrophoresis, recombinant DNA techniques, and PCR. GE credit: QL, SE, VL, WE. Effective: 2012 Fall Quarter.
+
+MCB 162—Human Genetics and Genomics (3) Lecture—3 hours. Prerequisite(s): BIS 101 The human genome and genetic variation in human populations, molecular and genomic approaches in the practice of human genetics, epigenetic gene regulation, personal genetics and genomic medicine. GE credit: QL, SE, SL. Effective: 2016 Fall
+
+MCB 163—Developmental Genetics (3) Lecture—3 hours. Prerequisite(s): MCB 121 (can be concurrent) Current aspects of developmental genetics. Historical background and current genetic approaches to the study of development of higher animals. GE credit: SE. Effective: 2017 Fall Quarter.
+
+MCB 164—Advanced Eukaryotic Genetics (3) Lecture—3 hours. Prerequisite(s): MCB 121 Five basic operations of genetic analysis: mutation, segregation, recombination, complementation, and regulation. Emphasis on the theory and practice of isolating and analyzing mutations, as well as understanding mechanisms underlying both Mendelian and epigenetic inheritance. GE credit: SE, SL. Effective: 2011 Fall Quarter.
+
+MCB 178—Undergraduate Seminar in Molecular Genetics (1) Seminar—1 hour. Prerequisite(s): BIS 101; MCB 121 (can be concurrent); Upper division standing, and completion or concurrent enrollment in MCB 121. Discussion of current topics in molecular genetics to show advanced applications of basic principles and to highlight professional career opportunities. May be repeated up to 1 time(s) when topic differs. (P/NP grading only.) GE credit: OL, SE. Effective: 2011 Fall Quarter.
+
+MCB 182—Principles of Genomics (3) Lecture—3 hours. Prerequisite(s): BIS 101 Fundamentals of genomics, including structural genomics, functional genomics, proteomics, and bioinformatics, focusing on the impact of these disciplines on research in the biological sciences. Social impacts of genomic research. GE credit: SE. Effective: 2017 Winter Quarter.
+
+MCB 190C—Undergraduate Research Conference (1) Discussion—1 hour. Prerequisite(s): MCB 193 (can be concurrent) or MCB 199 (can be concurrent); and Consent of Instructor. Upper division standing; MCB 193 or MCB 199 required concurrently. Presentation and discussion of current research by faculty and students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter
+
+MCB 191—Introduction to Research (1) Seminar—1 hour. Prerequisite(s): BIS 102 (can be concurrent); or Consent of Instructor. Various topics in molecular and cellular biology including biochemistry, genetics, and cell biology will be discussed, along with ways undergraduates can participate in research projects of faculty members. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Technical and/or practical experience on and off campus, supervised by a member of the Section of Molecular and Cellular Biology faculty. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 193—Advanced Research (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): Consent of Instructor. Upper division standing, completion of an upper division Molecular and Cellular Biology laboratory course. Research project carried out under the supervision of a faculty sponsor. Discussion and analysis of results and proposed experiments on a weekly basis with faculty sponsor. May include presentation of a seminar to a research group.May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 194—Thesis Research (3) Independent Study—9 hours. Prerequisite(s): Consent of Instructor. 6 units of course 193 and/or 199 with faculty director; senior standing. Continuation of an intensive, individual laboratory research project in biochemistry, genetics, or cell biology culminating with the presentation of the work in a written thesis and in a seminar. (P/NP grading only.) GE credit: OL, SE, WE. Effective:
+
+MCB 194H—Research Honors (3) Independent Study—9 hours. Prerequisite(s): Consent of Instructor. 6 units of MCB 193 and/or MCB 199 with faculty director; senior standing; GPA of at least 3.250. Honors project. Continuation of an intensive, individual laboratory research project in biochemistry, genetics, or cell biology culminating with the presentation of the work in a written thesis and in a seminar. (P/NP grading only.) GE credit: OL, SE, WE. Effective: 1997 Winter Quarter.
+
+MCB 197T—Tutoring in Molecular and Cellular Biology (1-5) Tutorial—2-6 hours. Prerequisite(s): Consent of Instructor. Upper division standing, completion of course to be tutored. Assisting the instructor in one of the section's regular courses by tutoring individual or small groups of students in a laboratory, in voluntary discussion groups, or other voluntary course activities. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2004 Fall Quarter.
+
+MCB 198—Directed Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 199—Special Study for Advanced Undergraduates (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 248—Seminar in Cell Biology (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Discussion of recent literature on the physical and chemical aspects of organization and function of living systems, topics of current interest in ultrastructure and function of cells. Organizational and functional properties of the molecular and cellular levels of biological systems. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+MCB 258—Seminar in Development (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Reports and discussion on embryology, morphogenesis, and developmental mechanisms. May be repeated for credit. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+MCB 259—Literature in Developmental Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Critical presentation and analysis of recent journal articles in developmental biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 282—Biotechnology Internship (7-12) Internship—21-36 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Open only to students participating in the Designated Emphasis in Biotechnology program. Research at a biotechnology company or interdisciplinary cross-college lab for a minimum of 3 months as part of the Designated Emphasis in Biotechnology Program. (S/U grading only.) Effective: 2004 Winter
+
+MCB 290C—Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Presentations and critical discussions of faculty and graduate student research in molecular and cellular biology including biochemistry, genetics, and cell biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 291—Current Progress in Molecular and Cellular Biology (1) Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Seminars presented by guest lecturers on subject of their own research activities. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 295—Literature in Molecular and Cellular Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Critical reading and evaluation of current literature in molecular and cellular biology disciplines. Papers will be presented and discussed in detail. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 298—Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997
+
+MCB 299—Research (1-12) Independent Study—3-36 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 390—Methods of Teaching (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Practical experience in the methods and problems of teaching biochemistry/genetics/cell biology.Includes analysis of texts and supporting material,discussion of teaching techniques, preparing for and conducting discussion and laboratory sections,formulating examinations under supervision of instructor.Participating in the teaching program required for Ph.D. May be repeated for credit. (S/U grading only.) Effective:
+
+MCB 010—Introduction to Human Heredity (4) Discussion—1 hour; Lecture—3 hours. Topics in human heredity and human gene structure and function, including the genetic basis of human development, causes of birth defects, mental retardation, genetic diseases, sexual determination, development, and behavior. GE credit: QL, SE, SL. Effective: 2004 Spring Quarter.
+
+MCB 023—Biography of Cancer: Past, Present and Future (3) Lecture/Discussion—3 hours. Historical account of the progression of cancer treatment, prevention, and human understanding of the biological basis of cancer. Past, present and future social implications of cancer treatment and prevention. GE credit: ACGH, SE, SL, SS, WE. Effective: 2018
+
+MCB 099—Special Study (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 110Y—iBioseminars in Cell and Molecular Biology (3) Lecture/Discussion—2 hours; Web Electronic Discussion—1.5 hours; Web Virtual Lecture—1.5 hours. Prerequisite(s): BIS 101; BIS 102; (BIS 103 or BIS 105); BIS 104 Hybrid course in Cell and Molecular Biology for senior level (1) Biochemistry/Molecular Biology; (2) Genetics; or (3) Cell Biology majors. Face-to-face instruction combined with online lectures available at iBioseminars website delivered by leading researchers in Cell and Molecular Biology. Students who have previously taken MCB 110V cannot receive credit for MCB 110Y. GE credit: SE, SL. Effective: 2014
+
+MCB 120—Molecular Biology and Biochemistry Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 102; or Consent of Instructor. Pass One restricted to upper division Biochemistry & Molecular Biology majors; concurrent enrollment in MCB 120L required; on-time attendance for first lecture is mandatory. Introduction to laboratory methods and procedures employed in studying molecular biology and biochemical processes. Lecture component for MCB 120L. GE credit: SE, SL. Effective: 2018 Winter
+
+MCB 120L—Molecular Biology and Biochemistry Laboratory (3) Laboratory—10 hours. Prerequisite(s): BIS 102; or Consent of Instructor. Must be taken concurrently with MCB 120. Pass One restricted to upper division Biochemistry & Molecular Biology majors; concurrent enrollment in MCB 120 required; on-time attendance for first lab is mandatory. Introduction to laboratory methods and procedures employed in studying molecular biology and biochemical processes. Designed for students who need experience in use of molecular biology and biochemical techniques as research and analytical tools. GE credit: QL, SE, VL, WE. Effective: 2018
+
+MCB 121—Advanced Molecular Biology (3) Lecture—3 hours. Prerequisite(s): BIS 101; (BIS 102 (can be concurrent) or BIS 105 (can be concurrent) or ABI 102 (can be concurrent)); BIS 102 or BIS 105 or ABI 102 can be concurrent although prior completion is recommended. Structure, expression, and regulation of eukaryotic genes. Chromosome structure and replication; gene structure, transcription, and RNA processing; protein synthesis and translation control; development, immune system, and oncogenes. Not open for credit to students who have completed MCB 161. GE credit: QL, SE, SL. Effective: 2014 Fall
+
+MCB 123—Behavior and Analysis of Enzyme and Receptor Systems (3) Lecture—3 hours. Prerequisite(s): BIS 103 Introduction to the principles of enzyme kinetics and receptor-ligand interactions with emphasis on metabolic regulation and data analysis. Topics include simultaneous equilibria, chemical and steady-state kinetics, allosteric enzymes, mulitreactant systems, enzyme assays, membrane transport and computer-assisted simulations and analyses. GE credit: QL, SE. Effective: 1997 Winter Quarter.
+
+MCB 124—Macromolecular Structure and Function (4) Lecture—4 hours. Prerequisite(s): BIS 103; CHE 118C An in-depth investigation into protein and nucleic acid structure and thermodynamics and how these properties influence their biological functions. Key examples of important functional classes of these molecules will be examined. Not open for credit to students who have completed MCB 122 or CHE 108. GE credit: SE. Effective:
+
+MCB 126—Plant Biochemistry (3) Lecture—3 hours. Prerequisite(s): BIS 103 or BIS 105 The biochemistry of important plant processes and metabolic pathways. Discussion of methods used to understand plant processes, including use of transgenic plants. (Plant Biology 126.) GE credit: SE, SL. Effective: 2008 Spring
+
+MCB 138—Undergraduate Seminar in Biochemistry (1) Seminar—1 hour. Prerequisite(s): BIS 103 Discussion of the historical developments of modern biochemistry or current major research problems. May be repeated twice for credit when topic differs. May be repeated up to 2 time(s). (P/NP grading only.) GE credit: OL, SE. Effective: 1997
+
+MCB 139—Undergraduate Seminar in Biochemistry (2) Seminar—2 hours. Prerequisite(s): BIS 103 Discussion of the historical developments of modern biochemistry or current major research problems. May be repeated up to 2 time(s) when topic differs. (P/NP grading only.) GE credit: OL, SE. Effective: 2015 Spring Quarter.
+
+MCB 140—Cell Biology Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 104; or Consent of Instructor. Pass One restricted to upper division Cell Biology majors; concurrent enrollment in MCB 140L required; on-time attendance for first lecture is mandatory. Lectures illustrating the principles of cell biology with emphasis on light microscopy. Accompanies MCB 140L. GE credit: OL, SE, SL, WE. Effective: 2018 Winter Quarter.
+
+MCB 140L—Cell Biology Laboratory (5) Discussion—1 hour; Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 104 (can be concurrent) Exercises illustrating the principles of cell biology with emphasis on light microscopy. GE credit: OL, QL, SE, SL, VL. Effective: 2009 Winter Quarter.
+
+MCB 142—Advanced Cell Biology: Contractile and Motile Systems (4) Lecture—3 hours; Term Paper. Prerequisite(s): BIS 102; BIS 104 (can be concurrent); MAT 016B Advanced cell biology with emphasis on molecular, biophysical and cellular properties of contractile and motile systems. GE credit: SE. Effective: 1998 Spring Quarter.
+
+MCB 143—Cell and Molecular Biophysics (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 103; BIS 104 Physical chemical principles by which molecules form living, moving, reproducing cells. Physical nature of cytoplasm; molecular structure/bonding in macromolecules, macromolecular assemblies and protein machines. Physical techniques and modeling of cytoskeletal polymer-motor dynamics and function during intracellular transport, mitosis and motility. GE credit: QL, SE. Effective: 2008 Fall Quarter.
+
+MCB 144—Mechanisms of Cell Division (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 104 The molecules and mechanisms that allow eukaryotic cells to coordinate cell growth, DNA replication, segregation of chromosomes and cell division. GE credit: SE, WE. Effective: 2002 Winter Quarter.
+
+MCB 145—Assembly and Function of Cell Signaling Machinery (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 104 Molecular basis of cell signaling, including positioning of cellular machinery, components of various signaling pathways, and downstream effects of signaling on cell adhesion, cell differentiation, and programmed cell death. GE credit: SE. Effective: 2002 Spring Quarter.
+
+MCB 148—Undergraduate Seminar in Cell Biology (2) Seminar—2 hours. Prerequisite(s): Upper division standing in the biological sciences or a related discipline. Student reports on current topics in cell biology with emphasis on integration of concepts, synthesis, and state-of-the-art research approaches. Reviews of literature and reports of undergraduate research may be included. May be repeated for credit. (P/NP grading only.) GE credit: OL, SE. Effective: 1997 Winter Quarter.
+
+MCB 150—Developmental Biology (4) Lecture—4 hours. Prerequisite(s): BIS 101 Analysis of the mechanistic basis for animal development with a focus on experimental evidence and the relevant fundamental experimental strategies. Fertilization and early development, morphogenesis and patterning, cell differentiation, regulation of cell proliferation and tissue growth. GE credit: SE, SL. Effective: 2012 Fall Quarter.
+
+MCB 158—Undergraduate Seminar in Developmental Biology (2) Seminar—2 hours. Prerequisite(s): Upper division standing in the biological sciences or a related discipline. Student reports on current topics in cell biology with emphasis on integration of concepts, synthesis, and state-of-the-art research approaches. Reviews of literature and reports of undergraduate research may be included. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: OL, SE. Effective: 1997 Winter Quarter.
+
+MCB 160—Genetics Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 101; or Consent of Instructor. Pass One restricted to upper division Genetics and Genomics majors; concurrent enrollment in MCB 160L required; on-time attendance for first lecture is mandatory. Lecture instruction in the theoretical basis of laboratory techniques in transmission and molecular genetics, discussion of lab results and experiment interpretation. GE credit: QL, SE, WE. Effective: 2018
+
+MCB 160L—Principles of Genetics Laboratory (5) Discussion/Laboratory—1 hour; Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 101 Laboratory work in basic and molecular genetics including gene mapping, isolation and characterization of mutants in eukaryotic model systems, reverse genetics, gel electrophoresis, recombinant DNA techniques, and PCR. GE credit: QL, SE, VL, WE. Effective: 2012 Fall Quarter.
+
+MCB 162—Human Genetics and Genomics (3) Lecture—3 hours. Prerequisite(s): BIS 101 The human genome and genetic variation in human populations, molecular and genomic approaches in the practice of human genetics, epigenetic gene regulation, personal genetics and genomic medicine. GE credit: QL, SE, SL. Effective: 2016 Fall
+
+MCB 163—Developmental Genetics (3) Lecture—3 hours. Prerequisite(s): MCB 121 (can be concurrent) Current aspects of developmental genetics. Historical background and current genetic approaches to the study of development of higher animals. GE credit: SE. Effective: 2017 Fall Quarter.
+
+MCB 164—Advanced Eukaryotic Genetics (3) Lecture—3 hours. Prerequisite(s): MCB 121 Five basic operations of genetic analysis: mutation, segregation, recombination, complementation, and regulation. Emphasis on the theory and practice of isolating and analyzing mutations, as well as understanding mechanisms underlying both Mendelian and epigenetic inheritance. GE credit: SE, SL. Effective: 2011 Fall Quarter.
+
+MCB 178—Undergraduate Seminar in Molecular Genetics (1) Seminar—1 hour. Prerequisite(s): BIS 101; MCB 121 (can be concurrent); Upper division standing, and completion or concurrent enrollment in MCB 121. Discussion of current topics in molecular genetics to show advanced applications of basic principles and to highlight professional career opportunities. May be repeated up to 1 time(s) when topic differs. (P/NP grading only.) GE credit: OL, SE. Effective: 2011 Fall Quarter.
+
+MCB 182—Principles of Genomics (3) Lecture—3 hours. Prerequisite(s): BIS 101 Fundamentals of genomics, including structural genomics, functional genomics, proteomics, and bioinformatics, focusing on the impact of these disciplines on research in the biological sciences. Social impacts of genomic research. GE credit: SE. Effective: 2017 Winter Quarter.
+
+MCB 190C—Undergraduate Research Conference (1) Discussion—1 hour. Prerequisite(s): MCB 193 (can be concurrent) or MCB 199 (can be concurrent); and Consent of Instructor. Upper division standing; MCB 193 or MCB 199 required concurrently. Presentation and discussion of current research by faculty and students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter
+
+MCB 191—Introduction to Research (1) Seminar—1 hour. Prerequisite(s): BIS 102 (can be concurrent); or Consent of Instructor. Various topics in molecular and cellular biology including biochemistry, genetics, and cell biology will be discussed, along with ways undergraduates can participate in research projects of faculty members. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Technical and/or practical experience on and off campus, supervised by a member of the Section of Molecular and Cellular Biology faculty. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 193—Advanced Research (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): Consent of Instructor. Upper division standing, completion of an upper division Molecular and Cellular Biology laboratory course. Research project carried out under the supervision of a faculty sponsor. Discussion and analysis of results and proposed experiments on a weekly basis with faculty sponsor. May include presentation of a seminar to a research group.May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 194—Thesis Research (3) Independent Study—9 hours. Prerequisite(s): Consent of Instructor. 6 units of course 193 and/or 199 with faculty director; senior standing. Continuation of an intensive, individual laboratory research project in biochemistry, genetics, or cell biology culminating with the presentation of the work in a written thesis and in a seminar. (P/NP grading only.) GE credit: OL, SE, WE. Effective:
+
+MCB 194H—Research Honors (3) Independent Study—9 hours. Prerequisite(s): Consent of Instructor. 6 units of MCB 193 and/or MCB 199 with faculty director; senior standing; GPA of at least 3.250. Honors project. Continuation of an intensive, individual laboratory research project in biochemistry, genetics, or cell biology culminating with the presentation of the work in a written thesis and in a seminar. (P/NP grading only.) GE credit: OL, SE, WE. Effective: 1997 Winter Quarter.
+
+MCB 197T—Tutoring in Molecular and Cellular Biology (1-5) Tutorial—2-6 hours. Prerequisite(s): Consent of Instructor. Upper division standing, completion of course to be tutored. Assisting the instructor in one of the section's regular courses by tutoring individual or small groups of students in a laboratory, in voluntary discussion groups, or other voluntary course activities. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2004 Fall Quarter.
+
+MCB 198—Directed Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 199—Special Study for Advanced Undergraduates (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 248—Seminar in Cell Biology (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Discussion of recent literature on the physical and chemical aspects of organization and function of living systems, topics of current interest in ultrastructure and function of cells. Organizational and functional properties of the molecular and cellular levels of biological systems. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+MCB 258—Seminar in Development (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Reports and discussion on embryology, morphogenesis, and developmental mechanisms. May be repeated for credit. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+MCB 259—Literature in Developmental Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Critical presentation and analysis of recent journal articles in developmental biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 282—Biotechnology Internship (7-12) Internship—21-36 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Open only to students participating in the Designated Emphasis in Biotechnology program. Research at a biotechnology company or interdisciplinary cross-college lab for a minimum of 3 months as part of the Designated Emphasis in Biotechnology Program. (S/U grading only.) Effective: 2004 Winter
+
+MCB 290C—Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Presentations and critical discussions of faculty and graduate student research in molecular and cellular biology including biochemistry, genetics, and cell biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 291—Current Progress in Molecular and Cellular Biology (1) Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Seminars presented by guest lecturers on subject of their own research activities. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 295—Literature in Molecular and Cellular Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Critical reading and evaluation of current literature in molecular and cellular biology disciplines. Papers will be presented and discussed in detail. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 298—Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997
+
+MCB 299—Research (1-12) Independent Study—3-36 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 390—Methods of Teaching (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Practical experience in the methods and problems of teaching biochemistry/genetics/cell biology.Includes analysis of texts and supporting material,discussion of teaching techniques, preparing for and conducting discussion and laboratory sections,formulating examinations under supervision of instructor.Participating in the teaching program required for Ph.D. May be repeated for credit. (S/U grading only.) Effective:
+
+MCB 010—Introduction to Human Heredity (4) Discussion—1 hour; Lecture—3 hours. Topics in human heredity and human gene structure and function, including the genetic basis of human development, causes of birth defects, mental retardation, genetic diseases, sexual determination, development, and behavior. GE credit: QL, SE, SL. Effective: 2004 Spring Quarter.
+
+MCB 023—Biography of Cancer: Past, Present and Future (3) Lecture/Discussion—3 hours. Historical account of the progression of cancer treatment, prevention, and human understanding of the biological basis of cancer. Past, present and future social implications of cancer treatment and prevention. GE credit: ACGH, SE, SL, SS, WE. Effective: 2018
+
+MCB 099—Special Study (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 110Y—iBioseminars in Cell and Molecular Biology (3) Lecture/Discussion—2 hours; Web Electronic Discussion—1.5 hours; Web Virtual Lecture—1.5 hours. Prerequisite(s): BIS 101; BIS 102; (BIS 103 or BIS 105); BIS 104 Hybrid course in Cell and Molecular Biology for senior level (1) Biochemistry/Molecular Biology; (2) Genetics; or (3) Cell Biology majors. Face-to-face instruction combined with online lectures available at iBioseminars website delivered by leading researchers in Cell and Molecular Biology. Students who have previously taken MCB 110V cannot receive credit for MCB 110Y. GE credit: SE, SL. Effective: 2014
+
+MCB 120—Molecular Biology and Biochemistry Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 102; or Consent of Instructor. Pass One restricted to upper division Biochemistry & Molecular Biology majors; concurrent enrollment in MCB 120L required; on-time attendance for first lecture is mandatory. Introduction to laboratory methods and procedures employed in studying molecular biology and biochemical processes. Lecture component for MCB 120L. GE credit: SE, SL. Effective: 2018 Winter
+
+MCB 120L—Molecular Biology and Biochemistry Laboratory (3) Laboratory—10 hours. Prerequisite(s): BIS 102; or Consent of Instructor. Must be taken concurrently with MCB 120. Pass One restricted to upper division Biochemistry & Molecular Biology majors; concurrent enrollment in MCB 120 required; on-time attendance for first lab is mandatory. Introduction to laboratory methods and procedures employed in studying molecular biology and biochemical processes. Designed for students who need experience in use of molecular biology and biochemical techniques as research and analytical tools. GE credit: QL, SE, VL, WE. Effective: 2018
+
+MCB 121—Advanced Molecular Biology (3) Lecture—3 hours. Prerequisite(s): BIS 101; (BIS 102 (can be concurrent) or BIS 105 (can be concurrent) or ABI 102 (can be concurrent)); BIS 102 or BIS 105 or ABI 102 can be concurrent although prior completion is recommended. Structure, expression, and regulation of eukaryotic genes. Chromosome structure and replication; gene structure, transcription, and RNA processing; protein synthesis and translation control; development, immune system, and oncogenes. Not open for credit to students who have completed MCB 161. GE credit: QL, SE, SL. Effective: 2014 Fall
+
+MCB 123—Behavior and Analysis of Enzyme and Receptor Systems (3) Lecture—3 hours. Prerequisite(s): BIS 103 Introduction to the principles of enzyme kinetics and receptor-ligand interactions with emphasis on metabolic regulation and data analysis. Topics include simultaneous equilibria, chemical and steady-state kinetics, allosteric enzymes, mulitreactant systems, enzyme assays, membrane transport and computer-assisted simulations and analyses. GE credit: QL, SE. Effective: 1997 Winter Quarter.
+
+MCB 124—Macromolecular Structure and Function (4) Lecture—4 hours. Prerequisite(s): BIS 103; CHE 118C An in-depth investigation into protein and nucleic acid structure and thermodynamics and how these properties influence their biological functions. Key examples of important functional classes of these molecules will be examined. Not open for credit to students who have completed MCB 122 or CHE 108. GE credit: SE. Effective:
+
+MCB 126—Plant Biochemistry (3) Lecture—3 hours. Prerequisite(s): BIS 103 or BIS 105 The biochemistry of important plant processes and metabolic pathways. Discussion of methods used to understand plant processes, including use of transgenic plants. (Plant Biology 126.) GE credit: SE, SL. Effective: 2008 Spring
+
+MCB 138—Undergraduate Seminar in Biochemistry (1) Seminar—1 hour. Prerequisite(s): BIS 103 Discussion of the historical developments of modern biochemistry or current major research problems. May be repeated twice for credit when topic differs. May be repeated up to 2 time(s). (P/NP grading only.) GE credit: OL, SE. Effective: 1997
+
+MCB 139—Undergraduate Seminar in Biochemistry (2) Seminar—2 hours. Prerequisite(s): BIS 103 Discussion of the historical developments of modern biochemistry or current major research problems. May be repeated up to 2 time(s) when topic differs. (P/NP grading only.) GE credit: OL, SE. Effective: 2015 Spring Quarter.
+
+MCB 140—Cell Biology Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 104; or Consent of Instructor. Pass One restricted to upper division Cell Biology majors; concurrent enrollment in MCB 140L required; on-time attendance for first lecture is mandatory. Lectures illustrating the principles of cell biology with emphasis on light microscopy. Accompanies MCB 140L. GE credit: OL, SE, SL, WE. Effective: 2018 Winter Quarter.
+
+MCB 140L—Cell Biology Laboratory (5) Discussion—1 hour; Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 104 (can be concurrent) Exercises illustrating the principles of cell biology with emphasis on light microscopy. GE credit: OL, QL, SE, SL, VL. Effective: 2009 Winter Quarter.
+
+MCB 142—Advanced Cell Biology: Contractile and Motile Systems (4) Lecture—3 hours; Term Paper. Prerequisite(s): BIS 102; BIS 104 (can be concurrent); MAT 016B Advanced cell biology with emphasis on molecular, biophysical and cellular properties of contractile and motile systems. GE credit: SE. Effective: 1998 Spring Quarter.
+
+MCB 143—Cell and Molecular Biophysics (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 103; BIS 104 Physical chemical principles by which molecules form living, moving, reproducing cells. Physical nature of cytoplasm; molecular structure/bonding in macromolecules, macromolecular assemblies and protein machines. Physical techniques and modeling of cytoskeletal polymer-motor dynamics and function during intracellular transport, mitosis and motility. GE credit: QL, SE. Effective: 2008 Fall Quarter.
+
+MCB 144—Mechanisms of Cell Division (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 104 The molecules and mechanisms that allow eukaryotic cells to coordinate cell growth, DNA replication, segregation of chromosomes and cell division. GE credit: SE, WE. Effective: 2002 Winter Quarter.
+
+MCB 145—Assembly and Function of Cell Signaling Machinery (3) Lecture—3 hours. Prerequisite(s): BIS 101; BIS 102; BIS 104 Molecular basis of cell signaling, including positioning of cellular machinery, components of various signaling pathways, and downstream effects of signaling on cell adhesion, cell differentiation, and programmed cell death. GE credit: SE. Effective: 2002 Spring Quarter.
+
+MCB 148—Undergraduate Seminar in Cell Biology (2) Seminar—2 hours. Prerequisite(s): Upper division standing in the biological sciences or a related discipline. Student reports on current topics in cell biology with emphasis on integration of concepts, synthesis, and state-of-the-art research approaches. Reviews of literature and reports of undergraduate research may be included. May be repeated for credit. (P/NP grading only.) GE credit: OL, SE. Effective: 1997 Winter Quarter.
+
+MCB 150—Developmental Biology (4) Lecture—4 hours. Prerequisite(s): BIS 101 Analysis of the mechanistic basis for animal development with a focus on experimental evidence and the relevant fundamental experimental strategies. Fertilization and early development, morphogenesis and patterning, cell differentiation, regulation of cell proliferation and tissue growth. GE credit: SE, SL. Effective: 2012 Fall Quarter.
+
+MCB 158—Undergraduate Seminar in Developmental Biology (2) Seminar—2 hours. Prerequisite(s): Upper division standing in the biological sciences or a related discipline. Student reports on current topics in cell biology with emphasis on integration of concepts, synthesis, and state-of-the-art research approaches. Reviews of literature and reports of undergraduate research may be included. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: OL, SE. Effective: 1997 Winter Quarter.
+
+MCB 160—Genetics Laboratory Associated Lecture (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): BIS 101; or Consent of Instructor. Pass One restricted to upper division Genetics and Genomics majors; concurrent enrollment in MCB 160L required; on-time attendance for first lecture is mandatory. Lecture instruction in the theoretical basis of laboratory techniques in transmission and molecular genetics, discussion of lab results and experiment interpretation. GE credit: QL, SE, WE. Effective: 2018
+
+MCB 160L—Principles of Genetics Laboratory (5) Discussion/Laboratory—1 hour; Laboratory—6 hours; Lecture—2 hours. Prerequisite(s): BIS 101 Laboratory work in basic and molecular genetics including gene mapping, isolation and characterization of mutants in eukaryotic model systems, reverse genetics, gel electrophoresis, recombinant DNA techniques, and PCR. GE credit: QL, SE, VL, WE. Effective: 2012 Fall Quarter.
+
+MCB 162—Human Genetics and Genomics (3) Lecture—3 hours. Prerequisite(s): BIS 101 The human genome and genetic variation in human populations, molecular and genomic approaches in the practice of human genetics, epigenetic gene regulation, personal genetics and genomic medicine. GE credit: QL, SE, SL. Effective: 2016 Fall
+
+MCB 163—Developmental Genetics (3) Lecture—3 hours. Prerequisite(s): MCB 121 (can be concurrent) Current aspects of developmental genetics. Historical background and current genetic approaches to the study of development of higher animals. GE credit: SE. Effective: 2017 Fall Quarter.
+
+MCB 164—Advanced Eukaryotic Genetics (3) Lecture—3 hours. Prerequisite(s): MCB 121 Five basic operations of genetic analysis: mutation, segregation, recombination, complementation, and regulation. Emphasis on the theory and practice of isolating and analyzing mutations, as well as understanding mechanisms underlying both Mendelian and epigenetic inheritance. GE credit: SE, SL. Effective: 2011 Fall Quarter.
+
+MCB 178—Undergraduate Seminar in Molecular Genetics (1) Seminar—1 hour. Prerequisite(s): BIS 101; MCB 121 (can be concurrent); Upper division standing, and completion or concurrent enrollment in MCB 121. Discussion of current topics in molecular genetics to show advanced applications of basic principles and to highlight professional career opportunities. May be repeated up to 1 time(s) when topic differs. (P/NP grading only.) GE credit: OL, SE. Effective: 2011 Fall Quarter.
+
+MCB 182—Principles of Genomics (3) Lecture—3 hours. Prerequisite(s): BIS 101 Fundamentals of genomics, including structural genomics, functional genomics, proteomics, and bioinformatics, focusing on the impact of these disciplines on research in the biological sciences. Social impacts of genomic research. GE credit: SE. Effective: 2017 Winter Quarter.
+
+MCB 190C—Undergraduate Research Conference (1) Discussion—1 hour. Prerequisite(s): MCB 193 (can be concurrent) or MCB 199 (can be concurrent); and Consent of Instructor. Upper division standing; MCB 193 or MCB 199 required concurrently. Presentation and discussion of current research by faculty and students. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter
+
+MCB 191—Introduction to Research (1) Seminar—1 hour. Prerequisite(s): BIS 102 (can be concurrent); or Consent of Instructor. Various topics in molecular and cellular biology including biochemistry, genetics, and cell biology will be discussed, along with ways undergraduates can participate in research projects of faculty members. May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 192—Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Technical and/or practical experience on and off campus, supervised by a member of the Section of Molecular and Cellular Biology faculty. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 193—Advanced Research (3) Discussion—1 hour; Laboratory—6 hours. Prerequisite(s): Consent of Instructor. Upper division standing, completion of an upper division Molecular and Cellular Biology laboratory course. Research project carried out under the supervision of a faculty sponsor. Discussion and analysis of results and proposed experiments on a weekly basis with faculty sponsor. May include presentation of a seminar to a research group.May be repeated for credit. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 194—Thesis Research (3) Independent Study—9 hours. Prerequisite(s): Consent of Instructor. 6 units of course 193 and/or 199 with faculty director; senior standing. Continuation of an intensive, individual laboratory research project in biochemistry, genetics, or cell biology culminating with the presentation of the work in a written thesis and in a seminar. (P/NP grading only.) GE credit: OL, SE, WE. Effective:
+
+MCB 194H—Research Honors (3) Independent Study—9 hours. Prerequisite(s): Consent of Instructor. 6 units of MCB 193 and/or MCB 199 with faculty director; senior standing; GPA of at least 3.250. Honors project. Continuation of an intensive, individual laboratory research project in biochemistry, genetics, or cell biology culminating with the presentation of the work in a written thesis and in a seminar. (P/NP grading only.) GE credit: OL, SE, WE. Effective: 1997 Winter Quarter.
+
+MCB 197T—Tutoring in Molecular and Cellular Biology (1-5) Tutorial—2-6 hours. Prerequisite(s): Consent of Instructor. Upper division standing, completion of course to be tutored. Assisting the instructor in one of the section's regular courses by tutoring individual or small groups of students in a laboratory, in voluntary discussion groups, or other voluntary course activities. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2004 Fall Quarter.
+
+MCB 198—Directed Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 199—Special Study for Advanced Undergraduates (1-5) Independent Study—3-15 hours. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+MCB 248—Seminar in Cell Biology (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Discussion of recent literature on the physical and chemical aspects of organization and function of living systems, topics of current interest in ultrastructure and function of cells. Organizational and functional properties of the molecular and cellular levels of biological systems. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+MCB 258—Seminar in Development (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Reports and discussion on embryology, morphogenesis, and developmental mechanisms. May be repeated for credit. May be repeated for credit. Effective: 1997 Winter Quarter.
+
+MCB 259—Literature in Developmental Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Critical presentation and analysis of recent journal articles in developmental biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 282—Biotechnology Internship (7-12) Internship—21-36 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Open only to students participating in the Designated Emphasis in Biotechnology program. Research at a biotechnology company or interdisciplinary cross-college lab for a minimum of 3 months as part of the Designated Emphasis in Biotechnology Program. (S/U grading only.) Effective: 2004 Winter
+
+MCB 290C—Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Presentations and critical discussions of faculty and graduate student research in molecular and cellular biology including biochemistry, genetics, and cell biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 291—Current Progress in Molecular and Cellular Biology (1) Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Seminars presented by guest lecturers on subject of their own research activities. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 295—Literature in Molecular and Cellular Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Critical reading and evaluation of current literature in molecular and cellular biology disciplines. Papers will be presented and discussed in detail. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 298—Group Study (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997
+
+MCB 299—Research (1-12) Independent Study—3-36 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+MCB 390—Methods of Teaching (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Practical experience in the methods and problems of teaching biochemistry/genetics/cell biology.Includes analysis of texts and supporting material,discussion of teaching techniques, preparing for and conducting discussion and laboratory sections,formulating examinations under supervision of instructor.Participating in the teaching program required for Ph.D. May be repeated for credit. (S/U grading only.) Effective:

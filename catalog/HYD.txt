@@ -1,0 +1,351 @@
+HYD 010—Water, Power, Society (3) Discussion—1 hour; Lecture—2 hours. Water resources issues. How water has been used to gain and wield socio-political power. Water resources development in California as related to current and future sustainability of water quantity and quality. Roles of science and policy in solving water problems. (Science and Society 10.) GE credit: SE, SL, SS. Effective: 2005 Spring Quarter.
+
+HYD 092—Hydrologic Science Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Lower division student. Work experience off and on campus in Hydrologic Science. Internship supervised by a member of the faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2002 Spring
+
+HYD 103N—Fluid Mechanics Fundamentals (4) Lecture—4 hours. Prerequisite(s): PHY 009B Fluid mechanics axioms, fluid statics, kinematics, velocity fields for one-dimensional incompressible flow and boundary layers, turbulent flow time averaging, potential flow, dimensional analysis, and macroscopic balances to solve a range of practical problems. (Biological Systems Engineering 103.) GE credit: QL, SE, VL. Effective: 2005
+
+HYD 110—Irrigation Principles and Practices (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): PHY 007A; SSC 100 recommended. General course for agricultural and engineering students dealing with soil and plant aspects of irrigation and drainage. Soil-water principles including water movement, plant responses to irrigation regimes, water use by crops; also irrigation systems and water quality. Not open for credit to students who have completed WSC 110. GE credit: SE, SL. Effective: 2009 Fall Quarter.
+
+HYD 124—Plant-Water-Soil Relationships (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): One upper division course in soil science, such as SSC 100; and one upper division course in plant science or plant biology, such as PLB 111; or consent of instructor. Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant ecophysiology (e.g., drought). Not open for credit to students who have completed Water Science 104. GE credit: QL, SE, SL. Effective: 2008 Spring Quarter.
+
+HYD 124—Plant-Water-Soil Relationships (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (SSC 100 (can be concurrent) or SSC 107 (can be concurrent)); (PLS 100A (can be concurrent) or PLB 111 (can be concurrent)); or Consent of Instructor. Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant eco-physiology (e.g., drought). Not open for credit to students who have completed WSC 104. GE credit: QL, SE, SL. Effective: 2018 Fall Quarter.
+
+HYD 134—Aqueous Geochemistry (6) Laboratory—3 hours; Lecture—4 hours. Prerequisite(s): CHE 002B Chemistry of natural waters; dielectric properties of water; thermodynamic and mass-action relations; metal hydrolysis; acidbase equilibria; metal-coordination chemistry; solubility calculations; electron-exchange reactions; sorptive partitioning; ion exchange; and dissolved organic matter. GE credit: QL, SE. Effective:
+
+HYD 141—Physical Hydrology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): PHY 009B; MAT 021B; HYD 100 recommended. Introduction to the processes that constitute the hydrologic cycle. Special emphasis on a quantitative description of the following processes: precipitation, infiltration, evaporation, transpiration, surface runoff, and groundwater runoff. GE credit: QL, SE, SL, VL. Effective: 1997
+
+HYD 142—Systems Hydrology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): HYD 141 or ECI 142 General course considering hydrologic processes from a systems or statistical model perspective. General probability concepts are applied to frequency, time series and spatial data analysis. Linear systems are also considered in conjunction with Kalman filter techniques. GE credit: OL, QL, SE. Effective:
+
+HYD 143—Ecohydrology (4) Extensive Problem Solving; Lecture/Discussion—3 hours. Prerequisite(s): HYD 010 or HYD 141 or ESP 001 or ESM 100 or ESM 108 or ESM 120 or GEL 001 or GEL 050 or SSC 100; or Consent of Instructor. Movement and storage of water in individual ecosystems and the integrated functioning of water and biota at the watershed scale. GE credit: OL, QL, SE, SL. Effective: 2017 Winter
+
+HYD 144—Groundwater Hydrology (4) Lecture—4 hours. Prerequisite(s): MAT 016B or MAT 021A; HYD 103 or ENG 103 recommended. Fundamentals of groundwater flow and contaminant hydrology. Occurrence, distribution, and movement of groundwater. Well-flow systems. Aquifer tests. Well construction operation and maintenance. Groundwater exploration and quality assessment. Agricultural threats to groundwater quality: fertilizers, pesticides, and salts. (Biological Systems Engineering 144.) GE credit: QL, SE, SL, VL. Effective: 2006 Fall Quarter.
+
+HYD 145—Water Science and Design (4) Review all entries Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or MAT 016C or MAT 017C or MAT 021C; or Consent of Instructor. Introduction to watershed engineering, storm water management, design of hydraulic systems. Topics include hydrological risk analysis, flood routing, design storms, open channel flow, pipes, culverts, spillways, and detention basins. Class project and field trips will apply theory to real-life problems. GE credit: QL, SE, SL, WE. Effective: 2016 Fall
+
+HYD 145—Water Science and Design (4) Review all entries Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (HYD 141 or ESM 100); (MAT 016B or MAT 021B); or Consent of Instructor. Introduction to watershed engineering, storm water management, design of hydraulic systems. Topics include hydrological risk analysis, flood routing, design storms, open channel flow, pipes, culverts, spillways, and detention basins. Class project and field trips will apply theory to real-life problems. GE credit: QL, SE, SL, WE. Effective: 2018 Fall Quarter.
+
+HYD 146—Hydrogeology and Contaminant Transport (5) Laboratory—2 hours; Lecture—3 hours; Term Paper—1 hour. Prerequisite(s): HYD 144 or ECI 144; Or the equivalent. Physical and chemical processes affecting groundwater flow and contaminant transport, with emphasis on realistic hydrogeologic examples. Groundwater geology and chemistry. Fundamentals of groundwater flow and transport analysis. Laboratory includes field pumping test and work with physical and computer models. (Geology 156.) GE credit: SE. Effective: 2002 Winter
+
+HYD 147—Runoff, Erosion and Water Quality Management (3) Fieldwork; Lecture/Lab—3 hours. Prerequisite(s): (PHY 007B or PHY 009B); (MAT 016C or MAT 017C or MAT 021C); (ECI 142 or HYD 141 or ESM 100); or equivalent. Practical hydrology and runoff water quality management from disturbed watersheds. Development of hillslope and soils restoration concepts and practice, modeling and application. (Biological Systems Engineering 147.) GE credit: SE. Effective: 2018 Spring Quarter.
+
+HYD 150—Water Law (3) Lecture—3 hours. Prerequisite(s): Consent of instructor or upper division standing. Principles and issues of California Water Law.Types of water rights, groundwater rights and management, and protection of instream uses.Water projects, role of federal government and federal/state relations. Basic water quality acts, endangered species act, water transfers and current water issues. GE credit: ACGH, SS. Effective: 2016 Fall Quarter.
+
+HYD 151—Field Methods in Hydrology (4) Fieldwork—3 hours; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): ERS 100 or HYD 141 Measurement methods and data analysis for evaluation of water storage, movement and contamination in the field. Equipment such as data loggers, water and sediment samplers, pressure transducers, weather stations, surveying equipment, and flow meters will be used. GE credit: QL, SE, SL. Effective: 2003 Winter Quarter.
+
+HYD 182—Environmental Analysis using GIS (4) Laboratory—4 hours; Lecture—2 hours. Prerequisite(s): ABT 150 or LDA 150; Or equivalent GIS experience and skills; general biology and/or ecology courses are recommended. Ecosystem and landscape modeling with emphasis on hydrology and solute transport. Spatial analysis of environmental risk analysis including ecological risk assessment, natural resource management. Spatial database structures, scripting, data models, and error analysis in GIS. (Applied Biological Systems Technology 182.) GE credit: QL, SE, SL, VL. Effective: 2018 Winter Quarter.
+
+HYD 192—Hydrologic Science Internship (1-12) Internship—3-40 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Work experience off and on campus in water science. Internship supervised by a member of the faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 198—Directed Group Study (1-5) Variable. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 199—Special Study for Advanced Undergraduate (1-5) Variable. Prerequisite(s): Senior standing. (P/NP grading only.) Effective: 1997 Fall Quarter.
+
+HYD 200—Survey of Hydrologic Sciences (1) Seminar—1 hour; Term Paper. Prerequisite(s): Open to students in the Hydrologic Sciences program. Seminar course exposes students to the diversity of sciences involved in the program. Students prepare a paper and presentation in their area of research interest. May be repeated twice for credit. May be repeated up to 2 time(s). (S/U grading only.) Effective: 1997 Winter
+
+HYD 201A—Hydrologic Sciences Core Survey (3) Lecture/Discussion—2 hours; Project (Term Project). Considers the primary sub-disciplines while reviewing the fundamental scientific concepts/processes of the hydrologic sciences research community, and includes a basic writing component. Effective: 2017 Fall Quarter.
+
+HYD 201B—Hydrologic Sciences Core Seminar (1) Seminar—2 hours. Exposes students to the research underway in the Hydrologic Sciences Graduate Group as well as provide them the opportunity to present and refine their research through interaction with other students in the Graduate Group. (P/NP grading only.) Effective: 2018 Winter
+
+HYD 205—Continuum Mechanics of Natural Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021D; MAT 022B; PHY 009B Continuum mechanics of static and dynamic air, water, earth and biological systems using hydraulic, heat and electrical conductivity; diffusivity; dispersion; strain; stress; deformation gradient; velocity gradient; stretch and spin tensors. (Biological Systems Engineering 205.) Effective: 2002 Fall
+
+HYD 210—Vadose Modeling and Characterization (3) Discussion—0.5 hours; Laboratory—3 hours; Lecture—1.5 hours. Prerequisite(s): SSC 107; or Consent of Instructor. Principles and modeling of water flow and chemical transport in the vadose zone, with specific applications to soils. Topics include hydraulic properties, finite difference application to unsaturated water flow, parameter optimization, diffusive and convective transport in gaseous and liquid phases. Effective: 2015 Spring Quarter.
+
+HYD 243—Water Resource Planning and Management (3) Lecture—3 hours. Prerequisite(s): HYD 141 or ECI 142 Applications of deterministic and stochastic mathematical programming techniques to water resource planning, analysis, design and management. Water allocation, capacity expansion, and reservoir operation. Conjunctive use of surface water and groundwater. Water quality management. Irrigation planning and operation models. (Biological Systems Engineering 243.) Effective: 1997 Fall Quarter.
+
+HYD 245—Climate Change, Water and Society (4) Lecture—4 hours. Class size limited to 25 students. Integration of climate science and hydrology with policy to understand hydroclimatology and its impact upon natural and human systems. Assignments: readings, take-home examination on climate and hydrologic science, paper that integrates course concepts into a research prospectus or review article. (Atmospheric Science 245 and Ecology 245.) Effective: 2015 Spring Quarter.
+
+HYD 252—Hillslope Geomorphology and Sediment Budgets (4) Fieldwork—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or GEL 035 or ECI 142; or Consent of Instructor. Exploration of theoretical and empirical foundations of sediment production on hillslopes using computer models and field experiments to promote an understanding of how watersheds evolve naturally and with human impacts. Effective: 2001 Spring Quarter.
+
+HYD 254Y—Ecohydraulics (3) Discussion—1 hour; Extensive Problem Solving; Web Virtual Lecture—1 hour. Use of 2D hydrodynamic modeling to perform instream flow assessment by exploring flow-dependent hydraulic patterns at multiple spatial scales and extrapolating results with empirical and analytical functions to evaluate geomorphic resilience and ecological functions. Effective: 2014 Fall Quarter.
+
+HYD 256—Geomorphology of Estuaries and Deltas (4) Fieldwork—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or GEL 035; or ECI 042 or Consent of Instructor. Survey of the processes and landforms associated with sediment deposition in the coastal zone. Application of geomorphic principles to coastal management issues. Effective: 2002
+
+HYD 264—Modeling of Hydrologic Processes (3) Lecture—3 hours. Prerequisite(s): HYD 141; STA 102; Or the equivalents. Techniques used to model the spatio-temporal structure of rainfall and runoff are introduced. Procedures studied include those based on stochastic point processes, chaos theory, fractal geometry, and fractional noises. Effective: 1997 Winter Quarter.
+
+HYD 269—Numerical Modeling of Groundwater Systems (3) Lecture—3 hours. Prerequisite(s): MAT 022B; (ECI 144; or HYD 145A); HYD 145B; Finite difference and finite element techniques in modeling groundwater flow and transport. Fundamentals of constructing and calibrating models with hands-on applications. Methods and limitations of numerical solution of transport equations. Model interpretation and ethics. Effective: 1997 Winter
+
+HYD 273—Introduction to Geostatistics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): STA 130A; STA 130B; Or the equivalent. Statistical treatment of spatial data with hydrologic emphasis. Topics: theory of random functions, variogram analysis, Kriging/co-Kriging, indicator geostatistics, and stochastic simulation of spatial variability. Geostatistical software use. Effective: 2018 Winter Quarter.
+
+HYD 274—Practice of Groundwater Flow and Transport Modeling (3) Lecture—2 hours; Lecture/Discussion—0.5 hours; Lecture/Lab—0.5 hours. Prerequisite(s): HYD 269; (ECI 272B or ECI 272C) Selecting and building groundwater flow and transport models. Planning, preparation, execution, presentation, and review of modeling projects. Review of methods, assumptions, and limitations of groundwater models; practicing with MODFLOW, MT3D, associated GUI, and with other groundwater modeling software of choice. Effective: 2012 Fall
+
+HYD 275—Analysis of Spatial Processes (3) Lecture—3 hours. Prerequisite(s): STA 102; Or the equivalent; HYD 273 or STA 273A recommended. Characterization of homogeneous random fields; extremes and spectral parameters; geometry of excursions, local averaging; scale of fluctuation; non-Gaussian and irregular random fields; geostatistical applications. Effective: 1997 Winter Quarter.
+
+HYD 286—Selected Topics in Environmental Remote Sensing (3) Discussion—2 hours; Lecture—1 hour; Project (Term Project). Prerequisite(s): ERS 186; Consent of Instructor. Or equivalent; ERS 186L recommended. In depth investigation of advanced topics in remote sensing applications, measurements, and theory. May be repeated for credit. (Geography 286.) Effective: 2014 Fall Quarter.
+
+HYD 290—Seminar in Hydrologic Science (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing and background in Hydrologic Science. Seminars and critical review of problems, issues, and research in hydrologic sciences. Oral presentations of research. Topics will vary. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+HYD 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+HYD 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+HYD 396—Teaching Assistant Training Practicum (1-4) Variable. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 410—OSHA HAZWOPER Refresher Course (1) Lecture—1 hour. Updates hazardous materials handling information for purposes of keeping certification current. Certification lapses until the refresher course is complete. (P/NP grading only.) Effective: 1998 Winter Quarter.
+
+HYD 440—Hazardous Waste Operations Training (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): Upper division standing in College of Agricultural and Environmental Sciences. Forty-hour course designed to meet the requirements of Federal OSHA regulation CFR 1910.120. Covers the health, regulatory, processing and safe handling issues/problems associated with working with hazardous materials. (P/NP grading only.) Effective: 1997 Spring Quarter.
+
+HYD 010—Water, Power, Society (3) Discussion—1 hour; Lecture—2 hours. Water resources issues. How water has been used to gain and wield socio-political power. Water resources development in California as related to current and future sustainability of water quantity and quality. Roles of science and policy in solving water problems. (Science and Society 10.) GE credit: SE, SL, SS. Effective: 2005 Spring Quarter.
+
+HYD 092—Hydrologic Science Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Lower division student. Work experience off and on campus in Hydrologic Science. Internship supervised by a member of the faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2002 Spring
+
+HYD 103N—Fluid Mechanics Fundamentals (4) Lecture—4 hours. Prerequisite(s): PHY 009B Fluid mechanics axioms, fluid statics, kinematics, velocity fields for one-dimensional incompressible flow and boundary layers, turbulent flow time averaging, potential flow, dimensional analysis, and macroscopic balances to solve a range of practical problems. (Biological Systems Engineering 103.) GE credit: QL, SE, VL. Effective: 2005
+
+HYD 110—Irrigation Principles and Practices (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): PHY 007A; SSC 100 recommended. General course for agricultural and engineering students dealing with soil and plant aspects of irrigation and drainage. Soil-water principles including water movement, plant responses to irrigation regimes, water use by crops; also irrigation systems and water quality. Not open for credit to students who have completed WSC 110. GE credit: SE, SL. Effective: 2009 Fall Quarter.
+
+HYD 124—Plant-Water-Soil Relationships (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): One upper division course in soil science, such as SSC 100; and one upper division course in plant science or plant biology, such as PLB 111; or consent of instructor. Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant ecophysiology (e.g., drought). Not open for credit to students who have completed Water Science 104. GE credit: QL, SE, SL. Effective: 2008 Spring Quarter.
+
+HYD 124—Plant-Water-Soil Relationships (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (SSC 100 (can be concurrent) or SSC 107 (can be concurrent)); (PLS 100A (can be concurrent) or PLB 111 (can be concurrent)); or Consent of Instructor. Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant eco-physiology (e.g., drought). Not open for credit to students who have completed WSC 104. GE credit: QL, SE, SL. Effective: 2018 Fall Quarter.
+
+HYD 134—Aqueous Geochemistry (6) Laboratory—3 hours; Lecture—4 hours. Prerequisite(s): CHE 002B Chemistry of natural waters; dielectric properties of water; thermodynamic and mass-action relations; metal hydrolysis; acidbase equilibria; metal-coordination chemistry; solubility calculations; electron-exchange reactions; sorptive partitioning; ion exchange; and dissolved organic matter. GE credit: QL, SE. Effective:
+
+HYD 141—Physical Hydrology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): PHY 009B; MAT 021B; HYD 100 recommended. Introduction to the processes that constitute the hydrologic cycle. Special emphasis on a quantitative description of the following processes: precipitation, infiltration, evaporation, transpiration, surface runoff, and groundwater runoff. GE credit: QL, SE, SL, VL. Effective: 1997
+
+HYD 142—Systems Hydrology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): HYD 141 or ECI 142 General course considering hydrologic processes from a systems or statistical model perspective. General probability concepts are applied to frequency, time series and spatial data analysis. Linear systems are also considered in conjunction with Kalman filter techniques. GE credit: OL, QL, SE. Effective:
+
+HYD 143—Ecohydrology (4) Extensive Problem Solving; Lecture/Discussion—3 hours. Prerequisite(s): HYD 010 or HYD 141 or ESP 001 or ESM 100 or ESM 108 or ESM 120 or GEL 001 or GEL 050 or SSC 100; or Consent of Instructor. Movement and storage of water in individual ecosystems and the integrated functioning of water and biota at the watershed scale. GE credit: OL, QL, SE, SL. Effective: 2017 Winter
+
+HYD 144—Groundwater Hydrology (4) Lecture—4 hours. Prerequisite(s): MAT 016B or MAT 021A; HYD 103 or ENG 103 recommended. Fundamentals of groundwater flow and contaminant hydrology. Occurrence, distribution, and movement of groundwater. Well-flow systems. Aquifer tests. Well construction operation and maintenance. Groundwater exploration and quality assessment. Agricultural threats to groundwater quality: fertilizers, pesticides, and salts. (Biological Systems Engineering 144.) GE credit: QL, SE, SL, VL. Effective: 2006 Fall Quarter.
+
+HYD 145—Water Science and Design (4) Review all entries Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or MAT 016C or MAT 017C or MAT 021C; or Consent of Instructor. Introduction to watershed engineering, storm water management, design of hydraulic systems. Topics include hydrological risk analysis, flood routing, design storms, open channel flow, pipes, culverts, spillways, and detention basins. Class project and field trips will apply theory to real-life problems. GE credit: QL, SE, SL, WE. Effective: 2016 Fall
+
+HYD 145—Water Science and Design (4) Review all entries Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (HYD 141 or ESM 100); (MAT 016B or MAT 021B); or Consent of Instructor. Introduction to watershed engineering, storm water management, design of hydraulic systems. Topics include hydrological risk analysis, flood routing, design storms, open channel flow, pipes, culverts, spillways, and detention basins. Class project and field trips will apply theory to real-life problems. GE credit: QL, SE, SL, WE. Effective: 2018 Fall Quarter.
+
+HYD 146—Hydrogeology and Contaminant Transport (5) Laboratory—2 hours; Lecture—3 hours; Term Paper—1 hour. Prerequisite(s): HYD 144 or ECI 144; Or the equivalent. Physical and chemical processes affecting groundwater flow and contaminant transport, with emphasis on realistic hydrogeologic examples. Groundwater geology and chemistry. Fundamentals of groundwater flow and transport analysis. Laboratory includes field pumping test and work with physical and computer models. (Geology 156.) GE credit: SE. Effective: 2002 Winter
+
+HYD 147—Runoff, Erosion and Water Quality Management (3) Fieldwork; Lecture/Lab—3 hours. Prerequisite(s): (PHY 007B or PHY 009B); (MAT 016C or MAT 017C or MAT 021C); (ECI 142 or HYD 141 or ESM 100); or equivalent. Practical hydrology and runoff water quality management from disturbed watersheds. Development of hillslope and soils restoration concepts and practice, modeling and application. (Biological Systems Engineering 147.) GE credit: SE. Effective: 2018 Spring Quarter.
+
+HYD 150—Water Law (3) Lecture—3 hours. Prerequisite(s): Consent of instructor or upper division standing. Principles and issues of California Water Law.Types of water rights, groundwater rights and management, and protection of instream uses.Water projects, role of federal government and federal/state relations. Basic water quality acts, endangered species act, water transfers and current water issues. GE credit: ACGH, SS. Effective: 2016 Fall Quarter.
+
+HYD 151—Field Methods in Hydrology (4) Fieldwork—3 hours; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): ERS 100 or HYD 141 Measurement methods and data analysis for evaluation of water storage, movement and contamination in the field. Equipment such as data loggers, water and sediment samplers, pressure transducers, weather stations, surveying equipment, and flow meters will be used. GE credit: QL, SE, SL. Effective: 2003 Winter Quarter.
+
+HYD 182—Environmental Analysis using GIS (4) Laboratory—4 hours; Lecture—2 hours. Prerequisite(s): ABT 150 or LDA 150; Or equivalent GIS experience and skills; general biology and/or ecology courses are recommended. Ecosystem and landscape modeling with emphasis on hydrology and solute transport. Spatial analysis of environmental risk analysis including ecological risk assessment, natural resource management. Spatial database structures, scripting, data models, and error analysis in GIS. (Applied Biological Systems Technology 182.) GE credit: QL, SE, SL, VL. Effective: 2018 Winter Quarter.
+
+HYD 192—Hydrologic Science Internship (1-12) Internship—3-40 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Work experience off and on campus in water science. Internship supervised by a member of the faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 198—Directed Group Study (1-5) Variable. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 199—Special Study for Advanced Undergraduate (1-5) Variable. Prerequisite(s): Senior standing. (P/NP grading only.) Effective: 1997 Fall Quarter.
+
+HYD 200—Survey of Hydrologic Sciences (1) Seminar—1 hour; Term Paper. Prerequisite(s): Open to students in the Hydrologic Sciences program. Seminar course exposes students to the diversity of sciences involved in the program. Students prepare a paper and presentation in their area of research interest. May be repeated twice for credit. May be repeated up to 2 time(s). (S/U grading only.) Effective: 1997 Winter
+
+HYD 201A—Hydrologic Sciences Core Survey (3) Lecture/Discussion—2 hours; Project (Term Project). Considers the primary sub-disciplines while reviewing the fundamental scientific concepts/processes of the hydrologic sciences research community, and includes a basic writing component. Effective: 2017 Fall Quarter.
+
+HYD 201B—Hydrologic Sciences Core Seminar (1) Seminar—2 hours. Exposes students to the research underway in the Hydrologic Sciences Graduate Group as well as provide them the opportunity to present and refine their research through interaction with other students in the Graduate Group. (P/NP grading only.) Effective: 2018 Winter
+
+HYD 205—Continuum Mechanics of Natural Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021D; MAT 022B; PHY 009B Continuum mechanics of static and dynamic air, water, earth and biological systems using hydraulic, heat and electrical conductivity; diffusivity; dispersion; strain; stress; deformation gradient; velocity gradient; stretch and spin tensors. (Biological Systems Engineering 205.) Effective: 2002 Fall
+
+HYD 210—Vadose Modeling and Characterization (3) Discussion—0.5 hours; Laboratory—3 hours; Lecture—1.5 hours. Prerequisite(s): SSC 107; or Consent of Instructor. Principles and modeling of water flow and chemical transport in the vadose zone, with specific applications to soils. Topics include hydraulic properties, finite difference application to unsaturated water flow, parameter optimization, diffusive and convective transport in gaseous and liquid phases. Effective: 2015 Spring Quarter.
+
+HYD 243—Water Resource Planning and Management (3) Lecture—3 hours. Prerequisite(s): HYD 141 or ECI 142 Applications of deterministic and stochastic mathematical programming techniques to water resource planning, analysis, design and management. Water allocation, capacity expansion, and reservoir operation. Conjunctive use of surface water and groundwater. Water quality management. Irrigation planning and operation models. (Biological Systems Engineering 243.) Effective: 1997 Fall Quarter.
+
+HYD 245—Climate Change, Water and Society (4) Lecture—4 hours. Class size limited to 25 students. Integration of climate science and hydrology with policy to understand hydroclimatology and its impact upon natural and human systems. Assignments: readings, take-home examination on climate and hydrologic science, paper that integrates course concepts into a research prospectus or review article. (Atmospheric Science 245 and Ecology 245.) Effective: 2015 Spring Quarter.
+
+HYD 252—Hillslope Geomorphology and Sediment Budgets (4) Fieldwork—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or GEL 035 or ECI 142; or Consent of Instructor. Exploration of theoretical and empirical foundations of sediment production on hillslopes using computer models and field experiments to promote an understanding of how watersheds evolve naturally and with human impacts. Effective: 2001 Spring Quarter.
+
+HYD 254Y—Ecohydraulics (3) Discussion—1 hour; Extensive Problem Solving; Web Virtual Lecture—1 hour. Use of 2D hydrodynamic modeling to perform instream flow assessment by exploring flow-dependent hydraulic patterns at multiple spatial scales and extrapolating results with empirical and analytical functions to evaluate geomorphic resilience and ecological functions. Effective: 2014 Fall Quarter.
+
+HYD 256—Geomorphology of Estuaries and Deltas (4) Fieldwork—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or GEL 035; or ECI 042 or Consent of Instructor. Survey of the processes and landforms associated with sediment deposition in the coastal zone. Application of geomorphic principles to coastal management issues. Effective: 2002
+
+HYD 264—Modeling of Hydrologic Processes (3) Lecture—3 hours. Prerequisite(s): HYD 141; STA 102; Or the equivalents. Techniques used to model the spatio-temporal structure of rainfall and runoff are introduced. Procedures studied include those based on stochastic point processes, chaos theory, fractal geometry, and fractional noises. Effective: 1997 Winter Quarter.
+
+HYD 269—Numerical Modeling of Groundwater Systems (3) Lecture—3 hours. Prerequisite(s): MAT 022B; (ECI 144; or HYD 145A); HYD 145B; Finite difference and finite element techniques in modeling groundwater flow and transport. Fundamentals of constructing and calibrating models with hands-on applications. Methods and limitations of numerical solution of transport equations. Model interpretation and ethics. Effective: 1997 Winter
+
+HYD 273—Introduction to Geostatistics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): STA 130A; STA 130B; Or the equivalent. Statistical treatment of spatial data with hydrologic emphasis. Topics: theory of random functions, variogram analysis, Kriging/co-Kriging, indicator geostatistics, and stochastic simulation of spatial variability. Geostatistical software use. Effective: 2018 Winter Quarter.
+
+HYD 274—Practice of Groundwater Flow and Transport Modeling (3) Lecture—2 hours; Lecture/Discussion—0.5 hours; Lecture/Lab—0.5 hours. Prerequisite(s): HYD 269; (ECI 272B or ECI 272C) Selecting and building groundwater flow and transport models. Planning, preparation, execution, presentation, and review of modeling projects. Review of methods, assumptions, and limitations of groundwater models; practicing with MODFLOW, MT3D, associated GUI, and with other groundwater modeling software of choice. Effective: 2012 Fall
+
+HYD 275—Analysis of Spatial Processes (3) Lecture—3 hours. Prerequisite(s): STA 102; Or the equivalent; HYD 273 or STA 273A recommended. Characterization of homogeneous random fields; extremes and spectral parameters; geometry of excursions, local averaging; scale of fluctuation; non-Gaussian and irregular random fields; geostatistical applications. Effective: 1997 Winter Quarter.
+
+HYD 286—Selected Topics in Environmental Remote Sensing (3) Discussion—2 hours; Lecture—1 hour; Project (Term Project). Prerequisite(s): ERS 186; Consent of Instructor. Or equivalent; ERS 186L recommended. In depth investigation of advanced topics in remote sensing applications, measurements, and theory. May be repeated for credit. (Geography 286.) Effective: 2014 Fall Quarter.
+
+HYD 290—Seminar in Hydrologic Science (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing and background in Hydrologic Science. Seminars and critical review of problems, issues, and research in hydrologic sciences. Oral presentations of research. Topics will vary. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+HYD 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+HYD 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+HYD 396—Teaching Assistant Training Practicum (1-4) Variable. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 410—OSHA HAZWOPER Refresher Course (1) Lecture—1 hour. Updates hazardous materials handling information for purposes of keeping certification current. Certification lapses until the refresher course is complete. (P/NP grading only.) Effective: 1998 Winter Quarter.
+
+HYD 440—Hazardous Waste Operations Training (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): Upper division standing in College of Agricultural and Environmental Sciences. Forty-hour course designed to meet the requirements of Federal OSHA regulation CFR 1910.120. Covers the health, regulatory, processing and safe handling issues/problems associated with working with hazardous materials. (P/NP grading only.) Effective: 1997 Spring Quarter.
+
+HYD 010—Water, Power, Society (3) Discussion—1 hour; Lecture—2 hours. Water resources issues. How water has been used to gain and wield socio-political power. Water resources development in California as related to current and future sustainability of water quantity and quality. Roles of science and policy in solving water problems. (Science and Society 10.) GE credit: SE, SL, SS. Effective: 2005 Spring Quarter.
+
+HYD 092—Hydrologic Science Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Lower division student. Work experience off and on campus in Hydrologic Science. Internship supervised by a member of the faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2002 Spring
+
+HYD 103N—Fluid Mechanics Fundamentals (4) Lecture—4 hours. Prerequisite(s): PHY 009B Fluid mechanics axioms, fluid statics, kinematics, velocity fields for one-dimensional incompressible flow and boundary layers, turbulent flow time averaging, potential flow, dimensional analysis, and macroscopic balances to solve a range of practical problems. (Biological Systems Engineering 103.) GE credit: QL, SE, VL. Effective: 2005
+
+HYD 110—Irrigation Principles and Practices (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): PHY 007A; SSC 100 recommended. General course for agricultural and engineering students dealing with soil and plant aspects of irrigation and drainage. Soil-water principles including water movement, plant responses to irrigation regimes, water use by crops; also irrigation systems and water quality. Not open for credit to students who have completed WSC 110. GE credit: SE, SL. Effective: 2009 Fall Quarter.
+
+HYD 124—Plant-Water-Soil Relationships (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): One upper division course in soil science, such as SSC 100; and one upper division course in plant science or plant biology, such as PLB 111; or consent of instructor. Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant ecophysiology (e.g., drought). Not open for credit to students who have completed Water Science 104. GE credit: QL, SE, SL. Effective: 2008 Spring Quarter.
+
+HYD 124—Plant-Water-Soil Relationships (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (SSC 100 (can be concurrent) or SSC 107 (can be concurrent)); (PLS 100A (can be concurrent) or PLB 111 (can be concurrent)); or Consent of Instructor. Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant eco-physiology (e.g., drought). Not open for credit to students who have completed WSC 104. GE credit: QL, SE, SL. Effective: 2018 Fall Quarter.
+
+HYD 134—Aqueous Geochemistry (6) Laboratory—3 hours; Lecture—4 hours. Prerequisite(s): CHE 002B Chemistry of natural waters; dielectric properties of water; thermodynamic and mass-action relations; metal hydrolysis; acidbase equilibria; metal-coordination chemistry; solubility calculations; electron-exchange reactions; sorptive partitioning; ion exchange; and dissolved organic matter. GE credit: QL, SE. Effective:
+
+HYD 141—Physical Hydrology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): PHY 009B; MAT 021B; HYD 100 recommended. Introduction to the processes that constitute the hydrologic cycle. Special emphasis on a quantitative description of the following processes: precipitation, infiltration, evaporation, transpiration, surface runoff, and groundwater runoff. GE credit: QL, SE, SL, VL. Effective: 1997
+
+HYD 142—Systems Hydrology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): HYD 141 or ECI 142 General course considering hydrologic processes from a systems or statistical model perspective. General probability concepts are applied to frequency, time series and spatial data analysis. Linear systems are also considered in conjunction with Kalman filter techniques. GE credit: OL, QL, SE. Effective:
+
+HYD 143—Ecohydrology (4) Extensive Problem Solving; Lecture/Discussion—3 hours. Prerequisite(s): HYD 010 or HYD 141 or ESP 001 or ESM 100 or ESM 108 or ESM 120 or GEL 001 or GEL 050 or SSC 100; or Consent of Instructor. Movement and storage of water in individual ecosystems and the integrated functioning of water and biota at the watershed scale. GE credit: OL, QL, SE, SL. Effective: 2017 Winter
+
+HYD 144—Groundwater Hydrology (4) Lecture—4 hours. Prerequisite(s): MAT 016B or MAT 021A; HYD 103 or ENG 103 recommended. Fundamentals of groundwater flow and contaminant hydrology. Occurrence, distribution, and movement of groundwater. Well-flow systems. Aquifer tests. Well construction operation and maintenance. Groundwater exploration and quality assessment. Agricultural threats to groundwater quality: fertilizers, pesticides, and salts. (Biological Systems Engineering 144.) GE credit: QL, SE, SL, VL. Effective: 2006 Fall Quarter.
+
+HYD 145—Water Science and Design (4) Review all entries Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or MAT 016C or MAT 017C or MAT 021C; or Consent of Instructor. Introduction to watershed engineering, storm water management, design of hydraulic systems. Topics include hydrological risk analysis, flood routing, design storms, open channel flow, pipes, culverts, spillways, and detention basins. Class project and field trips will apply theory to real-life problems. GE credit: QL, SE, SL, WE. Effective: 2016 Fall
+
+HYD 145—Water Science and Design (4) Review all entries Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (HYD 141 or ESM 100); (MAT 016B or MAT 021B); or Consent of Instructor. Introduction to watershed engineering, storm water management, design of hydraulic systems. Topics include hydrological risk analysis, flood routing, design storms, open channel flow, pipes, culverts, spillways, and detention basins. Class project and field trips will apply theory to real-life problems. GE credit: QL, SE, SL, WE. Effective: 2018 Fall Quarter.
+
+HYD 146—Hydrogeology and Contaminant Transport (5) Laboratory—2 hours; Lecture—3 hours; Term Paper—1 hour. Prerequisite(s): HYD 144 or ECI 144; Or the equivalent. Physical and chemical processes affecting groundwater flow and contaminant transport, with emphasis on realistic hydrogeologic examples. Groundwater geology and chemistry. Fundamentals of groundwater flow and transport analysis. Laboratory includes field pumping test and work with physical and computer models. (Geology 156.) GE credit: SE. Effective: 2002 Winter
+
+HYD 147—Runoff, Erosion and Water Quality Management (3) Fieldwork; Lecture/Lab—3 hours. Prerequisite(s): (PHY 007B or PHY 009B); (MAT 016C or MAT 017C or MAT 021C); (ECI 142 or HYD 141 or ESM 100); or equivalent. Practical hydrology and runoff water quality management from disturbed watersheds. Development of hillslope and soils restoration concepts and practice, modeling and application. (Biological Systems Engineering 147.) GE credit: SE. Effective: 2018 Spring Quarter.
+
+HYD 150—Water Law (3) Lecture—3 hours. Prerequisite(s): Consent of instructor or upper division standing. Principles and issues of California Water Law.Types of water rights, groundwater rights and management, and protection of instream uses.Water projects, role of federal government and federal/state relations. Basic water quality acts, endangered species act, water transfers and current water issues. GE credit: ACGH, SS. Effective: 2016 Fall Quarter.
+
+HYD 151—Field Methods in Hydrology (4) Fieldwork—3 hours; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): ERS 100 or HYD 141 Measurement methods and data analysis for evaluation of water storage, movement and contamination in the field. Equipment such as data loggers, water and sediment samplers, pressure transducers, weather stations, surveying equipment, and flow meters will be used. GE credit: QL, SE, SL. Effective: 2003 Winter Quarter.
+
+HYD 182—Environmental Analysis using GIS (4) Laboratory—4 hours; Lecture—2 hours. Prerequisite(s): ABT 150 or LDA 150; Or equivalent GIS experience and skills; general biology and/or ecology courses are recommended. Ecosystem and landscape modeling with emphasis on hydrology and solute transport. Spatial analysis of environmental risk analysis including ecological risk assessment, natural resource management. Spatial database structures, scripting, data models, and error analysis in GIS. (Applied Biological Systems Technology 182.) GE credit: QL, SE, SL, VL. Effective: 2018 Winter Quarter.
+
+HYD 192—Hydrologic Science Internship (1-12) Internship—3-40 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Work experience off and on campus in water science. Internship supervised by a member of the faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 198—Directed Group Study (1-5) Variable. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 199—Special Study for Advanced Undergraduate (1-5) Variable. Prerequisite(s): Senior standing. (P/NP grading only.) Effective: 1997 Fall Quarter.
+
+HYD 200—Survey of Hydrologic Sciences (1) Seminar—1 hour; Term Paper. Prerequisite(s): Open to students in the Hydrologic Sciences program. Seminar course exposes students to the diversity of sciences involved in the program. Students prepare a paper and presentation in their area of research interest. May be repeated twice for credit. May be repeated up to 2 time(s). (S/U grading only.) Effective: 1997 Winter
+
+HYD 201A—Hydrologic Sciences Core Survey (3) Lecture/Discussion—2 hours; Project (Term Project). Considers the primary sub-disciplines while reviewing the fundamental scientific concepts/processes of the hydrologic sciences research community, and includes a basic writing component. Effective: 2017 Fall Quarter.
+
+HYD 201B—Hydrologic Sciences Core Seminar (1) Seminar—2 hours. Exposes students to the research underway in the Hydrologic Sciences Graduate Group as well as provide them the opportunity to present and refine their research through interaction with other students in the Graduate Group. (P/NP grading only.) Effective: 2018 Winter
+
+HYD 205—Continuum Mechanics of Natural Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021D; MAT 022B; PHY 009B Continuum mechanics of static and dynamic air, water, earth and biological systems using hydraulic, heat and electrical conductivity; diffusivity; dispersion; strain; stress; deformation gradient; velocity gradient; stretch and spin tensors. (Biological Systems Engineering 205.) Effective: 2002 Fall
+
+HYD 210—Vadose Modeling and Characterization (3) Discussion—0.5 hours; Laboratory—3 hours; Lecture—1.5 hours. Prerequisite(s): SSC 107; or Consent of Instructor. Principles and modeling of water flow and chemical transport in the vadose zone, with specific applications to soils. Topics include hydraulic properties, finite difference application to unsaturated water flow, parameter optimization, diffusive and convective transport in gaseous and liquid phases. Effective: 2015 Spring Quarter.
+
+HYD 243—Water Resource Planning and Management (3) Lecture—3 hours. Prerequisite(s): HYD 141 or ECI 142 Applications of deterministic and stochastic mathematical programming techniques to water resource planning, analysis, design and management. Water allocation, capacity expansion, and reservoir operation. Conjunctive use of surface water and groundwater. Water quality management. Irrigation planning and operation models. (Biological Systems Engineering 243.) Effective: 1997 Fall Quarter.
+
+HYD 245—Climate Change, Water and Society (4) Lecture—4 hours. Class size limited to 25 students. Integration of climate science and hydrology with policy to understand hydroclimatology and its impact upon natural and human systems. Assignments: readings, take-home examination on climate and hydrologic science, paper that integrates course concepts into a research prospectus or review article. (Atmospheric Science 245 and Ecology 245.) Effective: 2015 Spring Quarter.
+
+HYD 252—Hillslope Geomorphology and Sediment Budgets (4) Fieldwork—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or GEL 035 or ECI 142; or Consent of Instructor. Exploration of theoretical and empirical foundations of sediment production on hillslopes using computer models and field experiments to promote an understanding of how watersheds evolve naturally and with human impacts. Effective: 2001 Spring Quarter.
+
+HYD 254Y—Ecohydraulics (3) Discussion—1 hour; Extensive Problem Solving; Web Virtual Lecture—1 hour. Use of 2D hydrodynamic modeling to perform instream flow assessment by exploring flow-dependent hydraulic patterns at multiple spatial scales and extrapolating results with empirical and analytical functions to evaluate geomorphic resilience and ecological functions. Effective: 2014 Fall Quarter.
+
+HYD 256—Geomorphology of Estuaries and Deltas (4) Fieldwork—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or GEL 035; or ECI 042 or Consent of Instructor. Survey of the processes and landforms associated with sediment deposition in the coastal zone. Application of geomorphic principles to coastal management issues. Effective: 2002
+
+HYD 264—Modeling of Hydrologic Processes (3) Lecture—3 hours. Prerequisite(s): HYD 141; STA 102; Or the equivalents. Techniques used to model the spatio-temporal structure of rainfall and runoff are introduced. Procedures studied include those based on stochastic point processes, chaos theory, fractal geometry, and fractional noises. Effective: 1997 Winter Quarter.
+
+HYD 269—Numerical Modeling of Groundwater Systems (3) Lecture—3 hours. Prerequisite(s): MAT 022B; (ECI 144; or HYD 145A); HYD 145B; Finite difference and finite element techniques in modeling groundwater flow and transport. Fundamentals of constructing and calibrating models with hands-on applications. Methods and limitations of numerical solution of transport equations. Model interpretation and ethics. Effective: 1997 Winter
+
+HYD 273—Introduction to Geostatistics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): STA 130A; STA 130B; Or the equivalent. Statistical treatment of spatial data with hydrologic emphasis. Topics: theory of random functions, variogram analysis, Kriging/co-Kriging, indicator geostatistics, and stochastic simulation of spatial variability. Geostatistical software use. Effective: 2018 Winter Quarter.
+
+HYD 274—Practice of Groundwater Flow and Transport Modeling (3) Lecture—2 hours; Lecture/Discussion—0.5 hours; Lecture/Lab—0.5 hours. Prerequisite(s): HYD 269; (ECI 272B or ECI 272C) Selecting and building groundwater flow and transport models. Planning, preparation, execution, presentation, and review of modeling projects. Review of methods, assumptions, and limitations of groundwater models; practicing with MODFLOW, MT3D, associated GUI, and with other groundwater modeling software of choice. Effective: 2012 Fall
+
+HYD 275—Analysis of Spatial Processes (3) Lecture—3 hours. Prerequisite(s): STA 102; Or the equivalent; HYD 273 or STA 273A recommended. Characterization of homogeneous random fields; extremes and spectral parameters; geometry of excursions, local averaging; scale of fluctuation; non-Gaussian and irregular random fields; geostatistical applications. Effective: 1997 Winter Quarter.
+
+HYD 286—Selected Topics in Environmental Remote Sensing (3) Discussion—2 hours; Lecture—1 hour; Project (Term Project). Prerequisite(s): ERS 186; Consent of Instructor. Or equivalent; ERS 186L recommended. In depth investigation of advanced topics in remote sensing applications, measurements, and theory. May be repeated for credit. (Geography 286.) Effective: 2014 Fall Quarter.
+
+HYD 290—Seminar in Hydrologic Science (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing and background in Hydrologic Science. Seminars and critical review of problems, issues, and research in hydrologic sciences. Oral presentations of research. Topics will vary. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+HYD 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+HYD 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+HYD 396—Teaching Assistant Training Practicum (1-4) Variable. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 410—OSHA HAZWOPER Refresher Course (1) Lecture—1 hour. Updates hazardous materials handling information for purposes of keeping certification current. Certification lapses until the refresher course is complete. (P/NP grading only.) Effective: 1998 Winter Quarter.
+
+HYD 440—Hazardous Waste Operations Training (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): Upper division standing in College of Agricultural and Environmental Sciences. Forty-hour course designed to meet the requirements of Federal OSHA regulation CFR 1910.120. Covers the health, regulatory, processing and safe handling issues/problems associated with working with hazardous materials. (P/NP grading only.) Effective: 1997 Spring Quarter.
+
+HYD 010—Water, Power, Society (3) Discussion—1 hour; Lecture—2 hours. Water resources issues. How water has been used to gain and wield socio-political power. Water resources development in California as related to current and future sustainability of water quantity and quality. Roles of science and policy in solving water problems. (Science and Society 10.) GE credit: SE, SL, SS. Effective: 2005 Spring Quarter.
+
+HYD 092—Hydrologic Science Internship (1-12) Internship—3-36 hours. Prerequisite(s): Consent of Instructor. Lower division student. Work experience off and on campus in Hydrologic Science. Internship supervised by a member of the faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) Effective: 2002 Spring
+
+HYD 103N—Fluid Mechanics Fundamentals (4) Lecture—4 hours. Prerequisite(s): PHY 009B Fluid mechanics axioms, fluid statics, kinematics, velocity fields for one-dimensional incompressible flow and boundary layers, turbulent flow time averaging, potential flow, dimensional analysis, and macroscopic balances to solve a range of practical problems. (Biological Systems Engineering 103.) GE credit: QL, SE, VL. Effective: 2005
+
+HYD 110—Irrigation Principles and Practices (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): PHY 007A; SSC 100 recommended. General course for agricultural and engineering students dealing with soil and plant aspects of irrigation and drainage. Soil-water principles including water movement, plant responses to irrigation regimes, water use by crops; also irrigation systems and water quality. Not open for credit to students who have completed WSC 110. GE credit: SE, SL. Effective: 2009 Fall Quarter.
+
+HYD 124—Plant-Water-Soil Relationships (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): One upper division course in soil science, such as SSC 100; and one upper division course in plant science or plant biology, such as PLB 111; or consent of instructor. Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant ecophysiology (e.g., drought). Not open for credit to students who have completed Water Science 104. GE credit: QL, SE, SL. Effective: 2008 Spring Quarter.
+
+HYD 124—Plant-Water-Soil Relationships (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (SSC 100 (can be concurrent) or SSC 107 (can be concurrent)); (PLS 100A (can be concurrent) or PLB 111 (can be concurrent)); or Consent of Instructor. Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant eco-physiology (e.g., drought). Not open for credit to students who have completed WSC 104. GE credit: QL, SE, SL. Effective: 2018 Fall Quarter.
+
+HYD 134—Aqueous Geochemistry (6) Laboratory—3 hours; Lecture—4 hours. Prerequisite(s): CHE 002B Chemistry of natural waters; dielectric properties of water; thermodynamic and mass-action relations; metal hydrolysis; acidbase equilibria; metal-coordination chemistry; solubility calculations; electron-exchange reactions; sorptive partitioning; ion exchange; and dissolved organic matter. GE credit: QL, SE. Effective:
+
+HYD 141—Physical Hydrology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): PHY 009B; MAT 021B; HYD 100 recommended. Introduction to the processes that constitute the hydrologic cycle. Special emphasis on a quantitative description of the following processes: precipitation, infiltration, evaporation, transpiration, surface runoff, and groundwater runoff. GE credit: QL, SE, SL, VL. Effective: 1997
+
+HYD 142—Systems Hydrology (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): HYD 141 or ECI 142 General course considering hydrologic processes from a systems or statistical model perspective. General probability concepts are applied to frequency, time series and spatial data analysis. Linear systems are also considered in conjunction with Kalman filter techniques. GE credit: OL, QL, SE. Effective:
+
+HYD 143—Ecohydrology (4) Extensive Problem Solving; Lecture/Discussion—3 hours. Prerequisite(s): HYD 010 or HYD 141 or ESP 001 or ESM 100 or ESM 108 or ESM 120 or GEL 001 or GEL 050 or SSC 100; or Consent of Instructor. Movement and storage of water in individual ecosystems and the integrated functioning of water and biota at the watershed scale. GE credit: OL, QL, SE, SL. Effective: 2017 Winter
+
+HYD 144—Groundwater Hydrology (4) Lecture—4 hours. Prerequisite(s): MAT 016B or MAT 021A; HYD 103 or ENG 103 recommended. Fundamentals of groundwater flow and contaminant hydrology. Occurrence, distribution, and movement of groundwater. Well-flow systems. Aquifer tests. Well construction operation and maintenance. Groundwater exploration and quality assessment. Agricultural threats to groundwater quality: fertilizers, pesticides, and salts. (Biological Systems Engineering 144.) GE credit: QL, SE, SL, VL. Effective: 2006 Fall Quarter.
+
+HYD 145—Water Science and Design (4) Review all entries Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or MAT 016C or MAT 017C or MAT 021C; or Consent of Instructor. Introduction to watershed engineering, storm water management, design of hydraulic systems. Topics include hydrological risk analysis, flood routing, design storms, open channel flow, pipes, culverts, spillways, and detention basins. Class project and field trips will apply theory to real-life problems. GE credit: QL, SE, SL, WE. Effective: 2016 Fall
+
+HYD 145—Water Science and Design (4) Review all entries Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (HYD 141 or ESM 100); (MAT 016B or MAT 021B); or Consent of Instructor. Introduction to watershed engineering, storm water management, design of hydraulic systems. Topics include hydrological risk analysis, flood routing, design storms, open channel flow, pipes, culverts, spillways, and detention basins. Class project and field trips will apply theory to real-life problems. GE credit: QL, SE, SL, WE. Effective: 2018 Fall Quarter.
+
+HYD 146—Hydrogeology and Contaminant Transport (5) Laboratory—2 hours; Lecture—3 hours; Term Paper—1 hour. Prerequisite(s): HYD 144 or ECI 144; Or the equivalent. Physical and chemical processes affecting groundwater flow and contaminant transport, with emphasis on realistic hydrogeologic examples. Groundwater geology and chemistry. Fundamentals of groundwater flow and transport analysis. Laboratory includes field pumping test and work with physical and computer models. (Geology 156.) GE credit: SE. Effective: 2002 Winter
+
+HYD 147—Runoff, Erosion and Water Quality Management (3) Fieldwork; Lecture/Lab—3 hours. Prerequisite(s): (PHY 007B or PHY 009B); (MAT 016C or MAT 017C or MAT 021C); (ECI 142 or HYD 141 or ESM 100); or equivalent. Practical hydrology and runoff water quality management from disturbed watersheds. Development of hillslope and soils restoration concepts and practice, modeling and application. (Biological Systems Engineering 147.) GE credit: SE. Effective: 2018 Spring Quarter.
+
+HYD 150—Water Law (3) Lecture—3 hours. Prerequisite(s): Consent of instructor or upper division standing. Principles and issues of California Water Law.Types of water rights, groundwater rights and management, and protection of instream uses.Water projects, role of federal government and federal/state relations. Basic water quality acts, endangered species act, water transfers and current water issues. GE credit: ACGH, SS. Effective: 2016 Fall Quarter.
+
+HYD 151—Field Methods in Hydrology (4) Fieldwork—3 hours; Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): ERS 100 or HYD 141 Measurement methods and data analysis for evaluation of water storage, movement and contamination in the field. Equipment such as data loggers, water and sediment samplers, pressure transducers, weather stations, surveying equipment, and flow meters will be used. GE credit: QL, SE, SL. Effective: 2003 Winter Quarter.
+
+HYD 182—Environmental Analysis using GIS (4) Laboratory—4 hours; Lecture—2 hours. Prerequisite(s): ABT 150 or LDA 150; Or equivalent GIS experience and skills; general biology and/or ecology courses are recommended. Ecosystem and landscape modeling with emphasis on hydrology and solute transport. Spatial analysis of environmental risk analysis including ecological risk assessment, natural resource management. Spatial database structures, scripting, data models, and error analysis in GIS. (Applied Biological Systems Technology 182.) GE credit: QL, SE, SL, VL. Effective: 2018 Winter Quarter.
+
+HYD 192—Hydrologic Science Internship (1-12) Internship—3-40 hours. Prerequisite(s): Consent of Instructor. Completion of 84 units. Work experience off and on campus in water science. Internship supervised by a member of the faculty. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 198—Directed Group Study (1-5) Variable. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 199—Special Study for Advanced Undergraduate (1-5) Variable. Prerequisite(s): Senior standing. (P/NP grading only.) Effective: 1997 Fall Quarter.
+
+HYD 200—Survey of Hydrologic Sciences (1) Seminar—1 hour; Term Paper. Prerequisite(s): Open to students in the Hydrologic Sciences program. Seminar course exposes students to the diversity of sciences involved in the program. Students prepare a paper and presentation in their area of research interest. May be repeated twice for credit. May be repeated up to 2 time(s). (S/U grading only.) Effective: 1997 Winter
+
+HYD 201A—Hydrologic Sciences Core Survey (3) Lecture/Discussion—2 hours; Project (Term Project). Considers the primary sub-disciplines while reviewing the fundamental scientific concepts/processes of the hydrologic sciences research community, and includes a basic writing component. Effective: 2017 Fall Quarter.
+
+HYD 201B—Hydrologic Sciences Core Seminar (1) Seminar—2 hours. Exposes students to the research underway in the Hydrologic Sciences Graduate Group as well as provide them the opportunity to present and refine their research through interaction with other students in the Graduate Group. (P/NP grading only.) Effective: 2018 Winter
+
+HYD 205—Continuum Mechanics of Natural Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021D; MAT 022B; PHY 009B Continuum mechanics of static and dynamic air, water, earth and biological systems using hydraulic, heat and electrical conductivity; diffusivity; dispersion; strain; stress; deformation gradient; velocity gradient; stretch and spin tensors. (Biological Systems Engineering 205.) Effective: 2002 Fall
+
+HYD 210—Vadose Modeling and Characterization (3) Discussion—0.5 hours; Laboratory—3 hours; Lecture—1.5 hours. Prerequisite(s): SSC 107; or Consent of Instructor. Principles and modeling of water flow and chemical transport in the vadose zone, with specific applications to soils. Topics include hydraulic properties, finite difference application to unsaturated water flow, parameter optimization, diffusive and convective transport in gaseous and liquid phases. Effective: 2015 Spring Quarter.
+
+HYD 243—Water Resource Planning and Management (3) Lecture—3 hours. Prerequisite(s): HYD 141 or ECI 142 Applications of deterministic and stochastic mathematical programming techniques to water resource planning, analysis, design and management. Water allocation, capacity expansion, and reservoir operation. Conjunctive use of surface water and groundwater. Water quality management. Irrigation planning and operation models. (Biological Systems Engineering 243.) Effective: 1997 Fall Quarter.
+
+HYD 245—Climate Change, Water and Society (4) Lecture—4 hours. Class size limited to 25 students. Integration of climate science and hydrology with policy to understand hydroclimatology and its impact upon natural and human systems. Assignments: readings, take-home examination on climate and hydrologic science, paper that integrates course concepts into a research prospectus or review article. (Atmospheric Science 245 and Ecology 245.) Effective: 2015 Spring Quarter.
+
+HYD 252—Hillslope Geomorphology and Sediment Budgets (4) Fieldwork—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or GEL 035 or ECI 142; or Consent of Instructor. Exploration of theoretical and empirical foundations of sediment production on hillslopes using computer models and field experiments to promote an understanding of how watersheds evolve naturally and with human impacts. Effective: 2001 Spring Quarter.
+
+HYD 254Y—Ecohydraulics (3) Discussion—1 hour; Extensive Problem Solving; Web Virtual Lecture—1 hour. Use of 2D hydrodynamic modeling to perform instream flow assessment by exploring flow-dependent hydraulic patterns at multiple spatial scales and extrapolating results with empirical and analytical functions to evaluate geomorphic resilience and ecological functions. Effective: 2014 Fall Quarter.
+
+HYD 256—Geomorphology of Estuaries and Deltas (4) Fieldwork—3 hours; Lecture—3 hours. Prerequisite(s): HYD 141 or GEL 035; or ECI 042 or Consent of Instructor. Survey of the processes and landforms associated with sediment deposition in the coastal zone. Application of geomorphic principles to coastal management issues. Effective: 2002
+
+HYD 264—Modeling of Hydrologic Processes (3) Lecture—3 hours. Prerequisite(s): HYD 141; STA 102; Or the equivalents. Techniques used to model the spatio-temporal structure of rainfall and runoff are introduced. Procedures studied include those based on stochastic point processes, chaos theory, fractal geometry, and fractional noises. Effective: 1997 Winter Quarter.
+
+HYD 269—Numerical Modeling of Groundwater Systems (3) Lecture—3 hours. Prerequisite(s): MAT 022B; (ECI 144; or HYD 145A); HYD 145B; Finite difference and finite element techniques in modeling groundwater flow and transport. Fundamentals of constructing and calibrating models with hands-on applications. Methods and limitations of numerical solution of transport equations. Model interpretation and ethics. Effective: 1997 Winter
+
+HYD 273—Introduction to Geostatistics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): STA 130A; STA 130B; Or the equivalent. Statistical treatment of spatial data with hydrologic emphasis. Topics: theory of random functions, variogram analysis, Kriging/co-Kriging, indicator geostatistics, and stochastic simulation of spatial variability. Geostatistical software use. Effective: 2018 Winter Quarter.
+
+HYD 274—Practice of Groundwater Flow and Transport Modeling (3) Lecture—2 hours; Lecture/Discussion—0.5 hours; Lecture/Lab—0.5 hours. Prerequisite(s): HYD 269; (ECI 272B or ECI 272C) Selecting and building groundwater flow and transport models. Planning, preparation, execution, presentation, and review of modeling projects. Review of methods, assumptions, and limitations of groundwater models; practicing with MODFLOW, MT3D, associated GUI, and with other groundwater modeling software of choice. Effective: 2012 Fall
+
+HYD 275—Analysis of Spatial Processes (3) Lecture—3 hours. Prerequisite(s): STA 102; Or the equivalent; HYD 273 or STA 273A recommended. Characterization of homogeneous random fields; extremes and spectral parameters; geometry of excursions, local averaging; scale of fluctuation; non-Gaussian and irregular random fields; geostatistical applications. Effective: 1997 Winter Quarter.
+
+HYD 286—Selected Topics in Environmental Remote Sensing (3) Discussion—2 hours; Lecture—1 hour; Project (Term Project). Prerequisite(s): ERS 186; Consent of Instructor. Or equivalent; ERS 186L recommended. In depth investigation of advanced topics in remote sensing applications, measurements, and theory. May be repeated for credit. (Geography 286.) Effective: 2014 Fall Quarter.
+
+HYD 290—Seminar in Hydrologic Science (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing and background in Hydrologic Science. Seminars and critical review of problems, issues, and research in hydrologic sciences. Oral presentations of research. Topics will vary. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+HYD 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+HYD 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+HYD 396—Teaching Assistant Training Practicum (1-4) Variable. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+HYD 410—OSHA HAZWOPER Refresher Course (1) Lecture—1 hour. Updates hazardous materials handling information for purposes of keeping certification current. Certification lapses until the refresher course is complete. (P/NP grading only.) Effective: 1998 Winter Quarter.
+
+HYD 440—Hazardous Waste Operations Training (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): Upper division standing in College of Agricultural and Environmental Sciences. Forty-hour course designed to meet the requirements of Federal OSHA regulation CFR 1910.120. Covers the health, regulatory, processing and safe handling issues/problems associated with working with hazardous materials. (P/NP grading only.) Effective: 1997 Spring Quarter.

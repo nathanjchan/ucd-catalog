@@ -1,0 +1,279 @@
+EBS 001—Foundations of Biological Systems Engineering (4) Laboratory—6 hours; Lecture—2 hours; Project (Term Project). Open only to students in Biological Systems Engineering. Introduction to engineering and the engineering design process with examples drawn from the field of biological systems engineering. Introduction to computer-aided design and mechanical fabrication of designs. Students work on a quarter-long group design project. GE credit: OL, QL, SE, SL, VL. Effective: 2009 Fall Quarter.
+
+EBS 075—Properties of Materials in Biological Systems (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): BIS 002A; PHY 009C (can be concurrent) Properties of typical biological materials; composition and structure with emphasis on the effects of physical and biochemical properties on design of engineered systems; interactions of biological materials with typical engineering materials. GE credit: QL, SE, SL, VL, WE. Effective: 2016 Fall
+
+EBS 090C—Research Group Conference in Biological Systems Engineering (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Lower division standing in Biological Systems Engineering or Food Engineering. Research group conference. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 092—Internship in Biological Systems Engineering (1-5) Internship. Prerequisite(s): Consent of Instructor. Lower division standing; project approval prior to period of internship. Supervised work experience in biological systems engineering. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study of selected topics; restricted to lower division students. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 099—Special Study for Lower Division Students (1-5) Variable. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 103—Fluid Mechanics Fundamentals (4) Lecture—4 hours. Prerequisite(s): PHY 009B Fluid mechanics axioms, fluid statics, kinematics, velocity fields for one-dimensional incompressible flow and boundary layers, turbulent flow time averaging, potential flow, dimensional analysis, and macroscopic balances to solve a range of practical problems. (HYD 103N.) GE credit: QL, SE, VL. Effective: 2005 Spring Quarter.
+
+EBS 114—Principles of Field Machinery Design (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): ENG 102; ENG 104 Traction and stability of vehicles with wheels or tracks. Operating principles of field machines and basic mechanisms used in their design. GE credit: QL, SE, VL, WE. Effective: 1998 Spring Quarter.
+
+EBS 115—Forest Engineering (3) Lecture—3 hours. Prerequisite(s): ENG 104 Applications of engineering principles to problems in forestry including those in forest regeneration, harvesting, residue utilization, and transportation. GE credit: QL, SE, SL, VL. Effective: 2016 Fall Quarter.
+
+EBS 120—Power Systems Design (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 017; ENG 102; ENG 103; ENG 105 Design and performance of power devices and systems including combustion engines, electric generators and motors, fluid power systems, fuels, and emerging technologies. Selection of units for power matching and optimum performance. GE credit: QL, SE, SL, VL, WE. Effective: 2002 Fall
+
+EBS 125—Heat Transfer in Biological Systems (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): EBS 075; ENG 105; BIS 002A; BIS 002B; BIS 002C Fundamentals of heat transfer with application to biological systems. Steady and transient heat transfer. Analysis and simulation of heat conduction, convection and radiation. Heat transfer operations. GE credit: OL, QL, SE, VL, WE. Effective: 2009 Spring Quarter.
+
+EBS 127—Mass Transfer and Kinetics in Biological Systems (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): EBS 125 Fundamentals of mass transfer and kinetics in biological systems. Molecular diffusion and convection. Thermodynamics and bioenergetics. Biological and chemical rate equations. Heterogeneous kinetics. Batch and continuous reaction processes. Mass transfer operations. GE credit: QL, SE, VL, WE. Effective:
+
+EBS 128—Biomechanics and Ergonomics (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): STA 100; ENG 102 Limited enrollment. Anatomical, physiological, and biomechanical bases of physical ergonomics. Human motor capabilities, body mechanics, kinematics and anthropometry. Use of bioinstrumentation, industrial surveillance techniques and the NIOSH lifting guide. Cumulative trauma disorders. Static and dynamic biomechanical modeling. Emphasis on low back, shoulder and hand/wrist biomechanics. GE credit: QL, SE, SL, VL, WE. Effective: 2000 Spring Quarter.
+
+EBS 130—Modeling of Dynamic Processes in Biological Systems (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EBS 075; (ENG 006 or ECS 030); MAT 022B C- or better Techniques for modeling processes through mass and energy balance, rate equations, and equations of state. Computer problem solution of models. Example models include package design, evaporation, respiration heating, thermal processing of foods, and plant growth. GE credit: QL, SE, SL, VL. Effective: 2011 Fall Quarter.
+
+EBS 135—Bioenvironmental Engineering (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): EBS 125; EBS 130 Biological responses to environmental conditions. Principles and engineering design of environmental control systems. Overview of environmental pollution problems and legal restrictions for biological systems, introduction of environmental quality assessment techniques, and environmental pollution control technologies. GE credit: QL, SE, SL, VL, WE. Effective: 1998 Spring Quarter.
+
+EBS 144—Groundwater Hydrology (4) Lecture—4 hours. Prerequisite(s): MAT 016B or MAT 021A; HYD 103 or ENG 103 recommended. Fundamentals of groundwater flow and contaminant hydrology. Occurrence, distribution, and movement of groundwater. Well-flow systems. Aquifer tests. Well construction operation and maintenance. Groundwater exploration and quality assessment. Agricultural threats to groundwater quality: fertilizers, pesticides, and salts. (HYD 144.) GE credit: QL, SE, SL, VL. Effective: 2003 Fall
+
+EBS 145—Irrigation and Drainage Systems (4) Lecture—4 hours. Prerequisite(s): EBS 103 or HYD 103N Engineering and scientific principles applied to the design of surface, sprinkle and micro irrigation systems and drainage systems within economic, biological, and environmental constraints. Interaction between irrigation and drainage. GE credit: QL, SE, SL, VL. Effective: 2016 Fall Quarter.
+
+EBS 147—Runoff, Erosion and Water Quality Management (3) Fieldwork; Lecture/Lab—3 hours. Prerequisite(s): (PHY 007B or PHY 009B); (MAT 016C or MAT 017C or MAT 021C); (ECI 142 or HYD 141 or ESM 100); or equivalent. Practical hydrology and runoff water quality management from disturbed watersheds. Development of hillslope and soils restoration concepts and practice, modeling and application. (HYD 147.) GE credit: SE. Effective:
+
+EBS 161—Kinetics and Bioreactor Design (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EBS 127 Provide the basic principles of reactor design for bioprocess applications. This course emphasizes the following topics: 1) kinetics and reactor engineering principles; 2) bio-reaction kinetics; and 3) bioreactor design. GE credit: QL, SE, VL. Effective: 2012 Spring Quarter.
+
+EBS 165—Bioinstrumentation and Control (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 100 Instrumentation and control for biological production systems. Measurement system concepts, instrumentation and transducers for sensing physical and biological parameters, data acquisition and control. GE credit: QL, SE, SL, VL, WE. Effective: 1998 Fall Quarter.
+
+EBS 170A—Engineering Design and Professional Responsibilities (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EBS 001; ENG 102; ENG 104 Engineering design including professional responsibilities. Emphasis on project selection, data sources, specifications, human factors, biological materials, safety systems, and professionalism. Detailed design proposals will be developed for courses 170B and 170BL. GE credit: OL, QL, SE, SL, VL, WE. Effective: 1998 Spring Quarter.
+
+EBS 170B—Engineering Projects: Design (2) Discussion—2 hours. Prerequisite(s): EBS 170A; EBS 170BL (can be concurrent); EBS 170BL required concurrently. Individual or group projects involving the design of devices, structures, or systems to solve specific engineering problems in biological systems. Project for study is jointly selected by student and instructor. GE credit: OL, QL, SE, SL, VL, WE. Effective: 2006 Spring
+
+EBS 170BL—Engineering Projects: Design Laboratory (1) Laboratory—3 hours. Prerequisite(s): EBS 170B (can be concurrent); EBS 170B required concurrently. Individual or group projects involving the design of devices, structures, or systems to solve specific engineering problems in biological systems. GE credit: OL, QL, SE, SL, VL, WE. Effective: 2006 Spring Quarter.
+
+EBS 170C—Engineering Projects: Design Evaluation (1) Discussion—1 hour. Prerequisite(s): EBS 170B; EBS 170CL (can be concurrent); EBS 170CL required concurrently. Individual or group projects involving the fabrication, assembly and testing of components, devices, structures, or systems designed to solve specific engineering problems in biological systems. Project for study previously selected by student and instructor in course 170B. GE credit: OL, QL, SE, SL, VL, WE. Effective: 1999 Winter Quarter.
+
+EBS 170CL—Engineering Projects: Design Evaluation (2) Laboratory—6 hours. Prerequisite(s): EBS 170C (can be concurrent); EBS 170C required concurrently. Individual or group projects involving the fabrication, assembly and testing of components, devices, structures, or systems designed to solve specific engineering problems in biological systems. GE credit: OL, QL, SE, SL, VL, WE. Effective: 1999 Winter Quarter.
+
+EBS 175—Rheology of Biological Materials (3) Lecture—3 hours. Prerequisite(s): EBS 103 or ENG 103 Fluid and solid rheology, viscoelastic behavior of foods and other biological materials, and application of rheological properties to food and biological systems (i.e., pipeline design, extrusion, mixing, coating). GE credit: QL, SE, VL. Effective: 2016 Fall Quarter.
+
+EBS 189A—Special Topics in Biological Systems Engineering; Agricultural Engineering (15) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing in Engineering. Special topics in Agricultural Engineering. May be repeated for credit when topic differs. GE credit: SE. Effective: 1998 Fall Quarter.
+
+EBS 189C—Special Topics in Biological Systems Engineering; Biomedical Engineering (15) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing in Engineering. Special topics in Biomedical Engineering. May be repeated for credit when topic differs. GE credit: SE. Effective: 1998 Fall Quarter.
+
+EBS 189F—Special Topics in Biological Systems Engineering; Food Engineering (1-5) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing in Engineering. Special topics in Food Engineering. May be repeated for credit when topic differs. GE credit: SE. Effective: 1998 Fall Quarter.
+
+EBS 189G—Special Topics in Biological Systems Engineering; Forest Engineering (1-5) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing in Engineering. Special topics in Forest Engineering. May be repeated for credit when topic differs. GE credit: SE. Effective: 1998 Fall Quarter.
+
+EBS 190C—Research Group Conference in Biological Systems Engineering (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Biological Systems Engineering of Food Engineering. Research group conference. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 192—Internship in Biological Systems Engineering (1-5) Internship. Prerequisite(s): Consent of Instructor. Upper division standing; approval of project prior to period of internship. Supervised work experience in biological systems engineering. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 197T—Tutoring in Biological Systems Engineering (1-5) Tutorial—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing. Tutoring individual students, leading small voluntary discussion groups, or assisting the instructor in laboratories affiliated with one of the department's regular courses. May be repeated for credit topic differs. (P/NP grading only.) GE credit: SE. Effective: 2004 Winter Quarter.
+
+EBS 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+EBS 199—Special Study for Advanced Undergraduates (1-5) Variable. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 200—Research Methods in Biological Systems Engineering (2) Lecture—2 hours. Prerequisite(s): Graduate standing. Planning, execution and reporting of research projects. Literature review techniques and proposal preparation. Record keeping and patents. Uncertainty analysis in experiments and computations. Graphic analysis. Oral and written presentation of research results, manuscript preparation, submission and review. Effective: 1997
+
+EBS 205—Continuum Mechanics of Natural Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021D; MAT 022B; PHY 009B Continuum mechanics of static and dynamic air, water, earth and biological systems using hydraulic, heat and electrical conductivity; diffusivity; dispersion; strain; stress; deformation gradient; velocity gradient; stretch and spin tensors. (HYD 205.) Effective: 2002 Fall Quarter.
+
+EBS 215—Soil-Machine Relations in Tillage and Traction (3) Lecture—3 hours. Prerequisite(s): EBS 114 Mechanics of interactions between agricultural soils and tillage and traction devices; determination of relevant physical properties of soil; analyses of stress and strains in soil due to machine-applied loads; experimental and analytical methods for synthesizing characteristics of overall systems. Effective: 1997 Winter Quarter.
+
+EBS 216—Energy Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): ENG 105; or equivalent. Theory and application of energy systems. Systems analysis, energy conversion technologies, environmental considerations, economics and system optimization. (EGG 200.) Effective: 2018 Spring Quarter.
+
+EBS 218—Solar Thermal Engineering (4) Lecture/Discussion—4 hours. Prerequisite(s): Course in heat transfer. Analysis and design of solar energy collection systems. Sun-earth geometry and estimation of solar radiation. Steady-state and dynamic models of solar collectors. Modeling of thermal energy storage devices. Computer simulation. Effective: 2014 Spring Quarter.
+
+EBS 220—Pilot Plant Operations in Aquacultural Engineering (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): (ECI 243A, ECI 243B) or (ABT 161, ABT 163) Topics in water treatment as they apply to aquaculture operations. Laboratory study of unit operations in aquaculture. Effective: 1997 Winter Quarter.
+
+EBS 228—Occupational Musculoskeletal Disorders (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Epidemiology and etiology of occupational musculoskeletal disorders (MSDs) with focus on low back and upper extremities disorders; anatomical and biomechanical functions of lower back and upper extremities; MSDs risk factors assessment and control; research opportunities related to MSDs. Effective: 2002 Spring Quarter.
+
+EBS 231—Mass Transfer in Food and Biological Systems (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing. Application of mass transfer principles to food and biological systems. Study of mass transfer affecting food quality and shelf life. Analysis of mass transfer in polymer films used for coating and packaging foods and controlling release of biologically active compounds. Effective: 1997 Spring Quarter.
+
+EBS 233—Analysis of Processing Operations: Drying and Evaporation (3) Lecture—3 hours. Prerequisite(s): Course in food or process engineering, familiarity with FORTRAN. Diffusion theory in drying of solids. Analysis of fixed-bed and continuous-flow dryers. Steady-state and dynamic models to predict performance evaporators: multiple effects, mechanical and thermal recompression, control systems. Effective: 1997 Winter Quarter.
+
+EBS 235—Advanced Analysis of Unit Operations in Food and Biological Engineering (3) Lecture—3 hours. Prerequisite(s): EBS 132 Analysis and design of food processing operations. Steady state and dynamic heat and mass transfer models for operations involving phase change such as freezing and frying. Separation processes including membrane applications in food and fermentation systems. Effective: 1997 Winter Quarter.
+
+EBS 237—Thermal Process Design (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): Course in heat transfer. Heat transfer and biological basis for design of heat sterilization of foods and other biological materials in containers or in bulk. Effective: 1997 Spring Quarter.
+
+EBS 239—Magnetic Resonance Imaging in Biological Systems (3) Lecture—3 hours. Prerequisite(s): Graduate standing. Theory and applications of magnetic resonance imaging to biological systems. Classical Bloch model of magnetic resonance. Applications to be studied are drying of fruits, flow of food suspensions, diffusion of moisture, and structure of foods. Effective: 1997 Winter Quarter.
+
+EBS 240—Infiltration and Drainage (3) Lecture—3 hours. Prerequisite(s): SSC 107; ENG 103 Aspects of multi-phase flow in soils and their application to infiltration and immiscible displacement problems. Gas phase transport and entrapment during infiltration, and oil-water-gas displacement will be considered. Effective: 1999
+
+EBS 241—Sprinkle and Trickle Irrigation Systems (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EBS 145; HYD 115 Computerized design of sprinkle and trickle irrigation systems. Consideration of emitter mechanics, distribution functions and water yield functions. Effective: 1997 Winter Quarter.
+
+EBS 242—Hydraulics of Surface Irrigation (3) Lecture—3 hours. Prerequisite(s): EBS 145; HYD 115 Mathematical models of surfaceirrigation systems for prediction of the ultimate disposition of water flowing onto a field. Quantity of runoff and distribution of infiltrated water over field length as a function of slope, roughness, infiltration and inflow rates. Effective: 1997 Winter Quarter.
+
+EBS 243—Water Resource Planning and Management (3) Lecture—3 hours. Prerequisite(s): HYD 141; Or equivalent. Applications of deterministic and stochastic mathematical programming techniques to water resource planning, analysis, design, and management. Water allocation, capacity expansion, and reservoir operation. Conjunctive use of surface water and groundwater. Water quality management. Irrigation planning and operation models. (HYD 243.) Effective: 1997 Fall Quarter.
+
+EBS 245—Waste Management for Biological Production Systems (3) Lecture—3 hours. Prerequisite(s): Graduate standing or consent of instructor. Characterization of solid and liquid wastes from animal, crop, and food production systems. Study of methods and system design for handling, treatment, and disposal/utilization of these materials. Effective: 1997
+
+EBS 260—Analog Instrumentation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 100 Instrument characteristics: generalized instrument models, calibration, and frequency response. Signal conditioning: operational amplifier circuits, filtering, and noise. Transducers: motion, force, pressure, flow, temperature, and photoelectric. Effective: 1997 Winter Quarter.
+
+EBS 262—Computer Interfacing and Control (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 100; EBS 165 Procedural and objectoriented programming in C++, analog and digital signal conversion, data acquisition and computer control. Effective: 2000 Winter Quarter.
+
+EBS 265—Design and Analysis of Engineering Experiments (5) Lecture—3 hours; Lecture/Discussion—2 hours. Prerequisite(s): STA 100; ASE 120; or an introductory course in statistics. Simple linear, multiple, and polynomial regression, correlation, residuals, model selection, one-way ANOVA, fixed and random effect models, sample size, multiple comparisons, randomized block, repeated measures, and Latin square designs, factorial experiments, nested design and subsampling, split-plot design, statistical software packages. Effective: 2000 Spring Quarter.
+
+EBS 267—Renewable Bioprocessing (3) Lecture—3 hours. Prerequisite(s): EBS 160; (BIS 101 or MIC 102) Applications of biotechnology and bioprocess engineering toward the use of agricultural and renewable feedstocks for the production of biochemicals. Design and modeling of microbial- and plant-based production systems including associated fermentation, extraction, and purification processes. Effective: 2005 Winter
+
+EBS 268—Polysaccharides Surface Interactions (3) Lecture—3 hours. Prerequisite(s): Graduate students in science or engineering. Study of fundamental surface science theories as applied to physical and chemical interactions of carbohydrates and polysaccharides. (ECH 268.) Effective: 2017 Winter Quarter.
+
+EBS 270—Modeling and Analysis of Biological and Physical Systems (3) Lecture—3 hours. Prerequisite(s): Familiarity with a programming language. Mathematical modeling of biological systems: model development; analytical and numerical solutions. Case studies from various specializations within Biological and Agricultural Engineering. Effective: 2001
+
+EBS 275—Physical Properties of Biological Materials (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Selected topics on physical properties, such as mechanical, optical, rheological, and aerodynamic properties, as related to the design of harvesting, handling, sorting, and processing equipment. Techniques for measuring and recording physical properties of biological materials. Effective: 1997 Winter Quarter.
+
+EBS 289C—Selected Topics in Biological Systems Engineering; Biological Engineering (15) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biological Engineering. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289D—Selected Topics in Biological Systems Engineering; Energy Systems (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Energy Systems. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289E—Selected Topics in Biological Systems Engineering; Environmental Quality (15) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topic in Environmental Quality. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289F—Selected Topics in Biological Systems Engineering; Food Engineering (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Food Engineering. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289G—Selected Topics in Biological Systems Engineering; Forest Engineering (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Forest Engineering. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289K—Selected Topics in Biological Systems Engineering; Sensors and Actuators (15) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Sensors and Actuators. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 290—Seminar (1) Seminar—1 hour. Prerequisite(s): Graduate standing. Weekly seminars on recent advances and selected topics in biological systems engineering. Course theme will change from quarter to quarter. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EBS 290C—Graduate Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research problems, progress and techniques in biological systems engineering. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EBS 298—Group Study (1-5) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EBS 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EBS 390—Supervised Teaching in Biological and Agricultural Engineering (1-3) Laboratory—3 hours; Tutorial—3-9 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Tutoring and teaching students in undergraduate courses offered in the Department of Biological and Agricultural Engineering. Weekly conferences with instructor; evaluation of teaching. Preparing for and conducting demonstrations, laboratories and discussions. Preparing and grading exams. May be repeated up to 6 unit(s). (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EBS 001—Foundations of Biological Systems Engineering (4) Laboratory—6 hours; Lecture—2 hours; Project (Term Project). Open only to students in Biological Systems Engineering. Introduction to engineering and the engineering design process with examples drawn from the field of biological systems engineering. Introduction to computer-aided design and mechanical fabrication of designs. Students work on a quarter-long group design project. GE credit: OL, QL, SE, SL, VL. Effective: 2009 Fall Quarter.
+
+EBS 075—Properties of Materials in Biological Systems (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): BIS 002A; PHY 009C (can be concurrent) Properties of typical biological materials; composition and structure with emphasis on the effects of physical and biochemical properties on design of engineered systems; interactions of biological materials with typical engineering materials. GE credit: QL, SE, SL, VL, WE. Effective: 2016 Fall
+
+EBS 090C—Research Group Conference in Biological Systems Engineering (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Lower division standing in Biological Systems Engineering or Food Engineering. Research group conference. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 092—Internship in Biological Systems Engineering (1-5) Internship. Prerequisite(s): Consent of Instructor. Lower division standing; project approval prior to period of internship. Supervised work experience in biological systems engineering. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study of selected topics; restricted to lower division students. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 099—Special Study for Lower Division Students (1-5) Variable. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 103—Fluid Mechanics Fundamentals (4) Lecture—4 hours. Prerequisite(s): PHY 009B Fluid mechanics axioms, fluid statics, kinematics, velocity fields for one-dimensional incompressible flow and boundary layers, turbulent flow time averaging, potential flow, dimensional analysis, and macroscopic balances to solve a range of practical problems. (HYD 103N.) GE credit: QL, SE, VL. Effective: 2005 Spring Quarter.
+
+EBS 114—Principles of Field Machinery Design (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): ENG 102; ENG 104 Traction and stability of vehicles with wheels or tracks. Operating principles of field machines and basic mechanisms used in their design. GE credit: QL, SE, VL, WE. Effective: 1998 Spring Quarter.
+
+EBS 115—Forest Engineering (3) Lecture—3 hours. Prerequisite(s): ENG 104 Applications of engineering principles to problems in forestry including those in forest regeneration, harvesting, residue utilization, and transportation. GE credit: QL, SE, SL, VL. Effective: 2016 Fall Quarter.
+
+EBS 120—Power Systems Design (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 017; ENG 102; ENG 103; ENG 105 Design and performance of power devices and systems including combustion engines, electric generators and motors, fluid power systems, fuels, and emerging technologies. Selection of units for power matching and optimum performance. GE credit: QL, SE, SL, VL, WE. Effective: 2002 Fall
+
+EBS 125—Heat Transfer in Biological Systems (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): EBS 075; ENG 105; BIS 002A; BIS 002B; BIS 002C Fundamentals of heat transfer with application to biological systems. Steady and transient heat transfer. Analysis and simulation of heat conduction, convection and radiation. Heat transfer operations. GE credit: OL, QL, SE, VL, WE. Effective: 2009 Spring Quarter.
+
+EBS 127—Mass Transfer and Kinetics in Biological Systems (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): EBS 125 Fundamentals of mass transfer and kinetics in biological systems. Molecular diffusion and convection. Thermodynamics and bioenergetics. Biological and chemical rate equations. Heterogeneous kinetics. Batch and continuous reaction processes. Mass transfer operations. GE credit: QL, SE, VL, WE. Effective:
+
+EBS 128—Biomechanics and Ergonomics (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): STA 100; ENG 102 Limited enrollment. Anatomical, physiological, and biomechanical bases of physical ergonomics. Human motor capabilities, body mechanics, kinematics and anthropometry. Use of bioinstrumentation, industrial surveillance techniques and the NIOSH lifting guide. Cumulative trauma disorders. Static and dynamic biomechanical modeling. Emphasis on low back, shoulder and hand/wrist biomechanics. GE credit: QL, SE, SL, VL, WE. Effective: 2000 Spring Quarter.
+
+EBS 130—Modeling of Dynamic Processes in Biological Systems (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EBS 075; (ENG 006 or ECS 030); MAT 022B C- or better Techniques for modeling processes through mass and energy balance, rate equations, and equations of state. Computer problem solution of models. Example models include package design, evaporation, respiration heating, thermal processing of foods, and plant growth. GE credit: QL, SE, SL, VL. Effective: 2011 Fall Quarter.
+
+EBS 135—Bioenvironmental Engineering (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): EBS 125; EBS 130 Biological responses to environmental conditions. Principles and engineering design of environmental control systems. Overview of environmental pollution problems and legal restrictions for biological systems, introduction of environmental quality assessment techniques, and environmental pollution control technologies. GE credit: QL, SE, SL, VL, WE. Effective: 1998 Spring Quarter.
+
+EBS 144—Groundwater Hydrology (4) Lecture—4 hours. Prerequisite(s): MAT 016B or MAT 021A; HYD 103 or ENG 103 recommended. Fundamentals of groundwater flow and contaminant hydrology. Occurrence, distribution, and movement of groundwater. Well-flow systems. Aquifer tests. Well construction operation and maintenance. Groundwater exploration and quality assessment. Agricultural threats to groundwater quality: fertilizers, pesticides, and salts. (HYD 144.) GE credit: QL, SE, SL, VL. Effective: 2003 Fall
+
+EBS 145—Irrigation and Drainage Systems (4) Lecture—4 hours. Prerequisite(s): EBS 103 or HYD 103N Engineering and scientific principles applied to the design of surface, sprinkle and micro irrigation systems and drainage systems within economic, biological, and environmental constraints. Interaction between irrigation and drainage. GE credit: QL, SE, SL, VL. Effective: 2016 Fall Quarter.
+
+EBS 147—Runoff, Erosion and Water Quality Management (3) Fieldwork; Lecture/Lab—3 hours. Prerequisite(s): (PHY 007B or PHY 009B); (MAT 016C or MAT 017C or MAT 021C); (ECI 142 or HYD 141 or ESM 100); or equivalent. Practical hydrology and runoff water quality management from disturbed watersheds. Development of hillslope and soils restoration concepts and practice, modeling and application. (HYD 147.) GE credit: SE. Effective:
+
+EBS 161—Kinetics and Bioreactor Design (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EBS 127 Provide the basic principles of reactor design for bioprocess applications. This course emphasizes the following topics: 1) kinetics and reactor engineering principles; 2) bio-reaction kinetics; and 3) bioreactor design. GE credit: QL, SE, VL. Effective: 2012 Spring Quarter.
+
+EBS 165—Bioinstrumentation and Control (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 100 Instrumentation and control for biological production systems. Measurement system concepts, instrumentation and transducers for sensing physical and biological parameters, data acquisition and control. GE credit: QL, SE, SL, VL, WE. Effective: 1998 Fall Quarter.
+
+EBS 170A—Engineering Design and Professional Responsibilities (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EBS 001; ENG 102; ENG 104 Engineering design including professional responsibilities. Emphasis on project selection, data sources, specifications, human factors, biological materials, safety systems, and professionalism. Detailed design proposals will be developed for courses 170B and 170BL. GE credit: OL, QL, SE, SL, VL, WE. Effective: 1998 Spring Quarter.
+
+EBS 170B—Engineering Projects: Design (2) Discussion—2 hours. Prerequisite(s): EBS 170A; EBS 170BL (can be concurrent); EBS 170BL required concurrently. Individual or group projects involving the design of devices, structures, or systems to solve specific engineering problems in biological systems. Project for study is jointly selected by student and instructor. GE credit: OL, QL, SE, SL, VL, WE. Effective: 2006 Spring
+
+EBS 170BL—Engineering Projects: Design Laboratory (1) Laboratory—3 hours. Prerequisite(s): EBS 170B (can be concurrent); EBS 170B required concurrently. Individual or group projects involving the design of devices, structures, or systems to solve specific engineering problems in biological systems. GE credit: OL, QL, SE, SL, VL, WE. Effective: 2006 Spring Quarter.
+
+EBS 170C—Engineering Projects: Design Evaluation (1) Discussion—1 hour. Prerequisite(s): EBS 170B; EBS 170CL (can be concurrent); EBS 170CL required concurrently. Individual or group projects involving the fabrication, assembly and testing of components, devices, structures, or systems designed to solve specific engineering problems in biological systems. Project for study previously selected by student and instructor in course 170B. GE credit: OL, QL, SE, SL, VL, WE. Effective: 1999 Winter Quarter.
+
+EBS 170CL—Engineering Projects: Design Evaluation (2) Laboratory—6 hours. Prerequisite(s): EBS 170C (can be concurrent); EBS 170C required concurrently. Individual or group projects involving the fabrication, assembly and testing of components, devices, structures, or systems designed to solve specific engineering problems in biological systems. GE credit: OL, QL, SE, SL, VL, WE. Effective: 1999 Winter Quarter.
+
+EBS 175—Rheology of Biological Materials (3) Lecture—3 hours. Prerequisite(s): EBS 103 or ENG 103 Fluid and solid rheology, viscoelastic behavior of foods and other biological materials, and application of rheological properties to food and biological systems (i.e., pipeline design, extrusion, mixing, coating). GE credit: QL, SE, VL. Effective: 2016 Fall Quarter.
+
+EBS 189A—Special Topics in Biological Systems Engineering; Agricultural Engineering (15) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing in Engineering. Special topics in Agricultural Engineering. May be repeated for credit when topic differs. GE credit: SE. Effective: 1998 Fall Quarter.
+
+EBS 189C—Special Topics in Biological Systems Engineering; Biomedical Engineering (15) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing in Engineering. Special topics in Biomedical Engineering. May be repeated for credit when topic differs. GE credit: SE. Effective: 1998 Fall Quarter.
+
+EBS 189F—Special Topics in Biological Systems Engineering; Food Engineering (1-5) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing in Engineering. Special topics in Food Engineering. May be repeated for credit when topic differs. GE credit: SE. Effective: 1998 Fall Quarter.
+
+EBS 189G—Special Topics in Biological Systems Engineering; Forest Engineering (1-5) Variable—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing in Engineering. Special topics in Forest Engineering. May be repeated for credit when topic differs. GE credit: SE. Effective: 1998 Fall Quarter.
+
+EBS 190C—Research Group Conference in Biological Systems Engineering (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Biological Systems Engineering of Food Engineering. Research group conference. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 192—Internship in Biological Systems Engineering (1-5) Internship. Prerequisite(s): Consent of Instructor. Upper division standing; approval of project prior to period of internship. Supervised work experience in biological systems engineering. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 197T—Tutoring in Biological Systems Engineering (1-5) Tutorial—3-15 hours. Prerequisite(s): Consent of Instructor. Upper division standing. Tutoring individual students, leading small voluntary discussion groups, or assisting the instructor in laboratories affiliated with one of the department's regular courses. May be repeated for credit topic differs. (P/NP grading only.) GE credit: SE. Effective: 2004 Winter Quarter.
+
+EBS 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+EBS 199—Special Study for Advanced Undergraduates (1-5) Variable. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+EBS 200—Research Methods in Biological Systems Engineering (2) Lecture—2 hours. Prerequisite(s): Graduate standing. Planning, execution and reporting of research projects. Literature review techniques and proposal preparation. Record keeping and patents. Uncertainty analysis in experiments and computations. Graphic analysis. Oral and written presentation of research results, manuscript preparation, submission and review. Effective: 1997
+
+EBS 205—Continuum Mechanics of Natural Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021D; MAT 022B; PHY 009B Continuum mechanics of static and dynamic air, water, earth and biological systems using hydraulic, heat and electrical conductivity; diffusivity; dispersion; strain; stress; deformation gradient; velocity gradient; stretch and spin tensors. (HYD 205.) Effective: 2002 Fall Quarter.
+
+EBS 215—Soil-Machine Relations in Tillage and Traction (3) Lecture—3 hours. Prerequisite(s): EBS 114 Mechanics of interactions between agricultural soils and tillage and traction devices; determination of relevant physical properties of soil; analyses of stress and strains in soil due to machine-applied loads; experimental and analytical methods for synthesizing characteristics of overall systems. Effective: 1997 Winter Quarter.
+
+EBS 216—Energy Systems (4) Lecture/Discussion—4 hours. Prerequisite(s): ENG 105; or equivalent. Theory and application of energy systems. Systems analysis, energy conversion technologies, environmental considerations, economics and system optimization. (EGG 200.) Effective: 2018 Spring Quarter.
+
+EBS 218—Solar Thermal Engineering (4) Lecture/Discussion—4 hours. Prerequisite(s): Course in heat transfer. Analysis and design of solar energy collection systems. Sun-earth geometry and estimation of solar radiation. Steady-state and dynamic models of solar collectors. Modeling of thermal energy storage devices. Computer simulation. Effective: 2014 Spring Quarter.
+
+EBS 220—Pilot Plant Operations in Aquacultural Engineering (3) Laboratory—6 hours; Lecture—1 hour. Prerequisite(s): (ECI 243A, ECI 243B) or (ABT 161, ABT 163) Topics in water treatment as they apply to aquaculture operations. Laboratory study of unit operations in aquaculture. Effective: 1997 Winter Quarter.
+
+EBS 228—Occupational Musculoskeletal Disorders (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Epidemiology and etiology of occupational musculoskeletal disorders (MSDs) with focus on low back and upper extremities disorders; anatomical and biomechanical functions of lower back and upper extremities; MSDs risk factors assessment and control; research opportunities related to MSDs. Effective: 2002 Spring Quarter.
+
+EBS 231—Mass Transfer in Food and Biological Systems (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing. Application of mass transfer principles to food and biological systems. Study of mass transfer affecting food quality and shelf life. Analysis of mass transfer in polymer films used for coating and packaging foods and controlling release of biologically active compounds. Effective: 1997 Spring Quarter.
+
+EBS 233—Analysis of Processing Operations: Drying and Evaporation (3) Lecture—3 hours. Prerequisite(s): Course in food or process engineering, familiarity with FORTRAN. Diffusion theory in drying of solids. Analysis of fixed-bed and continuous-flow dryers. Steady-state and dynamic models to predict performance evaporators: multiple effects, mechanical and thermal recompression, control systems. Effective: 1997 Winter Quarter.
+
+EBS 235—Advanced Analysis of Unit Operations in Food and Biological Engineering (3) Lecture—3 hours. Prerequisite(s): EBS 132 Analysis and design of food processing operations. Steady state and dynamic heat and mass transfer models for operations involving phase change such as freezing and frying. Separation processes including membrane applications in food and fermentation systems. Effective: 1997 Winter Quarter.
+
+EBS 237—Thermal Process Design (3) Discussion—1 hour; Lecture—2 hours. Prerequisite(s): Course in heat transfer. Heat transfer and biological basis for design of heat sterilization of foods and other biological materials in containers or in bulk. Effective: 1997 Spring Quarter.
+
+EBS 239—Magnetic Resonance Imaging in Biological Systems (3) Lecture—3 hours. Prerequisite(s): Graduate standing. Theory and applications of magnetic resonance imaging to biological systems. Classical Bloch model of magnetic resonance. Applications to be studied are drying of fruits, flow of food suspensions, diffusion of moisture, and structure of foods. Effective: 1997 Winter Quarter.
+
+EBS 240—Infiltration and Drainage (3) Lecture—3 hours. Prerequisite(s): SSC 107; ENG 103 Aspects of multi-phase flow in soils and their application to infiltration and immiscible displacement problems. Gas phase transport and entrapment during infiltration, and oil-water-gas displacement will be considered. Effective: 1999
+
+EBS 241—Sprinkle and Trickle Irrigation Systems (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): EBS 145; HYD 115 Computerized design of sprinkle and trickle irrigation systems. Consideration of emitter mechanics, distribution functions and water yield functions. Effective: 1997 Winter Quarter.
+
+EBS 242—Hydraulics of Surface Irrigation (3) Lecture—3 hours. Prerequisite(s): EBS 145; HYD 115 Mathematical models of surfaceirrigation systems for prediction of the ultimate disposition of water flowing onto a field. Quantity of runoff and distribution of infiltrated water over field length as a function of slope, roughness, infiltration and inflow rates. Effective: 1997 Winter Quarter.
+
+EBS 243—Water Resource Planning and Management (3) Lecture—3 hours. Prerequisite(s): HYD 141; Or equivalent. Applications of deterministic and stochastic mathematical programming techniques to water resource planning, analysis, design, and management. Water allocation, capacity expansion, and reservoir operation. Conjunctive use of surface water and groundwater. Water quality management. Irrigation planning and operation models. (HYD 243.) Effective: 1997 Fall Quarter.
+
+EBS 245—Waste Management for Biological Production Systems (3) Lecture—3 hours. Prerequisite(s): Graduate standing or consent of instructor. Characterization of solid and liquid wastes from animal, crop, and food production systems. Study of methods and system design for handling, treatment, and disposal/utilization of these materials. Effective: 1997
+
+EBS 260—Analog Instrumentation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 100 Instrument characteristics: generalized instrument models, calibration, and frequency response. Signal conditioning: operational amplifier circuits, filtering, and noise. Transducers: motion, force, pressure, flow, temperature, and photoelectric. Effective: 1997 Winter Quarter.
+
+EBS 262—Computer Interfacing and Control (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 100; EBS 165 Procedural and objectoriented programming in C++, analog and digital signal conversion, data acquisition and computer control. Effective: 2000 Winter Quarter.
+
+EBS 265—Design and Analysis of Engineering Experiments (5) Lecture—3 hours; Lecture/Discussion—2 hours. Prerequisite(s): STA 100; ASE 120; or an introductory course in statistics. Simple linear, multiple, and polynomial regression, correlation, residuals, model selection, one-way ANOVA, fixed and random effect models, sample size, multiple comparisons, randomized block, repeated measures, and Latin square designs, factorial experiments, nested design and subsampling, split-plot design, statistical software packages. Effective: 2000 Spring Quarter.
+
+EBS 267—Renewable Bioprocessing (3) Lecture—3 hours. Prerequisite(s): EBS 160; (BIS 101 or MIC 102) Applications of biotechnology and bioprocess engineering toward the use of agricultural and renewable feedstocks for the production of biochemicals. Design and modeling of microbial- and plant-based production systems including associated fermentation, extraction, and purification processes. Effective: 2005 Winter
+
+EBS 268—Polysaccharides Surface Interactions (3) Lecture—3 hours. Prerequisite(s): Graduate students in science or engineering. Study of fundamental surface science theories as applied to physical and chemical interactions of carbohydrates and polysaccharides. (ECH 268.) Effective: 2017 Winter Quarter.
+
+EBS 270—Modeling and Analysis of Biological and Physical Systems (3) Lecture—3 hours. Prerequisite(s): Familiarity with a programming language. Mathematical modeling of biological systems: model development; analytical and numerical solutions. Case studies from various specializations within Biological and Agricultural Engineering. Effective: 2001
+
+EBS 275—Physical Properties of Biological Materials (3) Laboratory—3 hours; Lecture—2 hours. Prerequisite(s): Consent of Instructor. Selected topics on physical properties, such as mechanical, optical, rheological, and aerodynamic properties, as related to the design of harvesting, handling, sorting, and processing equipment. Techniques for measuring and recording physical properties of biological materials. Effective: 1997 Winter Quarter.
+
+EBS 289C—Selected Topics in Biological Systems Engineering; Biological Engineering (15) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biological Engineering. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289D—Selected Topics in Biological Systems Engineering; Energy Systems (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Energy Systems. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289E—Selected Topics in Biological Systems Engineering; Environmental Quality (15) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topic in Environmental Quality. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289F—Selected Topics in Biological Systems Engineering; Food Engineering (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Food Engineering. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289G—Selected Topics in Biological Systems Engineering; Forest Engineering (1-5) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Forest Engineering. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 289K—Selected Topics in Biological Systems Engineering; Sensors and Actuators (15) Variable—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Sensors and Actuators. May be repeated for credit when topic differs. Effective: 1997 Winter Quarter.
+
+EBS 290—Seminar (1) Seminar—1 hour. Prerequisite(s): Graduate standing. Weekly seminars on recent advances and selected topics in biological systems engineering. Course theme will change from quarter to quarter. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EBS 290C—Graduate Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research problems, progress and techniques in biological systems engineering. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EBS 298—Group Study (1-5) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EBS 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EBS 390—Supervised Teaching in Biological and Agricultural Engineering (1-3) Laboratory—3 hours; Tutorial—3-9 hours. Prerequisite(s): Consent of Instructor. Graduate standing. Tutoring and teaching students in undergraduate courses offered in the Department of Biological and Agricultural Engineering. Weekly conferences with instructor; evaluation of teaching. Preparing for and conducting demonstrations, laboratories and discussions. Preparing and grading exams. May be repeated up to 6 unit(s). (S/U grading only.) Effective: 1997 Winter Quarter.

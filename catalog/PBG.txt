@@ -1,0 +1,95 @@
+PBG 200A—Principles of Population Biology (5) Discussion—2 hours; Lecture—3 hours. Prerequisite(s): PBG 231 (can be concurrent); and Consent of Instructor. PBG 231 required concurrently. Principles of single-species ecology and evolution. Topics include ecology of individuals, population growth models, structured populations, life history strategies, stochastic populations, basic population genetics theory, deleterious alleles in natural populations, and molecular population genetics. Effective: 1997 Winter Quarter.
+
+PBG 200B—Principles of Population Biology (6) Discussion—1 hour; Lecture—5 hours. Prerequisite(s): PBG 200A; PBG 231 Principles of multispecies communities. Topics include competition, mutualism, metapopulations, food webs and trophic cascades, interactions between simple ecological communities, island biogeography, succession, and large-scale patterns. Effective: 1998 Winter Quarter.
+
+PBG 200C—Principles of Population Biology (6) Discussion—1 hour; Lecture—5 hours. Prerequisite(s): PBG 200B Principles of microevolution and macroevolution. Topics include evolutionary quantitative genetics, analysis of hybrid zones, speciation, the fossil record, biogeography, and phylogeny reconstruction. Effective: 1998 Spring
+
+PBG 203—Advanced Evolution (3) Discussion—2 hours; Lecture—1 hour. Prerequisite(s): Graduate standing. Adaptation and speciation, and biochemical and morphological evolution in plants and animals with emphasis on the appropriateness of different methods of analysis. Effective: 1997 Winter Quarter.
+
+PBG 206—Ecology of Insect Parasitoids (4) Lecture—3 hours; Seminar—1 hour. Prerequisite(s): Introductory animal ecology or behavior. Insect parasitoids will be investigated as model systems to address current topics in behavioral, population, and evolutionary ecology. Theory will be synthesized and critical empirical tests of ecological hypotheses emphasized. Effective: 1997 Winter Quarter.
+
+PBG 207—Plant Population Biology (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): Advanced undergraduate ecology course (e.g., ESP 100, EVE 101, ENT 104, PLB 117), and advanced undergraduate course in genetics and/or evolution (e.g., BIS 101 or EVE 100). Introduction to theoretical and empirical research in plant population biology. Emphasis placed on linking ecological and genetic approaches to plant population biology. (Ecology 207) Effective: 2000 Winter Quarter.
+
+PBG 212—Topics in INvertebrate Evolution (2) Seminar—2 hours. Prerequisite(s): Graduate standing or consent of instructor; courses in evolutionary biology, systematics, and ecology highly recommended. Advanced seminar that critically examines problems relevant to evolutionary patterns among the invertebrates. May be repeated for credit when topic differs. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 221—Animal Behavior, Ecology and Evolution (3) Lecture—3 hours. Prerequisite(s): NPB 102; EVE 100; EVE 101; and Consent of Instructor. Or the equivalent, graduate standing. The interface between animal behavior, ecology and evolution. New developments in behavioral ecology development and testing of hypotheses in this discipline. (Animal Behavior 221.) Effective: 2002 Winter Quarter.
+
+PBG 224—Field Reconnaissance for Population Biologists (2) Fieldwork—6 hours. Prerequisite(s): Graduate student in Population Biology, or consent of instructor. Biweekly field trips to acquaint students with plant and animal communities, biodiversity, and ecological and evolutionary research opportunities in northern and central California. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Fall Quarter.
+
+PBG 225—Terrestrial Field Ecology (4) Fieldwork—12 hours; Seminar—1 hour. Prerequisite(s): Introductory ecology and introductory statistics, or consent of instructor. A field course conducted over spring break and four weekends at Bodega Bay emphasizing student projects. Ecological hypothesis testing, data gathering, analysis, and written and oral presentation of results will be stressed. (Ecology/Entomology 225) Effective: 1997
+
+PBG 231—Mathematical Methods in Population Biology (3) Lecture—3 hours. Prerequisite(s): MAT 016C or MAT 021C; Or the equivalent. Mathematical methods used in population biology. Linear and nonlinear difference equation and differential equation models are studied, using stability analysis and qualitative methods. Partial differential equation models are introduced. Applications to population biology models are stressed. (Ecology 231) Effective: 1997 Winter Quarter.
+
+PBG 233—Computational Methods in Population Biology (3) Discussion/Laboratory—1 hour; Lecture/Lab—2 hours. Prerequisite(s): A course in theoretical ecology (e.g., ECL 231 or an equivalent to ESP 121 from your undergraduate institution) or consent of instructor; no programming experience required. Numerical methods for simulating population dynamics using the computational software package R. Emphasis placed on model formulation and development, theoretical concepts and philosophical principles to guide simulation efforts, model parameterization, and implementing simulations with R. (Ecology 233.) (S/U grading only.) Effective: 2013 Fall Quarter.
+
+PBG 250A—Interdisciplinary Approaches to Biological Invasions (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing. An integrative consideration of biological invasions, including an overview of concepts from ecology, ecological theory, evolution, genetics, philosophy, and other areas. Emphasis on potential contributions of each area for interdisciplinary problem-solving. Effective: 2004 Fall Quarter.
+
+PBG 250B—Interdisciplinary Approaches to Biological Invasions (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing. An integrative consideration of biological invasions, including an overview of concepts from history, sociology, communications, law, policy, management, and other areas. Emphasis on potential contributions of each area for interdisciplinary problem-solving. Effective: 2004 Fall Quarter.
+
+PBG 251—Collaborative Project in Biological Invasions (3) Discussion—1 hour; Project (Term Project). Prerequisite(s): PBG 250A; PBG 250B; and Consent of Instructor. Or equivalent courses. A year-long interdisciplinary collaborative project focusing on biological invasions, resulting in a paper or other suitable product presented at a symposium at the conclusion of the project. May be repeated up to 5 time(s). (S/U grading only.) Effective: 2004 Fall
+
+PBG 270—Research Conference in Evolutionary Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Critical presentation and evaluation of current literature and ongoing research in evolutionary biology. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 271—Research Conference in Ecology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Critical presentation and evaluation of current literature and ongoing research in ecology. Requirements include active participation in weekly discussions and the presentation of a paper or chapter once per quarter. May be repeated for credit. (Ecology 271.) (S/U grading only.) Effective: 2014 Winter Quarter.
+
+PBG 287—Advanced Animal Behavior (2) Seminar—2 hours. Prerequisite(s): NPB 102; (EVE 100; and Consent of Instructor. or ECL 101); or the equivalents; graduate standing; Consent of Instructor. Reading, reports and discussion on current topics in animal behavior, with a focus on topics that lie at the interface between animal behavior, ecology and evolution. May be repeated up to 2 time(s). (Animal Behavior 287.) Effective: 2002 Spring Quarter.
+
+PBG 290—Seminar (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Seminars presented by visiting lecturers, UC Davis graduate students and faculty. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 290C—Research Conference in Population Biology (1) Discussion—1 hour. Prerequisite(s): PBG 299 (can be concurrent); and Consent of Instructor. Graduate standing; PBG 299 required concurrently. Presentation and discussion of faculty and graduate student research in population biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 292—Topics in Ecology and Evolution (1) Seminar—1 hour. Prerequisite(s): Graduate standing. Seminar presented by visiting lecturers, UC Davis faculty and graduate students. May be repeated for credit. May be repeated for credit. (Ecology 296) (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 296—Seminar in Geographical Ecology (2) Seminar—2 hours. Prerequisite(s): EVE 100 or EVE 101; or Consent of Instructor. Recent developments in theoretical and experimental biogeography, historical biogeography and related themes in systematics, the biology of colonizing species, and related topics. May be repeated for credit. (Geography 214.) (S/U grading only.) Effective: 2012 Fall Quarter.
+
+PBG 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+PBG 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+PBG 200A—Principles of Population Biology (5) Discussion—2 hours; Lecture—3 hours. Prerequisite(s): PBG 231 (can be concurrent); and Consent of Instructor. PBG 231 required concurrently. Principles of single-species ecology and evolution. Topics include ecology of individuals, population growth models, structured populations, life history strategies, stochastic populations, basic population genetics theory, deleterious alleles in natural populations, and molecular population genetics. Effective: 1997 Winter Quarter.
+
+PBG 200B—Principles of Population Biology (6) Discussion—1 hour; Lecture—5 hours. Prerequisite(s): PBG 200A; PBG 231 Principles of multispecies communities. Topics include competition, mutualism, metapopulations, food webs and trophic cascades, interactions between simple ecological communities, island biogeography, succession, and large-scale patterns. Effective: 1998 Winter Quarter.
+
+PBG 200C—Principles of Population Biology (6) Discussion—1 hour; Lecture—5 hours. Prerequisite(s): PBG 200B Principles of microevolution and macroevolution. Topics include evolutionary quantitative genetics, analysis of hybrid zones, speciation, the fossil record, biogeography, and phylogeny reconstruction. Effective: 1998 Spring
+
+PBG 203—Advanced Evolution (3) Discussion—2 hours; Lecture—1 hour. Prerequisite(s): Graduate standing. Adaptation and speciation, and biochemical and morphological evolution in plants and animals with emphasis on the appropriateness of different methods of analysis. Effective: 1997 Winter Quarter.
+
+PBG 206—Ecology of Insect Parasitoids (4) Lecture—3 hours; Seminar—1 hour. Prerequisite(s): Introductory animal ecology or behavior. Insect parasitoids will be investigated as model systems to address current topics in behavioral, population, and evolutionary ecology. Theory will be synthesized and critical empirical tests of ecological hypotheses emphasized. Effective: 1997 Winter Quarter.
+
+PBG 207—Plant Population Biology (3) Discussion/Laboratory—1 hour; Lecture—2 hours. Prerequisite(s): Advanced undergraduate ecology course (e.g., ESP 100, EVE 101, ENT 104, PLB 117), and advanced undergraduate course in genetics and/or evolution (e.g., BIS 101 or EVE 100). Introduction to theoretical and empirical research in plant population biology. Emphasis placed on linking ecological and genetic approaches to plant population biology. (Ecology 207) Effective: 2000 Winter Quarter.
+
+PBG 212—Topics in INvertebrate Evolution (2) Seminar—2 hours. Prerequisite(s): Graduate standing or consent of instructor; courses in evolutionary biology, systematics, and ecology highly recommended. Advanced seminar that critically examines problems relevant to evolutionary patterns among the invertebrates. May be repeated for credit when topic differs. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 221—Animal Behavior, Ecology and Evolution (3) Lecture—3 hours. Prerequisite(s): NPB 102; EVE 100; EVE 101; and Consent of Instructor. Or the equivalent, graduate standing. The interface between animal behavior, ecology and evolution. New developments in behavioral ecology development and testing of hypotheses in this discipline. (Animal Behavior 221.) Effective: 2002 Winter Quarter.
+
+PBG 224—Field Reconnaissance for Population Biologists (2) Fieldwork—6 hours. Prerequisite(s): Graduate student in Population Biology, or consent of instructor. Biweekly field trips to acquaint students with plant and animal communities, biodiversity, and ecological and evolutionary research opportunities in northern and central California. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Fall Quarter.
+
+PBG 225—Terrestrial Field Ecology (4) Fieldwork—12 hours; Seminar—1 hour. Prerequisite(s): Introductory ecology and introductory statistics, or consent of instructor. A field course conducted over spring break and four weekends at Bodega Bay emphasizing student projects. Ecological hypothesis testing, data gathering, analysis, and written and oral presentation of results will be stressed. (Ecology/Entomology 225) Effective: 1997
+
+PBG 231—Mathematical Methods in Population Biology (3) Lecture—3 hours. Prerequisite(s): MAT 016C or MAT 021C; Or the equivalent. Mathematical methods used in population biology. Linear and nonlinear difference equation and differential equation models are studied, using stability analysis and qualitative methods. Partial differential equation models are introduced. Applications to population biology models are stressed. (Ecology 231) Effective: 1997 Winter Quarter.
+
+PBG 233—Computational Methods in Population Biology (3) Discussion/Laboratory—1 hour; Lecture/Lab—2 hours. Prerequisite(s): A course in theoretical ecology (e.g., ECL 231 or an equivalent to ESP 121 from your undergraduate institution) or consent of instructor; no programming experience required. Numerical methods for simulating population dynamics using the computational software package R. Emphasis placed on model formulation and development, theoretical concepts and philosophical principles to guide simulation efforts, model parameterization, and implementing simulations with R. (Ecology 233.) (S/U grading only.) Effective: 2013 Fall Quarter.
+
+PBG 250A—Interdisciplinary Approaches to Biological Invasions (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing. An integrative consideration of biological invasions, including an overview of concepts from ecology, ecological theory, evolution, genetics, philosophy, and other areas. Emphasis on potential contributions of each area for interdisciplinary problem-solving. Effective: 2004 Fall Quarter.
+
+PBG 250B—Interdisciplinary Approaches to Biological Invasions (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing. An integrative consideration of biological invasions, including an overview of concepts from history, sociology, communications, law, policy, management, and other areas. Emphasis on potential contributions of each area for interdisciplinary problem-solving. Effective: 2004 Fall Quarter.
+
+PBG 251—Collaborative Project in Biological Invasions (3) Discussion—1 hour; Project (Term Project). Prerequisite(s): PBG 250A; PBG 250B; and Consent of Instructor. Or equivalent courses. A year-long interdisciplinary collaborative project focusing on biological invasions, resulting in a paper or other suitable product presented at a symposium at the conclusion of the project. May be repeated up to 5 time(s). (S/U grading only.) Effective: 2004 Fall
+
+PBG 270—Research Conference in Evolutionary Biology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Critical presentation and evaluation of current literature and ongoing research in evolutionary biology. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 271—Research Conference in Ecology (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Critical presentation and evaluation of current literature and ongoing research in ecology. Requirements include active participation in weekly discussions and the presentation of a paper or chapter once per quarter. May be repeated for credit. (Ecology 271.) (S/U grading only.) Effective: 2014 Winter Quarter.
+
+PBG 287—Advanced Animal Behavior (2) Seminar—2 hours. Prerequisite(s): NPB 102; (EVE 100; and Consent of Instructor. or ECL 101); or the equivalents; graduate standing; Consent of Instructor. Reading, reports and discussion on current topics in animal behavior, with a focus on topics that lie at the interface between animal behavior, ecology and evolution. May be repeated up to 2 time(s). (Animal Behavior 287.) Effective: 2002 Spring Quarter.
+
+PBG 290—Seminar (1) Seminar—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing. Seminars presented by visiting lecturers, UC Davis graduate students and faculty. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 290C—Research Conference in Population Biology (1) Discussion—1 hour. Prerequisite(s): PBG 299 (can be concurrent); and Consent of Instructor. Graduate standing; PBG 299 required concurrently. Presentation and discussion of faculty and graduate student research in population biology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 292—Topics in Ecology and Evolution (1) Seminar—1 hour. Prerequisite(s): Graduate standing. Seminar presented by visiting lecturers, UC Davis faculty and graduate students. May be repeated for credit. May be repeated for credit. (Ecology 296) (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PBG 296—Seminar in Geographical Ecology (2) Seminar—2 hours. Prerequisite(s): EVE 100 or EVE 101; or Consent of Instructor. Recent developments in theoretical and experimental biogeography, historical biogeography and related themes in systematics, the biology of colonizing species, and related topics. May be repeated for credit. (Geography 214.) (S/U grading only.) Effective: 2012 Fall Quarter.
+
+PBG 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:
+
+PBG 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. Graduate standing. (S/U grading only.) Effective:

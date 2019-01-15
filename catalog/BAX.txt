@@ -1,0 +1,35 @@
+BAX 400—Foundations of Analytics (2) Lecture—1 hour. Focuses on teaching the fundamentals of R and SQL. Introduces the topic of numerical optimization, and review the concepts of linear algebra and calculus. Effective: 2018
+
+BAX 401—Introduction to Business Analytics (2) Lecture—2 hours. Introduction to the process of analyzing raw data to gain profitable business insight. Applications selected across organizational functions include prediction, process improvement, and general operational decision-making. Effective: 2017 Fall Quarter.
+
+BAX 402—Organizational Issues in Implementing Analytics (2) Lecture—2 hours. Review the evolution of analytics in business, how to assemble and manage analytics teams, and the decision life-cycle. Emphasis on structuring communications to improve buy-in from peers and non-quantitatively-inclined colleagues. Effective: 2018 Winter Quarter.
+
+BAX 403—Organizational Effectiveness Workshop (2) Lecture—2 hours. Examine leadership, communication, and project management within the business, legal and societal contexts in which analytics is applied. Emphasis on privacy, data security, responsibility, and ethics. Effective: 2017 Fall Quarter.
+
+BAX 411—Problem Structuring (2) Lecture—2 hours. Synthesize data-rich business challenges using analytic frameworks and techniques for modeling business problems. Emphasis on modeling uncertainty, optimizing multiple criteria, and building consensus. Effective: 2017 Fall Quarter.
+
+BAX 421—Data Management (2) Lecture—2 hours. Introduction to the extraction, assembly, storage and organization of data in IT systems. Effective: 2017 Fall Quarter.
+
+BAX 422—Big Data (2) Lecture—2 hours. Introduction to business applications involving standard, streaming, and network data. Emphasis on scalable technologies for processing and analyzing big data for diverse applications. Effective: 2017 Fall Quarter.
+
+BAX 423—Data Design and Representation (2) Lecture—2 hours. Students learn computational reasoning about data representations by mapping conceptual data models to relational structures and analyzing database architectures and design tradeoffs. Effective: 2017 Fall Quarter.
+
+BAX 431—Data Visualization (2) Lecture—2 hours. Extract insights using visualization tools in R, Python, ManyEyes, HTML/CSS, etc. Standard (histograms, boxplots, and dashboards) and specialized (3D, animation, word clouds) formats are covered. Effective: 2017 Fall Quarter.
+
+BAX 441—Statistical Exploration and Reasoning (2) Lecture—2 hours. Introduction to statistical reasoning and inference extraction from large datasets. Students learn to obtain preliminary insights and form initial hypotheses through exploratory data analysis (EDA). Effective: 2017 Fall Quarter.
+
+BAX 442—Advanced Statistics (3) Lecture—3 hours. Continue exploring statistical reasoning using maximum likelihood estimation, Bayesian models, nonparametric models, Monte Carlo Markov Chain, time series, model specification, model selection, and dimension reduction. Effective: 2017 Fall Quarter.
+
+BAX 443—Analytic Decision Making (3) Lecture—3 hours. Using spreadsheets and specialized modeling tools, explore structured problem solution through meta-heuristics, Monte Carlo simulation, and mathematical optimization. Effective: 2017 Fall Quarter.
+
+BAX 452—Machine Learning (3) Lecture—3 hours. Construct algorithms for learning from data and analyze the process for deriving business intelligence. Coverage of supervised and unsupervised learning, neural networks, etc. Effective: 2017 Fall Quarter.
+
+BAX 453—Application Domains (3) Lecture—3 hours. Students explore contemporary and emerging domains for high-yield applications of analytics. Topics: social network analytics, search analytics, health care analytics, internet of things, supply chain/operations analytics, and marketing analytics. Effective: 2017 Winter Quarter.
+
+BAX 461—Practicum Initiation (2) Lecture—2 hours. Students form teams, scope their project in light of team capability and business opportunity, create a preliminary structure and solution approach for the core problem, and assess data quality and project risks. Effective: 2017 Fall Quarter.
+
+BAX 462—Practicum Elaboration (2) Lecture—2 hours. Building on problems chosen in course 461, teams refine the business opportunity and draw insights from exploratory data analysis. Effective: 2017 Fall Quarter.
+
+BAX 463—Practicum Analysis (2) Lecture—2 hours. Implement selected analytic approaches through iteratively refining assumptions and analysis, synchronizing client requirements with model results, and creating minimum viable prototypes. Effective: 2017 Fall Quarter.
+
+BAX 464—Practicum Implementation (4) Discussion; Lecture—2 hours; Project (Term Project); Term Paper. Project teams complete analysis, plan deployment and obtain client buy-in. The course culminates in a project presentation, preferably including representatives from the client organization. Effective: 2017 Fall

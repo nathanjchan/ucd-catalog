@@ -1,0 +1,71 @@
+EAD 230—Topics in Computational Fluid Dynamics (3) Lecture—3 hours. Prerequisite(s): EAD 210A; EAD 210B; or Consent of Instructor. Hands-on approach to numerical methods for compressible fluid flow.Readings and discussions of solution strategies will be complemented with programming exercises and projects to give first-hand experience with performance and accuracy of several computational methods;from upwind differencing to Godunov methods. Effective: 2000 Fall Quarter.
+
+EAD 289A—Special Topics in Applied Science: Atomic, Molecular, and Optical Physics (15) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Atomic, Molecular, and Optical Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall Quarter.
+
+EAD 289B—Special Topics in Applied Science: Chemical Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Chemical Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289C—Computational Physics: Computational Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Computational Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective:
+
+EAD 289D—Special Topics in Applied Science: Biophotonics/Biotechnology (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Biophotonics/Biotechnology. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall Quarter.
+
+EAD 289E—Special Topics in Applied Science: Materials Science (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Materials Science. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289F—Special Topics in Applied Science: Imaging Science and Photonics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Imaging Science and Photonics. May be repeated up to 5 unit(s) per segment when topic differs. Effective:
+
+EAD 289G—Special Topics in Applied Science: Nonlinear Optics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Nonlinear Optics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289H—Special Topics in Applied Science: Plasma/Fusion Energy Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Plasma/Fusion Energy Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008
+
+EAD 289I—Special Topics in Applied Science: Quantum Electronics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Quantum Electronics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289J—Special Topics in Applied Science: Condensed Matter/Statistical Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Condensed Matter/Statistical Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall Quarter.
+
+EAD 289K—Special Topics in Applied Science: Classical Optics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Classical Optics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289M—Special Topics in Applied Science: Synchrotron Radiation Science (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Synchrotron Radiation Science. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008
+
+EAD 289N—Special Topics in Applied Science: Space Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Space Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 290—Seminar (1-2) Seminar—1-2 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EAD 290C—Graduate Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EAD 298—Group Study (1-5) Lecture—3-15 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EAD 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EAD 230—Topics in Computational Fluid Dynamics (3) Lecture—3 hours. Prerequisite(s): EAD 210A; EAD 210B; or Consent of Instructor. Hands-on approach to numerical methods for compressible fluid flow.Readings and discussions of solution strategies will be complemented with programming exercises and projects to give first-hand experience with performance and accuracy of several computational methods;from upwind differencing to Godunov methods. Effective: 2000 Fall Quarter.
+
+EAD 289A—Special Topics in Applied Science: Atomic, Molecular, and Optical Physics (15) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Atomic, Molecular, and Optical Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall Quarter.
+
+EAD 289B—Special Topics in Applied Science: Chemical Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Chemical Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289C—Computational Physics: Computational Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Computational Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective:
+
+EAD 289D—Special Topics in Applied Science: Biophotonics/Biotechnology (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Biophotonics/Biotechnology. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall Quarter.
+
+EAD 289E—Special Topics in Applied Science: Materials Science (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Materials Science. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289F—Special Topics in Applied Science: Imaging Science and Photonics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Imaging Science and Photonics. May be repeated up to 5 unit(s) per segment when topic differs. Effective:
+
+EAD 289G—Special Topics in Applied Science: Nonlinear Optics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Nonlinear Optics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289H—Special Topics in Applied Science: Plasma/Fusion Energy Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Plasma/Fusion Energy Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008
+
+EAD 289I—Special Topics in Applied Science: Quantum Electronics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Quantum Electronics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289J—Special Topics in Applied Science: Condensed Matter/Statistical Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Condensed Matter/Statistical Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall Quarter.
+
+EAD 289K—Special Topics in Applied Science: Classical Optics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Classical Optics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 289M—Special Topics in Applied Science: Synchrotron Radiation Science (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Synchrotron Radiation Science. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008
+
+EAD 289N—Special Topics in Applied Science: Space Physics (1-5) Variable. Prerequisite(s): Graduate standing or consent of instructor. Special topic in Space Physics. May be repeated up to 5 unit(s) per segment when topic differs. Effective: 2008 Fall
+
+EAD 290—Seminar (1-2) Seminar—1-2 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EAD 290C—Graduate Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EAD 298—Group Study (1-5) Lecture—3-15 hours. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+EAD 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.

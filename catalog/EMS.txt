@@ -1,0 +1,365 @@
+EMS 002—Materials Marvels: The Science of Superheroes (3) Discussion—1 hour; Lecture—2 hours. Introduction to science and technology of materials as key engineering ingredients. Explores the relationship between art and materials, and how superheroes are both products and resources of ideas for new materials' technologies. GE credit: SE, SL, WE. Effective: 2018 Winter Quarter.
+
+EMS 006H—Honors Materials Science Computer Applications (1) Discussion—1 hour. Prerequisite(s): ENG 006 (can be concurrent); Enrollment in the Materials Science and Engineering Honors Program; ENG 006 required concurrently. Restricted to students in the Materials Science and Engineering Honors Program. Examination of materials science computer applications through additional readings, discussions, collaborative work, or special activities which may include projects or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 009H—Honors Solid-State Materials Science (1) Discussion—1 hour. Prerequisite(s): PHY 009D (can be concurrent); Enrollment in the Materials Science and Engineering Honors Program; PHY 009D required concurrently. Restricted to students in the Materials Science and Engineering Honors Program. Examination of solid-state materials science and modern physics topics through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 147—Principles of Polymer Materials Science (3) Lecture—3 hours. Prerequisite(s): CHE 002A; CHE 002B; ((CHE 008A, CHE 008B) or (ENG 045 or ENG 045Y)); introductory physics. Basic principles of polymer science presented including polymer structure and synthesis; polymerization mechanisms, polymer classes, properties, and reactions; polymer morphology, rheology, and characterization; polymer processing. (FPS 100.) GE credit: QL, SE. Effective: 2018 Spring Quarter.
+
+EMS 160—Thermodynamics of Materials Processes and Phase Stability (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ENG 045 C- or better; PHY 009B C- or better; MAT 022B C- or better; CHE 002C recommended. Review of thermodynamic principles of interest to materials scientists and engineers. Application of thermodynamics to material processing, phase stability, corrosion. GE credit: QL, SE, SL, VL. Effective: 2017 Winter Quarter.
+
+EMS 160—Thermodynamics of Materials Processes and Phase Stability (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); PHY 009B C- or better; MAT 022B C- or better; CHE 002C recommended. Review of thermodynamic principles of interest to materials scientists and engineers. Application of thermodynamics to material processing, phase stability, corrosion. GE credit: QL, SE, SL, VL. Effective: 2018 Fall Quarter.
+
+EMS 162—Structure and Characterization of Engineering Materials (4) Lecture—4 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); MAT 022A Cor better; PHY 009B C- or better Description of the structure of engineering materials on the atomic scale by exploring the fundamentals of crystallography. The importance of this structure to materials’ properties. Description of experimental determination using x-ray diffraction techniques. GE credit: QL, SE. Effective: 2018 Winter Quarter.
+
+EMS 162L—Structure and Characterization of Materials Laboratory (2) Discussion—1 hour; Laboratory—3 hours. Prerequisite(s): EMS 162 (can be concurrent); Concurrent enrollment recommended. Experimental investigations of structure of solid materials are combined with techniques for characterization of materials. Laboratory exercises emphasize methods used to study structure of solids at the atomic and microstructural levels. Methods focus on optical, x-ray and electron techniques. Not open for credit to those who have completed EMS 132; can be taken for 2 units of credit by those who have completed EMS 134L; not open for credit to those who have completed both EMS 132L and EMS 134L. GE credit: QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+EMS 164—Rate Processes in Materials Science (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); EMS 160 Basic kinetic laws and the principles governing phase transformations. Applications in diffusion, oxidation, nucleation, growth and spinodal transformations. GE credit: QL, SE, SL, VL. Effective: 2018 Winter Quarter.
+
+EMS 172—Electronic, Optical and Magnetic Properties of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110A or PHY 009D; ENG 006 or ECM 006 or equivalent recommended. Electronic, optical, and magnetic properties of materials as related to structure and processing of solid state materials. Physical principles for understanding the properties of metals, semiconductors, ceramics, and amorphous solids and the applications of these materials in engineering. GE credit: QL, SE, SL, VL. Effective: 2017 Winter Quarter.
+
+EMS 172L—Electronic, Optical and Magnetic Properties Laboratory (2) Laboratory—3 hours; Lecture/Lab—1 hour. Prerequisite(s): EMS 172 (can be concurrent); Concurrent enrollment recommended. Experimental investigation of electronic, optical and magnetic properties of engineering materials, emphasizing the fundamental relationship between microstructure and properties as well as the influence of rate processes on the evolution of the microstructure and properties. GE credit: QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+EMS 174—Mechanical Behavior of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); EMS 162 recommended. Microscopic and macroscopic aspects of the mechanical behavior of engineering materials, with emphasis on recent development in materials characterization by nondestructive testing. Fundamental aspects of plasticity in engineering materials, strengthening mechanisms and mechanical failure modes of materials systems. GE credit: QL, SE, SL, VL. Effective: 2018 Spring Quarter.
+
+EMS 174L—Mechanical Behavior Laboratory (2) Laboratory—3 hours; Lecture/Lab—1 hour. Prerequisite(s): EMS 174 (can be concurrent); Concurrent enrollment recommended. Experimental investigation of mechanical behavior of engineering materials. Laboratory exercises emphasize the fundamental relationship between microstructure and mechanical properties, and the evolution of the microstructure as a consequence of rate process. Not open for credit to those who have taken EMS 138L; not open for credit to those who have taken both EMS 134L and EMS 138L. GE credit: QL, SE, SL, VL, WE. Effective: 2016 Winter Quarter.
+
+EMS 180—Materials in Engineering Design (4) Lecture—3 hours; Lecture/Discussion—1 hour. Prerequisite(s): ENG 045 C- or better or ENG 045Y C- or better Restricted to students with upper division standing. Quantitative treatment of materials selection for engineering applications. Discussion of design and material selection strategy; process and process selection strategy; process economics; life-cycle thinking and ecodesign. Use of materials selection software. GE credit: OL, SE, SL, VL, WE. Effective: 2018 Spring
+
+EMS 181—Materials Processing (4) Lecture—3 hours; Lecture/Discussion—1 hour. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); (ENG 105 or ECH 152B or EEC 140A or EMS 164) Principles of phase equilibria, thermodynamics and reaction kinetics applied to materials processing. Effects of processing variables on the structure-property relationship. Fundamentals of the manufacturing processes for electronic, optical, functional and structural materials. GE credit: OL, SE, VL, WE. Effective: 2018
+
+EMS 182—Failure Analysis (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 045 C- or better or ENG 045Y C- or better; EMS 174 recommended. Analysis of the way materials fail. Effects of temperature, mechanical deformation and corrosion on the properties of materials. forensics and methodologies for investigating failures of materials including optical microscopy, x-ray analysis and scanning electron microscopy. Investigation of practical problems. GE credit: QL, SE, VL, WE. Effective: 2018
+
+EMS 188A—Materials Design Project (4) Discussion—1 hour; Laboratory—4 hours. Prerequisite(s): EMS 160; EMS 162; EMS 164; EMS 172; EMS 174 Major materials design experience involving analysis of real materials synthesis/processing/fabrication and technological applications including critical assessments of economic, manufacturing, and ethical constraints. Various principles of materials science are integrated into a culminating team design project. GE credit: OL, SE, SL, VL, WE. Effective: 2017
+
+EMS 188AH—Honors Materials Design (1) Discussion—1 hour. Prerequisite(s): Enrollment in the Materials Science and Engineering Honors Program. Open only to students in the Materials Science and Engineering Honors Program. Examination of special topics covered in the materials design course through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 188B—Materials Design Project (4) Discussion—1 hour; Laboratory—4 hours. Prerequisite(s): EMS 188A Major materials design experience involving analysis of real materials synthesis/processing/fabrication and technological applications including critical assessments of economic, manufacturing, and ethical constraints. Various principles of materials science are integrated into a culminating team design project. GE credit: OL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+EMS 188BH—Honors Materials Design (1) Discussion—1 hour. Prerequisite(s): Enrollment in the Materials Science and Engineering Honors Program. Open only to students in the Materials Science and Engineering Honors Program. Examination of special topics covered in the materials design course through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 190C—Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing. Individual and/or group conference on problems, progress and techniques in materials research. May be repeated for credit. May be repeated for credit. (P/NP grading only.) Effective: 2017 Winter
+
+EMS 198—Directed Group Study (1-5) Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Group study of selected topics. (P/NP grading only.) Effective: 2017 Winter Quarter.
+
+EMS 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special study for advanced undergraduates. (P/NP grading only.) Effective: 2017 Winter Quarter.
+
+EMS 230—Fundamentals of Electron Microscopy (3) Lecture—2 hours; Lecture/Discussion—1 hour. Prerequisite(s): EMS 162 Principles and techniques of scanning and transmission of electron microscopy used in the study of materials will be described. Emphasis upon practical applications. Effective: 2017 Winter Quarter.
+
+EMS 230L—Laboratory for Electron Microscopy (2) Laboratory—6 hours. Prerequisite(s): EMS 230 (can be concurrent); EMS 230 required concurrently. Practical application of techniques of electron scanning and transmission microscopy including x-ray microanalysis. Effective: 2017 Winter Quarter.
+
+EMS 232—Advanced Topics in Transmission Electron Microscopy (3) Discussion—2 hours; Lecture—1 hour. Prerequisite(s): EMS 230 Advanced course in the techniques of electron microscopy including analytical techniques, probe diffraction methods, and high resolution imaging. Effective: 2017 Winter Quarter.
+
+EMS 232L—Laboratory for Advanced Transmission Electron Microscopy (2) Discussion—1 hour; Laboratory—3 hours. Prerequisite(s): EMS 230L Laboratory in advanced transmission electron microscopy techniques relevant to specific graduate research projects in materials science. Effective: 2017 Winter Quarter.
+
+EMS 241—Principles and Applications of Dislocation Mechanics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Graduate standing in Engineering. Concepts in dislocation theory are applied to explain plasticity of crystalline solids. Glide and climb of dislocations, strain hardening, recrystallization, theories of creep processes and interaction of dislocation with solute atoms, precipitates and impurity clouds are discussed. Effective: 2017 Winter Quarter.
+
+EMS 243—Kinetics of Phase Transformation in Engineering Materials (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Graduate standing in Engineering; EMS 160 recommended. Theory of alloying, kinetics of phase changes, homogenous and heterogeneous transformation, transformation by shear, order-disorder reactions. Effective: 2017 Winter Quarter.
+
+EMS 244—Interaction of Materials and their Environment (3) Lecture—3 hours. Prerequisite(s): (ENG 045 or ENG 045Y); ENG 105A recommended; or consent of instructor. Thermodynamic and kinetic foundations of the corrosion and oxidation processes. Practical aspects of corrosion control and prevention. Stress-corrosion and gas-embrittlement phenomena. Special topics in corrosion; microbiological and atmospheric corrosion. Effective: 2018
+
+EMS 245—Micro- and Nano-Technology in Life Sciences (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing or consent of instructor. Survey of biomedical device design from the engineering and biological perspectives; micro-/nano-fabrication and characterization techniques; surface chemistry and mass transfer; essential biological processes and models; proposal development skills to merge aforementioned themes in a multidisciplinary project. (EEC 245 and ECH 245.) Effective: 2017 Winter Quarter.
+
+EMS 246—Photovoltaics and Solar Cells (3) Lecture—3 hours. Prerequisite(s): EEC 140B; or Consent of Instructor. Or equivalent. Physics and application of photovoltaics and solar cells, including design, fabrication technology, and grid incorporation. Mono and microcrystalline silicon devices; thin-film technologies, heterojunction and organic-semiconductor technologies. Collectors, electrical inverters and infrastructure issues. Challenges and concerns. (EEC 248.) Effective: 2017 Winter Quarter.
+
+EMS 248—Fracture of Engineering Materials (3) Lecture—3 hours. Prerequisite(s): EMS 174 Description of the failure of materials by crack propagation. Topics include the stress fields about elastic cracks, the Griffith-Irwin analysis, descriptions of plastic zones, fracture toughness testing, microstructural aspects of fracture and failure at elevated temperatures. Effective: 2017 Winter Quarter.
+
+EMS 249—Mechanisms of Fatigue (3) Lecture—3 hours. Prerequisite(s): EMS 174; or Consent of Instructor. EMS 248 recommended. Microstructural description of the mechanisms of fatigue in metals. Topics include a phenomenological treatment of cyclic deformation, dislocation processes in cyclic deformation, fatigue crack nucleation, Stage I growth, threshold effects and high temperature cyclic deformation. Effective: 2017 Winter Quarter.
+
+EMS 250A—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250A.) Effective: 2017 Winter Quarter.
+
+EMS 250B—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250B.) Effective: 2017 Winter Quarter.
+
+EMS 250C—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250C.) Effective: 2017 Winter Quarter.
+
+EMS 250D—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250D.) Effective: 2017 Winter Quarter.
+
+EMS 250E—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250E.) Effective: 2017 Winter Quarter.
+
+EMS 250F—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250F.) Effective: 2017 Winter Quarter.
+
+EMS 251—Applications of Solid State Nuclear Magnetic Resonance Spectroscopy (3) Lecture—3 hours. Prerequisite(s): Graduate standing in chemistry, physics or engineering, or consent of instructor. Fundamentals of solid state NMR spectroscopy and principles of advanced NMR techniques for analyzing structure of solid materials. Effective: 2017 Winter Quarter.
+
+EMS 260—Advanced Thermodynamics of Solids (4) Lecture/Discussion—4 hours. Prerequisite(s): EMS 160 Thermodynamic principles, formalism and their application to solid materials. Specific examples from ceramic and solid state systems. Use of thermodynamic approach in developing understanding of and constraints for processes in real systems. Effective: 2017 Winter Quarter.
+
+EMS 262—Advanced Topics in Structure of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EMS 162; EMS 174 recommended; graduate standing in Engineering or consent of instructor. Nature of microstructure in engineering materials. Crystalline and non-crystalline structures, with special emphasis on grain boundary segregation in the development of polycrystalline microstructure and the radial distribution function of amorphous materials. Not open for credit to students who previously completed (cancelled) EMS 245. Effective: 2017 Winter Quarter.
+
+EMS 264—Transport Phenomena in Materials Processes (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing in Engineering. Thermodynamic driving forces and atomic-scale mechanisms underlying diffusive mass transport and interface motion in materials. Nucleation, growth and coarsening dynamics of phase transformations. Not open for credit to students who previously completed EMS 240. Effective: 2017 Winter Quarter.
+
+EMS 272—Advanced Functional Properties of Materials (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing in Physics, Chemistry, and Engineering. Fundamental physical properties of solid materials important to solid state devices, specifically electronic, magnetic, and optical properties. Topics include band structures, metals, superconductors, semiconductors, dielectrics, optical properties, and magnetic properties and implementation of these properties into devices. Effective: 2017 Winter Quarter.
+
+EMS 274—Advanced Mechanical Properties of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EMS 174 Comprehensive study of mechanical properties of materials, with special attention to dislocations and deformation and fracture control mechanisms. Mechanical properties of conventional engineering materials as well as advanced materials such as nanocrystalline solids and thin films are considered. Effective: 2017
+
+EMS 282—Glass: Science and Technology (3) Extensive Writing—1 hour; Lecture—2 hours. Prerequisite(s): Graduate standing in Chemistry, Physics or Engineering, or consent of instructor. Modern paradigms in glass science and their applications to technologies. Relation of macroscopic properties of glasses and glass-forming liquids to atomic-level structures, including principles of formation, relaxation, transport phenomena, nucleation, crystallization and phase separation in glasses. Effective: 2017 Winter Quarter.
+
+EMS 288—Living Matter: Physical Biology of the Cell (3) Lecture—3 hours. Open to any student possessing general background in any disciplines of physical or biological sciences and engineering. Introduction to the origin, maintenance, and regulation of the dynamic architecture of the cell, including cellular modes of organization, dynamics and energy dissipation, molecular transport, motility, regulation, and adaptability. (BIM 288 and BPH 288.) Effective: 2016 Fall Quarter.
+
+EMS 289A—Special Topics in Materials Science; Electronic Materials (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Electronic Materials. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289B—Special Topics in Materials Science; Ceramics and Minerals (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Ceramics and Minerals. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289C—Special Topics in Materials Science; Physics and Chemistry of Materials (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Physics and Chemistry of Materials. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289D—Special Topics in Materials Science; Materials Processing (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Materials Processing. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289E—Special Topics in Materials Science; Materials Science and Forensics (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Materials Science and Forensics. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289F—Special Topics in Materials Science; Biomaterials (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Biomaterials. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289G—Special Topics in Materials Science; Surface Chemistry of Metal Oxides (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Surface Chemistry of Metal Oxides. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 290—Materials Science and Engineering Seminar (1) Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Selected topics of current interest in Materials Science and Engineering. The subjects covered will vary from year to year and will be announced at the beginning of each quarter. May be repeated for credit. (S/U grading only.) Effective: 2017 Fall Quarter.
+
+EMS 290C—Graduate Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Individual and/or group conference on problems, progress, and techniques in materials science and engineering research. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+EMS 294—Materials Science Seminar (1) Seminar—1 hour. Current literature and developments in materials science with presentations by individual students. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+EMS 298—Group Study (1-5) Variable. Group study. Effective: 2017 Winter Quarter.
+
+EMS 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. Research. (S/U grading only.) Effective: 2017
+
+EMS 390—The Teaching of Materials Science (1) Discussion—1 hour. Prerequisite(s): Meet qualifications for teaching assistant and/or associate-in in materials science and engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated for credit. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+EMS 002—Materials Marvels: The Science of Superheroes (3) Discussion—1 hour; Lecture—2 hours. Introduction to science and technology of materials as key engineering ingredients. Explores the relationship between art and materials, and how superheroes are both products and resources of ideas for new materials' technologies. GE credit: SE, SL, WE. Effective: 2018 Winter Quarter.
+
+EMS 006H—Honors Materials Science Computer Applications (1) Discussion—1 hour. Prerequisite(s): ENG 006 (can be concurrent); Enrollment in the Materials Science and Engineering Honors Program; ENG 006 required concurrently. Restricted to students in the Materials Science and Engineering Honors Program. Examination of materials science computer applications through additional readings, discussions, collaborative work, or special activities which may include projects or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 009H—Honors Solid-State Materials Science (1) Discussion—1 hour. Prerequisite(s): PHY 009D (can be concurrent); Enrollment in the Materials Science and Engineering Honors Program; PHY 009D required concurrently. Restricted to students in the Materials Science and Engineering Honors Program. Examination of solid-state materials science and modern physics topics through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 147—Principles of Polymer Materials Science (3) Lecture—3 hours. Prerequisite(s): CHE 002A; CHE 002B; ((CHE 008A, CHE 008B) or (ENG 045 or ENG 045Y)); introductory physics. Basic principles of polymer science presented including polymer structure and synthesis; polymerization mechanisms, polymer classes, properties, and reactions; polymer morphology, rheology, and characterization; polymer processing. (FPS 100.) GE credit: QL, SE. Effective: 2018 Spring Quarter.
+
+EMS 160—Thermodynamics of Materials Processes and Phase Stability (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ENG 045 C- or better; PHY 009B C- or better; MAT 022B C- or better; CHE 002C recommended. Review of thermodynamic principles of interest to materials scientists and engineers. Application of thermodynamics to material processing, phase stability, corrosion. GE credit: QL, SE, SL, VL. Effective: 2017 Winter Quarter.
+
+EMS 160—Thermodynamics of Materials Processes and Phase Stability (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); PHY 009B C- or better; MAT 022B C- or better; CHE 002C recommended. Review of thermodynamic principles of interest to materials scientists and engineers. Application of thermodynamics to material processing, phase stability, corrosion. GE credit: QL, SE, SL, VL. Effective: 2018 Fall Quarter.
+
+EMS 162—Structure and Characterization of Engineering Materials (4) Lecture—4 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); MAT 022A Cor better; PHY 009B C- or better Description of the structure of engineering materials on the atomic scale by exploring the fundamentals of crystallography. The importance of this structure to materials’ properties. Description of experimental determination using x-ray diffraction techniques. GE credit: QL, SE. Effective: 2018 Winter Quarter.
+
+EMS 162L—Structure and Characterization of Materials Laboratory (2) Discussion—1 hour; Laboratory—3 hours. Prerequisite(s): EMS 162 (can be concurrent); Concurrent enrollment recommended. Experimental investigations of structure of solid materials are combined with techniques for characterization of materials. Laboratory exercises emphasize methods used to study structure of solids at the atomic and microstructural levels. Methods focus on optical, x-ray and electron techniques. Not open for credit to those who have completed EMS 132; can be taken for 2 units of credit by those who have completed EMS 134L; not open for credit to those who have completed both EMS 132L and EMS 134L. GE credit: QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+EMS 164—Rate Processes in Materials Science (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); EMS 160 Basic kinetic laws and the principles governing phase transformations. Applications in diffusion, oxidation, nucleation, growth and spinodal transformations. GE credit: QL, SE, SL, VL. Effective: 2018 Winter Quarter.
+
+EMS 172—Electronic, Optical and Magnetic Properties of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110A or PHY 009D; ENG 006 or ECM 006 or equivalent recommended. Electronic, optical, and magnetic properties of materials as related to structure and processing of solid state materials. Physical principles for understanding the properties of metals, semiconductors, ceramics, and amorphous solids and the applications of these materials in engineering. GE credit: QL, SE, SL, VL. Effective: 2017 Winter Quarter.
+
+EMS 172L—Electronic, Optical and Magnetic Properties Laboratory (2) Laboratory—3 hours; Lecture/Lab—1 hour. Prerequisite(s): EMS 172 (can be concurrent); Concurrent enrollment recommended. Experimental investigation of electronic, optical and magnetic properties of engineering materials, emphasizing the fundamental relationship between microstructure and properties as well as the influence of rate processes on the evolution of the microstructure and properties. GE credit: QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+EMS 174—Mechanical Behavior of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); EMS 162 recommended. Microscopic and macroscopic aspects of the mechanical behavior of engineering materials, with emphasis on recent development in materials characterization by nondestructive testing. Fundamental aspects of plasticity in engineering materials, strengthening mechanisms and mechanical failure modes of materials systems. GE credit: QL, SE, SL, VL. Effective: 2018 Spring Quarter.
+
+EMS 174L—Mechanical Behavior Laboratory (2) Laboratory—3 hours; Lecture/Lab—1 hour. Prerequisite(s): EMS 174 (can be concurrent); Concurrent enrollment recommended. Experimental investigation of mechanical behavior of engineering materials. Laboratory exercises emphasize the fundamental relationship between microstructure and mechanical properties, and the evolution of the microstructure as a consequence of rate process. Not open for credit to those who have taken EMS 138L; not open for credit to those who have taken both EMS 134L and EMS 138L. GE credit: QL, SE, SL, VL, WE. Effective: 2016 Winter Quarter.
+
+EMS 180—Materials in Engineering Design (4) Lecture—3 hours; Lecture/Discussion—1 hour. Prerequisite(s): ENG 045 C- or better or ENG 045Y C- or better Restricted to students with upper division standing. Quantitative treatment of materials selection for engineering applications. Discussion of design and material selection strategy; process and process selection strategy; process economics; life-cycle thinking and ecodesign. Use of materials selection software. GE credit: OL, SE, SL, VL, WE. Effective: 2018 Spring
+
+EMS 181—Materials Processing (4) Lecture—3 hours; Lecture/Discussion—1 hour. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); (ENG 105 or ECH 152B or EEC 140A or EMS 164) Principles of phase equilibria, thermodynamics and reaction kinetics applied to materials processing. Effects of processing variables on the structure-property relationship. Fundamentals of the manufacturing processes for electronic, optical, functional and structural materials. GE credit: OL, SE, VL, WE. Effective: 2018
+
+EMS 182—Failure Analysis (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 045 C- or better or ENG 045Y C- or better; EMS 174 recommended. Analysis of the way materials fail. Effects of temperature, mechanical deformation and corrosion on the properties of materials. forensics and methodologies for investigating failures of materials including optical microscopy, x-ray analysis and scanning electron microscopy. Investigation of practical problems. GE credit: QL, SE, VL, WE. Effective: 2018
+
+EMS 188A—Materials Design Project (4) Discussion—1 hour; Laboratory—4 hours. Prerequisite(s): EMS 160; EMS 162; EMS 164; EMS 172; EMS 174 Major materials design experience involving analysis of real materials synthesis/processing/fabrication and technological applications including critical assessments of economic, manufacturing, and ethical constraints. Various principles of materials science are integrated into a culminating team design project. GE credit: OL, SE, SL, VL, WE. Effective: 2017
+
+EMS 188AH—Honors Materials Design (1) Discussion—1 hour. Prerequisite(s): Enrollment in the Materials Science and Engineering Honors Program. Open only to students in the Materials Science and Engineering Honors Program. Examination of special topics covered in the materials design course through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 188B—Materials Design Project (4) Discussion—1 hour; Laboratory—4 hours. Prerequisite(s): EMS 188A Major materials design experience involving analysis of real materials synthesis/processing/fabrication and technological applications including critical assessments of economic, manufacturing, and ethical constraints. Various principles of materials science are integrated into a culminating team design project. GE credit: OL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+EMS 188BH—Honors Materials Design (1) Discussion—1 hour. Prerequisite(s): Enrollment in the Materials Science and Engineering Honors Program. Open only to students in the Materials Science and Engineering Honors Program. Examination of special topics covered in the materials design course through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 190C—Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing. Individual and/or group conference on problems, progress and techniques in materials research. May be repeated for credit. May be repeated for credit. (P/NP grading only.) Effective: 2017 Winter
+
+EMS 198—Directed Group Study (1-5) Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Group study of selected topics. (P/NP grading only.) Effective: 2017 Winter Quarter.
+
+EMS 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special study for advanced undergraduates. (P/NP grading only.) Effective: 2017 Winter Quarter.
+
+EMS 230—Fundamentals of Electron Microscopy (3) Lecture—2 hours; Lecture/Discussion—1 hour. Prerequisite(s): EMS 162 Principles and techniques of scanning and transmission of electron microscopy used in the study of materials will be described. Emphasis upon practical applications. Effective: 2017 Winter Quarter.
+
+EMS 230L—Laboratory for Electron Microscopy (2) Laboratory—6 hours. Prerequisite(s): EMS 230 (can be concurrent); EMS 230 required concurrently. Practical application of techniques of electron scanning and transmission microscopy including x-ray microanalysis. Effective: 2017 Winter Quarter.
+
+EMS 232—Advanced Topics in Transmission Electron Microscopy (3) Discussion—2 hours; Lecture—1 hour. Prerequisite(s): EMS 230 Advanced course in the techniques of electron microscopy including analytical techniques, probe diffraction methods, and high resolution imaging. Effective: 2017 Winter Quarter.
+
+EMS 232L—Laboratory for Advanced Transmission Electron Microscopy (2) Discussion—1 hour; Laboratory—3 hours. Prerequisite(s): EMS 230L Laboratory in advanced transmission electron microscopy techniques relevant to specific graduate research projects in materials science. Effective: 2017 Winter Quarter.
+
+EMS 241—Principles and Applications of Dislocation Mechanics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Graduate standing in Engineering. Concepts in dislocation theory are applied to explain plasticity of crystalline solids. Glide and climb of dislocations, strain hardening, recrystallization, theories of creep processes and interaction of dislocation with solute atoms, precipitates and impurity clouds are discussed. Effective: 2017 Winter Quarter.
+
+EMS 243—Kinetics of Phase Transformation in Engineering Materials (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Graduate standing in Engineering; EMS 160 recommended. Theory of alloying, kinetics of phase changes, homogenous and heterogeneous transformation, transformation by shear, order-disorder reactions. Effective: 2017 Winter Quarter.
+
+EMS 244—Interaction of Materials and their Environment (3) Lecture—3 hours. Prerequisite(s): (ENG 045 or ENG 045Y); ENG 105A recommended; or consent of instructor. Thermodynamic and kinetic foundations of the corrosion and oxidation processes. Practical aspects of corrosion control and prevention. Stress-corrosion and gas-embrittlement phenomena. Special topics in corrosion; microbiological and atmospheric corrosion. Effective: 2018
+
+EMS 245—Micro- and Nano-Technology in Life Sciences (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing or consent of instructor. Survey of biomedical device design from the engineering and biological perspectives; micro-/nano-fabrication and characterization techniques; surface chemistry and mass transfer; essential biological processes and models; proposal development skills to merge aforementioned themes in a multidisciplinary project. (EEC 245 and ECH 245.) Effective: 2017 Winter Quarter.
+
+EMS 246—Photovoltaics and Solar Cells (3) Lecture—3 hours. Prerequisite(s): EEC 140B; or Consent of Instructor. Or equivalent. Physics and application of photovoltaics and solar cells, including design, fabrication technology, and grid incorporation. Mono and microcrystalline silicon devices; thin-film technologies, heterojunction and organic-semiconductor technologies. Collectors, electrical inverters and infrastructure issues. Challenges and concerns. (EEC 248.) Effective: 2017 Winter Quarter.
+
+EMS 248—Fracture of Engineering Materials (3) Lecture—3 hours. Prerequisite(s): EMS 174 Description of the failure of materials by crack propagation. Topics include the stress fields about elastic cracks, the Griffith-Irwin analysis, descriptions of plastic zones, fracture toughness testing, microstructural aspects of fracture and failure at elevated temperatures. Effective: 2017 Winter Quarter.
+
+EMS 249—Mechanisms of Fatigue (3) Lecture—3 hours. Prerequisite(s): EMS 174; or Consent of Instructor. EMS 248 recommended. Microstructural description of the mechanisms of fatigue in metals. Topics include a phenomenological treatment of cyclic deformation, dislocation processes in cyclic deformation, fatigue crack nucleation, Stage I growth, threshold effects and high temperature cyclic deformation. Effective: 2017 Winter Quarter.
+
+EMS 250A—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250A.) Effective: 2017 Winter Quarter.
+
+EMS 250B—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250B.) Effective: 2017 Winter Quarter.
+
+EMS 250C—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250C.) Effective: 2017 Winter Quarter.
+
+EMS 250D—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250D.) Effective: 2017 Winter Quarter.
+
+EMS 250E—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250E.) Effective: 2017 Winter Quarter.
+
+EMS 250F—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250F.) Effective: 2017 Winter Quarter.
+
+EMS 251—Applications of Solid State Nuclear Magnetic Resonance Spectroscopy (3) Lecture—3 hours. Prerequisite(s): Graduate standing in chemistry, physics or engineering, or consent of instructor. Fundamentals of solid state NMR spectroscopy and principles of advanced NMR techniques for analyzing structure of solid materials. Effective: 2017 Winter Quarter.
+
+EMS 260—Advanced Thermodynamics of Solids (4) Lecture/Discussion—4 hours. Prerequisite(s): EMS 160 Thermodynamic principles, formalism and their application to solid materials. Specific examples from ceramic and solid state systems. Use of thermodynamic approach in developing understanding of and constraints for processes in real systems. Effective: 2017 Winter Quarter.
+
+EMS 262—Advanced Topics in Structure of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EMS 162; EMS 174 recommended; graduate standing in Engineering or consent of instructor. Nature of microstructure in engineering materials. Crystalline and non-crystalline structures, with special emphasis on grain boundary segregation in the development of polycrystalline microstructure and the radial distribution function of amorphous materials. Not open for credit to students who previously completed (cancelled) EMS 245. Effective: 2017 Winter Quarter.
+
+EMS 264—Transport Phenomena in Materials Processes (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing in Engineering. Thermodynamic driving forces and atomic-scale mechanisms underlying diffusive mass transport and interface motion in materials. Nucleation, growth and coarsening dynamics of phase transformations. Not open for credit to students who previously completed EMS 240. Effective: 2017 Winter Quarter.
+
+EMS 272—Advanced Functional Properties of Materials (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing in Physics, Chemistry, and Engineering. Fundamental physical properties of solid materials important to solid state devices, specifically electronic, magnetic, and optical properties. Topics include band structures, metals, superconductors, semiconductors, dielectrics, optical properties, and magnetic properties and implementation of these properties into devices. Effective: 2017 Winter Quarter.
+
+EMS 274—Advanced Mechanical Properties of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EMS 174 Comprehensive study of mechanical properties of materials, with special attention to dislocations and deformation and fracture control mechanisms. Mechanical properties of conventional engineering materials as well as advanced materials such as nanocrystalline solids and thin films are considered. Effective: 2017
+
+EMS 282—Glass: Science and Technology (3) Extensive Writing—1 hour; Lecture—2 hours. Prerequisite(s): Graduate standing in Chemistry, Physics or Engineering, or consent of instructor. Modern paradigms in glass science and their applications to technologies. Relation of macroscopic properties of glasses and glass-forming liquids to atomic-level structures, including principles of formation, relaxation, transport phenomena, nucleation, crystallization and phase separation in glasses. Effective: 2017 Winter Quarter.
+
+EMS 288—Living Matter: Physical Biology of the Cell (3) Lecture—3 hours. Open to any student possessing general background in any disciplines of physical or biological sciences and engineering. Introduction to the origin, maintenance, and regulation of the dynamic architecture of the cell, including cellular modes of organization, dynamics and energy dissipation, molecular transport, motility, regulation, and adaptability. (BIM 288 and BPH 288.) Effective: 2016 Fall Quarter.
+
+EMS 289A—Special Topics in Materials Science; Electronic Materials (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Electronic Materials. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289B—Special Topics in Materials Science; Ceramics and Minerals (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Ceramics and Minerals. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289C—Special Topics in Materials Science; Physics and Chemistry of Materials (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Physics and Chemistry of Materials. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289D—Special Topics in Materials Science; Materials Processing (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Materials Processing. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289E—Special Topics in Materials Science; Materials Science and Forensics (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Materials Science and Forensics. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289F—Special Topics in Materials Science; Biomaterials (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Biomaterials. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289G—Special Topics in Materials Science; Surface Chemistry of Metal Oxides (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Surface Chemistry of Metal Oxides. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 290—Materials Science and Engineering Seminar (1) Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Selected topics of current interest in Materials Science and Engineering. The subjects covered will vary from year to year and will be announced at the beginning of each quarter. May be repeated for credit. (S/U grading only.) Effective: 2017 Fall Quarter.
+
+EMS 290C—Graduate Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Individual and/or group conference on problems, progress, and techniques in materials science and engineering research. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+EMS 294—Materials Science Seminar (1) Seminar—1 hour. Current literature and developments in materials science with presentations by individual students. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+EMS 298—Group Study (1-5) Variable. Group study. Effective: 2017 Winter Quarter.
+
+EMS 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. Research. (S/U grading only.) Effective: 2017
+
+EMS 390—The Teaching of Materials Science (1) Discussion—1 hour. Prerequisite(s): Meet qualifications for teaching assistant and/or associate-in in materials science and engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated for credit. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+EMS 002—Materials Marvels: The Science of Superheroes (3) Discussion—1 hour; Lecture—2 hours. Introduction to science and technology of materials as key engineering ingredients. Explores the relationship between art and materials, and how superheroes are both products and resources of ideas for new materials' technologies. GE credit: SE, SL, WE. Effective: 2018 Winter Quarter.
+
+EMS 006H—Honors Materials Science Computer Applications (1) Discussion—1 hour. Prerequisite(s): ENG 006 (can be concurrent); Enrollment in the Materials Science and Engineering Honors Program; ENG 006 required concurrently. Restricted to students in the Materials Science and Engineering Honors Program. Examination of materials science computer applications through additional readings, discussions, collaborative work, or special activities which may include projects or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 009H—Honors Solid-State Materials Science (1) Discussion—1 hour. Prerequisite(s): PHY 009D (can be concurrent); Enrollment in the Materials Science and Engineering Honors Program; PHY 009D required concurrently. Restricted to students in the Materials Science and Engineering Honors Program. Examination of solid-state materials science and modern physics topics through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 147—Principles of Polymer Materials Science (3) Lecture—3 hours. Prerequisite(s): CHE 002A; CHE 002B; ((CHE 008A, CHE 008B) or (ENG 045 or ENG 045Y)); introductory physics. Basic principles of polymer science presented including polymer structure and synthesis; polymerization mechanisms, polymer classes, properties, and reactions; polymer morphology, rheology, and characterization; polymer processing. (FPS 100.) GE credit: QL, SE. Effective: 2018 Spring Quarter.
+
+EMS 160—Thermodynamics of Materials Processes and Phase Stability (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ENG 045 C- or better; PHY 009B C- or better; MAT 022B C- or better; CHE 002C recommended. Review of thermodynamic principles of interest to materials scientists and engineers. Application of thermodynamics to material processing, phase stability, corrosion. GE credit: QL, SE, SL, VL. Effective: 2017 Winter Quarter.
+
+EMS 160—Thermodynamics of Materials Processes and Phase Stability (4) Review all entries Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); PHY 009B C- or better; MAT 022B C- or better; CHE 002C recommended. Review of thermodynamic principles of interest to materials scientists and engineers. Application of thermodynamics to material processing, phase stability, corrosion. GE credit: QL, SE, SL, VL. Effective: 2018 Fall Quarter.
+
+EMS 162—Structure and Characterization of Engineering Materials (4) Lecture—4 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); MAT 022A Cor better; PHY 009B C- or better Description of the structure of engineering materials on the atomic scale by exploring the fundamentals of crystallography. The importance of this structure to materials’ properties. Description of experimental determination using x-ray diffraction techniques. GE credit: QL, SE. Effective: 2018 Winter Quarter.
+
+EMS 162L—Structure and Characterization of Materials Laboratory (2) Discussion—1 hour; Laboratory—3 hours. Prerequisite(s): EMS 162 (can be concurrent); Concurrent enrollment recommended. Experimental investigations of structure of solid materials are combined with techniques for characterization of materials. Laboratory exercises emphasize methods used to study structure of solids at the atomic and microstructural levels. Methods focus on optical, x-ray and electron techniques. Not open for credit to those who have completed EMS 132; can be taken for 2 units of credit by those who have completed EMS 134L; not open for credit to those who have completed both EMS 132L and EMS 134L. GE credit: QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+EMS 164—Rate Processes in Materials Science (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); EMS 160 Basic kinetic laws and the principles governing phase transformations. Applications in diffusion, oxidation, nucleation, growth and spinodal transformations. GE credit: QL, SE, SL, VL. Effective: 2018 Winter Quarter.
+
+EMS 172—Electronic, Optical and Magnetic Properties of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): CHE 110A or PHY 009D; ENG 006 or ECM 006 or equivalent recommended. Electronic, optical, and magnetic properties of materials as related to structure and processing of solid state materials. Physical principles for understanding the properties of metals, semiconductors, ceramics, and amorphous solids and the applications of these materials in engineering. GE credit: QL, SE, SL, VL. Effective: 2017 Winter Quarter.
+
+EMS 172L—Electronic, Optical and Magnetic Properties Laboratory (2) Laboratory—3 hours; Lecture/Lab—1 hour. Prerequisite(s): EMS 172 (can be concurrent); Concurrent enrollment recommended. Experimental investigation of electronic, optical and magnetic properties of engineering materials, emphasizing the fundamental relationship between microstructure and properties as well as the influence of rate processes on the evolution of the microstructure and properties. GE credit: QL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+EMS 174—Mechanical Behavior of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); EMS 162 recommended. Microscopic and macroscopic aspects of the mechanical behavior of engineering materials, with emphasis on recent development in materials characterization by nondestructive testing. Fundamental aspects of plasticity in engineering materials, strengthening mechanisms and mechanical failure modes of materials systems. GE credit: QL, SE, SL, VL. Effective: 2018 Spring Quarter.
+
+EMS 174L—Mechanical Behavior Laboratory (2) Laboratory—3 hours; Lecture/Lab—1 hour. Prerequisite(s): EMS 174 (can be concurrent); Concurrent enrollment recommended. Experimental investigation of mechanical behavior of engineering materials. Laboratory exercises emphasize the fundamental relationship between microstructure and mechanical properties, and the evolution of the microstructure as a consequence of rate process. Not open for credit to those who have taken EMS 138L; not open for credit to those who have taken both EMS 134L and EMS 138L. GE credit: QL, SE, SL, VL, WE. Effective: 2016 Winter Quarter.
+
+EMS 180—Materials in Engineering Design (4) Lecture—3 hours; Lecture/Discussion—1 hour. Prerequisite(s): ENG 045 C- or better or ENG 045Y C- or better Restricted to students with upper division standing. Quantitative treatment of materials selection for engineering applications. Discussion of design and material selection strategy; process and process selection strategy; process economics; life-cycle thinking and ecodesign. Use of materials selection software. GE credit: OL, SE, SL, VL, WE. Effective: 2018 Spring
+
+EMS 181—Materials Processing (4) Lecture—3 hours; Lecture/Discussion—1 hour. Prerequisite(s): (ENG 045 C- or better or ENG 045Y C- or better); (ENG 105 or ECH 152B or EEC 140A or EMS 164) Principles of phase equilibria, thermodynamics and reaction kinetics applied to materials processing. Effects of processing variables on the structure-property relationship. Fundamentals of the manufacturing processes for electronic, optical, functional and structural materials. GE credit: OL, SE, VL, WE. Effective: 2018
+
+EMS 182—Failure Analysis (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): ENG 045 C- or better or ENG 045Y C- or better; EMS 174 recommended. Analysis of the way materials fail. Effects of temperature, mechanical deformation and corrosion on the properties of materials. forensics and methodologies for investigating failures of materials including optical microscopy, x-ray analysis and scanning electron microscopy. Investigation of practical problems. GE credit: QL, SE, VL, WE. Effective: 2018
+
+EMS 188A—Materials Design Project (4) Discussion—1 hour; Laboratory—4 hours. Prerequisite(s): EMS 160; EMS 162; EMS 164; EMS 172; EMS 174 Major materials design experience involving analysis of real materials synthesis/processing/fabrication and technological applications including critical assessments of economic, manufacturing, and ethical constraints. Various principles of materials science are integrated into a culminating team design project. GE credit: OL, SE, SL, VL, WE. Effective: 2017
+
+EMS 188AH—Honors Materials Design (1) Discussion—1 hour. Prerequisite(s): Enrollment in the Materials Science and Engineering Honors Program. Open only to students in the Materials Science and Engineering Honors Program. Examination of special topics covered in the materials design course through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 188B—Materials Design Project (4) Discussion—1 hour; Laboratory—4 hours. Prerequisite(s): EMS 188A Major materials design experience involving analysis of real materials synthesis/processing/fabrication and technological applications including critical assessments of economic, manufacturing, and ethical constraints. Various principles of materials science are integrated into a culminating team design project. GE credit: OL, SE, SL, VL, WE. Effective: 2017 Winter Quarter.
+
+EMS 188BH—Honors Materials Design (1) Discussion—1 hour. Prerequisite(s): Enrollment in the Materials Science and Engineering Honors Program. Open only to students in the Materials Science and Engineering Honors Program. Examination of special topics covered in the materials design course through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Effective: 2017 Winter Quarter.
+
+EMS 190C—Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing. Individual and/or group conference on problems, progress and techniques in materials research. May be repeated for credit. May be repeated for credit. (P/NP grading only.) Effective: 2017 Winter
+
+EMS 198—Directed Group Study (1-5) Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Group study of selected topics. (P/NP grading only.) Effective: 2017 Winter Quarter.
+
+EMS 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special study for advanced undergraduates. (P/NP grading only.) Effective: 2017 Winter Quarter.
+
+EMS 230—Fundamentals of Electron Microscopy (3) Lecture—2 hours; Lecture/Discussion—1 hour. Prerequisite(s): EMS 162 Principles and techniques of scanning and transmission of electron microscopy used in the study of materials will be described. Emphasis upon practical applications. Effective: 2017 Winter Quarter.
+
+EMS 230L—Laboratory for Electron Microscopy (2) Laboratory—6 hours. Prerequisite(s): EMS 230 (can be concurrent); EMS 230 required concurrently. Practical application of techniques of electron scanning and transmission microscopy including x-ray microanalysis. Effective: 2017 Winter Quarter.
+
+EMS 232—Advanced Topics in Transmission Electron Microscopy (3) Discussion—2 hours; Lecture—1 hour. Prerequisite(s): EMS 230 Advanced course in the techniques of electron microscopy including analytical techniques, probe diffraction methods, and high resolution imaging. Effective: 2017 Winter Quarter.
+
+EMS 232L—Laboratory for Advanced Transmission Electron Microscopy (2) Discussion—1 hour; Laboratory—3 hours. Prerequisite(s): EMS 230L Laboratory in advanced transmission electron microscopy techniques relevant to specific graduate research projects in materials science. Effective: 2017 Winter Quarter.
+
+EMS 241—Principles and Applications of Dislocation Mechanics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Graduate standing in Engineering. Concepts in dislocation theory are applied to explain plasticity of crystalline solids. Glide and climb of dislocations, strain hardening, recrystallization, theories of creep processes and interaction of dislocation with solute atoms, precipitates and impurity clouds are discussed. Effective: 2017 Winter Quarter.
+
+EMS 243—Kinetics of Phase Transformation in Engineering Materials (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Graduate standing in Engineering; EMS 160 recommended. Theory of alloying, kinetics of phase changes, homogenous and heterogeneous transformation, transformation by shear, order-disorder reactions. Effective: 2017 Winter Quarter.
+
+EMS 244—Interaction of Materials and their Environment (3) Lecture—3 hours. Prerequisite(s): (ENG 045 or ENG 045Y); ENG 105A recommended; or consent of instructor. Thermodynamic and kinetic foundations of the corrosion and oxidation processes. Practical aspects of corrosion control and prevention. Stress-corrosion and gas-embrittlement phenomena. Special topics in corrosion; microbiological and atmospheric corrosion. Effective: 2018
+
+EMS 245—Micro- and Nano-Technology in Life Sciences (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing or consent of instructor. Survey of biomedical device design from the engineering and biological perspectives; micro-/nano-fabrication and characterization techniques; surface chemistry and mass transfer; essential biological processes and models; proposal development skills to merge aforementioned themes in a multidisciplinary project. (EEC 245 and ECH 245.) Effective: 2017 Winter Quarter.
+
+EMS 246—Photovoltaics and Solar Cells (3) Lecture—3 hours. Prerequisite(s): EEC 140B; or Consent of Instructor. Or equivalent. Physics and application of photovoltaics and solar cells, including design, fabrication technology, and grid incorporation. Mono and microcrystalline silicon devices; thin-film technologies, heterojunction and organic-semiconductor technologies. Collectors, electrical inverters and infrastructure issues. Challenges and concerns. (EEC 248.) Effective: 2017 Winter Quarter.
+
+EMS 248—Fracture of Engineering Materials (3) Lecture—3 hours. Prerequisite(s): EMS 174 Description of the failure of materials by crack propagation. Topics include the stress fields about elastic cracks, the Griffith-Irwin analysis, descriptions of plastic zones, fracture toughness testing, microstructural aspects of fracture and failure at elevated temperatures. Effective: 2017 Winter Quarter.
+
+EMS 249—Mechanisms of Fatigue (3) Lecture—3 hours. Prerequisite(s): EMS 174; or Consent of Instructor. EMS 248 recommended. Microstructural description of the mechanisms of fatigue in metals. Topics include a phenomenological treatment of cyclic deformation, dislocation processes in cyclic deformation, fatigue crack nucleation, Stage I growth, threshold effects and high temperature cyclic deformation. Effective: 2017 Winter Quarter.
+
+EMS 250A—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250A.) Effective: 2017 Winter Quarter.
+
+EMS 250B—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250B.) Effective: 2017 Winter Quarter.
+
+EMS 250C—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250C.) Effective: 2017 Winter Quarter.
+
+EMS 250D—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250D.) Effective: 2017 Winter Quarter.
+
+EMS 250E—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250E.) Effective: 2017 Winter Quarter.
+
+EMS 250F—Special Topics in Polymer and Fiber Science (3) Lecture—3 hours. Prerequisite(s): EMS 147; or Consent of Instructor. Selected topics of current interest in polymer and fiber sciences. Topics will vary each time the course is offered. (FPS 250F.) Effective: 2017 Winter Quarter.
+
+EMS 251—Applications of Solid State Nuclear Magnetic Resonance Spectroscopy (3) Lecture—3 hours. Prerequisite(s): Graduate standing in chemistry, physics or engineering, or consent of instructor. Fundamentals of solid state NMR spectroscopy and principles of advanced NMR techniques for analyzing structure of solid materials. Effective: 2017 Winter Quarter.
+
+EMS 260—Advanced Thermodynamics of Solids (4) Lecture/Discussion—4 hours. Prerequisite(s): EMS 160 Thermodynamic principles, formalism and their application to solid materials. Specific examples from ceramic and solid state systems. Use of thermodynamic approach in developing understanding of and constraints for processes in real systems. Effective: 2017 Winter Quarter.
+
+EMS 262—Advanced Topics in Structure of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EMS 162; EMS 174 recommended; graduate standing in Engineering or consent of instructor. Nature of microstructure in engineering materials. Crystalline and non-crystalline structures, with special emphasis on grain boundary segregation in the development of polycrystalline microstructure and the radial distribution function of amorphous materials. Not open for credit to students who previously completed (cancelled) EMS 245. Effective: 2017 Winter Quarter.
+
+EMS 264—Transport Phenomena in Materials Processes (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing in Engineering. Thermodynamic driving forces and atomic-scale mechanisms underlying diffusive mass transport and interface motion in materials. Nucleation, growth and coarsening dynamics of phase transformations. Not open for credit to students who previously completed EMS 240. Effective: 2017 Winter Quarter.
+
+EMS 272—Advanced Functional Properties of Materials (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing in Physics, Chemistry, and Engineering. Fundamental physical properties of solid materials important to solid state devices, specifically electronic, magnetic, and optical properties. Topics include band structures, metals, superconductors, semiconductors, dielectrics, optical properties, and magnetic properties and implementation of these properties into devices. Effective: 2017 Winter Quarter.
+
+EMS 274—Advanced Mechanical Properties of Materials (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): EMS 174 Comprehensive study of mechanical properties of materials, with special attention to dislocations and deformation and fracture control mechanisms. Mechanical properties of conventional engineering materials as well as advanced materials such as nanocrystalline solids and thin films are considered. Effective: 2017
+
+EMS 282—Glass: Science and Technology (3) Extensive Writing—1 hour; Lecture—2 hours. Prerequisite(s): Graduate standing in Chemistry, Physics or Engineering, or consent of instructor. Modern paradigms in glass science and their applications to technologies. Relation of macroscopic properties of glasses and glass-forming liquids to atomic-level structures, including principles of formation, relaxation, transport phenomena, nucleation, crystallization and phase separation in glasses. Effective: 2017 Winter Quarter.
+
+EMS 288—Living Matter: Physical Biology of the Cell (3) Lecture—3 hours. Open to any student possessing general background in any disciplines of physical or biological sciences and engineering. Introduction to the origin, maintenance, and regulation of the dynamic architecture of the cell, including cellular modes of organization, dynamics and energy dissipation, molecular transport, motility, regulation, and adaptability. (BIM 288 and BPH 288.) Effective: 2016 Fall Quarter.
+
+EMS 289A—Special Topics in Materials Science; Electronic Materials (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Electronic Materials. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289B—Special Topics in Materials Science; Ceramics and Minerals (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Ceramics and Minerals. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289C—Special Topics in Materials Science; Physics and Chemistry of Materials (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Physics and Chemistry of Materials. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289D—Special Topics in Materials Science; Materials Processing (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Materials Processing. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289E—Special Topics in Materials Science; Materials Science and Forensics (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Materials Science and Forensics. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289F—Special Topics in Materials Science; Biomaterials (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Biomaterials. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 289G—Special Topics in Materials Science; Surface Chemistry of Metal Oxides (1-5) Lecture/Lab. Prerequisite(s): Consent of Instructor. Special topics in Surface Chemistry of Metal Oxides. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+EMS 290—Materials Science and Engineering Seminar (1) Seminar—1 hour. Prerequisite(s): Graduate standing or consent of instructor. Selected topics of current interest in Materials Science and Engineering. The subjects covered will vary from year to year and will be announced at the beginning of each quarter. May be repeated for credit. (S/U grading only.) Effective: 2017 Fall Quarter.
+
+EMS 290C—Graduate Research Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Individual and/or group conference on problems, progress, and techniques in materials science and engineering research. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+EMS 294—Materials Science Seminar (1) Seminar—1 hour. Current literature and developments in materials science with presentations by individual students. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+EMS 298—Group Study (1-5) Variable. Group study. Effective: 2017 Winter Quarter.
+
+EMS 299—Research (1-12) Variable. Prerequisite(s): Consent of Instructor. Research. (S/U grading only.) Effective: 2017
+
+EMS 390—The Teaching of Materials Science (1) Discussion—1 hour. Prerequisite(s): Meet qualifications for teaching assistant and/or associate-in in materials science and engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated for credit. (S/U grading only.) Effective: 2017 Winter Quarter.

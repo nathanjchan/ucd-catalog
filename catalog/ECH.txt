@@ -1,0 +1,615 @@
+ECH 001—Design of Coffee–An Introduction to Chemical Engineering (3) Laboratory—2 hours; Lecture—1 hour; Project (Term Project)—1 hour. Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee. Not open for credit to students who have completed ECM 1, ECM 5, or ECH 5. GE credit: SE, SL, VL. Effective:
+
+ECH 005—Introduction to Analysis and Design in Chemical Engineering (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): MAT 021A; MAT 021B (can be concurrent) Quantitative introduction to the engineering principles of analysis and design. Applications of differential and integral calculus. Laboratory experiments using coffee to illustrate chemical engineering concepts and to conduct an engineering design competition. Only two units of credit to students who have completed ECM 001 or ECH 001; not open for credit to students who have completed ECM 005. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 051—Material Balances (4) Lecture—4 hours. Prerequisite(s): MAT 021C C- or better; MAT 021D (can be concurrent) Application of the principle of conservation of mass to single and multicomponent systems in chemical process calculations. Studies of batch, semi-batch, and continuous processes involving mass transfer, phase change, and reaction stoichiometry. Not open for credit to students who have completed ECH 151. GE credit: SE. Effective: 2017 Fall Quarter.
+
+ECH 060—Engineering Problem Solving Using MATLAB (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021C Problem solving in chemical, biochemical and materials engineering using MATLAB. Programming styles, data structures, working with lists, functions and rules. Applications drawn from material balances, statistics, numerical methods, bioinformatics, transport phenomena, kinetics, and computational analysis. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+ECH 080—Chemical Engineering Profession (1) Lecture/Discussion—1 hour; Term Paper. Professional opportunities and professional responsibilities of chemical engineers. Opportunities and needs for post-baccalaureate education. Relationship of chemical engineering to contemporary issues. GE credit: SE, SS. Effective: 2017
+
+ECH 090X—Honors Discussion Section (1) Discussion—1 hour. Open only to students in the Chemical Engineering or Biochemical Engineering Honors Programs. Examination of special topics covered in selected lower-division courses through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Repeat credit allowed if topic differs. May be repeated for credit When topic differs. Effective: 2017 Fall Quarter.
+
+ECH 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Lower division standing. Directed Group Study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special Study for Undergraduates (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 140—Mathematical Methods in Biochemical and Chemical Engineering (4) Laboratory—1 hour; Lecture/Discussion—3 hours. Prerequisite(s): MAT 022B; (ECH 060 or ENG 006); or equivalents of ECH 060 or ENG 006. Mathematical methods for solving problems in chemical and biochemical engineering, with emphasis on transport phenomena. Fourier series and separation of variables. Sturm-Liouville eigenvalue problems. Similarity transformations. Tensor analysis. Finite difference methods for solving time-dependent diffusion problems. Not open for credit to students who have completed ECH 159. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 141—Fluid Mechanics for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 140; ECH 051 (can be concurrent) Principles and applications of fluid mechanics in chemical and biochemical engineering. Hydrostatics. The stress tensor and Newton's law of viscosity. Not open for credit to students who have completed course 150B. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 141—Fluid Mechanics for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 140 Principles and applications of fluid mechanics in chemical and biochemical engineering. Hydrostatics. The stress tensor and Newton's law of viscosity. Not open for credit to students who have completed ECH 150B. GE credit: QL, SE. Effective: 2019 Winter Quarter.
+
+ECH 142—Heat Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 141 Conduction, convection, and radiation of thermal energy in applications to chemical and biochemical engineering. Derivation of thermal and mechanical energy equations. Thermal boundary layers. Macroscopic balances. Applications: heat transfer in tubes, channels, and integrated circuits, and analysis of heat exchangers. Not open for credit to students who have completed course 153. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 142—Heat Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 141 Conduction, convection, and radiation of thermal energy in applications to chemical and biochemical engineering. Derivation of thermal and mechanical energy equations. Thermal boundary layers. Macroscopic balances. Applications: heat transfer in tubes, channels, and integrated circuits, and analysis of heat exchangers. Not open for credit to students who have completed ECH 153. GE credit: QL, SE. Effective: 2019 Spring Quarter.
+
+ECH 143—Mass Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 141 Derivation of species conservation equations describing convective and diffusive mass transfer. Fick's law and the Stefan-Maxwell constitutive equations. Mass transfer coefficients. Multicomponent mass transfer across gas/liquid interfaces. Applications include drying, heterogeneous chemical reactions, and membrane separations. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 143—Mass Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 141 Derivation of species conservation equations describing convective and diffusive mass transfer. Fick's law and the Stefan-Maxwell constitutive equations. Mass transfer coefficients. Multicomponent mass transfer across gas/liquid interfaces. Applications include drying, heterogeneous chemical reactions, and membrane separations. GE credit: SE. Effective: 2019 Spring Quarter.
+
+ECH 144—Rheology and Polymer Processing (3) Lecture/Discussion—3 hours. Prerequisite(s): ECH 141 Deformation in steady shear, unsteady shear, and elongational flows. Linear and non-linear viscoelastic constitutive models. The principle of material indifference and admissibility of constitutive equations. Introduction to the unit operations of polymer processing. Not open for credit to students who have completed ECH 150C. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 145A—Chemical Engineering Thermodynamics Laboratory (3) Discussion—2 hours; Extensive Writing; Laboratory—2 hours. Prerequisite(s): ECH 152A; ECH 152B (can be concurrent) Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, & Biochemical Engineering. Laboratory experiments in chemical engineering thermodynamics. GE credit: SE, WE. Effective: 2017 Winter Quarter.
+
+ECH 145B—Chemical Engineering Transport Lab (3) Discussion—2 hours; Extensive Writing; Laboratory—2 hours. Prerequisite(s): ECH 141; ECH 145A Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, & Biochemical Engineering. Laboratory experiments in chemical engineering transport phenomena. GE credit: SE, WE. Effective: 2017 Spring Quarter.
+
+ECH 148A—Chemical Kinetics and Reaction Engineering (3) Lecture—3 hours. Prerequisite(s): ECH 143; ECH 152B Ideal chemical reactors. Rate laws and stoichiometry. Design and analysis of isothermal reactors with multiple reactions. Not open for credit to students who have taken ECH 146. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 148B—Chemical Kinetics and Reaction Engineering (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ECH 148A Design and analysis of nonisothermal reactors. Reactions in packed beds with pressure drop. Adsorption and heterogeneous catalysis. Transport limitations. Not open for credit to students who have taken ECH 146. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 152A—Chemical Engineering Thermodynamics (3) Lecture—3 hours. Prerequisite(s): ECH 060 or ENG 006; or equivalents. Application of principles of thermodynamics to chemical processes. Not open for credit to students who have completed ENG 105 or ENG 105A. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 152B—Chemical Engineering Thermodynamics (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 152A Continuation of course 152A. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 155—Chemical Engineering Kinetics and Reactor Design Laboratory (4) Discussion—1 hour; Laboratory—6 hours; Term Paper. Prerequisite(s): ECH 145B; ECH 148A; ECH 148B (can be concurrent); ECH 157 (can be concurrent); Upper division English composition requirement (can be concurrent). Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, and Biochemical Engineering. Laboratory experiments in chemical kinetics, reactor design and process control. Not open for credit to students who have taken ECH 155B. GE credit: OL, SE, VL, WE. Effective: 2017 Spring Quarter.
+
+ECH 155A—Chemical Engineering Laboratory (4) Discussion—1 hour; Laboratory—6 hours; Term Paper. Prerequisite(s): ECH 141 (can be concurrent); ECH 142 (can be concurrent); ECH 143 (can be concurrent); Satisfaction of the upper division English composition requirement. Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, Biochemical Engineering, Biomedical Engineering, and Biological Systems Engineering. Laboratory experiments in transport phenomena, chemical kinetics, and thermodynamics. GE credit: OL, QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 155B—Chemical Engineering Laboratory (4) Discussion—1 hour; Extensive Writing—1 hour; Laboratory—6 hours. Prerequisite(s): ECH 143 (can be concurrent); ECH 155A; Satisfaction of the upper division English composition requirement. Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, Biochemical Engineering, Biomedical Engineering, Food Engineering, and Biosystems Engineering. Continuation of course 155A. Laboratory experiments in transport phenomena, chemical kinetics, and thermodynamics. GE credit: QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 157—Process Dynamics and Control (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 140 Fundamentals of dynamics and modeling of chemical processes. Design and analysis of feedback control of chemical processes. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 158A—Process Economics and Green Design (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 142; ECH 143 Senior design experience in process and product creation and design with multiple realistic constraints. Cost accounting and capital investment estimation. Profitability analysis techniques. Green chemistry, health risk assessment and life cycle assessment concepts. GE credit: SE, SL, SS, VL. Effective: 2017 Winter
+
+ECH 158B—Separations and Unit Operations (4) Lecture—4 hours. Prerequisite(s): ECH 158A Senior design experience with multiple realistic constraints. Heuristic and rigorous design of chemical process equipment. Separation by filtration, distillation and extraction. Synthesis of reactor and separation networks, heat and power integration. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 158C—Plant Design Project (4) Discussion/Laboratory—2 hours; Project (Term Project)—2 hours. Prerequisite(s): ECH 158B or ECH 161C Senior design experience for chemical and biochemical processes. Impact of multiple realistic constraints. Design, costing and profitability analysis of complete plants. Use of computeraided design techniques. GE credit: SE, SS, VL. Effective: 2018 Winter Quarter.
+
+ECH 160—Fundamentals of Biomanufacturing (3) Lecture—3 hours. Prerequisite(s): MIC 102 or BIS 102 or ABI 102 Principles of large scale bioreactor production of metabolites, enzymes, and recombinant proteins including the development of strains/cell lines, fermentor/bioreactor design, monitoring and operation, product recovery and purification, and biomanufacturing economics. Not open for credit to students who have completed ECH 161C or both ECH 161A and ECH 161B; only two units of credit to students who have completed either ECH 161A or ECH 161B. GE credit: QL, SE, VL. Effective: 2017 Winter
+
+ECH 161A—Biochemical Engineering Fundamentals (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 148A Biokinetics; bioreactor design and operation; transport phenomena in bioreactors; microbial, plant, and animal cell cultures. GE credit: QL, SE, VL. Effective: 2017 Winter Quarter.
+
+ECH 161B—Bioseparations (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 143 Product recovery and purification of biochemicals. Cell disruption, centrifugation, filtration, membrane separations, extraction, and chromatographic separation. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 161C—Biotechnology Facility Design and Regulatory Compliance (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ECH 161A (can be concurrent), ECH 161B (can be concurrent)) or MCB 263 (can be concurrent); Course(s) required concurrently. Design of biotechnology manufacturing facilities. Fermentation and purification equipment, and utility systems. Introduction to current good manufacturing practices, regulatory compliance, and documentation. GE credit: QL, SE, SL, SS, VL. Effective: 2017 Winter Quarter.
+
+ECH 161L—Bioprocess Engineering Laboratory (4) Discussion—1 hour; Laboratory—9 hours; Term Paper. Prerequisite(s): (ECH 161A, ECH 161B) or VEN 186 or (BIS 103, MCB 120L) Pass One restricted to chemical/biochemical engineering majors. Laboratory experiments in the operation and analysis of bioreactors; determination of oxygen mass transfer coefficients in bioreactors and ion exchange chromatography. GE credit: QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 166—Catalysis (3) Lecture—3 hours. Prerequisite(s): ECH 148A; and Consent of Instructor. Principles of catalysis based on an integration of principles of physical, organic, and inorganic chemistry and chemical kinetics and chemical reaction engineering. Catalysis in solution; catalysis by enzymes; catalysis in swellable polymers; catalysis in microscopic cages (zeolites); catalysis on surfaces. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 170—Introduction to Colloid and Surface Phenomena (3) Lecture—3 hours. Prerequisite(s): CHE 110A Introduction to the behavior of surfaces and disperse systems. Fundamentals will be applied to the solution of practical problems in colloid science. Course should be of value to engineers, chemists, biologists, soil scientists, and related disciplines. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 190C—Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Chemical Engineering. Research group conferences. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 190X—Honors Discussion Section (1) Discussion—1 hour. Open only to students in the Chemical Engineering or Biochemical Engineering Honors Programs. Examination of special topics covered in selected upper division courses through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. May be repeated for credit when topic differs. Effective: 2017 Fall Quarter.
+
+ECH 192—Internship in Chemical or Biochemical Engineering (1-5) Internship—3-15 hours. Prerequisite(s): Consent of Instructor. Completion of a minimum of 84 units; project approval before period of internship. Supervised work experience in Chemical or Biochemical Engineering. May be repeated for credit when project differs. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 198—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 206—Biochemical Engineering (3) Lecture—3 hours. Prerequisite(s): MIC 102; MIC 102L; BIS 101; BIS 102; BIS 103; MCB 120L; MCB 200A; or Consent of Instructor. FST 205 recommended. Interaction of chemical engineering, biochemistry, and microbiology. Mathematical representations of microbial systems. Kinetics of growth, death, and metabolism. Continuous fermentation, agitation, mass transfer and scale-up in fermentation systems, product recovery, enzyme technology. Effective: 2017 Winter Quarter.
+
+ECH 226—Enzyme Engineering (3) Lecture—3 hours. Prerequisite(s): MIC 102; MIC 102L; BIS 102; BIS 103; MCB 122; MCB 120L; MCB 200A; or Consent of Instructor. Application of basic biochemical and engineering principles of practical enzymatic processes. Lectures cover large scale production and separation of enzymes, immobilized enzyme systems, enzyme related biotechnology, reactor design and optimization, and new application of enzymes in genetic engineering. Effective: 2017 Winter Quarter.
+
+ECH 245—Micro- and Nano-Technology in Life Sciences (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing or consent of instructor. Survey of biomedical device design from the engineering and biological perspectives; micro-/nano-fabrication and characterization techniques; surface chemistry and mass transfer; essential biological processes and models; proposal development skills to merge aforementioned themes in a multidisciplinary project. (EEC 245 and EMS 245.) Effective: 2017 Winter Quarter.
+
+ECH 246—Advanced Biochemical Engineering (2) Lecture—2 hours. Prerequisite(s): ECH 206; or Consent of Instructor. Advances in the field of biotechnology including genetic engineering, enzyme engineering, fermentation science, and renewable resources development. The important results of original research will be evaluated for understanding of the fundamental principles and for potential practical application. Effective: 2017
+
+ECH 252—Statistical Thermodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ECH 152B; ENG 105B or the equivalent. A treatment of the statistical basis of thermodynamics;introduction to statistical mechanics; discussion of the laws of thermodynamics; application of thermodynamic relationships to phase and chemical reaction equilibrium; introduction to molecular simulations and the evaluation of thermodynamic properties from molecular simulations. Effective: 2017 Winter Quarter.
+
+ECH 253A—Advanced Fluid Mechanics (4) Lecture—4 hours. Prerequisite(s): ECH 141; ECH 259 Kinematics and basic principles of fluid flow. Principles of constitutive equations. Navier-Stokes equations for Newtonian fluids. Survey of rectilinear creeping flow, lubrication flow and boundary layer theory. Effective: 2017 Winter
+
+ECH 253B—Advanced Heat Transport (4) Lecture—4 hours. Prerequisite(s): ECH 142; ECH 259; Or the equivalent. Fundamental energy postulates and derivation of microscopic and macroscopic energy equations. Mechanisms of conduction. Isotropic, thermoelastic and anisotropic materials solution problems using Greens functions and perturbation theory. Effective: 2017 Winter Quarter.
+
+ECH 253C—Advanced Mass Transfer (4) Lecture—4 hours. Prerequisite(s): ECH 253A; Or the equivalent. Kinematics and basic conservation principles for multicomponent systems. Constitutive equations for momentum, heat and mass transfer, applications to binary and ternary systems. Details of diffusion with reaction, and the effects of concentration. Effective: 2017 Winter Quarter.
+
+ECH 254—Colloid and Surface Phenomena (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): Graduate standing in science or engineering or consent of instructor. Thermodynamics and rate processes at interfaces. These fundamental processes will be applied to determine the collective properties of thin films and membranes, self-assembled systems, liquid crystals and colloidal systems. Experimental techniques in surface analysis. Effective: 2017 Winter Quarter.
+
+ECH 256—Chemical Kinetics and Reaction Engineering (4) Lecture—4 hours. Prerequisite(s): ECH 146; Or the equivalent. Analysis of the performance of chemical reactors and design of chemical reactors based on the principles of chemical kinetics and transport phenomena. Consideration of noncatalytic/catalytic reactions in single fluid phases and emphasis on reactions in multiphase mixtures, especially gas-solid reactors. Effective: 2017 Winter
+
+ECH 259—Advanced Engineering Mathematics (4) Lecture—4 hours. Prerequisite(s): MAT 021D; MAT 022A; MAT 022B Applications of methods of applied mathematics to the analytical and numerical solution of linear and nonlinear ordinary and partial differential equations arising in the study of transport phenomena. Effective: 2017 Winter
+
+ECH 261—Molecular Modelling of Soft and Biological Matter (4) Lecture/Discussion—4 hours. Prerequisite(s): EMS 247 or ECH 252; or equivalent course in advanced thermodynamics/statistical mechanics. Modern molecular simulation techniques with a focus on soft matter like polymers, biologically relevant systems, and glasses. Effective: 2017
+
+ECH 262—Transport Phenomena in Multiphase Systems (3) Discussion/Laboratory—3 hours. Prerequisite(s): ECH 253C Heat, mass and momentum transfer in multiphase, multicomponent systems with special emphasis on transport processes in porous media. Derivation of the averaging theorem and application of the method of volume averaging to multicomponent, reacting systems. Effective: 2017 Winter Quarter.
+
+ECH 263—Rheology and Mechanics of Non-Newtonian Fluids (3) Lecture—3 hours. Prerequisite(s): ECH 253A; ECH 259; or Consent of Instructor. Mechanics of polymer solutions and suspension, especially the development of properly invariant constitutive equations. Topics include: viscometry, linear and nonlinear viscoelasticity, continuum mechanics, kinetic theory. Effective: 2017 Winter Quarter.
+
+ECH 265—Emulsions, Microemulsions and Bilayers (3) Lecture—3 hours. Prerequisite(s): An undergraduate course in physical chemistry. Thermodynamic and mechanical descriptions of surfactant-laden interfaces. Forces between and within interfaces. Physics of micelle and microemulsion formation. Structure and stability of emulsions. Properties of phospholipid bilayers, with emphasis on vesicles. Effective: 2017 Winter Quarter.
+
+ECH 267—Advanced Process Control (3) Lecture—3 hours. Prerequisite(s): ECH 157; Or the equivalent. Advanced course in analysis and synthesis of linear multivariable systems. Emphasis on frequency domain techniques and applications to chemical processes. Topics include singular value analysis, internal model control, robust controller design methods as well as self-tuning control techniques. Effective: 2017 Winter
+
+ECH 268—Polysaccharides Surface Interactions (3) Lecture—3 hours. Prerequisite(s): Graduate students in science or engineering. Study of fundamental surface science theories as applied to physical and chemical interactions of carbohydrates and polysaccharides. (EBS 268.) Effective: 2017 Winter Quarter.
+
+ECH 269—Cell and Molecular Biophysics for Bioengineers (4) Lecture—4 hours. Prerequisite(s): BIM 284; or equivalent; graduate standing; undergraduate students by consent of instructor. Introduction to fundamental mechanisms governing the structure, function, and assembly of bio-macromolecules. Emphasis is on a quantitative understanding of the nano-to-microscale interactions between and within individual molecules, as well as of their assemblies, in particular membranes. Not open for credit to students who have completed BIM 162. (BIM 262.) Effective: 2017 Winter Quarter.
+
+ECH 289A—Special Topics in Chemical Engineering; Fluid Mechanics (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Fluid Mechanics. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289C—Special Topics in Chemical Engineering; Process Control (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Process Control. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289D—Special Topics in Chemical Engineering; Chemistry of Catalytic Processes (15) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Chemistry of Catalytic Processes. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289E—Special Topics in Chemical Engineering; Biotechnology (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biotechnology. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289F—Special Topics in Chemical Engineering; Interfacial Engineering (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Interfacial Engineering. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289G—Special Topics in Chemical Engineering; Molecular Thermodynamics (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Molecular Thermodynamics. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289H—Special Topics in Chemical Engineering; Membrane Separations (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Membrane Separations. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289I—Special Topics in Chemical Engineering; Advanced Materials Processing (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Advanced Materials Processing. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289J—Special Topics in Chemical Engineering; Novel Experimental Methods (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Novel Experimental Methods. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289K—Special Topics in Chemical Engineering; Advanced Transport Phenomena (15) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Advanced Transport Phenomena. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289L—Special Topics in Chemical Engineering; Biomolecular Engineering (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biomolecular Engineering. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 290—Seminar (1) Seminar—1 hour. Seminar. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 290C—Graduate Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research problems, progress and techniques in chemical engineering. May be repeated for credit. (S/U grading only.) Effective: 2017
+
+ECH 294—Current Progress in Biotechnology (1) Seminar—1 hour. Prerequisite(s): Graduate standing. Seminars presented by guest lecturers on subjects of their own research activities. May be repeated for credit. (BIT 294.) (S/U grading only.) Effective: 2018 Winter Quarter.
+
+ECH 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study. (S/U grading only.) Effective: 2017
+
+ECH 299—Research (1-12) Variable. Research. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 390—Teaching of Chemical Engineering (1) Review all entries Discussion—1 hour. Prerequisite(s): Qualifications and acceptance as teaching assistant and/or associate-in in chemical engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated up to 2 time(s). (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 390—Teaching of Chemical Engineering (1) Review all entries Discussion—1 hour. Prerequisite(s): Consent of Instructor. Qualifications and acceptance as teaching assistant and/or associate-in in chemical engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated for credit. (S/U grading only.) Effective: 2018 Fall Quarter.
+
+ECH 001—Design of Coffee–An Introduction to Chemical Engineering (3) Laboratory—2 hours; Lecture—1 hour; Project (Term Project)—1 hour. Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee. Not open for credit to students who have completed ECM 1, ECM 5, or ECH 5. GE credit: SE, SL, VL. Effective:
+
+ECH 005—Introduction to Analysis and Design in Chemical Engineering (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): MAT 021A; MAT 021B (can be concurrent) Quantitative introduction to the engineering principles of analysis and design. Applications of differential and integral calculus. Laboratory experiments using coffee to illustrate chemical engineering concepts and to conduct an engineering design competition. Only two units of credit to students who have completed ECM 001 or ECH 001; not open for credit to students who have completed ECM 005. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 051—Material Balances (4) Lecture—4 hours. Prerequisite(s): MAT 021C C- or better; MAT 021D (can be concurrent) Application of the principle of conservation of mass to single and multicomponent systems in chemical process calculations. Studies of batch, semi-batch, and continuous processes involving mass transfer, phase change, and reaction stoichiometry. Not open for credit to students who have completed ECH 151. GE credit: SE. Effective: 2017 Fall Quarter.
+
+ECH 060—Engineering Problem Solving Using MATLAB (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021C Problem solving in chemical, biochemical and materials engineering using MATLAB. Programming styles, data structures, working with lists, functions and rules. Applications drawn from material balances, statistics, numerical methods, bioinformatics, transport phenomena, kinetics, and computational analysis. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+ECH 080—Chemical Engineering Profession (1) Lecture/Discussion—1 hour; Term Paper. Professional opportunities and professional responsibilities of chemical engineers. Opportunities and needs for post-baccalaureate education. Relationship of chemical engineering to contemporary issues. GE credit: SE, SS. Effective: 2017
+
+ECH 090X—Honors Discussion Section (1) Discussion—1 hour. Open only to students in the Chemical Engineering or Biochemical Engineering Honors Programs. Examination of special topics covered in selected lower-division courses through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Repeat credit allowed if topic differs. May be repeated for credit When topic differs. Effective: 2017 Fall Quarter.
+
+ECH 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Lower division standing. Directed Group Study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special Study for Undergraduates (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 140—Mathematical Methods in Biochemical and Chemical Engineering (4) Laboratory—1 hour; Lecture/Discussion—3 hours. Prerequisite(s): MAT 022B; (ECH 060 or ENG 006); or equivalents of ECH 060 or ENG 006. Mathematical methods for solving problems in chemical and biochemical engineering, with emphasis on transport phenomena. Fourier series and separation of variables. Sturm-Liouville eigenvalue problems. Similarity transformations. Tensor analysis. Finite difference methods for solving time-dependent diffusion problems. Not open for credit to students who have completed ECH 159. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 141—Fluid Mechanics for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 140; ECH 051 (can be concurrent) Principles and applications of fluid mechanics in chemical and biochemical engineering. Hydrostatics. The stress tensor and Newton's law of viscosity. Not open for credit to students who have completed course 150B. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 141—Fluid Mechanics for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 140 Principles and applications of fluid mechanics in chemical and biochemical engineering. Hydrostatics. The stress tensor and Newton's law of viscosity. Not open for credit to students who have completed ECH 150B. GE credit: QL, SE. Effective: 2019 Winter Quarter.
+
+ECH 142—Heat Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 141 Conduction, convection, and radiation of thermal energy in applications to chemical and biochemical engineering. Derivation of thermal and mechanical energy equations. Thermal boundary layers. Macroscopic balances. Applications: heat transfer in tubes, channels, and integrated circuits, and analysis of heat exchangers. Not open for credit to students who have completed course 153. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 142—Heat Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 141 Conduction, convection, and radiation of thermal energy in applications to chemical and biochemical engineering. Derivation of thermal and mechanical energy equations. Thermal boundary layers. Macroscopic balances. Applications: heat transfer in tubes, channels, and integrated circuits, and analysis of heat exchangers. Not open for credit to students who have completed ECH 153. GE credit: QL, SE. Effective: 2019 Spring Quarter.
+
+ECH 143—Mass Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 141 Derivation of species conservation equations describing convective and diffusive mass transfer. Fick's law and the Stefan-Maxwell constitutive equations. Mass transfer coefficients. Multicomponent mass transfer across gas/liquid interfaces. Applications include drying, heterogeneous chemical reactions, and membrane separations. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 143—Mass Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 141 Derivation of species conservation equations describing convective and diffusive mass transfer. Fick's law and the Stefan-Maxwell constitutive equations. Mass transfer coefficients. Multicomponent mass transfer across gas/liquid interfaces. Applications include drying, heterogeneous chemical reactions, and membrane separations. GE credit: SE. Effective: 2019 Spring Quarter.
+
+ECH 144—Rheology and Polymer Processing (3) Lecture/Discussion—3 hours. Prerequisite(s): ECH 141 Deformation in steady shear, unsteady shear, and elongational flows. Linear and non-linear viscoelastic constitutive models. The principle of material indifference and admissibility of constitutive equations. Introduction to the unit operations of polymer processing. Not open for credit to students who have completed ECH 150C. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 145A—Chemical Engineering Thermodynamics Laboratory (3) Discussion—2 hours; Extensive Writing; Laboratory—2 hours. Prerequisite(s): ECH 152A; ECH 152B (can be concurrent) Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, & Biochemical Engineering. Laboratory experiments in chemical engineering thermodynamics. GE credit: SE, WE. Effective: 2017 Winter Quarter.
+
+ECH 145B—Chemical Engineering Transport Lab (3) Discussion—2 hours; Extensive Writing; Laboratory—2 hours. Prerequisite(s): ECH 141; ECH 145A Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, & Biochemical Engineering. Laboratory experiments in chemical engineering transport phenomena. GE credit: SE, WE. Effective: 2017 Spring Quarter.
+
+ECH 148A—Chemical Kinetics and Reaction Engineering (3) Lecture—3 hours. Prerequisite(s): ECH 143; ECH 152B Ideal chemical reactors. Rate laws and stoichiometry. Design and analysis of isothermal reactors with multiple reactions. Not open for credit to students who have taken ECH 146. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 148B—Chemical Kinetics and Reaction Engineering (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ECH 148A Design and analysis of nonisothermal reactors. Reactions in packed beds with pressure drop. Adsorption and heterogeneous catalysis. Transport limitations. Not open for credit to students who have taken ECH 146. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 152A—Chemical Engineering Thermodynamics (3) Lecture—3 hours. Prerequisite(s): ECH 060 or ENG 006; or equivalents. Application of principles of thermodynamics to chemical processes. Not open for credit to students who have completed ENG 105 or ENG 105A. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 152B—Chemical Engineering Thermodynamics (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 152A Continuation of course 152A. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 155—Chemical Engineering Kinetics and Reactor Design Laboratory (4) Discussion—1 hour; Laboratory—6 hours; Term Paper. Prerequisite(s): ECH 145B; ECH 148A; ECH 148B (can be concurrent); ECH 157 (can be concurrent); Upper division English composition requirement (can be concurrent). Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, and Biochemical Engineering. Laboratory experiments in chemical kinetics, reactor design and process control. Not open for credit to students who have taken ECH 155B. GE credit: OL, SE, VL, WE. Effective: 2017 Spring Quarter.
+
+ECH 155A—Chemical Engineering Laboratory (4) Discussion—1 hour; Laboratory—6 hours; Term Paper. Prerequisite(s): ECH 141 (can be concurrent); ECH 142 (can be concurrent); ECH 143 (can be concurrent); Satisfaction of the upper division English composition requirement. Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, Biochemical Engineering, Biomedical Engineering, and Biological Systems Engineering. Laboratory experiments in transport phenomena, chemical kinetics, and thermodynamics. GE credit: OL, QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 155B—Chemical Engineering Laboratory (4) Discussion—1 hour; Extensive Writing—1 hour; Laboratory—6 hours. Prerequisite(s): ECH 143 (can be concurrent); ECH 155A; Satisfaction of the upper division English composition requirement. Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, Biochemical Engineering, Biomedical Engineering, Food Engineering, and Biosystems Engineering. Continuation of course 155A. Laboratory experiments in transport phenomena, chemical kinetics, and thermodynamics. GE credit: QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 157—Process Dynamics and Control (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 140 Fundamentals of dynamics and modeling of chemical processes. Design and analysis of feedback control of chemical processes. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 158A—Process Economics and Green Design (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 142; ECH 143 Senior design experience in process and product creation and design with multiple realistic constraints. Cost accounting and capital investment estimation. Profitability analysis techniques. Green chemistry, health risk assessment and life cycle assessment concepts. GE credit: SE, SL, SS, VL. Effective: 2017 Winter
+
+ECH 158B—Separations and Unit Operations (4) Lecture—4 hours. Prerequisite(s): ECH 158A Senior design experience with multiple realistic constraints. Heuristic and rigorous design of chemical process equipment. Separation by filtration, distillation and extraction. Synthesis of reactor and separation networks, heat and power integration. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 158C—Plant Design Project (4) Discussion/Laboratory—2 hours; Project (Term Project)—2 hours. Prerequisite(s): ECH 158B or ECH 161C Senior design experience for chemical and biochemical processes. Impact of multiple realistic constraints. Design, costing and profitability analysis of complete plants. Use of computeraided design techniques. GE credit: SE, SS, VL. Effective: 2018 Winter Quarter.
+
+ECH 160—Fundamentals of Biomanufacturing (3) Lecture—3 hours. Prerequisite(s): MIC 102 or BIS 102 or ABI 102 Principles of large scale bioreactor production of metabolites, enzymes, and recombinant proteins including the development of strains/cell lines, fermentor/bioreactor design, monitoring and operation, product recovery and purification, and biomanufacturing economics. Not open for credit to students who have completed ECH 161C or both ECH 161A and ECH 161B; only two units of credit to students who have completed either ECH 161A or ECH 161B. GE credit: QL, SE, VL. Effective: 2017 Winter
+
+ECH 161A—Biochemical Engineering Fundamentals (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 148A Biokinetics; bioreactor design and operation; transport phenomena in bioreactors; microbial, plant, and animal cell cultures. GE credit: QL, SE, VL. Effective: 2017 Winter Quarter.
+
+ECH 161B—Bioseparations (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 143 Product recovery and purification of biochemicals. Cell disruption, centrifugation, filtration, membrane separations, extraction, and chromatographic separation. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 161C—Biotechnology Facility Design and Regulatory Compliance (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ECH 161A (can be concurrent), ECH 161B (can be concurrent)) or MCB 263 (can be concurrent); Course(s) required concurrently. Design of biotechnology manufacturing facilities. Fermentation and purification equipment, and utility systems. Introduction to current good manufacturing practices, regulatory compliance, and documentation. GE credit: QL, SE, SL, SS, VL. Effective: 2017 Winter Quarter.
+
+ECH 161L—Bioprocess Engineering Laboratory (4) Discussion—1 hour; Laboratory—9 hours; Term Paper. Prerequisite(s): (ECH 161A, ECH 161B) or VEN 186 or (BIS 103, MCB 120L) Pass One restricted to chemical/biochemical engineering majors. Laboratory experiments in the operation and analysis of bioreactors; determination of oxygen mass transfer coefficients in bioreactors and ion exchange chromatography. GE credit: QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 166—Catalysis (3) Lecture—3 hours. Prerequisite(s): ECH 148A; and Consent of Instructor. Principles of catalysis based on an integration of principles of physical, organic, and inorganic chemistry and chemical kinetics and chemical reaction engineering. Catalysis in solution; catalysis by enzymes; catalysis in swellable polymers; catalysis in microscopic cages (zeolites); catalysis on surfaces. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 170—Introduction to Colloid and Surface Phenomena (3) Lecture—3 hours. Prerequisite(s): CHE 110A Introduction to the behavior of surfaces and disperse systems. Fundamentals will be applied to the solution of practical problems in colloid science. Course should be of value to engineers, chemists, biologists, soil scientists, and related disciplines. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 190C—Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Chemical Engineering. Research group conferences. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 190X—Honors Discussion Section (1) Discussion—1 hour. Open only to students in the Chemical Engineering or Biochemical Engineering Honors Programs. Examination of special topics covered in selected upper division courses through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. May be repeated for credit when topic differs. Effective: 2017 Fall Quarter.
+
+ECH 192—Internship in Chemical or Biochemical Engineering (1-5) Internship—3-15 hours. Prerequisite(s): Consent of Instructor. Completion of a minimum of 84 units; project approval before period of internship. Supervised work experience in Chemical or Biochemical Engineering. May be repeated for credit when project differs. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 198—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 206—Biochemical Engineering (3) Lecture—3 hours. Prerequisite(s): MIC 102; MIC 102L; BIS 101; BIS 102; BIS 103; MCB 120L; MCB 200A; or Consent of Instructor. FST 205 recommended. Interaction of chemical engineering, biochemistry, and microbiology. Mathematical representations of microbial systems. Kinetics of growth, death, and metabolism. Continuous fermentation, agitation, mass transfer and scale-up in fermentation systems, product recovery, enzyme technology. Effective: 2017 Winter Quarter.
+
+ECH 226—Enzyme Engineering (3) Lecture—3 hours. Prerequisite(s): MIC 102; MIC 102L; BIS 102; BIS 103; MCB 122; MCB 120L; MCB 200A; or Consent of Instructor. Application of basic biochemical and engineering principles of practical enzymatic processes. Lectures cover large scale production and separation of enzymes, immobilized enzyme systems, enzyme related biotechnology, reactor design and optimization, and new application of enzymes in genetic engineering. Effective: 2017 Winter Quarter.
+
+ECH 245—Micro- and Nano-Technology in Life Sciences (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing or consent of instructor. Survey of biomedical device design from the engineering and biological perspectives; micro-/nano-fabrication and characterization techniques; surface chemistry and mass transfer; essential biological processes and models; proposal development skills to merge aforementioned themes in a multidisciplinary project. (EEC 245 and EMS 245.) Effective: 2017 Winter Quarter.
+
+ECH 246—Advanced Biochemical Engineering (2) Lecture—2 hours. Prerequisite(s): ECH 206; or Consent of Instructor. Advances in the field of biotechnology including genetic engineering, enzyme engineering, fermentation science, and renewable resources development. The important results of original research will be evaluated for understanding of the fundamental principles and for potential practical application. Effective: 2017
+
+ECH 252—Statistical Thermodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ECH 152B; ENG 105B or the equivalent. A treatment of the statistical basis of thermodynamics;introduction to statistical mechanics; discussion of the laws of thermodynamics; application of thermodynamic relationships to phase and chemical reaction equilibrium; introduction to molecular simulations and the evaluation of thermodynamic properties from molecular simulations. Effective: 2017 Winter Quarter.
+
+ECH 253A—Advanced Fluid Mechanics (4) Lecture—4 hours. Prerequisite(s): ECH 141; ECH 259 Kinematics and basic principles of fluid flow. Principles of constitutive equations. Navier-Stokes equations for Newtonian fluids. Survey of rectilinear creeping flow, lubrication flow and boundary layer theory. Effective: 2017 Winter
+
+ECH 253B—Advanced Heat Transport (4) Lecture—4 hours. Prerequisite(s): ECH 142; ECH 259; Or the equivalent. Fundamental energy postulates and derivation of microscopic and macroscopic energy equations. Mechanisms of conduction. Isotropic, thermoelastic and anisotropic materials solution problems using Greens functions and perturbation theory. Effective: 2017 Winter Quarter.
+
+ECH 253C—Advanced Mass Transfer (4) Lecture—4 hours. Prerequisite(s): ECH 253A; Or the equivalent. Kinematics and basic conservation principles for multicomponent systems. Constitutive equations for momentum, heat and mass transfer, applications to binary and ternary systems. Details of diffusion with reaction, and the effects of concentration. Effective: 2017 Winter Quarter.
+
+ECH 254—Colloid and Surface Phenomena (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): Graduate standing in science or engineering or consent of instructor. Thermodynamics and rate processes at interfaces. These fundamental processes will be applied to determine the collective properties of thin films and membranes, self-assembled systems, liquid crystals and colloidal systems. Experimental techniques in surface analysis. Effective: 2017 Winter Quarter.
+
+ECH 256—Chemical Kinetics and Reaction Engineering (4) Lecture—4 hours. Prerequisite(s): ECH 146; Or the equivalent. Analysis of the performance of chemical reactors and design of chemical reactors based on the principles of chemical kinetics and transport phenomena. Consideration of noncatalytic/catalytic reactions in single fluid phases and emphasis on reactions in multiphase mixtures, especially gas-solid reactors. Effective: 2017 Winter
+
+ECH 259—Advanced Engineering Mathematics (4) Lecture—4 hours. Prerequisite(s): MAT 021D; MAT 022A; MAT 022B Applications of methods of applied mathematics to the analytical and numerical solution of linear and nonlinear ordinary and partial differential equations arising in the study of transport phenomena. Effective: 2017 Winter
+
+ECH 261—Molecular Modelling of Soft and Biological Matter (4) Lecture/Discussion—4 hours. Prerequisite(s): EMS 247 or ECH 252; or equivalent course in advanced thermodynamics/statistical mechanics. Modern molecular simulation techniques with a focus on soft matter like polymers, biologically relevant systems, and glasses. Effective: 2017
+
+ECH 262—Transport Phenomena in Multiphase Systems (3) Discussion/Laboratory—3 hours. Prerequisite(s): ECH 253C Heat, mass and momentum transfer in multiphase, multicomponent systems with special emphasis on transport processes in porous media. Derivation of the averaging theorem and application of the method of volume averaging to multicomponent, reacting systems. Effective: 2017 Winter Quarter.
+
+ECH 263—Rheology and Mechanics of Non-Newtonian Fluids (3) Lecture—3 hours. Prerequisite(s): ECH 253A; ECH 259; or Consent of Instructor. Mechanics of polymer solutions and suspension, especially the development of properly invariant constitutive equations. Topics include: viscometry, linear and nonlinear viscoelasticity, continuum mechanics, kinetic theory. Effective: 2017 Winter Quarter.
+
+ECH 265—Emulsions, Microemulsions and Bilayers (3) Lecture—3 hours. Prerequisite(s): An undergraduate course in physical chemistry. Thermodynamic and mechanical descriptions of surfactant-laden interfaces. Forces between and within interfaces. Physics of micelle and microemulsion formation. Structure and stability of emulsions. Properties of phospholipid bilayers, with emphasis on vesicles. Effective: 2017 Winter Quarter.
+
+ECH 267—Advanced Process Control (3) Lecture—3 hours. Prerequisite(s): ECH 157; Or the equivalent. Advanced course in analysis and synthesis of linear multivariable systems. Emphasis on frequency domain techniques and applications to chemical processes. Topics include singular value analysis, internal model control, robust controller design methods as well as self-tuning control techniques. Effective: 2017 Winter
+
+ECH 268—Polysaccharides Surface Interactions (3) Lecture—3 hours. Prerequisite(s): Graduate students in science or engineering. Study of fundamental surface science theories as applied to physical and chemical interactions of carbohydrates and polysaccharides. (EBS 268.) Effective: 2017 Winter Quarter.
+
+ECH 269—Cell and Molecular Biophysics for Bioengineers (4) Lecture—4 hours. Prerequisite(s): BIM 284; or equivalent; graduate standing; undergraduate students by consent of instructor. Introduction to fundamental mechanisms governing the structure, function, and assembly of bio-macromolecules. Emphasis is on a quantitative understanding of the nano-to-microscale interactions between and within individual molecules, as well as of their assemblies, in particular membranes. Not open for credit to students who have completed BIM 162. (BIM 262.) Effective: 2017 Winter Quarter.
+
+ECH 289A—Special Topics in Chemical Engineering; Fluid Mechanics (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Fluid Mechanics. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289C—Special Topics in Chemical Engineering; Process Control (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Process Control. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289D—Special Topics in Chemical Engineering; Chemistry of Catalytic Processes (15) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Chemistry of Catalytic Processes. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289E—Special Topics in Chemical Engineering; Biotechnology (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biotechnology. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289F—Special Topics in Chemical Engineering; Interfacial Engineering (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Interfacial Engineering. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289G—Special Topics in Chemical Engineering; Molecular Thermodynamics (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Molecular Thermodynamics. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289H—Special Topics in Chemical Engineering; Membrane Separations (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Membrane Separations. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289I—Special Topics in Chemical Engineering; Advanced Materials Processing (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Advanced Materials Processing. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289J—Special Topics in Chemical Engineering; Novel Experimental Methods (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Novel Experimental Methods. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289K—Special Topics in Chemical Engineering; Advanced Transport Phenomena (15) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Advanced Transport Phenomena. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289L—Special Topics in Chemical Engineering; Biomolecular Engineering (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biomolecular Engineering. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 290—Seminar (1) Seminar—1 hour. Seminar. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 290C—Graduate Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research problems, progress and techniques in chemical engineering. May be repeated for credit. (S/U grading only.) Effective: 2017
+
+ECH 294—Current Progress in Biotechnology (1) Seminar—1 hour. Prerequisite(s): Graduate standing. Seminars presented by guest lecturers on subjects of their own research activities. May be repeated for credit. (BIT 294.) (S/U grading only.) Effective: 2018 Winter Quarter.
+
+ECH 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study. (S/U grading only.) Effective: 2017
+
+ECH 299—Research (1-12) Variable. Research. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 390—Teaching of Chemical Engineering (1) Review all entries Discussion—1 hour. Prerequisite(s): Qualifications and acceptance as teaching assistant and/or associate-in in chemical engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated up to 2 time(s). (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 390—Teaching of Chemical Engineering (1) Review all entries Discussion—1 hour. Prerequisite(s): Consent of Instructor. Qualifications and acceptance as teaching assistant and/or associate-in in chemical engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated for credit. (S/U grading only.) Effective: 2018 Fall Quarter.
+
+ECH 001—Design of Coffee–An Introduction to Chemical Engineering (3) Laboratory—2 hours; Lecture—1 hour; Project (Term Project)—1 hour. Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee. Not open for credit to students who have completed ECM 1, ECM 5, or ECH 5. GE credit: SE, SL, VL. Effective:
+
+ECH 005—Introduction to Analysis and Design in Chemical Engineering (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): MAT 021A; MAT 021B (can be concurrent) Quantitative introduction to the engineering principles of analysis and design. Applications of differential and integral calculus. Laboratory experiments using coffee to illustrate chemical engineering concepts and to conduct an engineering design competition. Only two units of credit to students who have completed ECM 001 or ECH 001; not open for credit to students who have completed ECM 005. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 051—Material Balances (4) Lecture—4 hours. Prerequisite(s): MAT 021C C- or better; MAT 021D (can be concurrent) Application of the principle of conservation of mass to single and multicomponent systems in chemical process calculations. Studies of batch, semi-batch, and continuous processes involving mass transfer, phase change, and reaction stoichiometry. Not open for credit to students who have completed ECH 151. GE credit: SE. Effective: 2017 Fall Quarter.
+
+ECH 060—Engineering Problem Solving Using MATLAB (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021C Problem solving in chemical, biochemical and materials engineering using MATLAB. Programming styles, data structures, working with lists, functions and rules. Applications drawn from material balances, statistics, numerical methods, bioinformatics, transport phenomena, kinetics, and computational analysis. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+ECH 080—Chemical Engineering Profession (1) Lecture/Discussion—1 hour; Term Paper. Professional opportunities and professional responsibilities of chemical engineers. Opportunities and needs for post-baccalaureate education. Relationship of chemical engineering to contemporary issues. GE credit: SE, SS. Effective: 2017
+
+ECH 090X—Honors Discussion Section (1) Discussion—1 hour. Open only to students in the Chemical Engineering or Biochemical Engineering Honors Programs. Examination of special topics covered in selected lower-division courses through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Repeat credit allowed if topic differs. May be repeated for credit When topic differs. Effective: 2017 Fall Quarter.
+
+ECH 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Lower division standing. Directed Group Study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special Study for Undergraduates (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 140—Mathematical Methods in Biochemical and Chemical Engineering (4) Laboratory—1 hour; Lecture/Discussion—3 hours. Prerequisite(s): MAT 022B; (ECH 060 or ENG 006); or equivalents of ECH 060 or ENG 006. Mathematical methods for solving problems in chemical and biochemical engineering, with emphasis on transport phenomena. Fourier series and separation of variables. Sturm-Liouville eigenvalue problems. Similarity transformations. Tensor analysis. Finite difference methods for solving time-dependent diffusion problems. Not open for credit to students who have completed ECH 159. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 141—Fluid Mechanics for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 140; ECH 051 (can be concurrent) Principles and applications of fluid mechanics in chemical and biochemical engineering. Hydrostatics. The stress tensor and Newton's law of viscosity. Not open for credit to students who have completed course 150B. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 141—Fluid Mechanics for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 140 Principles and applications of fluid mechanics in chemical and biochemical engineering. Hydrostatics. The stress tensor and Newton's law of viscosity. Not open for credit to students who have completed ECH 150B. GE credit: QL, SE. Effective: 2019 Winter Quarter.
+
+ECH 142—Heat Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 141 Conduction, convection, and radiation of thermal energy in applications to chemical and biochemical engineering. Derivation of thermal and mechanical energy equations. Thermal boundary layers. Macroscopic balances. Applications: heat transfer in tubes, channels, and integrated circuits, and analysis of heat exchangers. Not open for credit to students who have completed course 153. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 142—Heat Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 141 Conduction, convection, and radiation of thermal energy in applications to chemical and biochemical engineering. Derivation of thermal and mechanical energy equations. Thermal boundary layers. Macroscopic balances. Applications: heat transfer in tubes, channels, and integrated circuits, and analysis of heat exchangers. Not open for credit to students who have completed ECH 153. GE credit: QL, SE. Effective: 2019 Spring Quarter.
+
+ECH 143—Mass Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 141 Derivation of species conservation equations describing convective and diffusive mass transfer. Fick's law and the Stefan-Maxwell constitutive equations. Mass transfer coefficients. Multicomponent mass transfer across gas/liquid interfaces. Applications include drying, heterogeneous chemical reactions, and membrane separations. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 143—Mass Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 141 Derivation of species conservation equations describing convective and diffusive mass transfer. Fick's law and the Stefan-Maxwell constitutive equations. Mass transfer coefficients. Multicomponent mass transfer across gas/liquid interfaces. Applications include drying, heterogeneous chemical reactions, and membrane separations. GE credit: SE. Effective: 2019 Spring Quarter.
+
+ECH 144—Rheology and Polymer Processing (3) Lecture/Discussion—3 hours. Prerequisite(s): ECH 141 Deformation in steady shear, unsteady shear, and elongational flows. Linear and non-linear viscoelastic constitutive models. The principle of material indifference and admissibility of constitutive equations. Introduction to the unit operations of polymer processing. Not open for credit to students who have completed ECH 150C. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 145A—Chemical Engineering Thermodynamics Laboratory (3) Discussion—2 hours; Extensive Writing; Laboratory—2 hours. Prerequisite(s): ECH 152A; ECH 152B (can be concurrent) Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, & Biochemical Engineering. Laboratory experiments in chemical engineering thermodynamics. GE credit: SE, WE. Effective: 2017 Winter Quarter.
+
+ECH 145B—Chemical Engineering Transport Lab (3) Discussion—2 hours; Extensive Writing; Laboratory—2 hours. Prerequisite(s): ECH 141; ECH 145A Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, & Biochemical Engineering. Laboratory experiments in chemical engineering transport phenomena. GE credit: SE, WE. Effective: 2017 Spring Quarter.
+
+ECH 148A—Chemical Kinetics and Reaction Engineering (3) Lecture—3 hours. Prerequisite(s): ECH 143; ECH 152B Ideal chemical reactors. Rate laws and stoichiometry. Design and analysis of isothermal reactors with multiple reactions. Not open for credit to students who have taken ECH 146. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 148B—Chemical Kinetics and Reaction Engineering (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ECH 148A Design and analysis of nonisothermal reactors. Reactions in packed beds with pressure drop. Adsorption and heterogeneous catalysis. Transport limitations. Not open for credit to students who have taken ECH 146. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 152A—Chemical Engineering Thermodynamics (3) Lecture—3 hours. Prerequisite(s): ECH 060 or ENG 006; or equivalents. Application of principles of thermodynamics to chemical processes. Not open for credit to students who have completed ENG 105 or ENG 105A. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 152B—Chemical Engineering Thermodynamics (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 152A Continuation of course 152A. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 155—Chemical Engineering Kinetics and Reactor Design Laboratory (4) Discussion—1 hour; Laboratory—6 hours; Term Paper. Prerequisite(s): ECH 145B; ECH 148A; ECH 148B (can be concurrent); ECH 157 (can be concurrent); Upper division English composition requirement (can be concurrent). Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, and Biochemical Engineering. Laboratory experiments in chemical kinetics, reactor design and process control. Not open for credit to students who have taken ECH 155B. GE credit: OL, SE, VL, WE. Effective: 2017 Spring Quarter.
+
+ECH 155A—Chemical Engineering Laboratory (4) Discussion—1 hour; Laboratory—6 hours; Term Paper. Prerequisite(s): ECH 141 (can be concurrent); ECH 142 (can be concurrent); ECH 143 (can be concurrent); Satisfaction of the upper division English composition requirement. Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, Biochemical Engineering, Biomedical Engineering, and Biological Systems Engineering. Laboratory experiments in transport phenomena, chemical kinetics, and thermodynamics. GE credit: OL, QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 155B—Chemical Engineering Laboratory (4) Discussion—1 hour; Extensive Writing—1 hour; Laboratory—6 hours. Prerequisite(s): ECH 143 (can be concurrent); ECH 155A; Satisfaction of the upper division English composition requirement. Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, Biochemical Engineering, Biomedical Engineering, Food Engineering, and Biosystems Engineering. Continuation of course 155A. Laboratory experiments in transport phenomena, chemical kinetics, and thermodynamics. GE credit: QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 157—Process Dynamics and Control (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 140 Fundamentals of dynamics and modeling of chemical processes. Design and analysis of feedback control of chemical processes. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 158A—Process Economics and Green Design (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 142; ECH 143 Senior design experience in process and product creation and design with multiple realistic constraints. Cost accounting and capital investment estimation. Profitability analysis techniques. Green chemistry, health risk assessment and life cycle assessment concepts. GE credit: SE, SL, SS, VL. Effective: 2017 Winter
+
+ECH 158B—Separations and Unit Operations (4) Lecture—4 hours. Prerequisite(s): ECH 158A Senior design experience with multiple realistic constraints. Heuristic and rigorous design of chemical process equipment. Separation by filtration, distillation and extraction. Synthesis of reactor and separation networks, heat and power integration. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 158C—Plant Design Project (4) Discussion/Laboratory—2 hours; Project (Term Project)—2 hours. Prerequisite(s): ECH 158B or ECH 161C Senior design experience for chemical and biochemical processes. Impact of multiple realistic constraints. Design, costing and profitability analysis of complete plants. Use of computeraided design techniques. GE credit: SE, SS, VL. Effective: 2018 Winter Quarter.
+
+ECH 160—Fundamentals of Biomanufacturing (3) Lecture—3 hours. Prerequisite(s): MIC 102 or BIS 102 or ABI 102 Principles of large scale bioreactor production of metabolites, enzymes, and recombinant proteins including the development of strains/cell lines, fermentor/bioreactor design, monitoring and operation, product recovery and purification, and biomanufacturing economics. Not open for credit to students who have completed ECH 161C or both ECH 161A and ECH 161B; only two units of credit to students who have completed either ECH 161A or ECH 161B. GE credit: QL, SE, VL. Effective: 2017 Winter
+
+ECH 161A—Biochemical Engineering Fundamentals (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 148A Biokinetics; bioreactor design and operation; transport phenomena in bioreactors; microbial, plant, and animal cell cultures. GE credit: QL, SE, VL. Effective: 2017 Winter Quarter.
+
+ECH 161B—Bioseparations (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 143 Product recovery and purification of biochemicals. Cell disruption, centrifugation, filtration, membrane separations, extraction, and chromatographic separation. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 161C—Biotechnology Facility Design and Regulatory Compliance (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ECH 161A (can be concurrent), ECH 161B (can be concurrent)) or MCB 263 (can be concurrent); Course(s) required concurrently. Design of biotechnology manufacturing facilities. Fermentation and purification equipment, and utility systems. Introduction to current good manufacturing practices, regulatory compliance, and documentation. GE credit: QL, SE, SL, SS, VL. Effective: 2017 Winter Quarter.
+
+ECH 161L—Bioprocess Engineering Laboratory (4) Discussion—1 hour; Laboratory—9 hours; Term Paper. Prerequisite(s): (ECH 161A, ECH 161B) or VEN 186 or (BIS 103, MCB 120L) Pass One restricted to chemical/biochemical engineering majors. Laboratory experiments in the operation and analysis of bioreactors; determination of oxygen mass transfer coefficients in bioreactors and ion exchange chromatography. GE credit: QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 166—Catalysis (3) Lecture—3 hours. Prerequisite(s): ECH 148A; and Consent of Instructor. Principles of catalysis based on an integration of principles of physical, organic, and inorganic chemistry and chemical kinetics and chemical reaction engineering. Catalysis in solution; catalysis by enzymes; catalysis in swellable polymers; catalysis in microscopic cages (zeolites); catalysis on surfaces. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 170—Introduction to Colloid and Surface Phenomena (3) Lecture—3 hours. Prerequisite(s): CHE 110A Introduction to the behavior of surfaces and disperse systems. Fundamentals will be applied to the solution of practical problems in colloid science. Course should be of value to engineers, chemists, biologists, soil scientists, and related disciplines. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 190C—Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Chemical Engineering. Research group conferences. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 190X—Honors Discussion Section (1) Discussion—1 hour. Open only to students in the Chemical Engineering or Biochemical Engineering Honors Programs. Examination of special topics covered in selected upper division courses through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. May be repeated for credit when topic differs. Effective: 2017 Fall Quarter.
+
+ECH 192—Internship in Chemical or Biochemical Engineering (1-5) Internship—3-15 hours. Prerequisite(s): Consent of Instructor. Completion of a minimum of 84 units; project approval before period of internship. Supervised work experience in Chemical or Biochemical Engineering. May be repeated for credit when project differs. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 198—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 206—Biochemical Engineering (3) Lecture—3 hours. Prerequisite(s): MIC 102; MIC 102L; BIS 101; BIS 102; BIS 103; MCB 120L; MCB 200A; or Consent of Instructor. FST 205 recommended. Interaction of chemical engineering, biochemistry, and microbiology. Mathematical representations of microbial systems. Kinetics of growth, death, and metabolism. Continuous fermentation, agitation, mass transfer and scale-up in fermentation systems, product recovery, enzyme technology. Effective: 2017 Winter Quarter.
+
+ECH 226—Enzyme Engineering (3) Lecture—3 hours. Prerequisite(s): MIC 102; MIC 102L; BIS 102; BIS 103; MCB 122; MCB 120L; MCB 200A; or Consent of Instructor. Application of basic biochemical and engineering principles of practical enzymatic processes. Lectures cover large scale production and separation of enzymes, immobilized enzyme systems, enzyme related biotechnology, reactor design and optimization, and new application of enzymes in genetic engineering. Effective: 2017 Winter Quarter.
+
+ECH 245—Micro- and Nano-Technology in Life Sciences (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing or consent of instructor. Survey of biomedical device design from the engineering and biological perspectives; micro-/nano-fabrication and characterization techniques; surface chemistry and mass transfer; essential biological processes and models; proposal development skills to merge aforementioned themes in a multidisciplinary project. (EEC 245 and EMS 245.) Effective: 2017 Winter Quarter.
+
+ECH 246—Advanced Biochemical Engineering (2) Lecture—2 hours. Prerequisite(s): ECH 206; or Consent of Instructor. Advances in the field of biotechnology including genetic engineering, enzyme engineering, fermentation science, and renewable resources development. The important results of original research will be evaluated for understanding of the fundamental principles and for potential practical application. Effective: 2017
+
+ECH 252—Statistical Thermodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ECH 152B; ENG 105B or the equivalent. A treatment of the statistical basis of thermodynamics;introduction to statistical mechanics; discussion of the laws of thermodynamics; application of thermodynamic relationships to phase and chemical reaction equilibrium; introduction to molecular simulations and the evaluation of thermodynamic properties from molecular simulations. Effective: 2017 Winter Quarter.
+
+ECH 253A—Advanced Fluid Mechanics (4) Lecture—4 hours. Prerequisite(s): ECH 141; ECH 259 Kinematics and basic principles of fluid flow. Principles of constitutive equations. Navier-Stokes equations for Newtonian fluids. Survey of rectilinear creeping flow, lubrication flow and boundary layer theory. Effective: 2017 Winter
+
+ECH 253B—Advanced Heat Transport (4) Lecture—4 hours. Prerequisite(s): ECH 142; ECH 259; Or the equivalent. Fundamental energy postulates and derivation of microscopic and macroscopic energy equations. Mechanisms of conduction. Isotropic, thermoelastic and anisotropic materials solution problems using Greens functions and perturbation theory. Effective: 2017 Winter Quarter.
+
+ECH 253C—Advanced Mass Transfer (4) Lecture—4 hours. Prerequisite(s): ECH 253A; Or the equivalent. Kinematics and basic conservation principles for multicomponent systems. Constitutive equations for momentum, heat and mass transfer, applications to binary and ternary systems. Details of diffusion with reaction, and the effects of concentration. Effective: 2017 Winter Quarter.
+
+ECH 254—Colloid and Surface Phenomena (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): Graduate standing in science or engineering or consent of instructor. Thermodynamics and rate processes at interfaces. These fundamental processes will be applied to determine the collective properties of thin films and membranes, self-assembled systems, liquid crystals and colloidal systems. Experimental techniques in surface analysis. Effective: 2017 Winter Quarter.
+
+ECH 256—Chemical Kinetics and Reaction Engineering (4) Lecture—4 hours. Prerequisite(s): ECH 146; Or the equivalent. Analysis of the performance of chemical reactors and design of chemical reactors based on the principles of chemical kinetics and transport phenomena. Consideration of noncatalytic/catalytic reactions in single fluid phases and emphasis on reactions in multiphase mixtures, especially gas-solid reactors. Effective: 2017 Winter
+
+ECH 259—Advanced Engineering Mathematics (4) Lecture—4 hours. Prerequisite(s): MAT 021D; MAT 022A; MAT 022B Applications of methods of applied mathematics to the analytical and numerical solution of linear and nonlinear ordinary and partial differential equations arising in the study of transport phenomena. Effective: 2017 Winter
+
+ECH 261—Molecular Modelling of Soft and Biological Matter (4) Lecture/Discussion—4 hours. Prerequisite(s): EMS 247 or ECH 252; or equivalent course in advanced thermodynamics/statistical mechanics. Modern molecular simulation techniques with a focus on soft matter like polymers, biologically relevant systems, and glasses. Effective: 2017
+
+ECH 262—Transport Phenomena in Multiphase Systems (3) Discussion/Laboratory—3 hours. Prerequisite(s): ECH 253C Heat, mass and momentum transfer in multiphase, multicomponent systems with special emphasis on transport processes in porous media. Derivation of the averaging theorem and application of the method of volume averaging to multicomponent, reacting systems. Effective: 2017 Winter Quarter.
+
+ECH 263—Rheology and Mechanics of Non-Newtonian Fluids (3) Lecture—3 hours. Prerequisite(s): ECH 253A; ECH 259; or Consent of Instructor. Mechanics of polymer solutions and suspension, especially the development of properly invariant constitutive equations. Topics include: viscometry, linear and nonlinear viscoelasticity, continuum mechanics, kinetic theory. Effective: 2017 Winter Quarter.
+
+ECH 265—Emulsions, Microemulsions and Bilayers (3) Lecture—3 hours. Prerequisite(s): An undergraduate course in physical chemistry. Thermodynamic and mechanical descriptions of surfactant-laden interfaces. Forces between and within interfaces. Physics of micelle and microemulsion formation. Structure and stability of emulsions. Properties of phospholipid bilayers, with emphasis on vesicles. Effective: 2017 Winter Quarter.
+
+ECH 267—Advanced Process Control (3) Lecture—3 hours. Prerequisite(s): ECH 157; Or the equivalent. Advanced course in analysis and synthesis of linear multivariable systems. Emphasis on frequency domain techniques and applications to chemical processes. Topics include singular value analysis, internal model control, robust controller design methods as well as self-tuning control techniques. Effective: 2017 Winter
+
+ECH 268—Polysaccharides Surface Interactions (3) Lecture—3 hours. Prerequisite(s): Graduate students in science or engineering. Study of fundamental surface science theories as applied to physical and chemical interactions of carbohydrates and polysaccharides. (EBS 268.) Effective: 2017 Winter Quarter.
+
+ECH 269—Cell and Molecular Biophysics for Bioengineers (4) Lecture—4 hours. Prerequisite(s): BIM 284; or equivalent; graduate standing; undergraduate students by consent of instructor. Introduction to fundamental mechanisms governing the structure, function, and assembly of bio-macromolecules. Emphasis is on a quantitative understanding of the nano-to-microscale interactions between and within individual molecules, as well as of their assemblies, in particular membranes. Not open for credit to students who have completed BIM 162. (BIM 262.) Effective: 2017 Winter Quarter.
+
+ECH 289A—Special Topics in Chemical Engineering; Fluid Mechanics (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Fluid Mechanics. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289C—Special Topics in Chemical Engineering; Process Control (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Process Control. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289D—Special Topics in Chemical Engineering; Chemistry of Catalytic Processes (15) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Chemistry of Catalytic Processes. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289E—Special Topics in Chemical Engineering; Biotechnology (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biotechnology. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289F—Special Topics in Chemical Engineering; Interfacial Engineering (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Interfacial Engineering. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289G—Special Topics in Chemical Engineering; Molecular Thermodynamics (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Molecular Thermodynamics. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289H—Special Topics in Chemical Engineering; Membrane Separations (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Membrane Separations. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289I—Special Topics in Chemical Engineering; Advanced Materials Processing (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Advanced Materials Processing. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289J—Special Topics in Chemical Engineering; Novel Experimental Methods (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Novel Experimental Methods. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289K—Special Topics in Chemical Engineering; Advanced Transport Phenomena (15) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Advanced Transport Phenomena. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289L—Special Topics in Chemical Engineering; Biomolecular Engineering (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biomolecular Engineering. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 290—Seminar (1) Seminar—1 hour. Seminar. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 290C—Graduate Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research problems, progress and techniques in chemical engineering. May be repeated for credit. (S/U grading only.) Effective: 2017
+
+ECH 294—Current Progress in Biotechnology (1) Seminar—1 hour. Prerequisite(s): Graduate standing. Seminars presented by guest lecturers on subjects of their own research activities. May be repeated for credit. (BIT 294.) (S/U grading only.) Effective: 2018 Winter Quarter.
+
+ECH 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study. (S/U grading only.) Effective: 2017
+
+ECH 299—Research (1-12) Variable. Research. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 390—Teaching of Chemical Engineering (1) Review all entries Discussion—1 hour. Prerequisite(s): Qualifications and acceptance as teaching assistant and/or associate-in in chemical engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated up to 2 time(s). (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 390—Teaching of Chemical Engineering (1) Review all entries Discussion—1 hour. Prerequisite(s): Consent of Instructor. Qualifications and acceptance as teaching assistant and/or associate-in in chemical engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated for credit. (S/U grading only.) Effective: 2018 Fall Quarter.
+
+ECH 001—Design of Coffee–An Introduction to Chemical Engineering (3) Laboratory—2 hours; Lecture—1 hour; Project (Term Project)—1 hour. Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee. Not open for credit to students who have completed ECM 1, ECM 5, or ECH 5. GE credit: SE, SL, VL. Effective:
+
+ECH 005—Introduction to Analysis and Design in Chemical Engineering (3) Laboratory—2 hours; Lecture—2 hours. Prerequisite(s): MAT 021A; MAT 021B (can be concurrent) Quantitative introduction to the engineering principles of analysis and design. Applications of differential and integral calculus. Laboratory experiments using coffee to illustrate chemical engineering concepts and to conduct an engineering design competition. Only two units of credit to students who have completed ECM 001 or ECH 001; not open for credit to students who have completed ECM 005. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 051—Material Balances (4) Lecture—4 hours. Prerequisite(s): MAT 021C C- or better; MAT 021D (can be concurrent) Application of the principle of conservation of mass to single and multicomponent systems in chemical process calculations. Studies of batch, semi-batch, and continuous processes involving mass transfer, phase change, and reaction stoichiometry. Not open for credit to students who have completed ECH 151. GE credit: SE. Effective: 2017 Fall Quarter.
+
+ECH 060—Engineering Problem Solving Using MATLAB (4) Lecture/Discussion—4 hours. Prerequisite(s): MAT 021C Problem solving in chemical, biochemical and materials engineering using MATLAB. Programming styles, data structures, working with lists, functions and rules. Applications drawn from material balances, statistics, numerical methods, bioinformatics, transport phenomena, kinetics, and computational analysis. GE credit: QL, SE. Effective: 2017 Spring Quarter.
+
+ECH 080—Chemical Engineering Profession (1) Lecture/Discussion—1 hour; Term Paper. Professional opportunities and professional responsibilities of chemical engineers. Opportunities and needs for post-baccalaureate education. Relationship of chemical engineering to contemporary issues. GE credit: SE, SS. Effective: 2017
+
+ECH 090X—Honors Discussion Section (1) Discussion—1 hour. Open only to students in the Chemical Engineering or Biochemical Engineering Honors Programs. Examination of special topics covered in selected lower-division courses through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. Repeat credit allowed if topic differs. May be repeated for credit When topic differs. Effective: 2017 Fall Quarter.
+
+ECH 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Lower division standing. Directed Group Study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special Study for Undergraduates (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 140—Mathematical Methods in Biochemical and Chemical Engineering (4) Laboratory—1 hour; Lecture/Discussion—3 hours. Prerequisite(s): MAT 022B; (ECH 060 or ENG 006); or equivalents of ECH 060 or ENG 006. Mathematical methods for solving problems in chemical and biochemical engineering, with emphasis on transport phenomena. Fourier series and separation of variables. Sturm-Liouville eigenvalue problems. Similarity transformations. Tensor analysis. Finite difference methods for solving time-dependent diffusion problems. Not open for credit to students who have completed ECH 159. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 141—Fluid Mechanics for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 140; ECH 051 (can be concurrent) Principles and applications of fluid mechanics in chemical and biochemical engineering. Hydrostatics. The stress tensor and Newton's law of viscosity. Not open for credit to students who have completed course 150B. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 141—Fluid Mechanics for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 140 Principles and applications of fluid mechanics in chemical and biochemical engineering. Hydrostatics. The stress tensor and Newton's law of viscosity. Not open for credit to students who have completed ECH 150B. GE credit: QL, SE. Effective: 2019 Winter Quarter.
+
+ECH 142—Heat Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 141 Conduction, convection, and radiation of thermal energy in applications to chemical and biochemical engineering. Derivation of thermal and mechanical energy equations. Thermal boundary layers. Macroscopic balances. Applications: heat transfer in tubes, channels, and integrated circuits, and analysis of heat exchangers. Not open for credit to students who have completed course 153. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 142—Heat Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 141 Conduction, convection, and radiation of thermal energy in applications to chemical and biochemical engineering. Derivation of thermal and mechanical energy equations. Thermal boundary layers. Macroscopic balances. Applications: heat transfer in tubes, channels, and integrated circuits, and analysis of heat exchangers. Not open for credit to students who have completed ECH 153. GE credit: QL, SE. Effective: 2019 Spring Quarter.
+
+ECH 143—Mass Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 051 C- or better; ECH 141 Derivation of species conservation equations describing convective and diffusive mass transfer. Fick's law and the Stefan-Maxwell constitutive equations. Mass transfer coefficients. Multicomponent mass transfer across gas/liquid interfaces. Applications include drying, heterogeneous chemical reactions, and membrane separations. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 143—Mass Transfer for Biochemical and Chemical Engineers (4) Review all entries Lecture/Discussion—4 hours. Prerequisite(s): ECH 141 Derivation of species conservation equations describing convective and diffusive mass transfer. Fick's law and the Stefan-Maxwell constitutive equations. Mass transfer coefficients. Multicomponent mass transfer across gas/liquid interfaces. Applications include drying, heterogeneous chemical reactions, and membrane separations. GE credit: SE. Effective: 2019 Spring Quarter.
+
+ECH 144—Rheology and Polymer Processing (3) Lecture/Discussion—3 hours. Prerequisite(s): ECH 141 Deformation in steady shear, unsteady shear, and elongational flows. Linear and non-linear viscoelastic constitutive models. The principle of material indifference and admissibility of constitutive equations. Introduction to the unit operations of polymer processing. Not open for credit to students who have completed ECH 150C. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 145A—Chemical Engineering Thermodynamics Laboratory (3) Discussion—2 hours; Extensive Writing; Laboratory—2 hours. Prerequisite(s): ECH 152A; ECH 152B (can be concurrent) Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, & Biochemical Engineering. Laboratory experiments in chemical engineering thermodynamics. GE credit: SE, WE. Effective: 2017 Winter Quarter.
+
+ECH 145B—Chemical Engineering Transport Lab (3) Discussion—2 hours; Extensive Writing; Laboratory—2 hours. Prerequisite(s): ECH 141; ECH 145A Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, & Biochemical Engineering. Laboratory experiments in chemical engineering transport phenomena. GE credit: SE, WE. Effective: 2017 Spring Quarter.
+
+ECH 148A—Chemical Kinetics and Reaction Engineering (3) Lecture—3 hours. Prerequisite(s): ECH 143; ECH 152B Ideal chemical reactors. Rate laws and stoichiometry. Design and analysis of isothermal reactors with multiple reactions. Not open for credit to students who have taken ECH 146. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 148B—Chemical Kinetics and Reaction Engineering (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ECH 148A Design and analysis of nonisothermal reactors. Reactions in packed beds with pressure drop. Adsorption and heterogeneous catalysis. Transport limitations. Not open for credit to students who have taken ECH 146. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 152A—Chemical Engineering Thermodynamics (3) Lecture—3 hours. Prerequisite(s): ECH 060 or ENG 006; or equivalents. Application of principles of thermodynamics to chemical processes. Not open for credit to students who have completed ENG 105 or ENG 105A. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 152B—Chemical Engineering Thermodynamics (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 152A Continuation of course 152A. GE credit: SE. Effective: 2017 Spring Quarter.
+
+ECH 155—Chemical Engineering Kinetics and Reactor Design Laboratory (4) Discussion—1 hour; Laboratory—6 hours; Term Paper. Prerequisite(s): ECH 145B; ECH 148A; ECH 148B (can be concurrent); ECH 157 (can be concurrent); Upper division English composition requirement (can be concurrent). Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, and Biochemical Engineering. Laboratory experiments in chemical kinetics, reactor design and process control. Not open for credit to students who have taken ECH 155B. GE credit: OL, SE, VL, WE. Effective: 2017 Spring Quarter.
+
+ECH 155A—Chemical Engineering Laboratory (4) Discussion—1 hour; Laboratory—6 hours; Term Paper. Prerequisite(s): ECH 141 (can be concurrent); ECH 142 (can be concurrent); ECH 143 (can be concurrent); Satisfaction of the upper division English composition requirement. Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, Biochemical Engineering, Biomedical Engineering, and Biological Systems Engineering. Laboratory experiments in transport phenomena, chemical kinetics, and thermodynamics. GE credit: OL, QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 155B—Chemical Engineering Laboratory (4) Discussion—1 hour; Extensive Writing—1 hour; Laboratory—6 hours. Prerequisite(s): ECH 143 (can be concurrent); ECH 155A; Satisfaction of the upper division English composition requirement. Open to majors in Chemical Engineering, Chemical Engineering/Materials Science, Biochemical Engineering, Biomedical Engineering, Food Engineering, and Biosystems Engineering. Continuation of course 155A. Laboratory experiments in transport phenomena, chemical kinetics, and thermodynamics. GE credit: QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 157—Process Dynamics and Control (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 140 Fundamentals of dynamics and modeling of chemical processes. Design and analysis of feedback control of chemical processes. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 158A—Process Economics and Green Design (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 142; ECH 143 Senior design experience in process and product creation and design with multiple realistic constraints. Cost accounting and capital investment estimation. Profitability analysis techniques. Green chemistry, health risk assessment and life cycle assessment concepts. GE credit: SE, SL, SS, VL. Effective: 2017 Winter
+
+ECH 158B—Separations and Unit Operations (4) Lecture—4 hours. Prerequisite(s): ECH 158A Senior design experience with multiple realistic constraints. Heuristic and rigorous design of chemical process equipment. Separation by filtration, distillation and extraction. Synthesis of reactor and separation networks, heat and power integration. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 158C—Plant Design Project (4) Discussion/Laboratory—2 hours; Project (Term Project)—2 hours. Prerequisite(s): ECH 158B or ECH 161C Senior design experience for chemical and biochemical processes. Impact of multiple realistic constraints. Design, costing and profitability analysis of complete plants. Use of computeraided design techniques. GE credit: SE, SS, VL. Effective: 2018 Winter Quarter.
+
+ECH 160—Fundamentals of Biomanufacturing (3) Lecture—3 hours. Prerequisite(s): MIC 102 or BIS 102 or ABI 102 Principles of large scale bioreactor production of metabolites, enzymes, and recombinant proteins including the development of strains/cell lines, fermentor/bioreactor design, monitoring and operation, product recovery and purification, and biomanufacturing economics. Not open for credit to students who have completed ECH 161C or both ECH 161A and ECH 161B; only two units of credit to students who have completed either ECH 161A or ECH 161B. GE credit: QL, SE, VL. Effective: 2017 Winter
+
+ECH 161A—Biochemical Engineering Fundamentals (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 148A Biokinetics; bioreactor design and operation; transport phenomena in bioreactors; microbial, plant, and animal cell cultures. GE credit: QL, SE, VL. Effective: 2017 Winter Quarter.
+
+ECH 161B—Bioseparations (4) Lecture/Discussion—4 hours. Prerequisite(s): ECH 143 Product recovery and purification of biochemicals. Cell disruption, centrifugation, filtration, membrane separations, extraction, and chromatographic separation. GE credit: QL, SE. Effective: 2017 Winter Quarter.
+
+ECH 161C—Biotechnology Facility Design and Regulatory Compliance (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): (ECH 161A (can be concurrent), ECH 161B (can be concurrent)) or MCB 263 (can be concurrent); Course(s) required concurrently. Design of biotechnology manufacturing facilities. Fermentation and purification equipment, and utility systems. Introduction to current good manufacturing practices, regulatory compliance, and documentation. GE credit: QL, SE, SL, SS, VL. Effective: 2017 Winter Quarter.
+
+ECH 161L—Bioprocess Engineering Laboratory (4) Discussion—1 hour; Laboratory—9 hours; Term Paper. Prerequisite(s): (ECH 161A, ECH 161B) or VEN 186 or (BIS 103, MCB 120L) Pass One restricted to chemical/biochemical engineering majors. Laboratory experiments in the operation and analysis of bioreactors; determination of oxygen mass transfer coefficients in bioreactors and ion exchange chromatography. GE credit: QL, SE, VL, WE. Effective: 2017 Winter Quarter.
+
+ECH 166—Catalysis (3) Lecture—3 hours. Prerequisite(s): ECH 148A; and Consent of Instructor. Principles of catalysis based on an integration of principles of physical, organic, and inorganic chemistry and chemical kinetics and chemical reaction engineering. Catalysis in solution; catalysis by enzymes; catalysis in swellable polymers; catalysis in microscopic cages (zeolites); catalysis on surfaces. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 170—Introduction to Colloid and Surface Phenomena (3) Lecture—3 hours. Prerequisite(s): CHE 110A Introduction to the behavior of surfaces and disperse systems. Fundamentals will be applied to the solution of practical problems in colloid science. Course should be of value to engineers, chemists, biologists, soil scientists, and related disciplines. GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 190C—Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Upper division standing in Chemical Engineering. Research group conferences. May be repeated for credit. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 190X—Honors Discussion Section (1) Discussion—1 hour. Open only to students in the Chemical Engineering or Biochemical Engineering Honors Programs. Examination of special topics covered in selected upper division courses through additional readings, discussions, collaborative work, or special activities which may include projects, laboratory experience or computer simulations. May be repeated for credit when topic differs. Effective: 2017 Fall Quarter.
+
+ECH 192—Internship in Chemical or Biochemical Engineering (1-5) Internship—3-15 hours. Prerequisite(s): Consent of Instructor. Completion of a minimum of 84 units; project approval before period of internship. Supervised work experience in Chemical or Biochemical Engineering. May be repeated for credit when project differs. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 198—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 199—Special Study for Advanced Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. Special study. (P/NP grading only.) GE credit: SE. Effective: 2017 Winter Quarter.
+
+ECH 206—Biochemical Engineering (3) Lecture—3 hours. Prerequisite(s): MIC 102; MIC 102L; BIS 101; BIS 102; BIS 103; MCB 120L; MCB 200A; or Consent of Instructor. FST 205 recommended. Interaction of chemical engineering, biochemistry, and microbiology. Mathematical representations of microbial systems. Kinetics of growth, death, and metabolism. Continuous fermentation, agitation, mass transfer and scale-up in fermentation systems, product recovery, enzyme technology. Effective: 2017 Winter Quarter.
+
+ECH 226—Enzyme Engineering (3) Lecture—3 hours. Prerequisite(s): MIC 102; MIC 102L; BIS 102; BIS 103; MCB 122; MCB 120L; MCB 200A; or Consent of Instructor. Application of basic biochemical and engineering principles of practical enzymatic processes. Lectures cover large scale production and separation of enzymes, immobilized enzyme systems, enzyme related biotechnology, reactor design and optimization, and new application of enzymes in genetic engineering. Effective: 2017 Winter Quarter.
+
+ECH 245—Micro- and Nano-Technology in Life Sciences (4) Lecture/Discussion—4 hours. Prerequisite(s): Graduate standing or consent of instructor. Survey of biomedical device design from the engineering and biological perspectives; micro-/nano-fabrication and characterization techniques; surface chemistry and mass transfer; essential biological processes and models; proposal development skills to merge aforementioned themes in a multidisciplinary project. (EEC 245 and EMS 245.) Effective: 2017 Winter Quarter.
+
+ECH 246—Advanced Biochemical Engineering (2) Lecture—2 hours. Prerequisite(s): ECH 206; or Consent of Instructor. Advances in the field of biotechnology including genetic engineering, enzyme engineering, fermentation science, and renewable resources development. The important results of original research will be evaluated for understanding of the fundamental principles and for potential practical application. Effective: 2017
+
+ECH 252—Statistical Thermodynamics (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): ECH 152B; ENG 105B or the equivalent. A treatment of the statistical basis of thermodynamics;introduction to statistical mechanics; discussion of the laws of thermodynamics; application of thermodynamic relationships to phase and chemical reaction equilibrium; introduction to molecular simulations and the evaluation of thermodynamic properties from molecular simulations. Effective: 2017 Winter Quarter.
+
+ECH 253A—Advanced Fluid Mechanics (4) Lecture—4 hours. Prerequisite(s): ECH 141; ECH 259 Kinematics and basic principles of fluid flow. Principles of constitutive equations. Navier-Stokes equations for Newtonian fluids. Survey of rectilinear creeping flow, lubrication flow and boundary layer theory. Effective: 2017 Winter
+
+ECH 253B—Advanced Heat Transport (4) Lecture—4 hours. Prerequisite(s): ECH 142; ECH 259; Or the equivalent. Fundamental energy postulates and derivation of microscopic and macroscopic energy equations. Mechanisms of conduction. Isotropic, thermoelastic and anisotropic materials solution problems using Greens functions and perturbation theory. Effective: 2017 Winter Quarter.
+
+ECH 253C—Advanced Mass Transfer (4) Lecture—4 hours. Prerequisite(s): ECH 253A; Or the equivalent. Kinematics and basic conservation principles for multicomponent systems. Constitutive equations for momentum, heat and mass transfer, applications to binary and ternary systems. Details of diffusion with reaction, and the effects of concentration. Effective: 2017 Winter Quarter.
+
+ECH 254—Colloid and Surface Phenomena (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): Graduate standing in science or engineering or consent of instructor. Thermodynamics and rate processes at interfaces. These fundamental processes will be applied to determine the collective properties of thin films and membranes, self-assembled systems, liquid crystals and colloidal systems. Experimental techniques in surface analysis. Effective: 2017 Winter Quarter.
+
+ECH 256—Chemical Kinetics and Reaction Engineering (4) Lecture—4 hours. Prerequisite(s): ECH 146; Or the equivalent. Analysis of the performance of chemical reactors and design of chemical reactors based on the principles of chemical kinetics and transport phenomena. Consideration of noncatalytic/catalytic reactions in single fluid phases and emphasis on reactions in multiphase mixtures, especially gas-solid reactors. Effective: 2017 Winter
+
+ECH 259—Advanced Engineering Mathematics (4) Lecture—4 hours. Prerequisite(s): MAT 021D; MAT 022A; MAT 022B Applications of methods of applied mathematics to the analytical and numerical solution of linear and nonlinear ordinary and partial differential equations arising in the study of transport phenomena. Effective: 2017 Winter
+
+ECH 261—Molecular Modelling of Soft and Biological Matter (4) Lecture/Discussion—4 hours. Prerequisite(s): EMS 247 or ECH 252; or equivalent course in advanced thermodynamics/statistical mechanics. Modern molecular simulation techniques with a focus on soft matter like polymers, biologically relevant systems, and glasses. Effective: 2017
+
+ECH 262—Transport Phenomena in Multiphase Systems (3) Discussion/Laboratory—3 hours. Prerequisite(s): ECH 253C Heat, mass and momentum transfer in multiphase, multicomponent systems with special emphasis on transport processes in porous media. Derivation of the averaging theorem and application of the method of volume averaging to multicomponent, reacting systems. Effective: 2017 Winter Quarter.
+
+ECH 263—Rheology and Mechanics of Non-Newtonian Fluids (3) Lecture—3 hours. Prerequisite(s): ECH 253A; ECH 259; or Consent of Instructor. Mechanics of polymer solutions and suspension, especially the development of properly invariant constitutive equations. Topics include: viscometry, linear and nonlinear viscoelasticity, continuum mechanics, kinetic theory. Effective: 2017 Winter Quarter.
+
+ECH 265—Emulsions, Microemulsions and Bilayers (3) Lecture—3 hours. Prerequisite(s): An undergraduate course in physical chemistry. Thermodynamic and mechanical descriptions of surfactant-laden interfaces. Forces between and within interfaces. Physics of micelle and microemulsion formation. Structure and stability of emulsions. Properties of phospholipid bilayers, with emphasis on vesicles. Effective: 2017 Winter Quarter.
+
+ECH 267—Advanced Process Control (3) Lecture—3 hours. Prerequisite(s): ECH 157; Or the equivalent. Advanced course in analysis and synthesis of linear multivariable systems. Emphasis on frequency domain techniques and applications to chemical processes. Topics include singular value analysis, internal model control, robust controller design methods as well as self-tuning control techniques. Effective: 2017 Winter
+
+ECH 268—Polysaccharides Surface Interactions (3) Lecture—3 hours. Prerequisite(s): Graduate students in science or engineering. Study of fundamental surface science theories as applied to physical and chemical interactions of carbohydrates and polysaccharides. (EBS 268.) Effective: 2017 Winter Quarter.
+
+ECH 269—Cell and Molecular Biophysics for Bioengineers (4) Lecture—4 hours. Prerequisite(s): BIM 284; or equivalent; graduate standing; undergraduate students by consent of instructor. Introduction to fundamental mechanisms governing the structure, function, and assembly of bio-macromolecules. Emphasis is on a quantitative understanding of the nano-to-microscale interactions between and within individual molecules, as well as of their assemblies, in particular membranes. Not open for credit to students who have completed BIM 162. (BIM 262.) Effective: 2017 Winter Quarter.
+
+ECH 289A—Special Topics in Chemical Engineering; Fluid Mechanics (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Fluid Mechanics. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289C—Special Topics in Chemical Engineering; Process Control (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Process Control. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289D—Special Topics in Chemical Engineering; Chemistry of Catalytic Processes (15) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Chemistry of Catalytic Processes. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289E—Special Topics in Chemical Engineering; Biotechnology (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biotechnology. May be repeated for credit when topic differs. Effective: 2017 Winter Quarter.
+
+ECH 289F—Special Topics in Chemical Engineering; Interfacial Engineering (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Interfacial Engineering. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289G—Special Topics in Chemical Engineering; Molecular Thermodynamics (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Molecular Thermodynamics. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289H—Special Topics in Chemical Engineering; Membrane Separations (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Membrane Separations. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289I—Special Topics in Chemical Engineering; Advanced Materials Processing (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Advanced Materials Processing. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289J—Special Topics in Chemical Engineering; Novel Experimental Methods (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Novel Experimental Methods. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 289K—Special Topics in Chemical Engineering; Advanced Transport Phenomena (15) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Advanced Transport Phenomena. May be repeated for credit when topic differs. Effective: 2017
+
+ECH 289L—Special Topics in Chemical Engineering; Biomolecular Engineering (1-5) Laboratory—1-5 hours; Lecture—1-5 hours. Prerequisite(s): Consent of Instructor. Special topics in Biomolecular Engineering. May be repeated for credit when topic differs. Effective: 2017 Winter
+
+ECH 290—Seminar (1) Seminar—1 hour. Seminar. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 290C—Graduate Research Group Conference (1) Discussion—1 hour. Prerequisite(s): Consent of Instructor. Research problems, progress and techniques in chemical engineering. May be repeated for credit. (S/U grading only.) Effective: 2017
+
+ECH 294—Current Progress in Biotechnology (1) Seminar—1 hour. Prerequisite(s): Graduate standing. Seminars presented by guest lecturers on subjects of their own research activities. May be repeated for credit. (BIT 294.) (S/U grading only.) Effective: 2018 Winter Quarter.
+
+ECH 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Group study. (S/U grading only.) Effective: 2017
+
+ECH 299—Research (1-12) Variable. Research. (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 390—Teaching of Chemical Engineering (1) Review all entries Discussion—1 hour. Prerequisite(s): Qualifications and acceptance as teaching assistant and/or associate-in in chemical engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated up to 2 time(s). (S/U grading only.) Effective: 2017 Winter Quarter.
+
+ECH 390—Teaching of Chemical Engineering (1) Review all entries Discussion—1 hour. Prerequisite(s): Consent of Instructor. Qualifications and acceptance as teaching assistant and/or associate-in in chemical engineering. Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports. May be repeated for credit. (S/U grading only.) Effective: 2018 Fall Quarter.

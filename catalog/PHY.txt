@@ -1,0 +1,791 @@
+PHY 001A—Principles of Physics (3) Lecture—3 hours. Prerequisite(s): Trigonometry or consent of instructor. Mechanics. Introduction to general principles and analytical methods used in physics with emphasis on applications in applied agricultural and biological sciences and in physical education. Not open to students who have received credit for PHY 007B or PHY 009A. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 001B—Principles of Physics (3) Lecture—3 hours. Prerequisite(s): PHY 001A or PHY 009A Not open for credit to students who have received credit for course 7A, 7B, 7C, 9B, 9C, or 9D. Continuation of course 1A. Heat, optics, electricity, modern physics. Not open for credit to students who have received credit for course 7A, 7B, 7C, 9B, 9C, or 9D. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 007A—General Physics (4) Discussion/Laboratory—5 hours; Lecture—1.5 hours. Prerequisite(s): MAT 016B (can be concurrent) or MAT 017B (can be concurrent) or MAT 021B (can be concurrent); Completion or concurrent enrollment in MAT 016B or MAT 017B or MAT 021B. Introduction to general principles and analytical methods used in physics for students majoring in a biological science. Only two units of credit allowed to students who have completed PHY 001B or PHY 009B. GE credit: SE. Effective:
+
+PHY 007B—General Physics (4) Discussion/Laboratory—5 hours; Lecture—1.5 hours. Prerequisite(s): PHY 007A Continuation of course 7A. Only two units of credit allowed to students who have completed course 9A, or 1A. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 007C—General Physics (4) Discussion/Laboratory—5 hours; Lecture—1.5 hours. Prerequisite(s): PHY 007B Continuation of course 7B. Only two units of credit allowed to students who have completed course 9C or 5C. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 009A—Classical Physics (5) Review all entries Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): MAT 021B; MAT 021M Introduction to general principles and analytical methods used in physics for physical science and engineering majors. Classical mechanics. Only 2 units of credit for students who have completed 1A or 7B. Not open for credit to students who have completed course 9HA. GE credit: SE. Effective: 2018 Winter Quarter.
+
+PHY 009A—Classical Physics (5) Review all entries Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): MAT 021B or MAT 021M; or Consent of Instructor. Introduction to general principles and analytical methods used in physics for physical science and engineering majors. Classical mechanics. Only 2 units of credit for students who have completed PHY 001A or PHY 007B; not open for credit to students who have completed course PHY 009HA. GE credit: SE. Effective: 2018 Summer Session 1.
+
+PHY 009B—Classical Physics (5) Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): PHY 009A; MAT 021C; MAT 021D (can be concurrent) Continuation of course 9A. Fluid mechanics, thermodynamics, wave phenomena, optics. Only two units of credit for students who have completed PHY 007A; not open for credit to students who have completed PHY 009HB, PHY 009HC, or ENG 105. GE credit: SE. Effective: 2004 Fall Quarter.
+
+PHY 009C—Classical Physics (5) Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): PHY 009B; MAT 021D; MAT 022A (can be concurrent) Electricity and magnetism including circuits and Maxwell's equations. Only 3 units of credit for students who have completed PHY 007C; not open for credit to students who have completed PHY 009HD. GE credit: SE. Effective: 2005 Winter Quarter.
+
+PHY 009D—Modern Physics (4) Discussion—1.5 hours; Lecture—3 hours. Prerequisite(s): PHY 009C; MAT 022A; MAT 022B recommended (may be taken concurrently). Not open for credit to students who have completed course 9HB, 9HC, or 9HE. Introduction to physics concepts developed since 1900. Special relativity, quantum mechanics, atoms, molecules, condensed matter, nuclear and particle physics. Not open for credit to students who have completed course 9HB, 9HC, or 9HE. GE credit: SE. Effective: 1999
+
+PHY 009HA—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): MAT 021B (can be concurrent); or Consent of Instructor. Classical mechanics. Same material as course 9A in greater depth. For students in physical sciences, mathematics, and engineering. Only 2 units of credit for students who have completed PHY 007B; not open for credit to students who have completed PHY 009A. GE credit: SE. Effective: 2003 Fall Quarter.
+
+PHY 009HB—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): (PHY 009HA or PHY 009A); MAT 021C (can be concurrent) Special relativity, thermal physics. Continuation of course 9HA. Only 2 units of credit for students who have completed PHY 007A; not open for credit to students who have completed PHY 009B or PHY 009D. GE credit: SE. Effective: 2004 Winter Quarter.
+
+PHY 009HC—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): PHY 009HB; MAT 021D (can be concurrent) Waves, sound, optics, quantum physics. Continuation of Physics 9HB. Only 2 units of credit for students who have completed PHY 007C; not open for credit to students who have completed PHY 009B or PHY 009D. GE credit: SE. Effective: 2004 Spring Quarter.
+
+PHY 009HD—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): PHY 009HC; MAT 021D Electricity and magnetism. Continuation of Physics 9HC. Not open for credit to students who have completed PHY 009C. GE credit: SE. Effective: 2003 Fall Quarter.
+
+PHY 009HE—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): PHY 009HD; MAT 022B (can be concurrent) Application of quantum mechanics. Not open for credit to students who have completed PHY 009D. GE credit: SE. Effective: 2004 Winter Quarter.
+
+PHY 010—Topics in Physics for Nonscientists (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): High school algebra. Emphasis varies: survey of basic principles or a deeper exploration of some particular branch. Past topics included black holes, space time, and relativity; physics of music; history and philosophy; energy and the environment; and natural phenomena. No units of credit allowed if taken after any other PHY course. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 010C—Physics of California (3) Lecture—3 hours. Atmospheric phenomena common in CA, local weather patterns and microclimes. Applications to CA energy, water, and resource management policies. Physics underlying regional sports in CA. Not open for credit to students who have completed any quarter of PHY 009 or PHY 009H, or any upper division PHY course. GE credit: SE, SL, VL. Effective: 2014 Fall Quarter.
+
+PHY 010CY—Physics of California (3) Discussion—1.5 hours; Web Electronic Discussion—0.5 hours; Web Virtual Lecture—1 hour. Conceptual understanding of the physics underlying regional sports in CA. Focus on skiing, surfing, and scuba diving. Atmospheric phenomena common in CA, local weather patterns and microclimes, applications to CA energy, and water are also discussed. Not open for credit to students who have completed PHY 010C, any quarter of PHY 09A, PHY 009B, PHY 009C, PHY 009D, PHY 009HA, PHY 009HB, PHY 009HC, PHY 009HD, or PHY 009HE, or any upper division PHY course. GE credit: SE, SL, VL. Effective: 2017 Winter Quarter.
+
+PHY 012—Visualization in Science (3) Lecture—3 hours. Production, interpretation, and use of images in physics, astronomy, biology, and chemistry as scientific evidence and for communication of research results. GE credit: SE, SL, VL. Effective: 2017 Winter Quarter.
+
+PHY 030—Fractals, Chaos and Complexity (3) Lecture/Discussion—3 hours. Prerequisite(s): MAT 016A or MAT 021A Modern ideas about the unifying ideas of fractal geometry, chaos and complexity. Basic theory and applications with examples from physics, earth sciences, mathematics, population dynamics, ecology, history, economics, biology, computer science, art and architecture. (Geology 30.) GE credit: QL, SE. Effective: 2010 Winter Quarter.
+
+PHY 049—Supplementary Work in Lower Division Physics (1-3) Variable. Students with partial credit in lower division physics courses may, with consent of instructor, complete the credit under this heading. May be repeated for credit. May be repeated for credit. GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 080—Experimental Techniques (4) Laboratory—5 hours; Lecture—2 hours. Prerequisite(s): PHY 009D or PHY 009HD Open to Physics and Applied Physics majors only. Experimental techniques. Design of circuits. Data analysis, sources of noise, statistical and systematic uncertainties. Light sources, detection, and measurement in basic optical systems. Effective: 2017 Fall Quarter.
+
+PHY 090X—Lower Division Seminar (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Lower division standing. Limited enrollment. Examination of a special topic in Physics through shared readings, discussions, written assignments, or special activities such as laboratory work. May be repeated for credit. GE credit: SE. Effective: 1998 Fall Quarter.
+
+PHY 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Primary for lower division students. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+PHY 102—Computational Laboratory in Physics (1) Laboratory—4 hours. Prerequisite(s): MAT 021D; ECS 030; (PHY 009D or PHY 009HD); PHY 104A (can be concurrent); MAT 22AB; PHY 104A required concurrently. Introduction to computational physics and to the computational resources in the physics department. Preparation for brief programming assignments required in other upper division physics classes. Not open to students who have completed PHY 104B or PHY 105AL. GE credit: SE. Effective: 2008 Summer Session 1.
+
+PHY 104A—Introductory Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): (PHY 009B C- or better, PHY 009C Cor better, PHY 009D C- or better); (MAT 021D C- or better, MAT 022A C- or better, MAT 022B C- or better); or Consent of Instructor. Introduction to the mathematics used in upper-division physics courses, including applications of vector spaces, Fourier analysis, partial differential equations. Effective: 2000 Fall Quarter.
+
+PHY 104B—Computational Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; PHY 105AL; or Consent of Instructor. Introduction to the use of computational techniques to solve the mathematical problems that arise in advanced physics courses, complementing the analytical approaches emphasized in course 104A. GE credit: SE. Effective: 2000 Fall Quarter.
+
+PHY 104C—Intermediate Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; or Consent of Instructor. Applications of complex analysis, conditional probability, integral transformations and other advanced topics. Effective: 2000 Fall Quarter.
+
+PHY 105A—Analytical Mechanics (4) Lecture—3 hours. Prerequisite(s): (PHY 009B C or better, PHY 009C C or better, PHY 009D C or better); (MAT 021D C or better, MAT 022A C or better, MAT 022B C or better); Or consent of department for any of the courses. Principles and applications of Newtonian mechanics; introduction to Lagrange’s and Hamilton’s equations GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 105B—Analytical Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 104A C or better; PHY 105A C or better; Or consent of department for any of the courses. Principles and applications of Newtonian mechanics; introduction to Lagrange’s and Hamilton’s equations GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 105C—Continuum Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; PHY 105A C- or better; or Consent of Instructor. The continuum hypothesis and limitations, tensors, isotropic constitutive equations, and wave propagation. Applications such as elastic solids,heat flow, aerodynamics, and ocean waves. GE credit: SE. Effective: 2006 Spring Quarter.
+
+PHY 108—Optics (3) Lecture—3 hours. Prerequisite(s): ((PHY 009A, PHY 009B, PHY 009C, PHY 009D) or (PHY 007A, PHY 007B, PHY 007C)); (MAT 021A, MAT 021B, MAT 021C, MAT 021D); or Consent of Instructor. The phenomena of diffraction, interference, and polarization of light, with applications to current problems in astrophysics, material science, and atmospheric science. Study of modern optical instrumentation. Open to non-majors. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 108L—Optics Laboratory (1) Laboratory—3 hours. Prerequisite(s): PHY 108 (can be concurrent); PHY 108 required concurrently. The laboratory will consist of one major project pursued throughout the quarter, based on modern applications of optical techniques. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 110A—Electricity and Magnetism (4) Lecture—3 hours. Prerequisite(s): PHY 009B C- or better; PHY 009C C- or better; PHY 009D C- or better; MAT 021D C- or better; MAT 022A C- or better; MAT 022B C- or better; PHY 104A; PHY 105A; Or consent of department. Theory of electrostatics, electromagnetism, Maxwell's equations, electromagnetic waves. GE credit: SE. Effective: 2018 Winter Quarter.
+
+PHY 110B—Electricity and Magnetism (4) Lecture—3 hours. Prerequisite(s): PHY 110A C- or better; PHY 104A C- or better; Or consent of department. Theory of electrostatics, electromagnetism, Maxwell's equations, electromagnetic waves. GE credit: SE. Effective: 2010 Winter Quarter.
+
+PHY 110C—Electricity and Magnetism (4) Lecture—3 hours. Prerequisite(s): PHY 110B C- or better; Or consent of department. Theory of electrostatics, electromagnetism, Maxwell's equations, electromagnetic waves. GE credit: SE. Effective: 2010 Winter Quarter.
+
+PHY 112—Thermodynamics and Statistical Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 115A; Or the equivalent. Introduction to classical and quantum statistical mechanics and their connections with thermodynamics. The theory is developed for the ideal gas model and simple magnetic models and then extended to studies of solids, quantum fluids, and chemical equilibria. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 115A—Foundation of Quantum Mechanics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; PHY 105A Cor better; Or consent of department. Introduction to the methods of quantum mechanics with applications to atomic, molecular, solid state, nuclear and elementary particle physics. Extensive problem solving. GE credit: SE. Effective: 2007 Winter Quarter.
+
+PHY 115B—Applications of Quantum Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; Or consent of department. Angular momentum and spin; hydrogen atom and atomic spectra; perturbation theory; scattering theory. GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 116A—Electronic Instrumentation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): PHY 009C; MAT 022B; or Consent of Instructor. Experimental and theoretical study of important analog electronic circuits. Linear circuits, transmission lines, input impedance, feedback, amplifiers, oscillators, noise. GE credit: SE, VL. Effective: 2008 Fall Quarter.
+
+PHY 116B—Electronic Instrumentation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): PHY 009C or PHY 009HD; or Consent of Instructor. Continuation of course 116A. Introduction to the use of digital electronics and microcomputers in experimental physics. Nonlinear electronics, integrated circuits, analog-to-digital and digital-to-analog converters, transducers, actuators. GE credit: SE. Effective: 2008 Spring
+
+PHY 116C—Introduction to Computer-Based Experiments in Physics (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (PHY 009D or PHY 009HD); PHY 116B; MAT 022B; or Consent of Instructor. Introduction to techniques for making physical measurements using computer-based instrumentation. GE credit: SE, WE. Effective: 2004 Spring Quarter.
+
+PHY 122A—Advanced Laboratory in Condensed Matter Physics (4) Laboratory—8 hours. Prerequisite(s): PHY 104A; PHY 105A; PHY 110B; PHY 115A; PHY 112 (can be concurrent); Or consent of the department. Registration by Permission to Add (PTA) number only; priority given to graduating PHY and APP majors. Experimental techniques and measurements in solid-state physics. Student performs three to six experiments depending on difficulty. Individual work is stressed. Thorough write-ups of the experiments are required. GE credit: SE, WE. Effective:
+
+PHY 122B—Advanced Laboratory in Particle Physics (4) Laboratory—8 hours. Prerequisite(s): PHY 104A; PHY 105A; PHY 110B; PHY 115A; PHY 112 (can be concurrent); Or consent of the department. Registration by Permission to Add (PTA) number only; priority given to graduating PHY and APP majors. Experimental techniques and measurements in nuclear and particle physics. Students perform three to six experiments depending on difficulty. Individual work is stressed. Thorough write-ups of the experiments are required. GE credit: SE, WE. Effective: 2018 Winter Quarter.
+
+PHY 123—Signals and Noise in Physics (4) Lecture—3 hours; Project (Term Project)—1 hour. Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 104A; or Consent of Instructor. Not open to students who have taken this course previously as course 198. Techniques of measurement and analysis designed to avoid systematic error and maximize signal/noise ratio. Illustrative examples of optimal filters ranging from condensed matter to cosmology. GE credit: SE. Effective: 2007 Winter Quarter.
+
+PHY 129A—Introduction to Nuclear Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Survey of basic nuclear properties and concepts requiring introductory knowledge of quantum mechanics: nuclear models and forces, radioactive decay and detecting nuclear radiation and nuclear reaction products, alpha, beta and gamma decay. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 129B—Nuclear Physics, Extensions and Applications (4) Lecture—3 hours; Term Paper. Prerequisite(s): PHY 129A Continuation of course 129A. Nuclear reactions, neutrons, fission, fusion accelerators, introduction to meson and particle physics, nuclear astrophysics, and applications of nuclear physics and techniques to mass spectrometry, nuclear medicine, trace element analysis. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 130A—Elementary Particle Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Properties and classification of elementary particles and their interactions. Experimental techniques. Conservation laws and symmetries. Strong, electromagnetic, and weak interactions. Introduction to Feynman calculus. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 130B—Elementary Particle Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Properties and classification of elementary particles and their interactions. Experimental techniques. Conservation laws and symmetries. Strong, electromagnetic, and weak interactions. Introduction to Feynman calculus. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 140A—Introduction to Solid State Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Or equivalent course passed with C- or better. Survey of fundamental ideas in the physics of solids, with selected device applications. Crystal structure, x-ray and neutron diffraction, phonons, simple metals, energy bands and Fermi surfaces, semiconductors, optical properties, magnetism, superconductivity. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 140B—Introduction to Solid State Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Or equivalent course passed with C- or better. Survey of fundamental ideas in the physics of solids, with selected device applications. Crystal structure, x-ray and neutron diffraction, phonons, simple metals, energy bands and Fermi surfaces, semiconductors, optical properties, magnetism, superconductivity. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 150—Special Topics in Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): (PHY 009A, PHY 009B, PHY 009C, PHY 009D) or (PHY 009HA, PHY 009HB, PHY 009HC, PHY 009HD, PHY 009HE); or Consent of Instructor. Topics vary, covering areas of contemporary research in physics. May be repeated for credit. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 151—Stellar Structure and Evolution (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; or Consent of Instructor. The chemical composition, structure, energy sources and evolutionary history of stars, with equal emphasis on both the observational data and theoretical models, including black holes, neutron stars and white dwarfs and the formation of substellar masses. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 152—Galactic Structure and the Interstellar Medium (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 105A (can be concurrent); or Consent of Instructor. PHY 105A required concurrently. The structure, contents, and formation of our Milky Way galaxy, viz. its shape and size, the nature of the interstellar medium, stellar populations, rotation curves, mass determination and evidence of dark matter. GE credit: SE. Effective: 2007 Spring Quarter.
+
+PHY 153—Extragalactic Astrophysics (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 104A; PHY 105A; or Consent of Instructor. Structure and evolution of galaxies and clusters of galaxies, including distance and mass determination, galaxy types and environments, active galactic nuclei and quasars, gravitational lensing and dark matter, global cosmological properties. Not open to students who have taken PHY 127. GE credit: SE. Effective: 2007 Winter
+
+PHY 154—Astrophysical Applications of Physics (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 105A; PHY 105B; PHY 110B (can be concurrent); PHY 115A (can be concurrent); PHY 112; PHY 112 or consent of instructor; PHY 110B and 115A required concurrently. Not open to students who have taken this course previously as course 198. Applications of classical and quantum mechanics, thermodynamics, statistical mechanics, and electricity and magnetism to astrophysical settings such as the Big Bang, degenerate white dwarf and neutron stars, and solar neutrinos. GE credit: SE. Effective: 2007
+
+PHY 155—General Relativity (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 104A; PHY 105A; PHY 105B; PHY 110A; PHY 105B and PHY 110A or consent of instructor. Definition of the mathematical frame work for the description of the gravitational field, introduction of the dynamical equations of Einstein governing its evolution and review of the key solutions, including black holes and expanding universes. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 156—Introduction to Cosmology (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 105A (can be concurrent); or Consent of Instructor. PHY 105A required concurrently. Contemporary knowledge regarding the origin of the universe, including the Big Bang and nucleosynthesis, microwave background radiation, formation of cosmic structure, cosmic inflation, cosmic acceleration and dark energy. Not open to students who have completed PHY 126. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 157—Astronomy Instrumentation and Data Analysis Laboratory (4) Laboratory—8 hours. Prerequisite(s): PHY 104A; PHY 105A; PHY 110A; PHY 115A (can be concurrent); PHY 110B (can be concurrent); and Consent of Instructor. Registration by Permission to Add (PTA) number only; priority given to graduating PHY astrophysics emphasis seniors. Experimental techniques, data acquisition and analysis involving laboratory astrophysics plus stellar, nebular and galaxy digital imaging, photometry and/or spectroscopy. Students perform three experiments. Individual work stressed. Minimum 10-15 page journal style articles of two experiments are required. GE credit: SE, WE. Effective: 2018 Winter Quarter.
+
+PHY 160—Environmental Physics and Society (3) Lecture—3 hours. Prerequisite(s): (PHY 009D or PHY 007C); (PHY 010 or PHY 001B); MAT 016B; Or the equivalent. Impact of humankind on the environment will be discussed from the point of view of the physical sciences. Calculations based on physical principles will be made, and the resulting policy implications will be considered. (Engineering 160.) GE credit: SE, SL. Effective:
+
+PHY 185—Alumni Seminar Series (1) Seminar—1 hour. Weekly guest speakers (usually a physics alumnus or alumna) tell students about their careers. Speakers use their experience to give students valuable perspectives on life after a degree in physics. May be repeated up to 2 time(s). (P/NP grading only.) GE credit: SE. Effective:
+
+PHY 190—Careers in Physics (1) Seminar—2 hours. Restricted to Physics and Applied Physics majors only. Overview of important research areas in physics, discussions of research opportunities and internships, strategies for graduate school and industrial careers, the fellowship and assistantship selection process, preparation of resumes, personal statements, and letters of recommendation. (P/NP grading only.) GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 194HA—Special Study for Honors Students (4) Independent Study—12 hours. Prerequisite(s): Consent of Instructor. Open only to Physics and Applied Physics majors who satisfy the College of Letters and Science requirements for entrance into the Honors Program. Independent research project at a level significantly beyond that defined by the normal physics curriculum. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 194HB—Special Study for Honors Students (4) Independent Study—12 hours. Prerequisite(s): Consent of Instructor. Open only to Physics and Applied Physics majors who satisfy the College of Letters and Science requirements for entrance into the Honors Program. Independent research project at a level significantly beyond that defined by the normal physics curriculum. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 195—Senior Thesis (5) Independent Study—15 hours. Prerequisite(s): Consent of Instructor. Open only to Physics and Applied Physics majors with senior standing. Preparation of a senior thesis on a topic selected by the student with approval of the department. May be repeated for a total of 15 units. May be repeated up to 15 unit(s). GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 197T—Tutoring in Physics and Astronomy (1-5) Tutorial. Tutoring of students in lower division courses. Leading of small voluntary discussion groups affiliated with one of the department's regular courses. Weekly meeting with instructor (P/NP grading only.) GE credit: SE. Effective: 2004 Spring Quarter.
+
+PHY 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+PHY 199—Special Study for Advanced Undergraduates (1-5) Variable. June 2012: GE2 Topical Breadth updated per Davis Division of the Academic Senate May 18th announcement of an administrative correction “To allow Topical Breadth designations of GE3 to apply to GE2.” (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 200A—Theory of Mechanics and Electromagnetics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 204A (can be concurrent); PHY 104B; PHY 105B; PHY 110C; Or equivalent to PHY 110C; PHY 204A required concurrently. Theoretical approaches in classical mechanics including the use of generalized coordinates and virtual work; variational calculus; Lagrange equations; symmetries, conservation laws, and Noether theorem; Lagrangian density; Hamilton formalism; canonical transformations; Poisson brackets; and Hamilton-Jacobi equations. Effective: 1997 Winter Quarter.
+
+PHY 200B—Theory of Mechnics and Electromagnetics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 200A; PHY 204B (can be concurrent); PHY 204B concurrently. Theoretical approaches in electromagnetics including static electromagnetic fields; Maxwell's equations; plane waves in various media; magnetohydrodynamics; diffraction theory; radiating systems; and special relativity. Effective:
+
+PHY 200C—Theory of Mechanics and Electromagnetics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 200A; PHY 204B (can be concurrent); PHY 204B concurrently. Theoretical approaches in electromagnetics including static electromagnetic fields; Maxwell's equations; plane waves in various media; magnetohydrodynamics; diffraction theory; radiating systems; and special relativity. Effective:
+
+PHY 204A—Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A; Or the equivalent. Linear vector spaces, operators and their spectral analysis, complete sets of functions, complex variables, functional analysis, Greens functions, calculus of variations, introduction to numerical analysis. Effective: 2016 Spring Quarter.
+
+PHY 204B—Methods of Mathematical Physics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 104A; PHY 104B; Or the equivalent. Linear vector spaces, operators and their spectral analysis, complete sets of functions, complex variables, functional analysis, Green's functions, calculus of variations, introduction to numerical analysis. Effective: 1997 Winter Quarter.
+
+PHY 210—Computational Physics (3) Lecture—3 hours. Prerequisite(s): Knowledge of Fortran or C. Analytic techniques to solve differential equations and eignevalue problems. Physics content of course will be self-contained, and adjusted according to background of students. Effective: 1999 Spring Quarter.
+
+PHY 215A—Quantum Mechanics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 115B; Or the equivalent. Formal development and interpretation of non-relativistic quantum mechanics; its application to atomic, nuclear, molecular, and solid-state problems; brief introduction to relativistic quantum mechanics and the Dirac equation. Effective: 1997 Winter Quarter.
+
+PHY 215B—Quantum Mechanics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 115B; Or the equivalent. Formal development and interpretation of non-relativistic quantum mechanics; its application to atomic, nuclear, molecular, and solid-state problems; brief introduction to relativistic quantum mechanics and the Dirac equation. Effective: 1997 Winter Quarter.
+
+PHY 215C—Quantum Mechanics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 115B; Or the equivalent. Formal development and interpretation of non-relativistic quantum mechanics; its application to atomic, nuclear, molecular, and solid-state problems; brief introduction to relativistic quantum mechanics and the Dirac equation. Effective: 1997 Winter Quarter.
+
+PHY 219A—Statistical Mechanics (4) Extensive Problem Solving—1 hour; Lecture—3 hours. Prerequisite(s): PHY 215B; Or equivalent. Foundations of thermodynamics and classical and quantum statistical mechanics with simple applications to properties of solids, real gases, nuclear matter, etc. and a brief introduction to phase transitions. Effective: 2002 Winter Quarter.
+
+PHY 219B—Statistical Mechanics (4) Extensive Problem Solving—1 hour; Lecture—3 hours. Prerequisite(s): PHY 219A Further applications of thermodynamics and classical and quantum statistical mechanics. The modern theory of fluctuations about the equilibrium state, phase transitions and critical phenomena. Effective: 2002 Winter Quarter.
+
+PHY 223A—Group Theoretical Methods of Physics-Condensed Matter (3) Lecture—3 hours. Prerequisite(s): PHY 215A; PHY 215B; PHY 215C (can be concurrent); or Consent of Instructor. PHY 215C required concurrently. Theory of groups and their representations with applications in condensed matter. Effective: 1997 Winter Quarter.
+
+PHY 223B—Group Theoretical Methods of Physics-Elementary Particles (3) Lecture—3 hours. Prerequisite(s): PHY 215A; PHY 215B; PHY 215C (can be concurrent); or Consent of Instructor. PHY 215C required concurrently. Theory of groups and their representations with applications in elementary particle physics. Effective: 1997 Winter Quarter.
+
+PHY 224A—Nuclear Physics (3) Lecture—3 hours. Prerequisite(s): PHY 215B Comprehensive study of the nucleon-nucleon interaction including the deuteron, nucleon-nucleon scattering, polarization, determination of real parameters of Smatrix, and related topics. Effective: 1997 Winter Quarter.
+
+PHY 224B—Nuclear Physics (3) Lecture—3 hours. Prerequisite(s): PHY 224A Study of nuclear models, including shell model, collective model, unified model. Energy level spectra, static momenta, and electromagnetic transition rates. Effective: 1997 Winter Quarter.
+
+PHY 224C—Nuclear Physics (3) Lecture—3 hours. Prerequisite(s): PHY 224B Study of nuclear scattering and reactions including the optical model and direct interactions. Beta decay and an introduction to weak interactions. Effective: 1997 Winter Quarter.
+
+PHY 229A—Advanced Nuclear Theory (3) Lecture—3 hours. Prerequisite(s): PHY 224C Advanced topics in nuclear theory; theory of quantum-mechanical scattering processes. Exact formal theory and models for two-body scattering. Effective: 1997 Winter Quarter.
+
+PHY 229B—Advanced Nuclear Theory (3) Lecture—3 hours. Prerequisite(s): PHY 229A Advanced topics in nuclear theory; theory of quantum-mechanical scattering processes. Exact formal theory and models for three-body scattering. Effective: 1997 Winter Quarter.
+
+PHY 230A—Quantum Theory of Fields (3) Lecture—3 hours. Prerequisite(s): PHY 215C Relativistic quantum mechanics of particles; techniques and applications of second quantization; Feynman diagrams; renormalization. Effective:
+
+PHY 230B—Quantum Theory of Fields (3) Lecture—3 hours. Prerequisite(s): PHY 230A Continuation of 230A, with selected advanced topics, such as S-matrix theory, dispersion relations, axiomatic formulations. Effective: 1997 Winter
+
+PHY 230C—Quantum Theory of Fields (3) Lecture—3 hours. Prerequisite(s): PHY 230A; PHY 230B; or Consent of Instructor. Renormalization theory and applications, including dimensional regularization, Ward identities, renormalization group equations, coupling constant unification, and precision electroweak calculations. May be repeated for credit with consent of instructor. Effective: 2007 Winter Quarter.
+
+PHY 240A— Condensed Matter Physics A (3) Lecture—3 hours. Prerequisite(s): PHY 215C; PHY 219A; PHY 140A and PHY 140B or equivalent recommended. Topics in condensed matter physics: Crystal structure; one-electron theory; transport and optical properties of semiconductors; phonons, electron-phonon scattering. Effective:
+
+PHY 240B—Condensed Matter Physics B (3) Lecture—3 hours. Prerequisite(s): PHY 240A Topics in condensed matter physics: transport and optical properties of metals and quantum structures; experimental measurement the Fermi surface and of phonon spectra. Effective: 2008 Spring Quarter.
+
+PHY 240C—Condensed Matter Physics (3) Lecture—3 hours. Prerequisite(s): PHY 240A; PHY 240B Review of second quantization. Interacting electron gas, electron-phonon interaction and effects, including instabilities of electronic systems. Topics in the theory of superconductivity and magnetism. Effective: 2005 Spring Quarter.
+
+PHY 241—Advanced Topics in Magnetism (3) Lecture—3 hours. Prerequisite(s): PHY 240A; PHY 240B; PHY 240C; PHY 240D; or Consent of Instructor. Topics chosen from areas of current research interest. Effective: 1997 Winter Quarter.
+
+PHY 242—Advanced Topics in Superconductivity (3) Lecture—3 hours. Prerequisite(s): PHY 240A; PHY 240B; PHY 240C; PHY 240D; or Consent of Instructor. Topics chosen from areas of current research interest. Effective: 1997 Winter Quarter.
+
+PHY 243A—Surface Physics of Materials (3) Lecture—3 hours. Prerequisite(s): PHY 140A; PHY 140B; PHY 115A; PHY 115B; Or the equivalent to any; PHY 215A, PHY 240A, or the equivalents recommended. Experimental and theoretical fundamentals of surface and interface physics and chemistry, including electronic and magnetic structure, thermodynamics, adsorption kinetics, epitaxial growth, and a discussion of various spectroscopic and structural probes based on photons, electrons, ions, and scanning probes. Effective: 1999 Winter Quarter.
+
+PHY 243B—Surface Physics of Materials (3) Lecture—3 hours. Prerequisite(s): PHY 140A; PHY 140B; PHY 115A; PHY 115B; Or the equivalent to any; PHY 215A, PHY 240A, or the equivalents recommended. Experimental and theoretical fundamentals of surface and interface physics and chemistry, including electronic and magnetic structure, thermodynamics, adsorption kinetics, epitaxial growth, and a discussion of various spectroscopic and structural probes based on photons, electrons, ions, and scanning probes. Effective: 1999 Winter Quarter.
+
+PHY 243C—Surface Physics of Materials (3) Lecture—3 hours. Prerequisite(s): PHY 140A; PHY 140B; PHY 115A; PHY 115B; Or the equivalent to any; PHY 215A, PHY 240A, or equivalents recommended. Experimental and theoretical fundamentals of surface and interface physics and chemistry, including electronic and magnetic structure, thermodynamics, adsorption kinetics, epitaxial growth, and a discussion of various spectroscopic and structural probes based on photons, electrons, ions, and scanning probes. Effective: 2000 Spring Quarter.
+
+PHY 245A—High-Energy Physics (3) Lecture—3 hours. Prerequisite(s): PHY 230A Phenomenology and systematics of strong, electromagnetic, and weak interactions of hadrons and leptons; determination of quantum numbers; quarks and quarkonia; deep inelastic scattering; the quark parton model; experiments at hadron colliders and electron-positron colliders. Effective: 1997 Winter Quarter.
+
+PHY 245B—High-Energy Physics (3) Lecture—3 hours. Prerequisite(s): PHY 245A Electroweak interactions; phenomenology of the Standard Model of SU(2)LxU(1); weak interaction experiments; properties of and experiments with W and Z vector bosons; Glashow-Weinberg-Salam model and the Higgs boson; introduction to supersymmetry and other speculations. Effective: 1997 Winter Quarter.
+
+PHY 245C—Collider Physics (3) Lecture—3 hours. Prerequisite(s): PHY 245A; PHY 252B (can be concurrent); or Consent of Instructor. PHY 252B taken previously or concurrently. Collider physics. Topics include quark and gluon distribution functions and the computation of cross sections; Large Hadron Collider and International Linear Collider phenomenology; collider and detector characteristics; extracting models from data; software tools for analyzing experimental data. May be repeated for credit with consent of instructor. Effective: 2008 Spring Quarter.
+
+PHY 246—Supersymmetry: Theory and Phenomenology (3) Lecture—3 hours. Prerequisite(s): PHY 230A, PHY 230B, PHY 245A, PHY 245B recommended, or consent of instructor. Construction of supersymmetric models of particle physics; superfields; supersymmetry breaking the minimal supersymmetric standard model; supergravity. Collider phenomenology of supersymmetry. Dark matter phenomenology. Effective: 1998 Spring Quarter.
+
+PHY 246A—Supersymmetry: Theory and Phenomenology (3) Lecture—3 hours. Prerequisite(s): PHY 230A; PHY 230B; PHY 245A, PHY 245B recommended or consent of instructor. Construction of supersymmetric models of particle physics; superfields; supersymmetry breaking the minimal supersymmetric standard model; supergravity. Collider phenomenology of supersymmetry. Dark matter phenomenology. Not offered every year. Effective:
+
+PHY 246B—Advanced Supersymmetry (3) Lecture—3 hours. Prerequisite(s): PHY 246A Advanced topics in supersymmetry. Topics include holomorphy, the Affleck-Dine-Seiberg superpotential, Seiberg duality for SUSY QCD, dynamical SUSY breaking, Seiberg-Witten theory, superconformal field theories, supergravity, anomaly and gaugino mediation, and the AdS/CFT correspondence. Effective: 2007 Fall Quarter.
+
+PHY 250—Special Topics in Physics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Topic varies. May be repeated for credit. Effective: 1997 Fall Quarter.
+
+PHY 252A—Techniques of Experimental Physics (3) Lecture—3 hours. Introduction to techniques and methods of designing and executing experiments. Problems and examples from condensed matter research will be utilized. Effective: 1997 Winter
+
+PHY 252B—Techniques of Experimental Physics (3) Lecture—3 hours. Introduction to techniques and methods of designing and executing experiments. Problems and examples from nuclear and particle research will be utilized. Effective: 1997 Winter
+
+PHY 252C—Statistics and Data Analysis for Particle Physics (3) Lecture—3 hours. Introduction to statistical data analysis methods in particle physics. Theoretical lectures combined with practical computer laboratory work. Effective: 2007 Spring Quarter.
+
+PHY 253—Signals and Noise in Physics (3) Lecture—3 hours. Techniques for extracting signals from noise, systematic error. Effective: 2007
+
+PHY 256A—Physics of Information (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Advanced undergraduate or introductory graduate differential equations, applied linear algebra, and probability theory; e.g., Mathematics 119A/B or 207A, 167 or 226A, and 135A/B or 235A, respectively; or in Physics 104A/C or 204A/B. Class size limited to 30 students. Nonlinear dynamics, deterministic chaos, bifurcations, pattern formation, symbolic dynamics, measurement theory, stochastic processes, elementary information theory, information in complex systems, computational laboratory. Effective: 2017 Spring Quarter.
+
+PHY 256B—Physics of Computation (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 256A; Consent of Instructor. Advanced undergraduate or introductory graduate differential equations, applied linear algebra, and probability theory; e.g., Mathematics 119A/B or 207A, 167 or 226A, and 135A/B or 235A, respectively; or in Physics 104A/C or 204A/B. Class size limited to 30 students. Structural complexity, computational mechanics, information measures, causal inference, applications to complex materials, quantum dynamics, and nonequilibrium thermodynamics, computational laboratory. Effective: 2017 Spring Quarter.
+
+PHY 260—Introduction to General Relativity (3) Lecture—3 hours. Prerequisite(s): PHY 200A; PHY 200B An introduction to general relativity. Differential geometry and curved spacetime; the Einstein field equations; gravitational fields of stars and black holes; weak fields and gravitational radiation; experimental tests; Big Bang cosmology. Effective: 1999 Spring Quarter.
+
+PHY 262—Early Universe Cosmology (3) Lecture—3 hours. Prerequisite(s): Second year standing in Physics Graduate Program or consent of instructor. Introduction to early universe cosmology: the Big Bang, inflation, primordial nucleosynthesis, dark matter, dark energy, and other topics of current interest Effective: 2005
+
+PHY 263—Cosmic Structure Formation (3) Lecture—3 hours. Prerequisite(s): PHY 260 Growth of structure from small density inhomogeneities in the early universe to the diverse structures observable today. Use of observable properties (cosmic microwave background, gravitational lensing, peculiar velocities, number density, etc.) to constrain models of structure formation and fundamental physics. Effective: 2005 Spring Quarter.
+
+PHY 265—High Energy Astrophysics and Radiative Processes (3) Lecture—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Survey course covering galactic and extragalactic X-ray and gamma-ray astronomy, radiative processes, and techniques of high-energy astrophysics. Effective: 2004 Fall Quarter.
+
+PHY 266—Data Analysis for Astrophysics (3) Lecture—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Survey course covering measurement and signal analysis techniques for astrophysics and cosmology throughout the electromagnetic spectrum. Effective: 2005 Winter Quarter.
+
+PHY 267—Observational Extragalactic Astronomy & Cosmology (3) Lecture—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Survey course covering current areas of research on extragalactic objects, their physical properties, origin, evolution, and distribution in space. Effective: 2005 Spring Quarter.
+
+PHY 270—Current Topics in Physics Research (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Reading and discussion to help physics graduate students develop and maintain familiarity with the current and past literature in their immediate field of research and related areas. May be repeated for credit. (S/U grading only.) Effective: 2013 Fall Quarter.
+
+PHY 285—Careers in Physics (1) Seminar—1.5 hours. Prerequisite(s): Graduate standing in Physics. Designed to give Physics graduate students an in-depth appreciation of career opportunities with a graduate degree in physics. Professional physicists, mainly from outside academia, will give seminars describing both research and career insights. May be repeated for credit. (S/U grading only.) Effective: 2005
+
+PHY 290—Seminar in Physics (1) Seminar. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in physics. Topics will vary weekly and will cover a broad spectrum of the active fields of physics research at a level accessible to all physics graduate students. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 291—Seminar in Nuclear Physics (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in nuclear physics. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 292A—Seminar in Elementary Particle Physics (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in elementary particle physics. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2008 Fall
+
+PHY 292B—High Energy Frontier Initiative And Cosmology Theory Seminar (1) Seminar—1 hour. Prerequisite(s): Physics graduate students. May be repeated up to 5 time(s). (S/U grading only.) Effective: 2007 Fall Quarter.
+
+PHY 293—Seminar in Condensed Matter Physics (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in condensed matter physics. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter
+
+PHY 294—Seminar in Cosmology (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in Cosmology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1999 Winter Quarter.
+
+PHY 295—Introduction to Departmental Research (1) Seminar—1 hour. Seminar to introduce first- and second-year physics graduate students to the fields of specialty and research of the Physics staff. (S/U grading only.) Effective: 1997 Winter
+
+PHY 297—Research on the Teaching and Learning of Physics (3) Seminar—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Discussion and analysis of recent research in how students construct understanding of physics and other science concepts and the implications of this research for instruction. Effective: 1997 Winter Quarter.
+
+PHY 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+PHY 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 371—Teaching in an Active-Engagement Physics Discussion/Lab Setting (1) Lecture/Discussion—1 hour. Prerequisite(s): PHY 009D; Or equivalent. Open to graduate students only. Analysis of recent research on science/physics teaching and learning and its implications for teaching labs, discussions, and discussion/labs with an emphasis on differences between conventional and active-engagement instructional settings. The appropriate role of the instructor in specific instructional settings. May be repeated up to 2 time(s). Effective: 2008 Summer Session 1.
+
+PHY 390—Methods of Teaching Physics (1) Lecture/Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing in Physics. Practical experience in methods and problems related to teaching physics laboratories at the university level, including discussion of teaching techniques, analysis of quizzes and laboratory reports and related topics. Required of all Physics Teaching Assistants. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 396—Teaching Assistant Training Practicum (1-4) Variable. Prerequisite(s): Graduate standing. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+PHY 001A—Principles of Physics (3) Lecture—3 hours. Prerequisite(s): Trigonometry or consent of instructor. Mechanics. Introduction to general principles and analytical methods used in physics with emphasis on applications in applied agricultural and biological sciences and in physical education. Not open to students who have received credit for PHY 007B or PHY 009A. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 001B—Principles of Physics (3) Lecture—3 hours. Prerequisite(s): PHY 001A or PHY 009A Not open for credit to students who have received credit for course 7A, 7B, 7C, 9B, 9C, or 9D. Continuation of course 1A. Heat, optics, electricity, modern physics. Not open for credit to students who have received credit for course 7A, 7B, 7C, 9B, 9C, or 9D. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 007A—General Physics (4) Discussion/Laboratory—5 hours; Lecture—1.5 hours. Prerequisite(s): MAT 016B (can be concurrent) or MAT 017B (can be concurrent) or MAT 021B (can be concurrent); Completion or concurrent enrollment in MAT 016B or MAT 017B or MAT 021B. Introduction to general principles and analytical methods used in physics for students majoring in a biological science. Only two units of credit allowed to students who have completed PHY 001B or PHY 009B. GE credit: SE. Effective:
+
+PHY 007B—General Physics (4) Discussion/Laboratory—5 hours; Lecture—1.5 hours. Prerequisite(s): PHY 007A Continuation of course 7A. Only two units of credit allowed to students who have completed course 9A, or 1A. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 007C—General Physics (4) Discussion/Laboratory—5 hours; Lecture—1.5 hours. Prerequisite(s): PHY 007B Continuation of course 7B. Only two units of credit allowed to students who have completed course 9C or 5C. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 009A—Classical Physics (5) Review all entries Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): MAT 021B; MAT 021M Introduction to general principles and analytical methods used in physics for physical science and engineering majors. Classical mechanics. Only 2 units of credit for students who have completed 1A or 7B. Not open for credit to students who have completed course 9HA. GE credit: SE. Effective: 2018 Winter Quarter.
+
+PHY 009A—Classical Physics (5) Review all entries Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): MAT 021B or MAT 021M; or Consent of Instructor. Introduction to general principles and analytical methods used in physics for physical science and engineering majors. Classical mechanics. Only 2 units of credit for students who have completed PHY 001A or PHY 007B; not open for credit to students who have completed course PHY 009HA. GE credit: SE. Effective: 2018 Summer Session 1.
+
+PHY 009B—Classical Physics (5) Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): PHY 009A; MAT 021C; MAT 021D (can be concurrent) Continuation of course 9A. Fluid mechanics, thermodynamics, wave phenomena, optics. Only two units of credit for students who have completed PHY 007A; not open for credit to students who have completed PHY 009HB, PHY 009HC, or ENG 105. GE credit: SE. Effective: 2004 Fall Quarter.
+
+PHY 009C—Classical Physics (5) Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): PHY 009B; MAT 021D; MAT 022A (can be concurrent) Electricity and magnetism including circuits and Maxwell's equations. Only 3 units of credit for students who have completed PHY 007C; not open for credit to students who have completed PHY 009HD. GE credit: SE. Effective: 2005 Winter Quarter.
+
+PHY 009D—Modern Physics (4) Discussion—1.5 hours; Lecture—3 hours. Prerequisite(s): PHY 009C; MAT 022A; MAT 022B recommended (may be taken concurrently). Not open for credit to students who have completed course 9HB, 9HC, or 9HE. Introduction to physics concepts developed since 1900. Special relativity, quantum mechanics, atoms, molecules, condensed matter, nuclear and particle physics. Not open for credit to students who have completed course 9HB, 9HC, or 9HE. GE credit: SE. Effective: 1999
+
+PHY 009HA—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): MAT 021B (can be concurrent); or Consent of Instructor. Classical mechanics. Same material as course 9A in greater depth. For students in physical sciences, mathematics, and engineering. Only 2 units of credit for students who have completed PHY 007B; not open for credit to students who have completed PHY 009A. GE credit: SE. Effective: 2003 Fall Quarter.
+
+PHY 009HB—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): (PHY 009HA or PHY 009A); MAT 021C (can be concurrent) Special relativity, thermal physics. Continuation of course 9HA. Only 2 units of credit for students who have completed PHY 007A; not open for credit to students who have completed PHY 009B or PHY 009D. GE credit: SE. Effective: 2004 Winter Quarter.
+
+PHY 009HC—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): PHY 009HB; MAT 021D (can be concurrent) Waves, sound, optics, quantum physics. Continuation of Physics 9HB. Only 2 units of credit for students who have completed PHY 007C; not open for credit to students who have completed PHY 009B or PHY 009D. GE credit: SE. Effective: 2004 Spring Quarter.
+
+PHY 009HD—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): PHY 009HC; MAT 021D Electricity and magnetism. Continuation of Physics 9HC. Not open for credit to students who have completed PHY 009C. GE credit: SE. Effective: 2003 Fall Quarter.
+
+PHY 009HE—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): PHY 009HD; MAT 022B (can be concurrent) Application of quantum mechanics. Not open for credit to students who have completed PHY 009D. GE credit: SE. Effective: 2004 Winter Quarter.
+
+PHY 010—Topics in Physics for Nonscientists (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): High school algebra. Emphasis varies: survey of basic principles or a deeper exploration of some particular branch. Past topics included black holes, space time, and relativity; physics of music; history and philosophy; energy and the environment; and natural phenomena. No units of credit allowed if taken after any other PHY course. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 010C—Physics of California (3) Lecture—3 hours. Atmospheric phenomena common in CA, local weather patterns and microclimes. Applications to CA energy, water, and resource management policies. Physics underlying regional sports in CA. Not open for credit to students who have completed any quarter of PHY 009 or PHY 009H, or any upper division PHY course. GE credit: SE, SL, VL. Effective: 2014 Fall Quarter.
+
+PHY 010CY—Physics of California (3) Discussion—1.5 hours; Web Electronic Discussion—0.5 hours; Web Virtual Lecture—1 hour. Conceptual understanding of the physics underlying regional sports in CA. Focus on skiing, surfing, and scuba diving. Atmospheric phenomena common in CA, local weather patterns and microclimes, applications to CA energy, and water are also discussed. Not open for credit to students who have completed PHY 010C, any quarter of PHY 09A, PHY 009B, PHY 009C, PHY 009D, PHY 009HA, PHY 009HB, PHY 009HC, PHY 009HD, or PHY 009HE, or any upper division PHY course. GE credit: SE, SL, VL. Effective: 2017 Winter Quarter.
+
+PHY 012—Visualization in Science (3) Lecture—3 hours. Production, interpretation, and use of images in physics, astronomy, biology, and chemistry as scientific evidence and for communication of research results. GE credit: SE, SL, VL. Effective: 2017 Winter Quarter.
+
+PHY 030—Fractals, Chaos and Complexity (3) Lecture/Discussion—3 hours. Prerequisite(s): MAT 016A or MAT 021A Modern ideas about the unifying ideas of fractal geometry, chaos and complexity. Basic theory and applications with examples from physics, earth sciences, mathematics, population dynamics, ecology, history, economics, biology, computer science, art and architecture. (Geology 30.) GE credit: QL, SE. Effective: 2010 Winter Quarter.
+
+PHY 049—Supplementary Work in Lower Division Physics (1-3) Variable. Students with partial credit in lower division physics courses may, with consent of instructor, complete the credit under this heading. May be repeated for credit. May be repeated for credit. GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 080—Experimental Techniques (4) Laboratory—5 hours; Lecture—2 hours. Prerequisite(s): PHY 009D or PHY 009HD Open to Physics and Applied Physics majors only. Experimental techniques. Design of circuits. Data analysis, sources of noise, statistical and systematic uncertainties. Light sources, detection, and measurement in basic optical systems. Effective: 2017 Fall Quarter.
+
+PHY 090X—Lower Division Seminar (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Lower division standing. Limited enrollment. Examination of a special topic in Physics through shared readings, discussions, written assignments, or special activities such as laboratory work. May be repeated for credit. GE credit: SE. Effective: 1998 Fall Quarter.
+
+PHY 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Primary for lower division students. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+PHY 102—Computational Laboratory in Physics (1) Laboratory—4 hours. Prerequisite(s): MAT 021D; ECS 030; (PHY 009D or PHY 009HD); PHY 104A (can be concurrent); MAT 22AB; PHY 104A required concurrently. Introduction to computational physics and to the computational resources in the physics department. Preparation for brief programming assignments required in other upper division physics classes. Not open to students who have completed PHY 104B or PHY 105AL. GE credit: SE. Effective: 2008 Summer Session 1.
+
+PHY 104A—Introductory Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): (PHY 009B C- or better, PHY 009C Cor better, PHY 009D C- or better); (MAT 021D C- or better, MAT 022A C- or better, MAT 022B C- or better); or Consent of Instructor. Introduction to the mathematics used in upper-division physics courses, including applications of vector spaces, Fourier analysis, partial differential equations. Effective: 2000 Fall Quarter.
+
+PHY 104B—Computational Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; PHY 105AL; or Consent of Instructor. Introduction to the use of computational techniques to solve the mathematical problems that arise in advanced physics courses, complementing the analytical approaches emphasized in course 104A. GE credit: SE. Effective: 2000 Fall Quarter.
+
+PHY 104C—Intermediate Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; or Consent of Instructor. Applications of complex analysis, conditional probability, integral transformations and other advanced topics. Effective: 2000 Fall Quarter.
+
+PHY 105A—Analytical Mechanics (4) Lecture—3 hours. Prerequisite(s): (PHY 009B C or better, PHY 009C C or better, PHY 009D C or better); (MAT 021D C or better, MAT 022A C or better, MAT 022B C or better); Or consent of department for any of the courses. Principles and applications of Newtonian mechanics; introduction to Lagrange’s and Hamilton’s equations GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 105B—Analytical Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 104A C or better; PHY 105A C or better; Or consent of department for any of the courses. Principles and applications of Newtonian mechanics; introduction to Lagrange’s and Hamilton’s equations GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 105C—Continuum Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; PHY 105A C- or better; or Consent of Instructor. The continuum hypothesis and limitations, tensors, isotropic constitutive equations, and wave propagation. Applications such as elastic solids,heat flow, aerodynamics, and ocean waves. GE credit: SE. Effective: 2006 Spring Quarter.
+
+PHY 108—Optics (3) Lecture—3 hours. Prerequisite(s): ((PHY 009A, PHY 009B, PHY 009C, PHY 009D) or (PHY 007A, PHY 007B, PHY 007C)); (MAT 021A, MAT 021B, MAT 021C, MAT 021D); or Consent of Instructor. The phenomena of diffraction, interference, and polarization of light, with applications to current problems in astrophysics, material science, and atmospheric science. Study of modern optical instrumentation. Open to non-majors. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 108L—Optics Laboratory (1) Laboratory—3 hours. Prerequisite(s): PHY 108 (can be concurrent); PHY 108 required concurrently. The laboratory will consist of one major project pursued throughout the quarter, based on modern applications of optical techniques. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 110A—Electricity and Magnetism (4) Lecture—3 hours. Prerequisite(s): PHY 009B C- or better; PHY 009C C- or better; PHY 009D C- or better; MAT 021D C- or better; MAT 022A C- or better; MAT 022B C- or better; PHY 104A; PHY 105A; Or consent of department. Theory of electrostatics, electromagnetism, Maxwell's equations, electromagnetic waves. GE credit: SE. Effective: 2018 Winter Quarter.
+
+PHY 110B—Electricity and Magnetism (4) Lecture—3 hours. Prerequisite(s): PHY 110A C- or better; PHY 104A C- or better; Or consent of department. Theory of electrostatics, electromagnetism, Maxwell's equations, electromagnetic waves. GE credit: SE. Effective: 2010 Winter Quarter.
+
+PHY 110C—Electricity and Magnetism (4) Lecture—3 hours. Prerequisite(s): PHY 110B C- or better; Or consent of department. Theory of electrostatics, electromagnetism, Maxwell's equations, electromagnetic waves. GE credit: SE. Effective: 2010 Winter Quarter.
+
+PHY 112—Thermodynamics and Statistical Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 115A; Or the equivalent. Introduction to classical and quantum statistical mechanics and their connections with thermodynamics. The theory is developed for the ideal gas model and simple magnetic models and then extended to studies of solids, quantum fluids, and chemical equilibria. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 115A—Foundation of Quantum Mechanics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; PHY 105A Cor better; Or consent of department. Introduction to the methods of quantum mechanics with applications to atomic, molecular, solid state, nuclear and elementary particle physics. Extensive problem solving. GE credit: SE. Effective: 2007 Winter Quarter.
+
+PHY 115B—Applications of Quantum Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; Or consent of department. Angular momentum and spin; hydrogen atom and atomic spectra; perturbation theory; scattering theory. GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 116A—Electronic Instrumentation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): PHY 009C; MAT 022B; or Consent of Instructor. Experimental and theoretical study of important analog electronic circuits. Linear circuits, transmission lines, input impedance, feedback, amplifiers, oscillators, noise. GE credit: SE, VL. Effective: 2008 Fall Quarter.
+
+PHY 116B—Electronic Instrumentation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): PHY 009C or PHY 009HD; or Consent of Instructor. Continuation of course 116A. Introduction to the use of digital electronics and microcomputers in experimental physics. Nonlinear electronics, integrated circuits, analog-to-digital and digital-to-analog converters, transducers, actuators. GE credit: SE. Effective: 2008 Spring
+
+PHY 116C—Introduction to Computer-Based Experiments in Physics (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (PHY 009D or PHY 009HD); PHY 116B; MAT 022B; or Consent of Instructor. Introduction to techniques for making physical measurements using computer-based instrumentation. GE credit: SE, WE. Effective: 2004 Spring Quarter.
+
+PHY 122A—Advanced Laboratory in Condensed Matter Physics (4) Laboratory—8 hours. Prerequisite(s): PHY 104A; PHY 105A; PHY 110B; PHY 115A; PHY 112 (can be concurrent); Or consent of the department. Registration by Permission to Add (PTA) number only; priority given to graduating PHY and APP majors. Experimental techniques and measurements in solid-state physics. Student performs three to six experiments depending on difficulty. Individual work is stressed. Thorough write-ups of the experiments are required. GE credit: SE, WE. Effective:
+
+PHY 122B—Advanced Laboratory in Particle Physics (4) Laboratory—8 hours. Prerequisite(s): PHY 104A; PHY 105A; PHY 110B; PHY 115A; PHY 112 (can be concurrent); Or consent of the department. Registration by Permission to Add (PTA) number only; priority given to graduating PHY and APP majors. Experimental techniques and measurements in nuclear and particle physics. Students perform three to six experiments depending on difficulty. Individual work is stressed. Thorough write-ups of the experiments are required. GE credit: SE, WE. Effective: 2018 Winter Quarter.
+
+PHY 123—Signals and Noise in Physics (4) Lecture—3 hours; Project (Term Project)—1 hour. Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 104A; or Consent of Instructor. Not open to students who have taken this course previously as course 198. Techniques of measurement and analysis designed to avoid systematic error and maximize signal/noise ratio. Illustrative examples of optimal filters ranging from condensed matter to cosmology. GE credit: SE. Effective: 2007 Winter Quarter.
+
+PHY 129A—Introduction to Nuclear Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Survey of basic nuclear properties and concepts requiring introductory knowledge of quantum mechanics: nuclear models and forces, radioactive decay and detecting nuclear radiation and nuclear reaction products, alpha, beta and gamma decay. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 129B—Nuclear Physics, Extensions and Applications (4) Lecture—3 hours; Term Paper. Prerequisite(s): PHY 129A Continuation of course 129A. Nuclear reactions, neutrons, fission, fusion accelerators, introduction to meson and particle physics, nuclear astrophysics, and applications of nuclear physics and techniques to mass spectrometry, nuclear medicine, trace element analysis. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 130A—Elementary Particle Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Properties and classification of elementary particles and their interactions. Experimental techniques. Conservation laws and symmetries. Strong, electromagnetic, and weak interactions. Introduction to Feynman calculus. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 130B—Elementary Particle Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Properties and classification of elementary particles and their interactions. Experimental techniques. Conservation laws and symmetries. Strong, electromagnetic, and weak interactions. Introduction to Feynman calculus. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 140A—Introduction to Solid State Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Or equivalent course passed with C- or better. Survey of fundamental ideas in the physics of solids, with selected device applications. Crystal structure, x-ray and neutron diffraction, phonons, simple metals, energy bands and Fermi surfaces, semiconductors, optical properties, magnetism, superconductivity. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 140B—Introduction to Solid State Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Or equivalent course passed with C- or better. Survey of fundamental ideas in the physics of solids, with selected device applications. Crystal structure, x-ray and neutron diffraction, phonons, simple metals, energy bands and Fermi surfaces, semiconductors, optical properties, magnetism, superconductivity. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 150—Special Topics in Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): (PHY 009A, PHY 009B, PHY 009C, PHY 009D) or (PHY 009HA, PHY 009HB, PHY 009HC, PHY 009HD, PHY 009HE); or Consent of Instructor. Topics vary, covering areas of contemporary research in physics. May be repeated for credit. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 151—Stellar Structure and Evolution (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; or Consent of Instructor. The chemical composition, structure, energy sources and evolutionary history of stars, with equal emphasis on both the observational data and theoretical models, including black holes, neutron stars and white dwarfs and the formation of substellar masses. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 152—Galactic Structure and the Interstellar Medium (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 105A (can be concurrent); or Consent of Instructor. PHY 105A required concurrently. The structure, contents, and formation of our Milky Way galaxy, viz. its shape and size, the nature of the interstellar medium, stellar populations, rotation curves, mass determination and evidence of dark matter. GE credit: SE. Effective: 2007 Spring Quarter.
+
+PHY 153—Extragalactic Astrophysics (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 104A; PHY 105A; or Consent of Instructor. Structure and evolution of galaxies and clusters of galaxies, including distance and mass determination, galaxy types and environments, active galactic nuclei and quasars, gravitational lensing and dark matter, global cosmological properties. Not open to students who have taken PHY 127. GE credit: SE. Effective: 2007 Winter
+
+PHY 154—Astrophysical Applications of Physics (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 105A; PHY 105B; PHY 110B (can be concurrent); PHY 115A (can be concurrent); PHY 112; PHY 112 or consent of instructor; PHY 110B and 115A required concurrently. Not open to students who have taken this course previously as course 198. Applications of classical and quantum mechanics, thermodynamics, statistical mechanics, and electricity and magnetism to astrophysical settings such as the Big Bang, degenerate white dwarf and neutron stars, and solar neutrinos. GE credit: SE. Effective: 2007
+
+PHY 155—General Relativity (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 104A; PHY 105A; PHY 105B; PHY 110A; PHY 105B and PHY 110A or consent of instructor. Definition of the mathematical frame work for the description of the gravitational field, introduction of the dynamical equations of Einstein governing its evolution and review of the key solutions, including black holes and expanding universes. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 156—Introduction to Cosmology (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 105A (can be concurrent); or Consent of Instructor. PHY 105A required concurrently. Contemporary knowledge regarding the origin of the universe, including the Big Bang and nucleosynthesis, microwave background radiation, formation of cosmic structure, cosmic inflation, cosmic acceleration and dark energy. Not open to students who have completed PHY 126. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 157—Astronomy Instrumentation and Data Analysis Laboratory (4) Laboratory—8 hours. Prerequisite(s): PHY 104A; PHY 105A; PHY 110A; PHY 115A (can be concurrent); PHY 110B (can be concurrent); and Consent of Instructor. Registration by Permission to Add (PTA) number only; priority given to graduating PHY astrophysics emphasis seniors. Experimental techniques, data acquisition and analysis involving laboratory astrophysics plus stellar, nebular and galaxy digital imaging, photometry and/or spectroscopy. Students perform three experiments. Individual work stressed. Minimum 10-15 page journal style articles of two experiments are required. GE credit: SE, WE. Effective: 2018 Winter Quarter.
+
+PHY 160—Environmental Physics and Society (3) Lecture—3 hours. Prerequisite(s): (PHY 009D or PHY 007C); (PHY 010 or PHY 001B); MAT 016B; Or the equivalent. Impact of humankind on the environment will be discussed from the point of view of the physical sciences. Calculations based on physical principles will be made, and the resulting policy implications will be considered. (Engineering 160.) GE credit: SE, SL. Effective:
+
+PHY 185—Alumni Seminar Series (1) Seminar—1 hour. Weekly guest speakers (usually a physics alumnus or alumna) tell students about their careers. Speakers use their experience to give students valuable perspectives on life after a degree in physics. May be repeated up to 2 time(s). (P/NP grading only.) GE credit: SE. Effective:
+
+PHY 190—Careers in Physics (1) Seminar—2 hours. Restricted to Physics and Applied Physics majors only. Overview of important research areas in physics, discussions of research opportunities and internships, strategies for graduate school and industrial careers, the fellowship and assistantship selection process, preparation of resumes, personal statements, and letters of recommendation. (P/NP grading only.) GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 194HA—Special Study for Honors Students (4) Independent Study—12 hours. Prerequisite(s): Consent of Instructor. Open only to Physics and Applied Physics majors who satisfy the College of Letters and Science requirements for entrance into the Honors Program. Independent research project at a level significantly beyond that defined by the normal physics curriculum. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 194HB—Special Study for Honors Students (4) Independent Study—12 hours. Prerequisite(s): Consent of Instructor. Open only to Physics and Applied Physics majors who satisfy the College of Letters and Science requirements for entrance into the Honors Program. Independent research project at a level significantly beyond that defined by the normal physics curriculum. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 195—Senior Thesis (5) Independent Study—15 hours. Prerequisite(s): Consent of Instructor. Open only to Physics and Applied Physics majors with senior standing. Preparation of a senior thesis on a topic selected by the student with approval of the department. May be repeated for a total of 15 units. May be repeated up to 15 unit(s). GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 197T—Tutoring in Physics and Astronomy (1-5) Tutorial. Tutoring of students in lower division courses. Leading of small voluntary discussion groups affiliated with one of the department's regular courses. Weekly meeting with instructor (P/NP grading only.) GE credit: SE. Effective: 2004 Spring Quarter.
+
+PHY 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+PHY 199—Special Study for Advanced Undergraduates (1-5) Variable. June 2012: GE2 Topical Breadth updated per Davis Division of the Academic Senate May 18th announcement of an administrative correction “To allow Topical Breadth designations of GE3 to apply to GE2.” (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 200A—Theory of Mechanics and Electromagnetics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 204A (can be concurrent); PHY 104B; PHY 105B; PHY 110C; Or equivalent to PHY 110C; PHY 204A required concurrently. Theoretical approaches in classical mechanics including the use of generalized coordinates and virtual work; variational calculus; Lagrange equations; symmetries, conservation laws, and Noether theorem; Lagrangian density; Hamilton formalism; canonical transformations; Poisson brackets; and Hamilton-Jacobi equations. Effective: 1997 Winter Quarter.
+
+PHY 200B—Theory of Mechnics and Electromagnetics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 200A; PHY 204B (can be concurrent); PHY 204B concurrently. Theoretical approaches in electromagnetics including static electromagnetic fields; Maxwell's equations; plane waves in various media; magnetohydrodynamics; diffraction theory; radiating systems; and special relativity. Effective:
+
+PHY 200C—Theory of Mechanics and Electromagnetics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 200A; PHY 204B (can be concurrent); PHY 204B concurrently. Theoretical approaches in electromagnetics including static electromagnetic fields; Maxwell's equations; plane waves in various media; magnetohydrodynamics; diffraction theory; radiating systems; and special relativity. Effective:
+
+PHY 204A—Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A; Or the equivalent. Linear vector spaces, operators and their spectral analysis, complete sets of functions, complex variables, functional analysis, Greens functions, calculus of variations, introduction to numerical analysis. Effective: 2016 Spring Quarter.
+
+PHY 204B—Methods of Mathematical Physics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 104A; PHY 104B; Or the equivalent. Linear vector spaces, operators and their spectral analysis, complete sets of functions, complex variables, functional analysis, Green's functions, calculus of variations, introduction to numerical analysis. Effective: 1997 Winter Quarter.
+
+PHY 210—Computational Physics (3) Lecture—3 hours. Prerequisite(s): Knowledge of Fortran or C. Analytic techniques to solve differential equations and eignevalue problems. Physics content of course will be self-contained, and adjusted according to background of students. Effective: 1999 Spring Quarter.
+
+PHY 215A—Quantum Mechanics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 115B; Or the equivalent. Formal development and interpretation of non-relativistic quantum mechanics; its application to atomic, nuclear, molecular, and solid-state problems; brief introduction to relativistic quantum mechanics and the Dirac equation. Effective: 1997 Winter Quarter.
+
+PHY 215B—Quantum Mechanics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 115B; Or the equivalent. Formal development and interpretation of non-relativistic quantum mechanics; its application to atomic, nuclear, molecular, and solid-state problems; brief introduction to relativistic quantum mechanics and the Dirac equation. Effective: 1997 Winter Quarter.
+
+PHY 215C—Quantum Mechanics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 115B; Or the equivalent. Formal development and interpretation of non-relativistic quantum mechanics; its application to atomic, nuclear, molecular, and solid-state problems; brief introduction to relativistic quantum mechanics and the Dirac equation. Effective: 1997 Winter Quarter.
+
+PHY 219A—Statistical Mechanics (4) Extensive Problem Solving—1 hour; Lecture—3 hours. Prerequisite(s): PHY 215B; Or equivalent. Foundations of thermodynamics and classical and quantum statistical mechanics with simple applications to properties of solids, real gases, nuclear matter, etc. and a brief introduction to phase transitions. Effective: 2002 Winter Quarter.
+
+PHY 219B—Statistical Mechanics (4) Extensive Problem Solving—1 hour; Lecture—3 hours. Prerequisite(s): PHY 219A Further applications of thermodynamics and classical and quantum statistical mechanics. The modern theory of fluctuations about the equilibrium state, phase transitions and critical phenomena. Effective: 2002 Winter Quarter.
+
+PHY 223A—Group Theoretical Methods of Physics-Condensed Matter (3) Lecture—3 hours. Prerequisite(s): PHY 215A; PHY 215B; PHY 215C (can be concurrent); or Consent of Instructor. PHY 215C required concurrently. Theory of groups and their representations with applications in condensed matter. Effective: 1997 Winter Quarter.
+
+PHY 223B—Group Theoretical Methods of Physics-Elementary Particles (3) Lecture—3 hours. Prerequisite(s): PHY 215A; PHY 215B; PHY 215C (can be concurrent); or Consent of Instructor. PHY 215C required concurrently. Theory of groups and their representations with applications in elementary particle physics. Effective: 1997 Winter Quarter.
+
+PHY 224A—Nuclear Physics (3) Lecture—3 hours. Prerequisite(s): PHY 215B Comprehensive study of the nucleon-nucleon interaction including the deuteron, nucleon-nucleon scattering, polarization, determination of real parameters of Smatrix, and related topics. Effective: 1997 Winter Quarter.
+
+PHY 224B—Nuclear Physics (3) Lecture—3 hours. Prerequisite(s): PHY 224A Study of nuclear models, including shell model, collective model, unified model. Energy level spectra, static momenta, and electromagnetic transition rates. Effective: 1997 Winter Quarter.
+
+PHY 224C—Nuclear Physics (3) Lecture—3 hours. Prerequisite(s): PHY 224B Study of nuclear scattering and reactions including the optical model and direct interactions. Beta decay and an introduction to weak interactions. Effective: 1997 Winter Quarter.
+
+PHY 229A—Advanced Nuclear Theory (3) Lecture—3 hours. Prerequisite(s): PHY 224C Advanced topics in nuclear theory; theory of quantum-mechanical scattering processes. Exact formal theory and models for two-body scattering. Effective: 1997 Winter Quarter.
+
+PHY 229B—Advanced Nuclear Theory (3) Lecture—3 hours. Prerequisite(s): PHY 229A Advanced topics in nuclear theory; theory of quantum-mechanical scattering processes. Exact formal theory and models for three-body scattering. Effective: 1997 Winter Quarter.
+
+PHY 230A—Quantum Theory of Fields (3) Lecture—3 hours. Prerequisite(s): PHY 215C Relativistic quantum mechanics of particles; techniques and applications of second quantization; Feynman diagrams; renormalization. Effective:
+
+PHY 230B—Quantum Theory of Fields (3) Lecture—3 hours. Prerequisite(s): PHY 230A Continuation of 230A, with selected advanced topics, such as S-matrix theory, dispersion relations, axiomatic formulations. Effective: 1997 Winter
+
+PHY 230C—Quantum Theory of Fields (3) Lecture—3 hours. Prerequisite(s): PHY 230A; PHY 230B; or Consent of Instructor. Renormalization theory and applications, including dimensional regularization, Ward identities, renormalization group equations, coupling constant unification, and precision electroweak calculations. May be repeated for credit with consent of instructor. Effective: 2007 Winter Quarter.
+
+PHY 240A— Condensed Matter Physics A (3) Lecture—3 hours. Prerequisite(s): PHY 215C; PHY 219A; PHY 140A and PHY 140B or equivalent recommended. Topics in condensed matter physics: Crystal structure; one-electron theory; transport and optical properties of semiconductors; phonons, electron-phonon scattering. Effective:
+
+PHY 240B—Condensed Matter Physics B (3) Lecture—3 hours. Prerequisite(s): PHY 240A Topics in condensed matter physics: transport and optical properties of metals and quantum structures; experimental measurement the Fermi surface and of phonon spectra. Effective: 2008 Spring Quarter.
+
+PHY 240C—Condensed Matter Physics (3) Lecture—3 hours. Prerequisite(s): PHY 240A; PHY 240B Review of second quantization. Interacting electron gas, electron-phonon interaction and effects, including instabilities of electronic systems. Topics in the theory of superconductivity and magnetism. Effective: 2005 Spring Quarter.
+
+PHY 241—Advanced Topics in Magnetism (3) Lecture—3 hours. Prerequisite(s): PHY 240A; PHY 240B; PHY 240C; PHY 240D; or Consent of Instructor. Topics chosen from areas of current research interest. Effective: 1997 Winter Quarter.
+
+PHY 242—Advanced Topics in Superconductivity (3) Lecture—3 hours. Prerequisite(s): PHY 240A; PHY 240B; PHY 240C; PHY 240D; or Consent of Instructor. Topics chosen from areas of current research interest. Effective: 1997 Winter Quarter.
+
+PHY 243A—Surface Physics of Materials (3) Lecture—3 hours. Prerequisite(s): PHY 140A; PHY 140B; PHY 115A; PHY 115B; Or the equivalent to any; PHY 215A, PHY 240A, or the equivalents recommended. Experimental and theoretical fundamentals of surface and interface physics and chemistry, including electronic and magnetic structure, thermodynamics, adsorption kinetics, epitaxial growth, and a discussion of various spectroscopic and structural probes based on photons, electrons, ions, and scanning probes. Effective: 1999 Winter Quarter.
+
+PHY 243B—Surface Physics of Materials (3) Lecture—3 hours. Prerequisite(s): PHY 140A; PHY 140B; PHY 115A; PHY 115B; Or the equivalent to any; PHY 215A, PHY 240A, or the equivalents recommended. Experimental and theoretical fundamentals of surface and interface physics and chemistry, including electronic and magnetic structure, thermodynamics, adsorption kinetics, epitaxial growth, and a discussion of various spectroscopic and structural probes based on photons, electrons, ions, and scanning probes. Effective: 1999 Winter Quarter.
+
+PHY 243C—Surface Physics of Materials (3) Lecture—3 hours. Prerequisite(s): PHY 140A; PHY 140B; PHY 115A; PHY 115B; Or the equivalent to any; PHY 215A, PHY 240A, or equivalents recommended. Experimental and theoretical fundamentals of surface and interface physics and chemistry, including electronic and magnetic structure, thermodynamics, adsorption kinetics, epitaxial growth, and a discussion of various spectroscopic and structural probes based on photons, electrons, ions, and scanning probes. Effective: 2000 Spring Quarter.
+
+PHY 245A—High-Energy Physics (3) Lecture—3 hours. Prerequisite(s): PHY 230A Phenomenology and systematics of strong, electromagnetic, and weak interactions of hadrons and leptons; determination of quantum numbers; quarks and quarkonia; deep inelastic scattering; the quark parton model; experiments at hadron colliders and electron-positron colliders. Effective: 1997 Winter Quarter.
+
+PHY 245B—High-Energy Physics (3) Lecture—3 hours. Prerequisite(s): PHY 245A Electroweak interactions; phenomenology of the Standard Model of SU(2)LxU(1); weak interaction experiments; properties of and experiments with W and Z vector bosons; Glashow-Weinberg-Salam model and the Higgs boson; introduction to supersymmetry and other speculations. Effective: 1997 Winter Quarter.
+
+PHY 245C—Collider Physics (3) Lecture—3 hours. Prerequisite(s): PHY 245A; PHY 252B (can be concurrent); or Consent of Instructor. PHY 252B taken previously or concurrently. Collider physics. Topics include quark and gluon distribution functions and the computation of cross sections; Large Hadron Collider and International Linear Collider phenomenology; collider and detector characteristics; extracting models from data; software tools for analyzing experimental data. May be repeated for credit with consent of instructor. Effective: 2008 Spring Quarter.
+
+PHY 246—Supersymmetry: Theory and Phenomenology (3) Lecture—3 hours. Prerequisite(s): PHY 230A, PHY 230B, PHY 245A, PHY 245B recommended, or consent of instructor. Construction of supersymmetric models of particle physics; superfields; supersymmetry breaking the minimal supersymmetric standard model; supergravity. Collider phenomenology of supersymmetry. Dark matter phenomenology. Effective: 1998 Spring Quarter.
+
+PHY 246A—Supersymmetry: Theory and Phenomenology (3) Lecture—3 hours. Prerequisite(s): PHY 230A; PHY 230B; PHY 245A, PHY 245B recommended or consent of instructor. Construction of supersymmetric models of particle physics; superfields; supersymmetry breaking the minimal supersymmetric standard model; supergravity. Collider phenomenology of supersymmetry. Dark matter phenomenology. Not offered every year. Effective:
+
+PHY 246B—Advanced Supersymmetry (3) Lecture—3 hours. Prerequisite(s): PHY 246A Advanced topics in supersymmetry. Topics include holomorphy, the Affleck-Dine-Seiberg superpotential, Seiberg duality for SUSY QCD, dynamical SUSY breaking, Seiberg-Witten theory, superconformal field theories, supergravity, anomaly and gaugino mediation, and the AdS/CFT correspondence. Effective: 2007 Fall Quarter.
+
+PHY 250—Special Topics in Physics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Topic varies. May be repeated for credit. Effective: 1997 Fall Quarter.
+
+PHY 252A—Techniques of Experimental Physics (3) Lecture—3 hours. Introduction to techniques and methods of designing and executing experiments. Problems and examples from condensed matter research will be utilized. Effective: 1997 Winter
+
+PHY 252B—Techniques of Experimental Physics (3) Lecture—3 hours. Introduction to techniques and methods of designing and executing experiments. Problems and examples from nuclear and particle research will be utilized. Effective: 1997 Winter
+
+PHY 252C—Statistics and Data Analysis for Particle Physics (3) Lecture—3 hours. Introduction to statistical data analysis methods in particle physics. Theoretical lectures combined with practical computer laboratory work. Effective: 2007 Spring Quarter.
+
+PHY 253—Signals and Noise in Physics (3) Lecture—3 hours. Techniques for extracting signals from noise, systematic error. Effective: 2007
+
+PHY 256A—Physics of Information (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Advanced undergraduate or introductory graduate differential equations, applied linear algebra, and probability theory; e.g., Mathematics 119A/B or 207A, 167 or 226A, and 135A/B or 235A, respectively; or in Physics 104A/C or 204A/B. Class size limited to 30 students. Nonlinear dynamics, deterministic chaos, bifurcations, pattern formation, symbolic dynamics, measurement theory, stochastic processes, elementary information theory, information in complex systems, computational laboratory. Effective: 2017 Spring Quarter.
+
+PHY 256B—Physics of Computation (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 256A; Consent of Instructor. Advanced undergraduate or introductory graduate differential equations, applied linear algebra, and probability theory; e.g., Mathematics 119A/B or 207A, 167 or 226A, and 135A/B or 235A, respectively; or in Physics 104A/C or 204A/B. Class size limited to 30 students. Structural complexity, computational mechanics, information measures, causal inference, applications to complex materials, quantum dynamics, and nonequilibrium thermodynamics, computational laboratory. Effective: 2017 Spring Quarter.
+
+PHY 260—Introduction to General Relativity (3) Lecture—3 hours. Prerequisite(s): PHY 200A; PHY 200B An introduction to general relativity. Differential geometry and curved spacetime; the Einstein field equations; gravitational fields of stars and black holes; weak fields and gravitational radiation; experimental tests; Big Bang cosmology. Effective: 1999 Spring Quarter.
+
+PHY 262—Early Universe Cosmology (3) Lecture—3 hours. Prerequisite(s): Second year standing in Physics Graduate Program or consent of instructor. Introduction to early universe cosmology: the Big Bang, inflation, primordial nucleosynthesis, dark matter, dark energy, and other topics of current interest Effective: 2005
+
+PHY 263—Cosmic Structure Formation (3) Lecture—3 hours. Prerequisite(s): PHY 260 Growth of structure from small density inhomogeneities in the early universe to the diverse structures observable today. Use of observable properties (cosmic microwave background, gravitational lensing, peculiar velocities, number density, etc.) to constrain models of structure formation and fundamental physics. Effective: 2005 Spring Quarter.
+
+PHY 265—High Energy Astrophysics and Radiative Processes (3) Lecture—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Survey course covering galactic and extragalactic X-ray and gamma-ray astronomy, radiative processes, and techniques of high-energy astrophysics. Effective: 2004 Fall Quarter.
+
+PHY 266—Data Analysis for Astrophysics (3) Lecture—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Survey course covering measurement and signal analysis techniques for astrophysics and cosmology throughout the electromagnetic spectrum. Effective: 2005 Winter Quarter.
+
+PHY 267—Observational Extragalactic Astronomy & Cosmology (3) Lecture—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Survey course covering current areas of research on extragalactic objects, their physical properties, origin, evolution, and distribution in space. Effective: 2005 Spring Quarter.
+
+PHY 270—Current Topics in Physics Research (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Reading and discussion to help physics graduate students develop and maintain familiarity with the current and past literature in their immediate field of research and related areas. May be repeated for credit. (S/U grading only.) Effective: 2013 Fall Quarter.
+
+PHY 285—Careers in Physics (1) Seminar—1.5 hours. Prerequisite(s): Graduate standing in Physics. Designed to give Physics graduate students an in-depth appreciation of career opportunities with a graduate degree in physics. Professional physicists, mainly from outside academia, will give seminars describing both research and career insights. May be repeated for credit. (S/U grading only.) Effective: 2005
+
+PHY 290—Seminar in Physics (1) Seminar. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in physics. Topics will vary weekly and will cover a broad spectrum of the active fields of physics research at a level accessible to all physics graduate students. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 291—Seminar in Nuclear Physics (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in nuclear physics. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 292A—Seminar in Elementary Particle Physics (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in elementary particle physics. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2008 Fall
+
+PHY 292B—High Energy Frontier Initiative And Cosmology Theory Seminar (1) Seminar—1 hour. Prerequisite(s): Physics graduate students. May be repeated up to 5 time(s). (S/U grading only.) Effective: 2007 Fall Quarter.
+
+PHY 293—Seminar in Condensed Matter Physics (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in condensed matter physics. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter
+
+PHY 294—Seminar in Cosmology (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in Cosmology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1999 Winter Quarter.
+
+PHY 295—Introduction to Departmental Research (1) Seminar—1 hour. Seminar to introduce first- and second-year physics graduate students to the fields of specialty and research of the Physics staff. (S/U grading only.) Effective: 1997 Winter
+
+PHY 297—Research on the Teaching and Learning of Physics (3) Seminar—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Discussion and analysis of recent research in how students construct understanding of physics and other science concepts and the implications of this research for instruction. Effective: 1997 Winter Quarter.
+
+PHY 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+PHY 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 371—Teaching in an Active-Engagement Physics Discussion/Lab Setting (1) Lecture/Discussion—1 hour. Prerequisite(s): PHY 009D; Or equivalent. Open to graduate students only. Analysis of recent research on science/physics teaching and learning and its implications for teaching labs, discussions, and discussion/labs with an emphasis on differences between conventional and active-engagement instructional settings. The appropriate role of the instructor in specific instructional settings. May be repeated up to 2 time(s). Effective: 2008 Summer Session 1.
+
+PHY 390—Methods of Teaching Physics (1) Lecture/Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing in Physics. Practical experience in methods and problems related to teaching physics laboratories at the university level, including discussion of teaching techniques, analysis of quizzes and laboratory reports and related topics. Required of all Physics Teaching Assistants. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 396—Teaching Assistant Training Practicum (1-4) Variable. Prerequisite(s): Graduate standing. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
+
+PHY 001A—Principles of Physics (3) Lecture—3 hours. Prerequisite(s): Trigonometry or consent of instructor. Mechanics. Introduction to general principles and analytical methods used in physics with emphasis on applications in applied agricultural and biological sciences and in physical education. Not open to students who have received credit for PHY 007B or PHY 009A. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 001B—Principles of Physics (3) Lecture—3 hours. Prerequisite(s): PHY 001A or PHY 009A Not open for credit to students who have received credit for course 7A, 7B, 7C, 9B, 9C, or 9D. Continuation of course 1A. Heat, optics, electricity, modern physics. Not open for credit to students who have received credit for course 7A, 7B, 7C, 9B, 9C, or 9D. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 007A—General Physics (4) Discussion/Laboratory—5 hours; Lecture—1.5 hours. Prerequisite(s): MAT 016B (can be concurrent) or MAT 017B (can be concurrent) or MAT 021B (can be concurrent); Completion or concurrent enrollment in MAT 016B or MAT 017B or MAT 021B. Introduction to general principles and analytical methods used in physics for students majoring in a biological science. Only two units of credit allowed to students who have completed PHY 001B or PHY 009B. GE credit: SE. Effective:
+
+PHY 007B—General Physics (4) Discussion/Laboratory—5 hours; Lecture—1.5 hours. Prerequisite(s): PHY 007A Continuation of course 7A. Only two units of credit allowed to students who have completed course 9A, or 1A. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 007C—General Physics (4) Discussion/Laboratory—5 hours; Lecture—1.5 hours. Prerequisite(s): PHY 007B Continuation of course 7B. Only two units of credit allowed to students who have completed course 9C or 5C. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 009A—Classical Physics (5) Review all entries Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): MAT 021B; MAT 021M Introduction to general principles and analytical methods used in physics for physical science and engineering majors. Classical mechanics. Only 2 units of credit for students who have completed 1A or 7B. Not open for credit to students who have completed course 9HA. GE credit: SE. Effective: 2018 Winter Quarter.
+
+PHY 009A—Classical Physics (5) Review all entries Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): MAT 021B or MAT 021M; or Consent of Instructor. Introduction to general principles and analytical methods used in physics for physical science and engineering majors. Classical mechanics. Only 2 units of credit for students who have completed PHY 001A or PHY 007B; not open for credit to students who have completed course PHY 009HA. GE credit: SE. Effective: 2018 Summer Session 1.
+
+PHY 009B—Classical Physics (5) Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): PHY 009A; MAT 021C; MAT 021D (can be concurrent) Continuation of course 9A. Fluid mechanics, thermodynamics, wave phenomena, optics. Only two units of credit for students who have completed PHY 007A; not open for credit to students who have completed PHY 009HB, PHY 009HC, or ENG 105. GE credit: SE. Effective: 2004 Fall Quarter.
+
+PHY 009C—Classical Physics (5) Discussion—1 hour; Laboratory—2.5 hours; Lecture—3 hours. Prerequisite(s): PHY 009B; MAT 021D; MAT 022A (can be concurrent) Electricity and magnetism including circuits and Maxwell's equations. Only 3 units of credit for students who have completed PHY 007C; not open for credit to students who have completed PHY 009HD. GE credit: SE. Effective: 2005 Winter Quarter.
+
+PHY 009D—Modern Physics (4) Discussion—1.5 hours; Lecture—3 hours. Prerequisite(s): PHY 009C; MAT 022A; MAT 022B recommended (may be taken concurrently). Not open for credit to students who have completed course 9HB, 9HC, or 9HE. Introduction to physics concepts developed since 1900. Special relativity, quantum mechanics, atoms, molecules, condensed matter, nuclear and particle physics. Not open for credit to students who have completed course 9HB, 9HC, or 9HE. GE credit: SE. Effective: 1999
+
+PHY 009HA—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): MAT 021B (can be concurrent); or Consent of Instructor. Classical mechanics. Same material as course 9A in greater depth. For students in physical sciences, mathematics, and engineering. Only 2 units of credit for students who have completed PHY 007B; not open for credit to students who have completed PHY 009A. GE credit: SE. Effective: 2003 Fall Quarter.
+
+PHY 009HB—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): (PHY 009HA or PHY 009A); MAT 021C (can be concurrent) Special relativity, thermal physics. Continuation of course 9HA. Only 2 units of credit for students who have completed PHY 007A; not open for credit to students who have completed PHY 009B or PHY 009D. GE credit: SE. Effective: 2004 Winter Quarter.
+
+PHY 009HC—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): PHY 009HB; MAT 021D (can be concurrent) Waves, sound, optics, quantum physics. Continuation of Physics 9HB. Only 2 units of credit for students who have completed PHY 007C; not open for credit to students who have completed PHY 009B or PHY 009D. GE credit: SE. Effective: 2004 Spring Quarter.
+
+PHY 009HD—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): PHY 009HC; MAT 021D Electricity and magnetism. Continuation of Physics 9HC. Not open for credit to students who have completed PHY 009C. GE credit: SE. Effective: 2003 Fall Quarter.
+
+PHY 009HE—Honors Physics (5) Discussion/Laboratory—4 hours; Lecture—3 hours. Prerequisite(s): PHY 009HD; MAT 022B (can be concurrent) Application of quantum mechanics. Not open for credit to students who have completed PHY 009D. GE credit: SE. Effective: 2004 Winter Quarter.
+
+PHY 010—Topics in Physics for Nonscientists (4) Discussion—1 hour; Lecture—3 hours. Prerequisite(s): High school algebra. Emphasis varies: survey of basic principles or a deeper exploration of some particular branch. Past topics included black holes, space time, and relativity; physics of music; history and philosophy; energy and the environment; and natural phenomena. No units of credit allowed if taken after any other PHY course. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 010C—Physics of California (3) Lecture—3 hours. Atmospheric phenomena common in CA, local weather patterns and microclimes. Applications to CA energy, water, and resource management policies. Physics underlying regional sports in CA. Not open for credit to students who have completed any quarter of PHY 009 or PHY 009H, or any upper division PHY course. GE credit: SE, SL, VL. Effective: 2014 Fall Quarter.
+
+PHY 010CY—Physics of California (3) Discussion—1.5 hours; Web Electronic Discussion—0.5 hours; Web Virtual Lecture—1 hour. Conceptual understanding of the physics underlying regional sports in CA. Focus on skiing, surfing, and scuba diving. Atmospheric phenomena common in CA, local weather patterns and microclimes, applications to CA energy, and water are also discussed. Not open for credit to students who have completed PHY 010C, any quarter of PHY 09A, PHY 009B, PHY 009C, PHY 009D, PHY 009HA, PHY 009HB, PHY 009HC, PHY 009HD, or PHY 009HE, or any upper division PHY course. GE credit: SE, SL, VL. Effective: 2017 Winter Quarter.
+
+PHY 012—Visualization in Science (3) Lecture—3 hours. Production, interpretation, and use of images in physics, astronomy, biology, and chemistry as scientific evidence and for communication of research results. GE credit: SE, SL, VL. Effective: 2017 Winter Quarter.
+
+PHY 030—Fractals, Chaos and Complexity (3) Lecture/Discussion—3 hours. Prerequisite(s): MAT 016A or MAT 021A Modern ideas about the unifying ideas of fractal geometry, chaos and complexity. Basic theory and applications with examples from physics, earth sciences, mathematics, population dynamics, ecology, history, economics, biology, computer science, art and architecture. (Geology 30.) GE credit: QL, SE. Effective: 2010 Winter Quarter.
+
+PHY 049—Supplementary Work in Lower Division Physics (1-3) Variable. Students with partial credit in lower division physics courses may, with consent of instructor, complete the credit under this heading. May be repeated for credit. May be repeated for credit. GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 080—Experimental Techniques (4) Laboratory—5 hours; Lecture—2 hours. Prerequisite(s): PHY 009D or PHY 009HD Open to Physics and Applied Physics majors only. Experimental techniques. Design of circuits. Data analysis, sources of noise, statistical and systematic uncertainties. Light sources, detection, and measurement in basic optical systems. Effective: 2017 Fall Quarter.
+
+PHY 090X—Lower Division Seminar (2) Seminar—2 hours. Prerequisite(s): Consent of Instructor. Lower division standing. Limited enrollment. Examination of a special topic in Physics through shared readings, discussions, written assignments, or special activities such as laboratory work. May be repeated for credit. GE credit: SE. Effective: 1998 Fall Quarter.
+
+PHY 098—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. Primary for lower division students. (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 099—Special Study for Undergraduates (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+PHY 102—Computational Laboratory in Physics (1) Laboratory—4 hours. Prerequisite(s): MAT 021D; ECS 030; (PHY 009D or PHY 009HD); PHY 104A (can be concurrent); MAT 22AB; PHY 104A required concurrently. Introduction to computational physics and to the computational resources in the physics department. Preparation for brief programming assignments required in other upper division physics classes. Not open to students who have completed PHY 104B or PHY 105AL. GE credit: SE. Effective: 2008 Summer Session 1.
+
+PHY 104A—Introductory Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): (PHY 009B C- or better, PHY 009C Cor better, PHY 009D C- or better); (MAT 021D C- or better, MAT 022A C- or better, MAT 022B C- or better); or Consent of Instructor. Introduction to the mathematics used in upper-division physics courses, including applications of vector spaces, Fourier analysis, partial differential equations. Effective: 2000 Fall Quarter.
+
+PHY 104B—Computational Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; PHY 105AL; or Consent of Instructor. Introduction to the use of computational techniques to solve the mathematical problems that arise in advanced physics courses, complementing the analytical approaches emphasized in course 104A. GE credit: SE. Effective: 2000 Fall Quarter.
+
+PHY 104C—Intermediate Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; or Consent of Instructor. Applications of complex analysis, conditional probability, integral transformations and other advanced topics. Effective: 2000 Fall Quarter.
+
+PHY 105A—Analytical Mechanics (4) Lecture—3 hours. Prerequisite(s): (PHY 009B C or better, PHY 009C C or better, PHY 009D C or better); (MAT 021D C or better, MAT 022A C or better, MAT 022B C or better); Or consent of department for any of the courses. Principles and applications of Newtonian mechanics; introduction to Lagrange’s and Hamilton’s equations GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 105B—Analytical Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 104A C or better; PHY 105A C or better; Or consent of department for any of the courses. Principles and applications of Newtonian mechanics; introduction to Lagrange’s and Hamilton’s equations GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 105C—Continuum Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; PHY 105A C- or better; or Consent of Instructor. The continuum hypothesis and limitations, tensors, isotropic constitutive equations, and wave propagation. Applications such as elastic solids,heat flow, aerodynamics, and ocean waves. GE credit: SE. Effective: 2006 Spring Quarter.
+
+PHY 108—Optics (3) Lecture—3 hours. Prerequisite(s): ((PHY 009A, PHY 009B, PHY 009C, PHY 009D) or (PHY 007A, PHY 007B, PHY 007C)); (MAT 021A, MAT 021B, MAT 021C, MAT 021D); or Consent of Instructor. The phenomena of diffraction, interference, and polarization of light, with applications to current problems in astrophysics, material science, and atmospheric science. Study of modern optical instrumentation. Open to non-majors. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 108L—Optics Laboratory (1) Laboratory—3 hours. Prerequisite(s): PHY 108 (can be concurrent); PHY 108 required concurrently. The laboratory will consist of one major project pursued throughout the quarter, based on modern applications of optical techniques. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 110A—Electricity and Magnetism (4) Lecture—3 hours. Prerequisite(s): PHY 009B C- or better; PHY 009C C- or better; PHY 009D C- or better; MAT 021D C- or better; MAT 022A C- or better; MAT 022B C- or better; PHY 104A; PHY 105A; Or consent of department. Theory of electrostatics, electromagnetism, Maxwell's equations, electromagnetic waves. GE credit: SE. Effective: 2018 Winter Quarter.
+
+PHY 110B—Electricity and Magnetism (4) Lecture—3 hours. Prerequisite(s): PHY 110A C- or better; PHY 104A C- or better; Or consent of department. Theory of electrostatics, electromagnetism, Maxwell's equations, electromagnetic waves. GE credit: SE. Effective: 2010 Winter Quarter.
+
+PHY 110C—Electricity and Magnetism (4) Lecture—3 hours. Prerequisite(s): PHY 110B C- or better; Or consent of department. Theory of electrostatics, electromagnetism, Maxwell's equations, electromagnetic waves. GE credit: SE. Effective: 2010 Winter Quarter.
+
+PHY 112—Thermodynamics and Statistical Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 115A; Or the equivalent. Introduction to classical and quantum statistical mechanics and their connections with thermodynamics. The theory is developed for the ideal gas model and simple magnetic models and then extended to studies of solids, quantum fluids, and chemical equilibria. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 115A—Foundation of Quantum Mechanics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A C- or better; PHY 105A Cor better; Or consent of department. Introduction to the methods of quantum mechanics with applications to atomic, molecular, solid state, nuclear and elementary particle physics. Extensive problem solving. GE credit: SE. Effective: 2007 Winter Quarter.
+
+PHY 115B—Applications of Quantum Mechanics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; Or consent of department. Angular momentum and spin; hydrogen atom and atomic spectra; perturbation theory; scattering theory. GE credit: SE. Effective: 1999 Fall Quarter.
+
+PHY 116A—Electronic Instrumentation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): PHY 009C; MAT 022B; or Consent of Instructor. Experimental and theoretical study of important analog electronic circuits. Linear circuits, transmission lines, input impedance, feedback, amplifiers, oscillators, noise. GE credit: SE, VL. Effective: 2008 Fall Quarter.
+
+PHY 116B—Electronic Instrumentation (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): PHY 009C or PHY 009HD; or Consent of Instructor. Continuation of course 116A. Introduction to the use of digital electronics and microcomputers in experimental physics. Nonlinear electronics, integrated circuits, analog-to-digital and digital-to-analog converters, transducers, actuators. GE credit: SE. Effective: 2008 Spring
+
+PHY 116C—Introduction to Computer-Based Experiments in Physics (4) Laboratory—3 hours; Lecture—3 hours. Prerequisite(s): (PHY 009D or PHY 009HD); PHY 116B; MAT 022B; or Consent of Instructor. Introduction to techniques for making physical measurements using computer-based instrumentation. GE credit: SE, WE. Effective: 2004 Spring Quarter.
+
+PHY 122A—Advanced Laboratory in Condensed Matter Physics (4) Laboratory—8 hours. Prerequisite(s): PHY 104A; PHY 105A; PHY 110B; PHY 115A; PHY 112 (can be concurrent); Or consent of the department. Registration by Permission to Add (PTA) number only; priority given to graduating PHY and APP majors. Experimental techniques and measurements in solid-state physics. Student performs three to six experiments depending on difficulty. Individual work is stressed. Thorough write-ups of the experiments are required. GE credit: SE, WE. Effective:
+
+PHY 122B—Advanced Laboratory in Particle Physics (4) Laboratory—8 hours. Prerequisite(s): PHY 104A; PHY 105A; PHY 110B; PHY 115A; PHY 112 (can be concurrent); Or consent of the department. Registration by Permission to Add (PTA) number only; priority given to graduating PHY and APP majors. Experimental techniques and measurements in nuclear and particle physics. Students perform three to six experiments depending on difficulty. Individual work is stressed. Thorough write-ups of the experiments are required. GE credit: SE, WE. Effective: 2018 Winter Quarter.
+
+PHY 123—Signals and Noise in Physics (4) Lecture—3 hours; Project (Term Project)—1 hour. Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 104A; or Consent of Instructor. Not open to students who have taken this course previously as course 198. Techniques of measurement and analysis designed to avoid systematic error and maximize signal/noise ratio. Illustrative examples of optimal filters ranging from condensed matter to cosmology. GE credit: SE. Effective: 2007 Winter Quarter.
+
+PHY 129A—Introduction to Nuclear Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Survey of basic nuclear properties and concepts requiring introductory knowledge of quantum mechanics: nuclear models and forces, radioactive decay and detecting nuclear radiation and nuclear reaction products, alpha, beta and gamma decay. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 129B—Nuclear Physics, Extensions and Applications (4) Lecture—3 hours; Term Paper. Prerequisite(s): PHY 129A Continuation of course 129A. Nuclear reactions, neutrons, fission, fusion accelerators, introduction to meson and particle physics, nuclear astrophysics, and applications of nuclear physics and techniques to mass spectrometry, nuclear medicine, trace element analysis. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 130A—Elementary Particle Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Properties and classification of elementary particles and their interactions. Experimental techniques. Conservation laws and symmetries. Strong, electromagnetic, and weak interactions. Introduction to Feynman calculus. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 130B—Elementary Particle Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Properties and classification of elementary particles and their interactions. Experimental techniques. Conservation laws and symmetries. Strong, electromagnetic, and weak interactions. Introduction to Feynman calculus. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 140A—Introduction to Solid State Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Or equivalent course passed with C- or better. Survey of fundamental ideas in the physics of solids, with selected device applications. Crystal structure, x-ray and neutron diffraction, phonons, simple metals, energy bands and Fermi surfaces, semiconductors, optical properties, magnetism, superconductivity. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 140B—Introduction to Solid State Physics (4) Lecture—3 hours. Prerequisite(s): PHY 115A C- or better; or Consent of Instructor. Or equivalent course passed with C- or better. Survey of fundamental ideas in the physics of solids, with selected device applications. Crystal structure, x-ray and neutron diffraction, phonons, simple metals, energy bands and Fermi surfaces, semiconductors, optical properties, magnetism, superconductivity. GE credit: SE. Effective: 2000 Winter Quarter.
+
+PHY 150—Special Topics in Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): (PHY 009A, PHY 009B, PHY 009C, PHY 009D) or (PHY 009HA, PHY 009HB, PHY 009HC, PHY 009HD, PHY 009HE); or Consent of Instructor. Topics vary, covering areas of contemporary research in physics. May be repeated for credit. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 151—Stellar Structure and Evolution (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; or Consent of Instructor. The chemical composition, structure, energy sources and evolutionary history of stars, with equal emphasis on both the observational data and theoretical models, including black holes, neutron stars and white dwarfs and the formation of substellar masses. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 152—Galactic Structure and the Interstellar Medium (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 105A (can be concurrent); or Consent of Instructor. PHY 105A required concurrently. The structure, contents, and formation of our Milky Way galaxy, viz. its shape and size, the nature of the interstellar medium, stellar populations, rotation curves, mass determination and evidence of dark matter. GE credit: SE. Effective: 2007 Spring Quarter.
+
+PHY 153—Extragalactic Astrophysics (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 104A; PHY 105A; or Consent of Instructor. Structure and evolution of galaxies and clusters of galaxies, including distance and mass determination, galaxy types and environments, active galactic nuclei and quasars, gravitational lensing and dark matter, global cosmological properties. Not open to students who have taken PHY 127. GE credit: SE. Effective: 2007 Winter
+
+PHY 154—Astrophysical Applications of Physics (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 105A; PHY 105B; PHY 110B (can be concurrent); PHY 115A (can be concurrent); PHY 112; PHY 112 or consent of instructor; PHY 110B and 115A required concurrently. Not open to students who have taken this course previously as course 198. Applications of classical and quantum mechanics, thermodynamics, statistical mechanics, and electricity and magnetism to astrophysical settings such as the Big Bang, degenerate white dwarf and neutron stars, and solar neutrinos. GE credit: SE. Effective: 2007
+
+PHY 155—General Relativity (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 104A; PHY 105A; PHY 105B; PHY 110A; PHY 105B and PHY 110A or consent of instructor. Definition of the mathematical frame work for the description of the gravitational field, introduction of the dynamical equations of Einstein governing its evolution and review of the key solutions, including black holes and expanding universes. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 156—Introduction to Cosmology (4) Lecture—3 hours; Project (Term Project). Prerequisite(s): PHY 009A; PHY 009B; PHY 009C; PHY 009D; PHY 105A (can be concurrent); or Consent of Instructor. PHY 105A required concurrently. Contemporary knowledge regarding the origin of the universe, including the Big Bang and nucleosynthesis, microwave background radiation, formation of cosmic structure, cosmic inflation, cosmic acceleration and dark energy. Not open to students who have completed PHY 126. GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 157—Astronomy Instrumentation and Data Analysis Laboratory (4) Laboratory—8 hours. Prerequisite(s): PHY 104A; PHY 105A; PHY 110A; PHY 115A (can be concurrent); PHY 110B (can be concurrent); and Consent of Instructor. Registration by Permission to Add (PTA) number only; priority given to graduating PHY astrophysics emphasis seniors. Experimental techniques, data acquisition and analysis involving laboratory astrophysics plus stellar, nebular and galaxy digital imaging, photometry and/or spectroscopy. Students perform three experiments. Individual work stressed. Minimum 10-15 page journal style articles of two experiments are required. GE credit: SE, WE. Effective: 2018 Winter Quarter.
+
+PHY 160—Environmental Physics and Society (3) Lecture—3 hours. Prerequisite(s): (PHY 009D or PHY 007C); (PHY 010 or PHY 001B); MAT 016B; Or the equivalent. Impact of humankind on the environment will be discussed from the point of view of the physical sciences. Calculations based on physical principles will be made, and the resulting policy implications will be considered. (Engineering 160.) GE credit: SE, SL. Effective:
+
+PHY 185—Alumni Seminar Series (1) Seminar—1 hour. Weekly guest speakers (usually a physics alumnus or alumna) tell students about their careers. Speakers use their experience to give students valuable perspectives on life after a degree in physics. May be repeated up to 2 time(s). (P/NP grading only.) GE credit: SE. Effective:
+
+PHY 190—Careers in Physics (1) Seminar—2 hours. Restricted to Physics and Applied Physics majors only. Overview of important research areas in physics, discussions of research opportunities and internships, strategies for graduate school and industrial careers, the fellowship and assistantship selection process, preparation of resumes, personal statements, and letters of recommendation. (P/NP grading only.) GE credit: SE. Effective: 2007 Fall Quarter.
+
+PHY 194HA—Special Study for Honors Students (4) Independent Study—12 hours. Prerequisite(s): Consent of Instructor. Open only to Physics and Applied Physics majors who satisfy the College of Letters and Science requirements for entrance into the Honors Program. Independent research project at a level significantly beyond that defined by the normal physics curriculum. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 194HB—Special Study for Honors Students (4) Independent Study—12 hours. Prerequisite(s): Consent of Instructor. Open only to Physics and Applied Physics majors who satisfy the College of Letters and Science requirements for entrance into the Honors Program. Independent research project at a level significantly beyond that defined by the normal physics curriculum. GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 195—Senior Thesis (5) Independent Study—15 hours. Prerequisite(s): Consent of Instructor. Open only to Physics and Applied Physics majors with senior standing. Preparation of a senior thesis on a topic selected by the student with approval of the department. May be repeated for a total of 15 units. May be repeated up to 15 unit(s). GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 197T—Tutoring in Physics and Astronomy (1-5) Tutorial. Tutoring of students in lower division courses. Leading of small voluntary discussion groups affiliated with one of the department's regular courses. Weekly meeting with instructor (P/NP grading only.) GE credit: SE. Effective: 2004 Spring Quarter.
+
+PHY 198—Directed Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (P/NP grading only.) GE credit: SE. Effective: 1997
+
+PHY 199—Special Study for Advanced Undergraduates (1-5) Variable. June 2012: GE2 Topical Breadth updated per Davis Division of the Academic Senate May 18th announcement of an administrative correction “To allow Topical Breadth designations of GE3 to apply to GE2.” (P/NP grading only.) GE credit: SE. Effective: 1997 Winter Quarter.
+
+PHY 200A—Theory of Mechanics and Electromagnetics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 204A (can be concurrent); PHY 104B; PHY 105B; PHY 110C; Or equivalent to PHY 110C; PHY 204A required concurrently. Theoretical approaches in classical mechanics including the use of generalized coordinates and virtual work; variational calculus; Lagrange equations; symmetries, conservation laws, and Noether theorem; Lagrangian density; Hamilton formalism; canonical transformations; Poisson brackets; and Hamilton-Jacobi equations. Effective: 1997 Winter Quarter.
+
+PHY 200B—Theory of Mechnics and Electromagnetics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 200A; PHY 204B (can be concurrent); PHY 204B concurrently. Theoretical approaches in electromagnetics including static electromagnetic fields; Maxwell's equations; plane waves in various media; magnetohydrodynamics; diffraction theory; radiating systems; and special relativity. Effective:
+
+PHY 200C—Theory of Mechanics and Electromagnetics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 200A; PHY 204B (can be concurrent); PHY 204B concurrently. Theoretical approaches in electromagnetics including static electromagnetic fields; Maxwell's equations; plane waves in various media; magnetohydrodynamics; diffraction theory; radiating systems; and special relativity. Effective:
+
+PHY 204A—Methods of Mathematical Physics (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 104A; Or the equivalent. Linear vector spaces, operators and their spectral analysis, complete sets of functions, complex variables, functional analysis, Greens functions, calculus of variations, introduction to numerical analysis. Effective: 2016 Spring Quarter.
+
+PHY 204B—Methods of Mathematical Physics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 104A; PHY 104B; Or the equivalent. Linear vector spaces, operators and their spectral analysis, complete sets of functions, complex variables, functional analysis, Green's functions, calculus of variations, introduction to numerical analysis. Effective: 1997 Winter Quarter.
+
+PHY 210—Computational Physics (3) Lecture—3 hours. Prerequisite(s): Knowledge of Fortran or C. Analytic techniques to solve differential equations and eignevalue problems. Physics content of course will be self-contained, and adjusted according to background of students. Effective: 1999 Spring Quarter.
+
+PHY 215A—Quantum Mechanics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 115B; Or the equivalent. Formal development and interpretation of non-relativistic quantum mechanics; its application to atomic, nuclear, molecular, and solid-state problems; brief introduction to relativistic quantum mechanics and the Dirac equation. Effective: 1997 Winter Quarter.
+
+PHY 215B—Quantum Mechanics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 115B; Or the equivalent. Formal development and interpretation of non-relativistic quantum mechanics; its application to atomic, nuclear, molecular, and solid-state problems; brief introduction to relativistic quantum mechanics and the Dirac equation. Effective: 1997 Winter Quarter.
+
+PHY 215C—Quantum Mechanics (4) Independent Study—1 hour; Lecture—3 hours. Prerequisite(s): PHY 115B; Or the equivalent. Formal development and interpretation of non-relativistic quantum mechanics; its application to atomic, nuclear, molecular, and solid-state problems; brief introduction to relativistic quantum mechanics and the Dirac equation. Effective: 1997 Winter Quarter.
+
+PHY 219A—Statistical Mechanics (4) Extensive Problem Solving—1 hour; Lecture—3 hours. Prerequisite(s): PHY 215B; Or equivalent. Foundations of thermodynamics and classical and quantum statistical mechanics with simple applications to properties of solids, real gases, nuclear matter, etc. and a brief introduction to phase transitions. Effective: 2002 Winter Quarter.
+
+PHY 219B—Statistical Mechanics (4) Extensive Problem Solving—1 hour; Lecture—3 hours. Prerequisite(s): PHY 219A Further applications of thermodynamics and classical and quantum statistical mechanics. The modern theory of fluctuations about the equilibrium state, phase transitions and critical phenomena. Effective: 2002 Winter Quarter.
+
+PHY 223A—Group Theoretical Methods of Physics-Condensed Matter (3) Lecture—3 hours. Prerequisite(s): PHY 215A; PHY 215B; PHY 215C (can be concurrent); or Consent of Instructor. PHY 215C required concurrently. Theory of groups and their representations with applications in condensed matter. Effective: 1997 Winter Quarter.
+
+PHY 223B—Group Theoretical Methods of Physics-Elementary Particles (3) Lecture—3 hours. Prerequisite(s): PHY 215A; PHY 215B; PHY 215C (can be concurrent); or Consent of Instructor. PHY 215C required concurrently. Theory of groups and their representations with applications in elementary particle physics. Effective: 1997 Winter Quarter.
+
+PHY 224A—Nuclear Physics (3) Lecture—3 hours. Prerequisite(s): PHY 215B Comprehensive study of the nucleon-nucleon interaction including the deuteron, nucleon-nucleon scattering, polarization, determination of real parameters of Smatrix, and related topics. Effective: 1997 Winter Quarter.
+
+PHY 224B—Nuclear Physics (3) Lecture—3 hours. Prerequisite(s): PHY 224A Study of nuclear models, including shell model, collective model, unified model. Energy level spectra, static momenta, and electromagnetic transition rates. Effective: 1997 Winter Quarter.
+
+PHY 224C—Nuclear Physics (3) Lecture—3 hours. Prerequisite(s): PHY 224B Study of nuclear scattering and reactions including the optical model and direct interactions. Beta decay and an introduction to weak interactions. Effective: 1997 Winter Quarter.
+
+PHY 229A—Advanced Nuclear Theory (3) Lecture—3 hours. Prerequisite(s): PHY 224C Advanced topics in nuclear theory; theory of quantum-mechanical scattering processes. Exact formal theory and models for two-body scattering. Effective: 1997 Winter Quarter.
+
+PHY 229B—Advanced Nuclear Theory (3) Lecture—3 hours. Prerequisite(s): PHY 229A Advanced topics in nuclear theory; theory of quantum-mechanical scattering processes. Exact formal theory and models for three-body scattering. Effective: 1997 Winter Quarter.
+
+PHY 230A—Quantum Theory of Fields (3) Lecture—3 hours. Prerequisite(s): PHY 215C Relativistic quantum mechanics of particles; techniques and applications of second quantization; Feynman diagrams; renormalization. Effective:
+
+PHY 230B—Quantum Theory of Fields (3) Lecture—3 hours. Prerequisite(s): PHY 230A Continuation of 230A, with selected advanced topics, such as S-matrix theory, dispersion relations, axiomatic formulations. Effective: 1997 Winter
+
+PHY 230C—Quantum Theory of Fields (3) Lecture—3 hours. Prerequisite(s): PHY 230A; PHY 230B; or Consent of Instructor. Renormalization theory and applications, including dimensional regularization, Ward identities, renormalization group equations, coupling constant unification, and precision electroweak calculations. May be repeated for credit with consent of instructor. Effective: 2007 Winter Quarter.
+
+PHY 240A— Condensed Matter Physics A (3) Lecture—3 hours. Prerequisite(s): PHY 215C; PHY 219A; PHY 140A and PHY 140B or equivalent recommended. Topics in condensed matter physics: Crystal structure; one-electron theory; transport and optical properties of semiconductors; phonons, electron-phonon scattering. Effective:
+
+PHY 240B—Condensed Matter Physics B (3) Lecture—3 hours. Prerequisite(s): PHY 240A Topics in condensed matter physics: transport and optical properties of metals and quantum structures; experimental measurement the Fermi surface and of phonon spectra. Effective: 2008 Spring Quarter.
+
+PHY 240C—Condensed Matter Physics (3) Lecture—3 hours. Prerequisite(s): PHY 240A; PHY 240B Review of second quantization. Interacting electron gas, electron-phonon interaction and effects, including instabilities of electronic systems. Topics in the theory of superconductivity and magnetism. Effective: 2005 Spring Quarter.
+
+PHY 241—Advanced Topics in Magnetism (3) Lecture—3 hours. Prerequisite(s): PHY 240A; PHY 240B; PHY 240C; PHY 240D; or Consent of Instructor. Topics chosen from areas of current research interest. Effective: 1997 Winter Quarter.
+
+PHY 242—Advanced Topics in Superconductivity (3) Lecture—3 hours. Prerequisite(s): PHY 240A; PHY 240B; PHY 240C; PHY 240D; or Consent of Instructor. Topics chosen from areas of current research interest. Effective: 1997 Winter Quarter.
+
+PHY 243A—Surface Physics of Materials (3) Lecture—3 hours. Prerequisite(s): PHY 140A; PHY 140B; PHY 115A; PHY 115B; Or the equivalent to any; PHY 215A, PHY 240A, or the equivalents recommended. Experimental and theoretical fundamentals of surface and interface physics and chemistry, including electronic and magnetic structure, thermodynamics, adsorption kinetics, epitaxial growth, and a discussion of various spectroscopic and structural probes based on photons, electrons, ions, and scanning probes. Effective: 1999 Winter Quarter.
+
+PHY 243B—Surface Physics of Materials (3) Lecture—3 hours. Prerequisite(s): PHY 140A; PHY 140B; PHY 115A; PHY 115B; Or the equivalent to any; PHY 215A, PHY 240A, or the equivalents recommended. Experimental and theoretical fundamentals of surface and interface physics and chemistry, including electronic and magnetic structure, thermodynamics, adsorption kinetics, epitaxial growth, and a discussion of various spectroscopic and structural probes based on photons, electrons, ions, and scanning probes. Effective: 1999 Winter Quarter.
+
+PHY 243C—Surface Physics of Materials (3) Lecture—3 hours. Prerequisite(s): PHY 140A; PHY 140B; PHY 115A; PHY 115B; Or the equivalent to any; PHY 215A, PHY 240A, or equivalents recommended. Experimental and theoretical fundamentals of surface and interface physics and chemistry, including electronic and magnetic structure, thermodynamics, adsorption kinetics, epitaxial growth, and a discussion of various spectroscopic and structural probes based on photons, electrons, ions, and scanning probes. Effective: 2000 Spring Quarter.
+
+PHY 245A—High-Energy Physics (3) Lecture—3 hours. Prerequisite(s): PHY 230A Phenomenology and systematics of strong, electromagnetic, and weak interactions of hadrons and leptons; determination of quantum numbers; quarks and quarkonia; deep inelastic scattering; the quark parton model; experiments at hadron colliders and electron-positron colliders. Effective: 1997 Winter Quarter.
+
+PHY 245B—High-Energy Physics (3) Lecture—3 hours. Prerequisite(s): PHY 245A Electroweak interactions; phenomenology of the Standard Model of SU(2)LxU(1); weak interaction experiments; properties of and experiments with W and Z vector bosons; Glashow-Weinberg-Salam model and the Higgs boson; introduction to supersymmetry and other speculations. Effective: 1997 Winter Quarter.
+
+PHY 245C—Collider Physics (3) Lecture—3 hours. Prerequisite(s): PHY 245A; PHY 252B (can be concurrent); or Consent of Instructor. PHY 252B taken previously or concurrently. Collider physics. Topics include quark and gluon distribution functions and the computation of cross sections; Large Hadron Collider and International Linear Collider phenomenology; collider and detector characteristics; extracting models from data; software tools for analyzing experimental data. May be repeated for credit with consent of instructor. Effective: 2008 Spring Quarter.
+
+PHY 246—Supersymmetry: Theory and Phenomenology (3) Lecture—3 hours. Prerequisite(s): PHY 230A, PHY 230B, PHY 245A, PHY 245B recommended, or consent of instructor. Construction of supersymmetric models of particle physics; superfields; supersymmetry breaking the minimal supersymmetric standard model; supergravity. Collider phenomenology of supersymmetry. Dark matter phenomenology. Effective: 1998 Spring Quarter.
+
+PHY 246A—Supersymmetry: Theory and Phenomenology (3) Lecture—3 hours. Prerequisite(s): PHY 230A; PHY 230B; PHY 245A, PHY 245B recommended or consent of instructor. Construction of supersymmetric models of particle physics; superfields; supersymmetry breaking the minimal supersymmetric standard model; supergravity. Collider phenomenology of supersymmetry. Dark matter phenomenology. Not offered every year. Effective:
+
+PHY 246B—Advanced Supersymmetry (3) Lecture—3 hours. Prerequisite(s): PHY 246A Advanced topics in supersymmetry. Topics include holomorphy, the Affleck-Dine-Seiberg superpotential, Seiberg duality for SUSY QCD, dynamical SUSY breaking, Seiberg-Witten theory, superconformal field theories, supergravity, anomaly and gaugino mediation, and the AdS/CFT correspondence. Effective: 2007 Fall Quarter.
+
+PHY 250—Special Topics in Physics (3) Lecture—3 hours. Prerequisite(s): Consent of Instructor. Topic varies. May be repeated for credit. Effective: 1997 Fall Quarter.
+
+PHY 252A—Techniques of Experimental Physics (3) Lecture—3 hours. Introduction to techniques and methods of designing and executing experiments. Problems and examples from condensed matter research will be utilized. Effective: 1997 Winter
+
+PHY 252B—Techniques of Experimental Physics (3) Lecture—3 hours. Introduction to techniques and methods of designing and executing experiments. Problems and examples from nuclear and particle research will be utilized. Effective: 1997 Winter
+
+PHY 252C—Statistics and Data Analysis for Particle Physics (3) Lecture—3 hours. Introduction to statistical data analysis methods in particle physics. Theoretical lectures combined with practical computer laboratory work. Effective: 2007 Spring Quarter.
+
+PHY 253—Signals and Noise in Physics (3) Lecture—3 hours. Techniques for extracting signals from noise, systematic error. Effective: 2007
+
+PHY 256A—Physics of Information (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): Consent of Instructor. Advanced undergraduate or introductory graduate differential equations, applied linear algebra, and probability theory; e.g., Mathematics 119A/B or 207A, 167 or 226A, and 135A/B or 235A, respectively; or in Physics 104A/C or 204A/B. Class size limited to 30 students. Nonlinear dynamics, deterministic chaos, bifurcations, pattern formation, symbolic dynamics, measurement theory, stochastic processes, elementary information theory, information in complex systems, computational laboratory. Effective: 2017 Spring Quarter.
+
+PHY 256B—Physics of Computation (4) Extensive Problem Solving; Lecture—3 hours. Prerequisite(s): PHY 256A; Consent of Instructor. Advanced undergraduate or introductory graduate differential equations, applied linear algebra, and probability theory; e.g., Mathematics 119A/B or 207A, 167 or 226A, and 135A/B or 235A, respectively; or in Physics 104A/C or 204A/B. Class size limited to 30 students. Structural complexity, computational mechanics, information measures, causal inference, applications to complex materials, quantum dynamics, and nonequilibrium thermodynamics, computational laboratory. Effective: 2017 Spring Quarter.
+
+PHY 260—Introduction to General Relativity (3) Lecture—3 hours. Prerequisite(s): PHY 200A; PHY 200B An introduction to general relativity. Differential geometry and curved spacetime; the Einstein field equations; gravitational fields of stars and black holes; weak fields and gravitational radiation; experimental tests; Big Bang cosmology. Effective: 1999 Spring Quarter.
+
+PHY 262—Early Universe Cosmology (3) Lecture—3 hours. Prerequisite(s): Second year standing in Physics Graduate Program or consent of instructor. Introduction to early universe cosmology: the Big Bang, inflation, primordial nucleosynthesis, dark matter, dark energy, and other topics of current interest Effective: 2005
+
+PHY 263—Cosmic Structure Formation (3) Lecture—3 hours. Prerequisite(s): PHY 260 Growth of structure from small density inhomogeneities in the early universe to the diverse structures observable today. Use of observable properties (cosmic microwave background, gravitational lensing, peculiar velocities, number density, etc.) to constrain models of structure formation and fundamental physics. Effective: 2005 Spring Quarter.
+
+PHY 265—High Energy Astrophysics and Radiative Processes (3) Lecture—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Survey course covering galactic and extragalactic X-ray and gamma-ray astronomy, radiative processes, and techniques of high-energy astrophysics. Effective: 2004 Fall Quarter.
+
+PHY 266—Data Analysis for Astrophysics (3) Lecture—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Survey course covering measurement and signal analysis techniques for astrophysics and cosmology throughout the electromagnetic spectrum. Effective: 2005 Winter Quarter.
+
+PHY 267—Observational Extragalactic Astronomy & Cosmology (3) Lecture—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Survey course covering current areas of research on extragalactic objects, their physical properties, origin, evolution, and distribution in space. Effective: 2005 Spring Quarter.
+
+PHY 270—Current Topics in Physics Research (3) Lecture/Discussion—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Reading and discussion to help physics graduate students develop and maintain familiarity with the current and past literature in their immediate field of research and related areas. May be repeated for credit. (S/U grading only.) Effective: 2013 Fall Quarter.
+
+PHY 285—Careers in Physics (1) Seminar—1.5 hours. Prerequisite(s): Graduate standing in Physics. Designed to give Physics graduate students an in-depth appreciation of career opportunities with a graduate degree in physics. Professional physicists, mainly from outside academia, will give seminars describing both research and career insights. May be repeated for credit. (S/U grading only.) Effective: 2005
+
+PHY 290—Seminar in Physics (1) Seminar. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in physics. Topics will vary weekly and will cover a broad spectrum of the active fields of physics research at a level accessible to all physics graduate students. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 291—Seminar in Nuclear Physics (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in nuclear physics. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 292A—Seminar in Elementary Particle Physics (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in elementary particle physics. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 2008 Fall
+
+PHY 292B—High Energy Frontier Initiative And Cosmology Theory Seminar (1) Seminar—1 hour. Prerequisite(s): Physics graduate students. May be repeated up to 5 time(s). (S/U grading only.) Effective: 2007 Fall Quarter.
+
+PHY 293—Seminar in Condensed Matter Physics (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in condensed matter physics. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter
+
+PHY 294—Seminar in Cosmology (1) Seminar—1 hour. Prerequisite(s): Graduate standing in Physics or consent of instructor. Presentation and discussion of topics of current research interest in Cosmology. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1999 Winter Quarter.
+
+PHY 295—Introduction to Departmental Research (1) Seminar—1 hour. Seminar to introduce first- and second-year physics graduate students to the fields of specialty and research of the Physics staff. (S/U grading only.) Effective: 1997 Winter
+
+PHY 297—Research on the Teaching and Learning of Physics (3) Seminar—3 hours. Prerequisite(s): Graduate standing in Physics or consent of instructor. Discussion and analysis of recent research in how students construct understanding of physics and other science concepts and the implications of this research for instruction. Effective: 1997 Winter Quarter.
+
+PHY 298—Group Study (1-5) Variable. Prerequisite(s): Consent of Instructor. (S/U grading only.) Effective: 1997 Winter
+
+PHY 299—Research (1-12) Variable. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 371—Teaching in an Active-Engagement Physics Discussion/Lab Setting (1) Lecture/Discussion—1 hour. Prerequisite(s): PHY 009D; Or equivalent. Open to graduate students only. Analysis of recent research on science/physics teaching and learning and its implications for teaching labs, discussions, and discussion/labs with an emphasis on differences between conventional and active-engagement instructional settings. The appropriate role of the instructor in specific instructional settings. May be repeated up to 2 time(s). Effective: 2008 Summer Session 1.
+
+PHY 390—Methods of Teaching Physics (1) Lecture/Discussion—1 hour. Prerequisite(s): Consent of Instructor. Graduate standing in Physics. Practical experience in methods and problems related to teaching physics laboratories at the university level, including discussion of teaching techniques, analysis of quizzes and laboratory reports and related topics. Required of all Physics Teaching Assistants. May be repeated for credit. May be repeated for credit. (S/U grading only.) Effective: 1997 Winter Quarter.
+
+PHY 396—Teaching Assistant Training Practicum (1-4) Variable. Prerequisite(s): Graduate standing. May be repeated for credit. (P/NP grading only.) Effective: 1997 Winter Quarter.
