@@ -1,7 +1,7 @@
 # The entire UC Davis catalog of classes organized into a data frame
-# by Nathan J. Chan
+# by Nathan Chan
 # https://www.nathanjchan.com/
-# njc@nathanjchan.com
+# nathanjchan2@gmail.com
 
 
 # puts the entire UC Davis catalog and puts it into a data frame for easy access
