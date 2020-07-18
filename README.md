@@ -1,6 +1,8 @@
 # UC Davis Catalog
 ## Intro
-Loads UC Davis class catalog into a data frame. User can use simple subset commands to find specific class that follow certain criteria.
+Loads UC Davis class catalog into a table
+- Can use simple subset commands to find classes that have certain criteria
 
 ## Purpose
-Demonstrates proficiency in string processing.
+Demonstrates
+- Proficiency in string processing
