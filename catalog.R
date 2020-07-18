@@ -1,20 +1,12 @@
-# The entire UC Davis catalog of classes organized into a data frame
-# by Nathan Chan
-# github.com/nathanjchan
-# nathanjchan2@gmail.com
-
-
-# puts the entire UC Davis catalog and puts it into a data frame for easy access
-# example: can subset the classes with certain GE credits
-
-
+# Libraries ----
 library(stringr)
 
 
+# Functions ----
 split_line = function(one_line) {
   # splits one line of string into a list of multiple strings
   code_rest = str_split(one_line, " ", 2) # separate code
-  number_rest = str_split(code_rest[[1]][2], "-", 2) # separate number
+  number_rest = str_split(code_rest[[1]][2], "-", 2) # separate number (make sure hyphen is the right type of hyphen)
   title_rest = str_split(number_rest[[1]][2], fixed("("), 2) # separate title
   units_rest = str_split(title_rest[[1]][2], fixed(")"), 2) # separate units
   time_rest = str_split(units_rest[[1]][2], fixed(". "), 2) # separate time
@@ -62,7 +54,9 @@ read_all_files = function(directory_name) {
 }
 
 
+# Demo ----
 catalog = read_all_files("catalog")
+
 
 # example subset: finding classes that fulfill both SS and ACGH general education requirements
 example = catalog[which(str_detect(catalog$GE, "SS") == TRUE & str_detect(catalog$GE, "ACGH")), ]
