@@ -1,6 +1,6 @@
 # UC Davis Catalog
 ## Intro
-Loads UC Davis class catalog into a table organized by class descriptive variables
+Loads UC Davis class catalog into table organized by descriptive variables
 - Can use simple subset commands to find classes that have certain criteria
 
 ## Purpose
