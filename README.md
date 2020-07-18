@@ -6,3 +6,6 @@ Loads UC Davis class catalog into table organized by descriptive variables
 ## Purpose
 Demonstrates
 - Proficiency in string processing
+
+## Demo
+<img src="https://www.nathanjchan.com/images/ucd-catalog.png" alt="ucd-catalog"/>
