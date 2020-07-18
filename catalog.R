@@ -56,6 +56,7 @@ read_all_files = function(directory_name) {
 
 # Demo ----
 catalog = read_all_files("catalog")
+write.csv(catalog, "catalog.csv")
 
 
 # example subset: finding classes that fulfill both SS and ACGH general education requirements
